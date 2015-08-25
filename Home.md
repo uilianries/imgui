@@ -1,6 +1,6 @@
 Welcome to the imgui wiki!
 
-![](/web/code_sample_01.png)
+![](https://raw.githubusercontent.com/wiki/ocornut/imgui/web/code_sample_01.png)
 
 
 ## Useful Snippets
