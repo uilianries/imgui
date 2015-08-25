@@ -5,6 +5,6 @@ Welcome to the imgui wiki!
 
 ## Useful Snippets
 
-[Node Graph](../node_graph_example)
+[Node Graph](node_graph_example)
 
-[Memory Editor](../memory_editor_example)
+[Memory Editor](memory_editor_example)
