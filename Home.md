@@ -1,6 +1,6 @@
 Welcome to the imgui wiki!
 
-![](../web/code_sample_01.png)
+![](/web/code_sample_01.png)
 
 
 ## Useful Snippets
