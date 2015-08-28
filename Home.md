@@ -8,3 +8,5 @@ Welcome to the imgui wiki!
 [Node Graph](node_graph_example)
 
 [Memory Editor](memory_editor_example)
+
+[Screenshot tool](screenshot_tool)
