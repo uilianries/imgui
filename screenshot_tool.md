@@ -2,6 +2,8 @@
 
 Simple tool to help creating screenshot of ImGui windows (requires OpenGL + stb_image_write.h)
 
+![Screenshot tool](https://cloud.githubusercontent.com/assets/8225057/9546820/d0934d32-4d8d-11e5-8b3e-a8b852361bcb.PNG)
+
 ### Source
 
 ```
