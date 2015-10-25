@@ -10,8 +10,8 @@ ImGui::Begin("IP entry", false, ImGuiWindowFlags_NoResize | ImGuiWindowFlags_NoM
 int octets[4] = {123, 123, 123, 123};
 
 float width = ImGui::CalcItemWidth();
-ImGui::BeginGroup();
 ImGui::PushID("IP");
+ImGui::AlignFirstTextHeightToWidgets();
 ImGui::TextUnformatted("IP");
 ImGui::SameLine();
 for (int i = 0; i < 4; i++) {
@@ -39,7 +39,6 @@ for (int i = 0; i < 4; i++) {
 	ImGui::PopItemWidth();
 }
 ImGui::PopID();
-ImGui::EndGroup();
 
 // Example action button and way to build the IP string
 ImGui::SameLine();
