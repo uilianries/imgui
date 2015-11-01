@@ -34,11 +34,15 @@ cocos2d-x-3.8.1 with imgui
 SFML backend for ImGui
 <br>https://github.com/Mischa-Alff/imgui-backends
 
+FlexImGUI: Version of ImGui for use with Flexium
+<br>https://github.com/DXsmiley/FlexGUI
+
+NanoRT. Raytraced version (!), no GPU (and OpenGL) required. It works on CPU only machine.
+<br>https://github.com/syoyo/imgui/tree/nanort/examples/raytrace_example
+
 Irrlicht Binding for ImGui
 <br>https://github.com/ZahlGraf/IrrIMGUI
 
-FlexImGUI: Version of ImGui for use with Flexium
-<br>https://github.com/DXsmiley/FlexGUI
 ### Misc
 
 Remote ImGui
