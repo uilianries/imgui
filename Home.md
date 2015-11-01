@@ -4,7 +4,7 @@ Welcome to the imgui wiki!
 
 ## Links
 
-[Links](links)
+[Links](Links)
 
 ## Useful Snippets
 
