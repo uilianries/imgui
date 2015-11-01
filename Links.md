@@ -1,5 +1,7 @@
 ### Language bindings
 
+_NB: those bindings may be more or less maintened, more or less close to the spirit of original API. ImGui was designed for C++ and some of the subtleties may be lost in translation with other languages. In doubt, always check the original C++ version first._
+
 cimgui: thin c-api wrapper for ImGui
 <br>https://github.com/Extrawurst/cimgui
 
@@ -12,6 +14,9 @@ imgui-rs: Rust bindings for ImGui
 DerelictImgui: Dynamic bindings to the cimgui library for the D programming language
 <br>https://github.com/Extrawurst/DerelictImgui
 
+CyImGui: Python bindings for ImGui using Cython.
+<br>https://github.com/chromy/cyimgui
+
 ### Framework/engine bindings
 
 ImGui block for Cinder
@@ -19,9 +24,6 @@ ImGui block for Cinder
 
 imgui example in openFrameworks
 <br>https://github.com/jvcleave/ofxImGui
-
-Irrlicht Binding for ImGui
-<br>https://github.com/ZahlGraf/IrrIMGUI
 
 fips-imgui: fipsified imgui for fips build system
 <br>https://github.com/fungos/fips-imgui
@@ -31,6 +33,9 @@ cocos2d-x-3.8.1 with imgui
 
 SFML backend for ImGui
 <br>https://github.com/Mischa-Alff/imgui-backends
+
+Irrlicht Binding for ImGui
+<br>https://github.com/ZahlGraf/IrrIMGUI
 
 FlexImGUI: Version of ImGui for use with Flexium
 <br>https://github.com/DXsmiley/FlexGUI
