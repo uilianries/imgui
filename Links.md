@@ -19,6 +19,21 @@ CyImGui: Python bindings for ImGui using Cython.
 
 ### Framework/engine bindings
 
+Main ImGui repository include examples for DirectX9, DirectX11, OpenGL2/3, Allegro 5, SDL+GL2, iOS and Marmalade.
+<br>https://github.com/ocornut/imgui/tree/master/examples
+
+Unmerged PR: DirectX12
+<br>https://github.com/ocornut/imgui/pull/301
+
+Unmerged PR: SDL2 + OpenGLES + Emscripten
+<br>https://github.com/ocornut/imgui/pull/336
+
+Unmerged PR: SDL2 + GL3
+<br>https://github.com/ocornut/imgui/pull/356
+
+Unmerged PR: Native Win32 and OSX samples
+<br>https://github.com/ocornut/imgui/pull/281
+
 ImGui block for Cinder
 <br>https://github.com/simongeilfus/Cinder-ImGui
 
