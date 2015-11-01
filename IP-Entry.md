@@ -1,5 +1,6 @@
 # IP Entry box
-Displays an entry box to allow the user to enter each octet of an IP address
+by @adam4813
+<br>Displays an entry box to allow the user to enter each octet of an IP address
 
 A way to use the entered address is provided by means of a connect button and an IP string builder.
 
