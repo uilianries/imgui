@@ -17,6 +17,9 @@ DerelictImgui: Dynamic bindings to the cimgui library for the D programming lang
 CyImGui: Python bindings for ImGui using Cython.
 <br>https://github.com/chromy/cyimgui
 
+imgui bindings for lua
+<br>https://github.com/patrickriordan/imgui_lua_bindings
+
 ### Framework/engine bindings
 
 Main ImGui repository include examples for DirectX9, DirectX11, OpenGL2/3, Allegro 5, SDL+GL2, iOS and Marmalade.
