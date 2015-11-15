@@ -4,7 +4,7 @@ Welcome to the imgui wiki!
 
 ## Links
 
-[Tips](Trick and Tips)
+[Tips](Tips)
 
 [Links](Links)
 
