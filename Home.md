@@ -10,6 +10,8 @@ Welcome to the imgui wiki!
 
 ## Useful Snippets
 
+[Log Window][log_window_example)
+
 [Node Graph](node_graph_example)
 
 [Memory Editor](memory_editor_example)
