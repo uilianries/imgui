@@ -4,6 +4,8 @@ Welcome to the imgui wiki!
 
 ## Links
 
+[Tips](Trick and Tips)
+
 [Links](Links)
 
 ## Useful Snippets
