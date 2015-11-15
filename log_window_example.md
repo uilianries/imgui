@@ -1,4 +1,5 @@
 **Log Window**
+<br>https://github.com/ocornut/imgui/issues/300
 
 I have added a simple Log example in imgui_demo.cpp
 
