@@ -14,6 +14,8 @@ ImGui::SetScrollFromPosY(ImGui::GetCursorStartPos().y + (goto_addr / Rows) * lin
 ImGui::End();
 ```
 
+----
+
 **Tip: use Stride for easily plotting a field in array of structures**<br>
 https://github.com/ocornut/imgui/issues/271
 
@@ -29,6 +31,8 @@ ImGui::PlotLines("LeftToeBase y", &all_sampled_joints[skel.getBoneIndex("LeftToe
 ```
 
 ![footsteps](https://cloud.githubusercontent.com/assets/8225057/8634511/66076f8e-27b8-11e5-9964-202bf4305802.PNG)
+
+----
 
 **Tip: use c++11 lambas with Combo/ListBox/Plot functions**
 
