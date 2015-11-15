@@ -1,6 +1,6 @@
 Welcome to the imgui wiki!
 
-**In construction, this is pretty much empty now**
+**2015/11: this wiki is pretty much a small dumping ground at the moment.**
 
 ## Links
 
