@@ -10,7 +10,7 @@ Welcome to the imgui wiki!
 
 ## Useful Snippets
 
-[Log Window][log_window_example)
+[Log Window](log_window_example)
 
 [Node Graph](node_graph_example)
 
