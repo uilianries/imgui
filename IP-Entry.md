@@ -1,6 +1,7 @@
 # IP Entry box
 by @adam4813
 <br>Displays an entry box to allow the user to enter each octet of an IP address
+<br>https://github.com/ocornut/imgui/issues/388
 
 A way to use the entered address is provided by means of a connect button and an IP string builder.
 
