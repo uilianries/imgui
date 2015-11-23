@@ -1,6 +1,6 @@
 ### Language bindings
 
-_NB: those bindings may be more or less maintened, more or less close to the spirit of original API. ImGui was designed for C++ and some of the subtleties may be lost in translation with other languages. In doubt, always check the original C++ version first._
+_NB: those bindings may be more or less maintained, more or less close to the spirit of original API. People who create language bindings often haven't used the C++ API themselves. ImGui was designed for C++ and some of the subtleties may be lost in translation with other languages. If your language supports it, I would suggest replicating the function overloading and default parameters used in C++ else the API may be harder to use. In doubt, always check the original C++ version first._
 
 cimgui: thin c-api wrapper for ImGui
 <br>https://github.com/Extrawurst/cimgui
@@ -22,7 +22,7 @@ imgui bindings for lua
 
 ### Framework/engine bindings
 
-Main ImGui repository include examples for DirectX9, DirectX11, OpenGL2/3, Allegro 5, SDL+GL2, iOS and Marmalade.
+Main ImGui repository include examples for DirectX9, DirectX11, OpenGL2/3, Allegro 5, SDL+GL2/3, iOS and Marmalade.
 <br>https://github.com/ocornut/imgui/tree/master/examples
 
 Unmerged PR: DirectX12
@@ -30,9 +30,6 @@ Unmerged PR: DirectX12
 
 Unmerged PR: SDL2 + OpenGLES + Emscripten
 <br>https://github.com/ocornut/imgui/pull/336
-
-Unmerged PR: SDL2 + GL3
-<br>https://github.com/ocornut/imgui/pull/356
 
 Unmerged PR: Native Win32 and OSX samples
 <br>https://github.com/ocornut/imgui/pull/281
@@ -46,7 +43,7 @@ imgui example in openFrameworks
 fips-imgui: fipsified imgui for fips build system
 <br>https://github.com/fungos/fips-imgui
 
-cocos2d-x-3.8.1 with imgui
+cocos2d-x with imgui
 <br>https://github.com/c0i/imguix
 
 SFML backend for ImGui
