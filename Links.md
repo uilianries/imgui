@@ -20,6 +20,9 @@ CyImGui: Python bindings for ImGui using Cython.
 imgui bindings for lua
 <br>https://github.com/patrickriordan/imgui_lua_bindings
 
+imgui-chaiscript: ChaiScript bindings for ImGui
+<br>https://github.com/JuJuBoSc/imgui-chaiscript
+
 ### Framework/engine bindings
 
 Main ImGui repository include examples for DirectX9, DirectX11, OpenGL2/3, Allegro 5, SDL+GL2/3, iOS and Marmalade.
