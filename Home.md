@@ -4,9 +4,9 @@ Welcome to the imgui wiki!
 
 ## Links
 
-[Tips](Tips)
+[Links](Language Bindings, Framework Bindings, etc.)
 
-[Links](Links)
+[Tips](Tips)
 
 ## Useful Snippets
 
