@@ -4,7 +4,7 @@ Welcome to the imgui wiki!
 
 ## Links
 
-[Links](Language Bindings, Framework Bindings, etc.)
+[Language Bindings, Framework Bindings, etc.](Links)
 
 [Tips](Tips)
 
