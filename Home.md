@@ -17,3 +17,5 @@ Welcome to the imgui wiki!
 [Memory Editor](memory_editor_example)
 
 [Screenshot tool](screenshot_tool)
+
+[Plot Var](plot_var_example)
