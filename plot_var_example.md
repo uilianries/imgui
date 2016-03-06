@@ -6,7 +6,7 @@ Usage
 ImGui::PlotVar("Speed", MyCharacter.Speed);
 ```
 
-
+![capture](https://cloud.githubusercontent.com/assets/8225057/13555359/e73f840c-e3be-11e5-8362-2b390e496513.PNG)
 
 .h
 ```
