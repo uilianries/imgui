@@ -37,6 +37,12 @@ Unmerged PR: SDL2 + OpenGLES + Emscripten example
 Unmerged PR: Native Win32 and OSX example
 <br>https://github.com/ocornut/imgui/pull/281
 
+Unmerged PR: Vulkan Example
+<br>https://github.com/ocornut/imgui/pull/549
+
+Unmerged PR: Android Example
+<br>https://github.com/ocornut/imgui/pull/421
+
 ImGui block for Cinder
 <br>https://github.com/simongeilfus/Cinder-ImGui
 
@@ -48,6 +54,7 @@ fips-imgui: fipsified imgui for fips build system
 
 cocos2d-x with imgui
 <br>https://github.com/c0i/imguix
+<br>https://github.com/ocornut/imgui/issues/551
 
 SFML backend for ImGui
 <br>https://github.com/Mischa-Alff/imgui-backends
