@@ -58,6 +58,7 @@ cocos2d-x with imgui
 
 SFML backend for ImGui
 <br>https://github.com/Mischa-Alff/imgui-backends
+<br>https://github.com/EliasD/imgui-sfml
 
 FlexImGUI: Version of ImGui for use with Flexium
 <br>https://github.com/DXsmiley/FlexGUI
