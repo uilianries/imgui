@@ -5,7 +5,7 @@ I have added a simple Log example in imgui_demo.cpp
 
 The way you use it is:
 
-```
+```cpp
 static ExampleAppLog my_log;
 [...]
 my_log.AddLog("Hello %d world\n", 123);
@@ -15,9 +15,11 @@ my_log.Draw("title");
 
 ![log](https://cloud.githubusercontent.com/assets/8225057/9267166/82a2bd38-4207-11e5-8ba5-935d80f99c84.png)
 
-Code
+### Code
+
 This version filters all log entry every frame (no caching / saving of search results)
-```
+
+```cpp
 struct ExampleAppLog
 {
     ImGuiTextBuffer     Buf;
@@ -82,7 +84,8 @@ struct ExampleAppLog
 ```
 
 Same without filter
-```
+
+```cpp
 struct ExampleAppLog
 {
     ImGuiTextBuffer     Buf;
@@ -121,8 +124,9 @@ struct ExampleAppLog
 };
 ```
 
-Minimal version with no option, no filter:
-```
+Minimal version with no option, no filter.
+
+```cpp
 struct ExampleAppLog
 {
     ImGuiTextBuffer     Buf;
