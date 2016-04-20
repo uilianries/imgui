@@ -272,8 +272,10 @@ void renderer(ImDrawData* draw_data)
 
 #### TODO
 
-Here are some ideas for how to shorten this example substantially.
+Here are some ideas for how to improve and shorten this article.
 
+- Reduce requirements, such as C++11
+- Increase compatibility, such as including a cl.exe build script.
 - Remove lines that aren't absolutely critical
 - Remove `renderer()` - Seems unnecessary and better included with ImGui?
 - Remove need to manually upload texture to GPU in `setup()`, can/should be included in ImGui?
