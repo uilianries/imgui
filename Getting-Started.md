@@ -3,7 +3,7 @@ This article will guide you through getting up and running with as many assumpti
 **You will learn**
 
 - How to open a window using GLFW
-- How to render an ImGui window into GLFW window
+- How to render an ImGui window into the GLFW window
 - How to render text into the ImGui window
 
 **You are**
