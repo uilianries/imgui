@@ -3,7 +3,8 @@
 ![Node Graph](https://cloud.githubusercontent.com/assets/8225057/9472357/c0263c04-4b4c-11e5-9fdf-2cd4f33f6582.gif)
 
 ### Source
-```
+
+```cpp
 // NB: You can use math functions/operators on ImVec2 if you #define IMGUI_DEFINE_MATH_OPERATORS and       #include "imgui_internal.h"
 // Here we only declare simple +/- operators so others don't leak into the demo code.
 static inline ImVec2 operator+(const ImVec2& lhs, const ImVec2& rhs)            { return ImVec2(lhs.x+rhs.x, lhs.y+rhs.y); }
