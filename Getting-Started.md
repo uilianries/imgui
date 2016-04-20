@@ -1,6 +1,12 @@
 This article will guide you through getting up and running with as many assumptions about your system as possible.
 
-You are:
+**You will learn**
+
+- How to open a window using GLFW
+- How to render an ImGui window into GLFW window
+- How to render text into the ImGui window
+
+**You are**
 
 - On Linux
 - Using C++11
@@ -274,6 +280,7 @@ void renderer(ImDrawData* draw_data)
 
 Here are some ideas for how to improve and shorten this article.
 
+- Add screenshot of result
 - Reduce requirements, such as C++11
 - Increase compatibility, such as including a cl.exe build script.
 - Remove lines that aren't absolutely critical
