@@ -2,6 +2,7 @@ This article will guide you through getting up and running with as many assumpti
 
 **You will learn**
 
+- How this project is organised
 - How to open a window using GLFW
 - How to render an ImGui window into the GLFW window
 - How to render text into the ImGui window
@@ -18,6 +19,24 @@ This article will guide you through getting up and running with as many assumpti
 <br>
 <br>
 
+### Organisation
+
+| File               | Description
+|:-------------------|:-------------------
+| `examples/`        | Some examples for various backends and windowing libraries
+| `extra_fonts/`     | Optional assets (that should really be contained in its own repository :)
+| `imconfig.h`       | Template for *mandatory* configuration file (should really be optional :)
+| `imgui.cpp`        | The main source
+| `imgui.h`          | The main header
+| `imgui_demo.cpp`   | An example (that should really be located in in `examples/` :)
+| `imgui_draw.cpp`   | A mandatory source file (that should really be merged with `imgui.cpp` :)
+| `imgui_internal.h` | Internal details, without guarantee of backward compatibility
+| `stb_*`            | External library
+
+<br>
+<br>
+<br>
+
 ### Layout
 
 This is the layout of your code.
@@ -28,11 +47,19 @@ This is the layout of your code.
 | myproject/          |
 |   build/            | Output goes here
 |   include/          | Any include files you may eventually have
+|   ext/              | External projects
+|     glfw/           |
+|     imgui/          |
 |   src/              |
 |     main.cpp        | Your single source file
 |   build.sh          | Your build script
 ```
 
+```bash
+$ cd myproject/ext
+$ git clone https://github.com/ocornut/imgui.git
+$ git clone https://github.com/glfw/glfw.git
+```
 <br>
 <br>
 <br>
