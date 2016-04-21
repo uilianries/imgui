@@ -1,5 +1,7 @@
 This article will guide you through getting up and running with as many assumptions about your system as possible.
 
+![image](https://cloud.githubusercontent.com/assets/2152766/14699172/7591cd04-078d-11e6-83ca-7f95977dd4e8.png)
+
 **You will learn**
 
 - How this project is organised
