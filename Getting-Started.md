@@ -21,17 +21,25 @@ This article will guide you through getting up and running with as many assumpti
 
 ### Organisation
 
+```
 | File               | Description
-|:-------------------|:-------------------
-| `examples/`        | Some examples for various backends and windowing libraries
-| `extra_fonts/`     | Optional assets (that should really be contained in its own repository :)
-| `imconfig.h`       | Template for *mandatory* configuration file (should really be optional :)
-| `imgui.cpp`        | The main source
-| `imgui.h`          | The main header
-| `imgui_demo.cpp`   | An example (that should really be located in in `examples/` :)
-| `imgui_draw.cpp`   | A mandatory source file (that should really be merged with `imgui.cpp` :)
-| `imgui_internal.h` | Internal details, without guarantee of backward compatibility
-| `stb_*`            | External library
+|--------------------|--------------------
+| imgui/             |
+|   examples/        | Some examples for various backends and windowing libraries
+|   extra_fonts/     | Optional assets*
+|   imconfig.h       | Template for mandatory configuration file**
+|   imgui.cpp        | 
+|   imgui.h          | 
+|   imgui_demo.cpp   | An example***
+|   imgui_draw.cpp   | A mandatory source file****
+|   imgui_internal.h | Internal details, without guarantee of backward compatibility
+|   stb_*            | External library
+
+* That should really be contained in its own repository :)
+** That should really be optional :)
+*** That should really be located in in `examples/` :)
+**** That should really be merged with `imgui.cpp` :)
+```
 
 <br>
 <br>
