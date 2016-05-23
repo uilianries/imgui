@@ -79,3 +79,6 @@ ImWindow: Window and GUI system, include docking/floating window, multi window a
 
 imgui_wm: based on ImWindow above
 <br>https://github.com/bkaradzic/bgfx/tree/master/3rdparty/ocornut-imgui
+
+Attempt at rewriting for Java
+<br>https://github.com/jovr/imgui
