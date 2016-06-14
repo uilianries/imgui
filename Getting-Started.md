@@ -1,4 +1,4 @@
-This article will guide you through getting up and running with as many assumptions about your system as possible.
+This article will guide you through getting up and running using GLFW with as many assumptions about your system as possible. ImGui is completely hardware/library agnostic and runs on everything, you only need to feed it with inputs and render textured triangles as output. As such, GLFW is merely used a convenient example because it is simple to use and popular.
 
 ![image](https://cloud.githubusercontent.com/assets/2152766/14699172/7591cd04-078d-11e6-83ca-7f95977dd4e8.png)
 
@@ -28,19 +28,14 @@ This article will guide you through getting up and running with as many assumpti
 |--------------------|--------------------
 | imgui/             |
 |   examples/        | Some examples for various backends and windowing libraries
-|   extra_fonts/     | Optional assets*
-|   imconfig.h       | Template for mandatory configuration file**
+|   extra_fonts/     | Optional assets
+|   imconfig.h       | Configuration file
 |   imgui.cpp        | 
 |   imgui.h          | 
-|   imgui_demo.cpp   | An example***
-|   imgui_draw.cpp   | A mandatory source file****
+|   imgui_demo.cpp   | Demonstration code, useful to keep around, run and learn about imgui
+|   imgui_draw.cpp   | 
 |   imgui_internal.h | Internal details, without guarantee of backward compatibility
 |   stb_*            | External library
-
-* That should really be contained in its own repository :)
-** That should really be optional :)
-*** That should really be located in in `examples/` :)
-**** That should really be merged with `imgui.cpp` :)
 ```
 
 <br>
