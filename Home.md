@@ -11,7 +11,6 @@ Ideas and codes
 - [[Log Window|log_window_example]]
 - IP Entry Box (by @adam4813) https://github.com/ocornut/imgui/issues/388
 - [[Memory Editor|memory_editor_example]]
-- [[Node Graph|node_graph_example]]
-- [[Plot|plot_var_example]]
+- [[Plot var helper|plot_var_example]]
 - [[Screenshot Tool|screenshot_tool]]
 
