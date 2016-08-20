@@ -11,7 +11,9 @@ Ideas and codes
 - Log Window https://github.com/ocornut/imgui/issues/300
 - IP Entry Box (by @adam4813) https://github.com/ocornut/imgui/issues/388
 - Pie menu test https://github.com/ocornut/imgui/issues/434
-- Color pickers https://github.com/ocornut/imgui/issues/346 & branch: https://github.com/ocornut/imgui/tree/2016-02-colorpicker
+- Color pickers https://github.com/ocornut/imgui/issues/346
+- Color picker branch: https://github.com/ocornut/imgui/tree/2016-02-colorpicker
+- Gamepad/keyboard navigation branch: https://github.com/ocornut/imgui/tree/2016-07-navigation
 - [[Memory Editor|memory_editor_example]]
 - [[Plot var helper|plot_var_example]]
 - [[Screenshot Tool|screenshot_tool]]
