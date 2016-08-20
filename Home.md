@@ -16,6 +16,7 @@ Ideas and codes
 - Gamepad/keyboard navigation branch: https://github.com/ocornut/imgui/tree/2016-07-navigation
 - Splitters https://github.com/ocornut/imgui/issues/319
 - Tabs https://github.com/ocornut/imgui/issues/261
+- Docking https://github.com/ocornut/imgui/issues/351
 - [[Memory Editor|memory_editor_example]]
 - [[Plot var helper|plot_var_example]]
 - [[Screenshot Tool|screenshot_tool]]
