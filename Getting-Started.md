@@ -1,3 +1,6 @@
+\* **This page is a proposal that has been given up on** \*
+\* Please refer to imgui.cpp and regular examples/ for up to date instructions \*
+
 This article will guide you through getting up and running using GLFW with as many assumptions about your system as possible. ImGui is completely hardware/library agnostic and runs on everything, you only need to feed it with inputs and render textured triangles as output. As such, GLFW is merely used a convenient example because it is simple to use and popular.
 
 ![image](https://cloud.githubusercontent.com/assets/2152766/14699172/7591cd04-078d-11e6-83ca-7f95977dd4e8.png)
