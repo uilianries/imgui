@@ -8,7 +8,7 @@ Ideas and codes
 
 - Bezier widget (by @r-lyeh) https://github.com/ocornut/imgui/issues/786
 - Node graph editors https://github.com/ocornut/imgui/issues/306
-- [[Log Window|log_window_example]]
+- Log Window https://github.com/ocornut/imgui/issues/300
 - IP Entry Box (by @adam4813) https://github.com/ocornut/imgui/issues/388
 - [[Memory Editor|memory_editor_example]]
 - [[Plot var helper|plot_var_example]]
