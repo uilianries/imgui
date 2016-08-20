@@ -5,3 +5,7 @@ See table of contents to the right for details.
 
 Bezier widget
 https://github.com/ocornut/imgui/issues/786
+
+Node graph editor
+https://github.com/ocornut/imgui/issues/306
+
