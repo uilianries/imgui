@@ -25,7 +25,7 @@ imgui-chaiscript: ChaiScript bindings for ImGui
 
 ### Framework/engine bindings
 
-Main ImGui repository include examples for DirectX9, DirectX10, DirectX11, OpenGL2/3, Allegro 5, SDL+GL2/3, iOS and Marmalade.
+Main ImGui repository include examples for DirectX9, DirectX10, DirectX11, OpenGL2/3, Vulkan, Allegro 5, SDL+GL2/3, iOS and Marmalade.
 <br>https://github.com/ocornut/imgui/tree/master/examples
 
 Unmerged PR: DirectX12 example (with issues)
@@ -36,9 +36,6 @@ Unmerged PR: SDL2 + OpenGLES + Emscripten example
 
 Unmerged PR: Native Win32 and OSX example
 <br>https://github.com/ocornut/imgui/pull/281
-
-Unmerged PR: Vulkan Example
-<br>https://github.com/ocornut/imgui/pull/549
 
 Unmerged PR: Android Example
 <br>https://github.com/ocornut/imgui/pull/421
