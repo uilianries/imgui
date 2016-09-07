@@ -49,6 +49,9 @@ ImGui block for Cinder
 imgui example in openFrameworks
 <br>https://github.com/jvcleave/ofxImGui
 
+Ogre binding for ImGui
+<br>https://bitbucket.org/LMCrashy/ogreimgui/src
+
 fips-imgui: fipsified imgui for fips build system
 <br>https://github.com/fungos/fips-imgui
 
