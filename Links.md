@@ -82,3 +82,11 @@ imgui_wm: based on ImWindow above
 
 Attempt at rewriting for Java
 <br>https://github.com/jovr/imgui
+
+### Articles
+
+OpenGLやDirectXなGUIにimguiが最強すぎる (Japanese)
+<br>http://qiita.com/Ushio@github/items/446d78c881334919e156
+
+Using ImGui with modern C++ and STL [...] Part 2. Some tips and tricks.
+<br>https://eliasdaler.github.io/using-imgui-with-sfml-pt2
