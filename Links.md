@@ -40,14 +40,27 @@ Unmerged PR: Native Win32 and OSX example
 Unmerged PR: Android Example
 <br>https://github.com/ocornut/imgui/pull/421
 
-ImGui block for Cinder
+Cinder backend for dear imgui
 <br>https://github.com/simongeilfus/Cinder-ImGui
 
-imgui example in openFrameworks
+Flexium/SFML backend for dear imgui (FlexGUI)
+<br>https://github.com/DXsmiley/FlexGUI
+
+Irrlicht backend for dear imgui (IrrIMGUI)
+<br>https://github.com/ZahlGraf/IrrIMGUI
+
+LÖVE backend for dear imgui
+https://github.com/slages/love-imgui
+
+Ogre backend for dear imgui
+<br>https://bitbucket.org/LMCrashy/ogreimgui/src
+
+openFrameworks backend for dear imgui (ofxImGui)
 <br>https://github.com/jvcleave/ofxImGui
 
-Ogre binding for ImGui
-<br>https://bitbucket.org/LMCrashy/ogreimgui/src
+SFML backend for dear imgui
+<br>https://github.com/EliasD/imgui-sfml
+<br>https://github.com/Mischa-Alff/imgui-backends
 
 fips-imgui: fipsified imgui for fips build system
 <br>https://github.com/fungos/fips-imgui
@@ -56,18 +69,8 @@ cocos2d-x with imgui
 <br>https://github.com/c0i/imguix
 <br>https://github.com/ocornut/imgui/issues/551
 
-SFML backend for ImGui
-<br>https://github.com/EliasD/imgui-sfml
-<br>https://github.com/Mischa-Alff/imgui-backends
-
-FlexImGUI: Version of ImGui for use with Flexium
-<br>https://github.com/DXsmiley/FlexGUI
-
 NanoRT. Raytraced version (!), no GPU (and OpenGL) required. It works on CPU only machine.
 <br>https://github.com/syoyo/imgui/tree/nanort/examples/raytrace_example
-
-Irrlicht Binding for ImGui
-<br>https://github.com/ZahlGraf/IrrIMGUI
 
 ### Misc
 
@@ -82,6 +85,9 @@ imgui_wm: based on ImWindow above
 
 Attempt at rewriting for Java
 <br>https://github.com/jovr/imgui
+
+Docking
+<br>https://github.com/ocornut/imgui/issues/351
 
 ### Articles
 
