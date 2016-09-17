@@ -50,7 +50,7 @@ Irrlicht backend for dear imgui (IrrIMGUI)
 <br>https://github.com/ZahlGraf/IrrIMGUI
 
 LÖVE backend for dear imgui
-https://github.com/slages/love-imgui
+<br>https://github.com/slages/love-imgui
 
 Ogre backend for dear imgui
 <br>https://bitbucket.org/LMCrashy/ogreimgui/src
