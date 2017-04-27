@@ -12,7 +12,7 @@ Aside from those tasks, there are hundreds of worthy smaller tasks, so dev is li
 - Remote: Provide an officially maintained, ready to use remote imgui solution (probably, based on https://github.com/JordiRos/remoteimgui).
 - Testing, Doc: Introduce a testing/documentation framework. Reduce regression, make it easier for anyone to contribute, reduce dependencies on me (ocornut).
 - Layout: various layout helpers/improvements (alignment, layout variations for common widgets).
-- Improve Combo, ListBox to allow variety of inputs (e.g. sparse/loose lists).
+- Improve Combo, ListBox to allow variety of inputs (e.g. sparse/loose lists). Make it more natural to create own widgets of that sort with higher guarantee of forward compatibility.
 - Plot/graph: overlay multiple graphs, various helpers and type of graphs, grids, panning/zooming, combine low-level elements to create complex graphs, etc.
 - Internals: Improve internals toward making custom widget/code more stable, improve forward compatibility.
 - Styling: Improve styling support, better default styles (toward being good enough so that people don't need to care/worry about styling. Not aiming at making imgui end-user ui for games look & feel, but good enough for tools).
