@@ -1,3 +1,5 @@
+(last updated apr 2017)
+
 Not a dated roadmap yet, mostly a list of some of the big upcoming tasks.
 Aside from those tasks, there are hundreds of worthy smaller tasks, so dev is likely to be 50% new features 50% improving/fixing existing features.
 
@@ -19,8 +21,7 @@ The Dragon's Trap https://cloud.githubusercontent.com/assets/8225057/20628927/33
 FishEngine https://raw.githubusercontent.com/yushroom/FishEngine/master/Snapshot/20161129.png
 Overgrowth https://cloud.githubusercontent.com/assets/1066954/22568057/24c1dcc4-e947-11e6-8c97-870d8e70a380.jpg
 
-
-(last updated apr 2017)
+Feature List
 
 - Navigation: finish and merge in the nav branch (gamepad control support, toward keyboard control support)
 - ColorPicker: finish and merge in Color picker. Make it provide for user to provide their own.
