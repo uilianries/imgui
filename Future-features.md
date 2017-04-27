@@ -7,8 +7,9 @@ While experienced users have been achieving many of those things one form or ano
 
 I _feel_ there is a sort of urgency. If those features are not standardized, more people will fork and implement their own solution and it will be hard for them to come back to master. 
 
-Screenshots:
-LumixEngine https://cloud.githubusercontent.com/assets/153526/17481789/18b71916-5d7f-11e6-9726-9e17dec1f3b4.png
+## Screenshots
+
+[[https://cloud.githubusercontent.com/assets/153526/17481789/18b71916-5d7f-11e6-9726-9e17dec1f3b4.png | LumixEngine]]
 An Animation editor https://cloud.githubusercontent.com/assets/814772/17825130/ee09ace8-661a-11e6-80b5-c315fa4eaaa6.png
 A Sprite editor https://cloud.githubusercontent.com/assets/16607879/25135067/8d2c8864-2451-11e7-904e-e525e2736417.png
 Graph based noise tool https://cloud.githubusercontent.com/assets/577713/24189405/175f3a86-0ee5-11e7-8302-768de7fc2a16.png
@@ -21,7 +22,7 @@ The Dragon's Trap https://cloud.githubusercontent.com/assets/8225057/20628927/33
 FishEngine https://raw.githubusercontent.com/yushroom/FishEngine/master/Snapshot/20161129.png
 Overgrowth https://cloud.githubusercontent.com/assets/1066954/22568057/24c1dcc4-e947-11e6-8c97-870d8e70a380.jpg
 
-Feature List
+## Feature List
 
 - Navigation: finish and merge in the nav branch (gamepad control support, toward keyboard control support)
 - ColorPicker: finish and merge in Color picker. Make it provide for user to provide their own.
