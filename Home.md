@@ -3,6 +3,7 @@ This wiki is in construction, doesn't have much contents and is a total mess. En
 
 - [[Links, Language bindings, Engine bindings|Links]]
 - [[Tips]]
+- [[Future features / Roadmap|Future-Features]]
 
 Ideas and codes
 
