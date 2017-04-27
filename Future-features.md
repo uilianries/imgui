@@ -5,7 +5,7 @@ Aside from those tasks, there are hundreds of worthy smaller tasks, so dev is li
 
 Experienced users have been achieving many of those things themselves in one form or another (sometimes using custom extensions / fork). I would like those features to be standard, natural first-class citizens of the Dear ImGui ecosystem.
 
-I _think_ there is a sort of urgency. If those features are not standardized, more people will fork and implement their own solution and it will be hard for them to come back to master. It's been happening already. It's not the end of the world, but the value of Dear ImGui is that it decently solves problems that everyone have. It's be preferably if those solutions where shared.
+I _think_ there is a sort of urgency. If those features are not standardized, more people will fork and implement their own solution and it will be hard for them to come back to master. It's been happening already. It's not the end of the world, but the value of Dear ImGui is that it decently solves problems that everyone have. It'd be preferable if those solutions were shared.
 
 I have just shipped [my game](http://www.TheDragonsTrap.com) this month, and working on Steam version now. After that I would be free and I would like to take this timing opportunity to gather funds and focus on Dear ImGui for a while. If your company uses it, there is maybe something you can do to contribute and make it happens. You can e-mail me: omarcornut (gmail).
 
