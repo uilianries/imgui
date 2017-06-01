@@ -26,6 +26,9 @@ imgui bindings for lua
 imgui-chaiscript: ChaiScript bindings for ImGui
 <br>https://github.com/JuJuBoSc/imgui-chaiscript
 
+imgui-pas: pascal bindings for imgui
+<br>https://github.com/dpethes/imgui-pas
+
 ### Framework/engine bindings
 
 Main ImGui repository include examples for DirectX9, DirectX10, DirectX11, OpenGL2/3, Vulkan, Allegro 5, SDL+GL2/3, iOS and Marmalade.
