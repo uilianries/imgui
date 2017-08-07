@@ -74,6 +74,9 @@ SFML backend for dear imgui
 <br>https://github.com/EliasD/imgui-sfml
 <br>https://github.com/Mischa-Alff/imgui-backends
 
+sokol sample
+<br>https://github.com/floooh/sokol-samples/blob/master/glfw/imgui-glfw.cc
+
 fips-imgui: fipsified imgui for fips build system
 <br>https://github.com/fungos/fips-imgui
 
@@ -81,7 +84,7 @@ cocos2d-x with imgui
 <br>https://github.com/c0i/imguix
 <br>https://github.com/ocornut/imgui/issues/551
 
-NanoRT. Raytraced version (!), no GPU (and OpenGL) required. It works on CPU only machine.
+NanoRT. Raytraced version, no GPU/OpenGL required. Renders on CPU only machine.
 <br>https://github.com/syoyo/imgui/tree/nanort/examples/raytrace_example
 
 ### Misc
