@@ -16,7 +16,7 @@ Ideas and codes
 - Splitters https://github.com/ocornut/imgui/issues/319
 - Tabs https://github.com/ocornut/imgui/issues/261
 - Docking https://github.com/ocornut/imgui/issues/351
-- Color pickers https://github.com/ocornut/imgui/issues/346 (now finished and merged)
+- Color pickers https://github.com/ocornut/imgui/issues/346 (now merged into master)
 - [[Memory Editor|memory_editor_example]]
 - [[Plot var helper|plot_var_example]]
 - [[Screenshot Tool|screenshot_tool]]
