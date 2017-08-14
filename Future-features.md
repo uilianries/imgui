@@ -27,7 +27,6 @@ We have just shipped [our game](http://www.TheDragonsTrap.com) this month, finis
 ## Feature List
 
 - Navigation: finish and merge in the nav branch (gamepad control support, toward keyboard control support)
-- ColorPicker: finish and merge in Color picker. Make it provide for user to provide their own.
 - Tabs: re-ordering, custom menus, order access/saving.
 - Columns: header, re-ordering, sizing policy, settings access/saving, sorting, recurse. Basically fix the broken columns.
 - Docking: investigate the various existing solutions, provide an officially maintained extension.
