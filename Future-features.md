@@ -1,5 +1,3 @@
-(last updated apr 2017)
-
 Not a dated roadmap yet, mostly a list of some of the big upcoming tasks.
 Aside from those tasks, there are hundreds of worthy smaller tasks, so dev is likely to be 50% new features 50% improving/fixing existing features.
 
