@@ -5,6 +5,11 @@ This wiki is in construction, doesn't have much contents and is a total mess. En
 - [[Tips]]
 - [[Future features / Roadmap|Future-Features]]
 
+imgui_club https://github.com/ocornut/imgui_club
+
+- Memory Editor 
+- Freetype font atlas renderer
+
 Ideas and codes
 
 - Bezier widget (by @r-lyeh) https://github.com/ocornut/imgui/issues/786
@@ -17,7 +22,6 @@ Ideas and codes
 - Tabs https://github.com/ocornut/imgui/issues/261
 - Docking https://github.com/ocornut/imgui/issues/351
 - Color pickers https://github.com/ocornut/imgui/issues/346 (now merged into master)
-- [[Memory Editor|memory_editor_example]]
 - [[Plot var helper|plot_var_example]]
 - [[Screenshot Tool|screenshot_tool]]
 
