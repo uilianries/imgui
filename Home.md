@@ -7,8 +7,8 @@ This wiki is in construction, doesn't have much contents and is a total mess. En
 
 imgui_club https://github.com/ocornut/imgui_club
 
-- Memory Editor https://github.com/ocornut/imgui_club/tree/master/imgui_freetype
-- Freetype font atlas renderer https://github.com/ocornut/imgui_club/tree/master/imgui_memory_editor
+- Memory Editor: [imgui_club/imgui_memory_editor/](https://github.com/ocornut/imgui_club/tree/master/imgui_memory_editor)
+- Freetype font atlas renderer: [imgui_club/imgui_freetype/](https://github.com/ocornut/imgui_club/tree/master/imgui_freetype)
 
 Ideas and codes
 
