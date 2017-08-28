@@ -2,32 +2,40 @@
 
 _NB: those bindings may be more or less maintained, more or less close to the spirit of original API. People who create language bindings sometimes haven't used the C++ API themselves. ImGui was designed for C++ and some of the subtleties may be lost in translation with other languages. If your language supports it, I would suggest replicating the function overloading and default parameters used in the original, else the API may be harder to use. In doubt, always check the original C++ version first!_
 
-cimgui: thin c-api wrapper for ImGui
+C - cimgui: thin c-api wrapper for ImGui
 <br>https://github.com/Extrawurst/cimgui
 
-ImGui.NET: An ImGui wrapper for .NET Core
+C#/.Net - ImGui.NET: An ImGui wrapper for .NET Core
 <br>https://github.com/mellinoe/ImGui.NET
 
-imgui-rs: Rust bindings for ImGui
-<br>https://github.com/Gekkio/imgui-rs
-
-DerelictImgui: Dynamic bindings to the cimgui library for the D programming language
+D - DerelictImgui: Dynamic bindings to the cimgui library for the D programming language
 <br>https://github.com/Extrawurst/DerelictImgui
 
-CyImGui: Python bindings for ImGui using Cython.
+Go - Go bindings for the dear imgui immediate mode GUI library 
+<br>https://github.com/Armored-Dragon/go-imgui
+
+Python - CyImGui: Python bindings for ImGui using Cython.
 <br>https://github.com/chromy/cyimgui
 
-pyimgui: another Python bindings under development
+Python - pyimgui: another Python bindings under development
 <br>https://github.com/swistakm/pyimgui
 
-imgui bindings for lua
+Rust - imgui-rs: Rust bindings for ImGui
+<br>https://github.com/Gekkio/imgui-rs
+
+Lua - imgui bindings for lua
 <br>https://github.com/patrickriordan/imgui_lua_bindings
 
-imgui-chaiscript: ChaiScript bindings for ImGui
+ChaiScript - imgui-chaiscript: ChaiScript bindings for ImGui
 <br>https://github.com/JuJuBoSc/imgui-chaiscript
 
-imgui-pas: pascal bindings for imgui
+Pascal - imgui-pas: pascal bindings for imgui
 <br>https://github.com/dpethes/imgui-pas
+
+### Full port/rewrites
+
+Java - JVM port, written in Kotlin, 100% Java compatible
+<br>https://github.com/kotlin-graphics/imgui
 
 ### Framework/engine bindings
 
@@ -89,7 +97,7 @@ NanoRT. Raytraced version, no GPU/OpenGL required. Renders on CPU only machine.
 
 ### Misc
 
-Remote ImGui
+Remote ImGui: send vertices over the network
 <br>https://github.com/JordiRos/remoteimgui
 
 ImWindow: Window and GUI system, include docking/floating window, multi window and multi render support
@@ -100,11 +108,6 @@ imgui_wm: based on ImWindow above
 
 Docking
 <br>https://github.com/ocornut/imgui/issues/351
-
-### Full port
-
-JVM port, written in Kotlin, 100% Java compatible
-<br>https://github.com/kotlin-graphics/imgui
 
 ### Articles
 
