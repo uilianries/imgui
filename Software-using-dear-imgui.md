@@ -10,6 +10,8 @@ Large game studios, who are the most likely to make good use of the library, are
 | Game | Boundless | [homepage](http://playboundless.com) |
 | Game | Brigador | [steam](http://store.steampowered.com/app/274500/Brigador_UpArmored_Edition) |
 | Game | Chrono-Drive | [tool video](https://www.youtube.com/watch?v=gFbh4wxZ6DE&feature=youtu.be&t=2m3s) |
+| Misc | Cinder-Experiments | [github](https://github.com/simongeilfus/Cinder-Experiments)
+| App | CortexRecognition | [homepage](http://www.recognitionrobotics.com) / [tool shots](https://github.com/ocornut/imgui/issues/123#issuecomment-114941904)
 | Game | Dreams | [homepage](http://dreams.mediamolecule.com) |
 | Game | Dual Universe | [homepage](https://www.dualthegame.com) / [video](https://www.youtube.com/watch?v=WTvT4BAg7RI) |
 | App | Electric Eye | [video](https://www.youtube.com/watch?v=uEQ3be0ss2A)
@@ -25,6 +27,7 @@ Large game studios, who are the most likely to make good use of the library, are
 | Game | Monster Boy | [homepage](http://www.monsterboy.com) |
 | Engine | Lumix Engine | [github](https://github.com/nem0/LumixEngine) |
 | Game | Lumote | [homepage](http://www.luminawesome.com) / [tool shot](https://github.com/ocornut/imgui/issues/539#issuecomment-199952613) |
+| App | LuxCode GUI | [tool shots](https://github.com/ocornut/imgui/issues/123#issuecomment-163197372)
 | App | Oculus Medium | [homepage](https://www.oculus.com/medium/) |
 | App | OdinVR | [homepage](http://odenvr.com) | 
 | Game | Overgrowth | [homepage](http://www.wolfire.com/overgrowth) / [tool shots](https://github.com/ocornut/imgui/issues/973#issuecomment-277081512) |
@@ -32,6 +35,7 @@ Large game studios, who are the most likely to make good use of the library, are
 | Engine | PhyreEngine | [homepage](http://rdwest.playstation.com/research-technology/phyreengine) |
 | Game | Re:creation | [blog](https://eliasdaler.github.io/) |
 | Game | Seaquence | [homepage](http://okaynokay.xyz/seaquence) |
+| App | Splash | [homepage](https://github.com/paperManu/splash/wiki)
 | Game | Tearaway | [homepage](http://tearaway.mediamolecule.com/) |
 | Game | Tearaway Unfolded | [homepage](http://tearaway.mediamolecule.com/) |
 | Engine | Thorium 3D | |
