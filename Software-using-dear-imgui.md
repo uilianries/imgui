@@ -12,6 +12,9 @@ Large game studios, who are the most likely to make good use of the library, are
 | Game | Chrono-Drive | | [(tool video)](https://www.youtube.com/watch?v=gFbh4wxZ6DE&feature=youtu.be&t=2m3s) |
 | Game | Dreams | http://dreams.mediamolecule.com | |
 | Game | Dual Universe | https://www.dualthegame.com/ | [(video)](https://www.youtube.com/watch?v=WTvT4BAg7RI) |
+| App | Electric Eye | | [(video)](https://www.youtube.com/watch?v=uEQ3be0ss2A)
+| App | Geogram | http://homepages.loria.fr/BLevy/GEOGRAM/ |
+| App | gpuvis | https://github.com/mikesart/gpuvis | |
 | Game | Graceful Explosion Machine | http://store.steampowered.com/app/575450/Graceful_Explosion_Machine/ | |
 | Game | Fisherboy | |
 | Game | Fugl | http://fuglgame.com/ | |
@@ -21,13 +24,17 @@ Large game studios, who are the most likely to make good use of the library, are
 | Game | Monster Boy | http://www.monsterboy.com | |
 | Engine | Lumix Engine | https://github.com/nem0/LumixEngine/ | |
 | Game | Lumote | http://www.luminawesome.com/ | [(tool shot)](https://github.com/ocornut/imgui/issues/539#issuecomment-199952613) |
-| Game | Oculus Medium | |
+| App | Oculus Medium | |
+| App | OdinVR | http://odenvr.com/ | | 
 | Game | Overgrowth | http://www.wolfire.com/overgrowth | [(tool shots)](https://github.com/ocornut/imgui/issues/973#issuecomment-277081512) |
+| App | OpenBoardView | http://openboardview.org/
 | Engine | PhyreEngine | |
 | Game | Re:creation | |
 | Game | Seaquence | |
 | Game | Tearaway | |
 | Game | Tearaway Unfolded | |
+| Engine | Thorium 3D | |
 | Game | TT Isle of Man: Ride of the Edge | |
+| App | virtualkc | http://floooh.github.io/virtualkc/ |
 | Game | WiLD | http://www.wildsheepstudio.com/ |
 | Game | Wonder Boy: The Dragon's Trap | http://www.TheDragonsTrap.com |
