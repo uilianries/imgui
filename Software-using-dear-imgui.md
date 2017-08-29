@@ -9,6 +9,8 @@ Large game studios, who are the most likely to make good use of the library, are
 | Game | Below | [homepage](http://www.whatliesbelow.com) |
 | Game | Boundless | [homepage](http://playboundless.com) |
 | Game | Brigador | [steam](http://store.steampowered.com/app/274500/Brigador_UpArmored_Edition) |
+| App | Cacu Studio | [video](https://v.qq.com/x/page/i0181kqlx02.html) |
+| App | ccfinder | [tool shot](https://github.com/ocornut/imgui/issues/539#issuecomment-211326923)
 | Game | Chrono-Drive | [tool video](https://www.youtube.com/watch?v=gFbh4wxZ6DE&feature=youtu.be&t=2m3s) |
 | Misc | Cinder-Experiments | [github](https://github.com/simongeilfus/Cinder-Experiments)
 | App | CortexRecognition | [homepage](http://www.recognitionrobotics.com) / [tool shots](https://github.com/ocornut/imgui/issues/123#issuecomment-114941904)
@@ -23,8 +25,11 @@ Large game studios, who are the most likely to make good use of the library, are
 | App | Graphic Depictions | [github](https://github.com/blackhole89/graphicdepictions) | 
 | App | Goxel | [homepage](https://guillaumechereau.github.io/goxel) | 
 | Engine | Harfang 3d | [homepage](https://www.harfang3d.com) |
+| Engine | Kit Framework | [tool shot](https://github.com/ocornut/imgui/issues/539#issuecomment-226131049)
+| App | MAME | [homepage](http://mamedev.org/) [alternate debugger](https://github.com/ocornut/imgui/issues/539#issuecomment-211326923)
 | Game | Moonman | [kickstarter](https://www.kickstarter.com/projects/eigenbom/moonman) / [dev blog](http://discuss.moonman.io/t/june-12-2016/1478) |
 | Game | Monster Boy | [homepage](http://www.monsterboy.com) |
+| App | ledSynthMaster | [github](https://github.com/olekristensen/ledSynthMaster)
 | Engine | Lumix Engine | [github](https://github.com/nem0/LumixEngine) |
 | Game | Lumote | [homepage](http://www.luminawesome.com) / [tool shot](https://github.com/ocornut/imgui/issues/539#issuecomment-199952613) |
 | App | LuxCode GUI | [tool shots](https://github.com/ocornut/imgui/issues/123#issuecomment-163197372)
@@ -35,12 +40,13 @@ Large game studios, who are the most likely to make good use of the library, are
 | Engine | PhyreEngine | [homepage](http://rdwest.playstation.com/research-technology/phyreengine) |
 | Game | Re:creation | [blog](https://eliasdaler.github.io/) |
 | Game | Seaquence | [homepage](http://okaynokay.xyz/seaquence) |
-| App | Splash | [homepage](https://github.com/paperManu/splash/wiki)
+| App | Splash | [homepage](https://github.com/paperManu/splash/wiki) / [tool shot](https://github.com/ocornut/imgui/issues/539#issuecomment-192671061)
 | Game | Tearaway | [homepage](http://tearaway.mediamolecule.com/) |
-| Game | Tearaway Unfolded | [homepage](http://tearaway.mediamolecule.com/) |
+| Game | Tearaway Unfolded | [homepage](http://tearaway.mediamolecule.com/) / [tool shots](https://github.com/ocornut/imgui/issues/539#issuecomment-193710713) |
 | Engine | Thorium 3D | |
 | Game | TT Isle of Man: Ride of the Edge | [tool shots](https://github.com/ocornut/imgui/issues/1269#issuecomment-322049726) |
 | App | virtualkc | [homepage](http://floooh.github.io/virtualkc) |
-| Game | WiLD | [homepage](http://www.wildsheepstudio.com) |
+| App | Visual Designer 3D | [video](https://www.youtube.com/watch?v=211NzYhNSFQ)
+| Game | WiLD | [homepage](http://www.wildsheepstudio.com) / [tool shots](https://github.com/ocornut/imgui/issues/539#issuecomment-193720307) |
 | Game | Wonder Boy: The Dragon's Trap | [homepage](http://www.TheDragonsTrap.com) |
 | Engine | XT | [github](https://github.com/invghost/XT) |
