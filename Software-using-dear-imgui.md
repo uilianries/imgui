@@ -1,6 +1,8 @@
-This list is incomplete. Help us complete it!
+Help us complete this list!
 
-Large game studios, who are the most likely to make good use of the library, are also traditionally the least likely to share shots or footage of their internal tools. If you work on a project using dear imgui, please consider sharing tool footage in the [gallery thread](https://github.com/ocornut/imgui/issues/1269), or at least sharing the fact that you are using the library. I am aware of a dozen large studios (not on this list) using the library that I cannot list because of NDA (hopefully they will eventually be ok with sharing info).
+- Large game studios, where people are the most likely to make good use of the library, are also traditionally the least likely to share shots or footage of their internal tools. If you work on a project using dear imgui, please consider sharing tool footage in the [gallery thread](https://github.com/ocornut/imgui/issues/1269), or at least sharing the fact that you are using the library. I known of a dozen large studios (not on this list) using the library that I cannot list as I am under NDA (hopefully they will eventually be ok with sharing info).
+
+- The library is used by also lots of smaller homebrew, research or throwaway projects that are difficult to track. 
 
 | Type | Title | Links |
 | ---- | ----- | ----- |
