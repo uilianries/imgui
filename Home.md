@@ -3,6 +3,7 @@ This wiki is in construction, doesn't have much contents and is a total mess. En
 
 - [[Links, Language bindings, Engine bindings|Links]]
 - [[Tips]]
+- [[Software using dear imgui|Software-using-dear-imgui]]
 - [[Future features / Roadmap|Future-Features]]
 
 imgui_club https://github.com/ocornut/imgui_club
