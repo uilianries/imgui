@@ -12,7 +12,7 @@ Large game studios, who are the most likely to make good use of the library, are
 | Game | Brigador | [steam](http://store.steampowered.com/app/274500/Brigador_UpArmored_Edition)
 | App | Cacu Studio | [video](https://v.qq.com/x/page/i0181kqlx02.html)
 | App | CADRays | [homepage](https://www.opencascade.com/content/cadrays) / [video](https://www.youtube.com/watch?v=D6_uGxmhuVk) 
-| App | ccfinder | [shot](https://github.com/ocornut/imgui/issues/539#issuecomment-211326923)
+| App | Cheevos Explorer / ccfinder | [shot](https://github.com/ocornut/imgui/issues/1269#issuecomment-325657871)
 | Game | Chrono-Drive | [video](https://www.youtube.com/watch?v=gFbh4wxZ6DE&feature=youtu.be&t=2m3s) |
 | Misc | Cinder-Experiments | [github](https://github.com/simongeilfus/Cinder-Experiments)
 | App | CortexRecognition | [homepage](http://www.recognitionrobotics.com) / [shots](https://github.com/ocornut/imgui/issues/123#issuecomment-114941904) / [photos](https://github.com/ocornut/imgui/issues/973#issuecomment-303784406)
@@ -21,7 +21,7 @@ Large game studios, who are the most likely to make good use of the library, are
 | App | Electric Eye | [video](https://www.youtube.com/watch?v=uEQ3be0ss2A)
 | Engine | EtherealEngine | [github](https://github.com/volcoma/EtherealEngine) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-276082731)
 | App | Geocod/Geogram | [homepage](http://homepages.loria.fr/BLevy/GEOGRAM) / [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-249678740) / [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-270942101) |
-| App | gpuvis | [github](https://github.com/mikesart/gpuvis) |
+| App | gpuvis | [github](https://github.com/mikesart/gpuvis) / [shot](https://github.com/ocornut/imgui/issues/1269#issuecomment-325657871)
 | Game | Graceful Explosion Machine | [steam](http://store.steampowered.com/app/575450/Graceful_Explosion_Machine) / [eshop](http://www.nintendo.com/games/detail/graceful-explosion-machine-switch) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-297435445)
 | Misc | Guberniya | [homepage](http://www.pouet.net/prod.php?which=69652) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-298192944) / [blog](http://www.lofibucket.com/articles/64k_intro.html#the-tool)
 | Engine | FishEngine | [github](https://github.com/yushroom/FishEngine) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-282622054)
@@ -29,16 +29,16 @@ Large game studios, who are the most likely to make good use of the library, are
 | Game | Fugl | [homepage](http://fuglgame.com) |
 | App | graph based noise tool | [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-288334906)
 | App | Graphic Depictions | [github](https://github.com/blackhole89/graphicdepictions) / [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-254023884) 
-| App | Goxel | [homepage](https://guillaumechereau.github.io/goxel) | 
-| Engine | Harfang 3d | [homepage](https://www.harfang3d.com) |
+| App | Goxel | [homepage](https://guillaumechereau.github.io/goxel)
+| Engine | Harfang 3d | [homepage](https://www.harfang3d.com)
 | App | HCK_ | [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-274636854)
 | Engine | Kit Framework | [shot](https://github.com/ocornut/imgui/issues/539#issuecomment-226131049)
 | App | MAME | [homepage](http://mamedev.org/) [alternate debugger](https://github.com/ocornut/imgui/issues/539#issuecomment-211326923)
-| Game | Moonman | [kickstarter](https://www.kickstarter.com/projects/eigenbom/moonman) / [dev blog](http://discuss.moonman.io/t/june-12-2016/1478) |
-| Game | Monster Boy | [homepage](http://www.monsterboy.com) |
+| Game | Moonman | [kickstarter](https://www.kickstarter.com/projects/eigenbom/moonman) / [dev blog](http://discuss.moonman.io/t/june-12-2016/1478)
+| Game | Monster Boy | [homepage](http://www.monsterboy.com)
 | App | ledSynthMaster | [github](https://github.com/olekristensen/ledSynthMaster) / [shot](https://github.com/ocornut/imgui/issues/539#issuecomment-233914952)
 | Engine | Lumix Engine | [github](https://github.com/nem0/LumixEngine) / [shots](https://github.com/ocornut/imgui/issues/1269#issuecomment-322048463)
-| Game | Lumote | [homepage](http://www.luminawesome.com) / [shot](https://github.com/ocornut/imgui/issues/539#issuecomment-199952613) |
+| Game | Lumote | [homepage](http://www.luminawesome.com) / [shot](https://github.com/ocornut/imgui/issues/539#issuecomment-199952613)
 | App | LuxCode GUI | [shots](https://github.com/ocornut/imgui/issues/123#issuecomment-163197372)
 | App | Oculus Medium | [homepage](https://www.oculus.com/medium/)
 | App | OdinVR | [homepage](http://odenvr.com)
@@ -66,6 +66,7 @@ Large game studios, who are the most likely to make good use of the library, are
 | App | Unknown sprite editor @johanwendin | [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-294857022)
 | App | virtualkc | [homepage](http://floooh.github.io/virtualkc) |
 | App | Visual Designer 3D | [video](https://www.youtube.com/watch?v=211NzYhNSFQ)
+| App | VK Pipeline Layout Editor |
 | Game | WiLD | [homepage](http://www.wildsheepstudio.com) / [shots](https://github.com/ocornut/imgui/issues/539#issuecomment-193720307) |
 | Game | Wonder Boy: The Dragon's Trap | [homepage](http://www.TheDragonsTrap.com) / [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-262975159) |
 | Engine | XT | [github](https://github.com/invghost/XT) |
