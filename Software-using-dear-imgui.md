@@ -25,7 +25,7 @@ Large game studios, who are the most likely to make good use of the library, are
 | Game | Graceful Explosion Machine | [steam](http://store.steampowered.com/app/575450/Graceful_Explosion_Machine) / [eshop](http://www.nintendo.com/games/detail/graceful-explosion-machine-switch) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-297435445)
 | Misc | Guberniya | [homepage](http://www.pouet.net/prod.php?which=69652) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-298192944) / [blog](http://www.lofibucket.com/articles/64k_intro.html#the-tool)
 | Engine | FishEngine | [github](https://github.com/yushroom/FishEngine) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-282622054)
-| Game | Fisherboy | |
+| Game | Fisherboy | [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-315665148) |
 | Game | Fugl | [homepage](http://fuglgame.com) |
 | App | graph based noise tool | [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-288334906)
 | App | Graphic Depictions | [github](https://github.com/blackhole89/graphicdepictions) / [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-254023884) 
@@ -66,7 +66,7 @@ Large game studios, who are the most likely to make good use of the library, are
 | App | Unknown sprite editor @johanwendin | [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-294857022)
 | App | virtualkc | [homepage](http://floooh.github.io/virtualkc) |
 | App | Visual Designer 3D | [video](https://www.youtube.com/watch?v=211NzYhNSFQ)
-| App | VK Pipeline Layout Editor |
+| App | VK Pipeline Layout Editor | [shot](https://github.com/ocornut/imgui/issues/539#issuecomment-236273659)
 | Game | WiLD | [homepage](http://www.wildsheepstudio.com) / [shots](https://github.com/ocornut/imgui/issues/539#issuecomment-193720307) |
 | Game | Wonder Boy: The Dragon's Trap | [homepage](http://www.TheDragonsTrap.com) / [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-262975159) |
 | Engine | XT | [github](https://github.com/invghost/XT) |
