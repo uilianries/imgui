@@ -14,7 +14,7 @@ Help us complete this list!
 | Game | Brigador | [steam](http://store.steampowered.com/app/274500/Brigador_UpArmored_Edition)
 | App | Cacu Studio | [video](https://v.qq.com/x/page/i0181kqlx02.html)
 | App | CADRays | [homepage](https://www.opencascade.com/content/cadrays) / [video](https://www.youtube.com/watch?v=D6_uGxmhuVk) 
-| App | Cheevos Explorer / ccfinder | [shot](https://github.com/ocornut/imgui/issues/1269#issuecomment-325657871)
+| App | Cheevos Hunter | [github](https://github.com/leiradel/CheevosHunter) / [shot](https://raw.githubusercontent.com/leiradel/CheevosHunter/master/ch.png)
 | Game | Chrono-Drive | [video](https://www.youtube.com/watch?v=gFbh4wxZ6DE&feature=youtu.be&t=2m3s) |
 | Misc | Cinder-Experiments | [github](https://github.com/simongeilfus/Cinder-Experiments)
 | App | CortexRecognition | [homepage](http://www.recognitionrobotics.com) / [shots](https://github.com/ocornut/imgui/issues/123#issuecomment-114941904) / [photos](https://github.com/ocornut/imgui/issues/973#issuecomment-303784406)
