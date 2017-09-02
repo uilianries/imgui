@@ -30,10 +30,10 @@ Docking extensions
 
 Ideas and codes
 
-- Bezier widget (by @r-lyeh) https://github.com/ocornut/imgui/issues/786
+- Bezier widget (@r-lyeh) https://github.com/ocornut/imgui/issues/786
 - Node graph editors https://github.com/ocornut/imgui/issues/306
 - Log Window https://github.com/ocornut/imgui/issues/300
-- IP Entry Box (by @adam4813) https://github.com/ocornut/imgui/issues/388
+- IP Entry Box (@adam4813) https://github.com/ocornut/imgui/issues/388
 - Pie menu test https://github.com/ocornut/imgui/issues/434
 - Gamepad/keyboard navigation branch: https://github.com/ocornut/imgui/tree/navigation
 - Splitters https://github.com/ocornut/imgui/issues/319
@@ -41,4 +41,5 @@ Ideas and codes
 - Color pickers https://github.com/ocornut/imgui/issues/346 (now merged into master)
 - [[Plot var helper|plot_var_example]]
 - [[Screenshot Tool|screenshot_tool]]
+- Gradient color generator (@galloman) https://gist.github.com/Galloman/8a5d179e432e062550972afcd1ecf112
 
