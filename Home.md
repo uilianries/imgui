@@ -18,6 +18,7 @@ Third party repos
 - @leiradel's snippets: https://github.com/leiradel/ImGuiAl/
 - @nem0's snippets (in imgui_user.* files) https://github.com/nem0/LumixEngine/tree/master/external/imgui
 - @aoterodelaroza's snippets https://github.com/aoterodelaroza/imgui-goodies
+- ImGuizmo (3d translation/rotation Gizmo) https://github.com/CedricGuillemet/ImGuizmo
 
 Docking extensions
 - Thread https://github.com/ocornut/imgui/issues/351
