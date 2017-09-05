@@ -50,6 +50,7 @@ Help us complete this list!
 | Engine | PhyreEngine | [homepage](http://rdwest.playstation.com/research-technology/phyreengine)
 | App | RayTeak | [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-248678671)
 | Game | Re:creation | [blog](https://eliasdaler.github.io/) |
+| App | Redream | [homepage](https://github.com/inolen/redream) / [github](https://github.com/inolen/redream/)
 | App | ScalaPixel | [github](https://github.com/lapinozz/ScalaPixel) / [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-248404445)
 | Game | Seaquence | [homepage](http://okaynokay.xyz/seaquence) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-308277401)
 | App | SpecialK | [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-295128588)
