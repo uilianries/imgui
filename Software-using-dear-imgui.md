@@ -49,7 +49,7 @@ Help us complete this list!
 | Game | Overgrowth | [homepage](http://www.wolfire.com/overgrowth) / [shots](https://github.com/ocornut/imgui/issues/973#issuecomment-277081512)
 | App | OpenBoardView | [homepage](http://openboardview.org)
 | Game | Pionner Space Sim | [homepage](https://pioneerspacesim.net/) / [github](https://github.com/pioneerspacesim/pioneer)
-| Game | Pirate Power | [app store](https://itunes.apple.com/us/app/pirate-power/id605057245)
+| Game | Pirate Power | [app store](https://itunes.apple.com/us/app/pirate-power/id605057245) / [google play](https://play.google.com/store/apps/details?id=com.godzilab.happypirate&hl=en)
 | Engine | PhyreEngine | [homepage](http://rdwest.playstation.com/research-technology/phyreengine)
 | App | RayTeak | [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-248678671)
 | Game | Re:creation | [blog](https://eliasdaler.github.io/) |
