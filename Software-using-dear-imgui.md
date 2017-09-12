@@ -35,6 +35,7 @@ Help us complete this list!
 | App | Goxel | [homepage](https://guillaumechereau.github.io/goxel)
 | Engine | Harfang 3d | [homepage](https://www.harfang3d.com)
 | App | HCK_ | [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-274636854)
+| Game | Hexterminate | [homepage](http://www.pedro-nunes.net/hexterminate/)
 | Engine | Kit Framework | [shot](https://github.com/ocornut/imgui/issues/539#issuecomment-226131049)
 | App | MAME | [homepage](http://mamedev.org/) [alternate debugger](https://github.com/ocornut/imgui/issues/539#issuecomment-211326923)
 | Game | Moonman | [kickstarter](https://www.kickstarter.com/projects/eigenbom/moonman) / [dev blog](http://discuss.moonman.io/t/june-12-2016/1478)
