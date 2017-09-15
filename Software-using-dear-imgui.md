@@ -40,6 +40,7 @@ Help us complete this list!
 | App | MAME | [homepage](http://mamedev.org/) [alternate debugger](https://github.com/ocornut/imgui/issues/539#issuecomment-211326923)
 | Game | Moonman | [kickstarter](https://www.kickstarter.com/projects/eigenbom/moonman) / [dev blog](http://discuss.moonman.io/t/june-12-2016/1478)
 | Game | Monster Boy | [homepage](http://www.monsterboy.com)
+| Game | Mount & Blade II Bannerlord | [blog](https://www.taleworlds.com/en/Games/Bannerlord/Blog/25) / [shot](https://user-images.githubusercontent.com/8225057/30460822-b4e9cadc-99b9-11e7-97fd-377a615b1e4e.jpg)
 | App | ledSynthMaster | [github](https://github.com/olekristensen/ledSynthMaster) / [shot](https://github.com/ocornut/imgui/issues/539#issuecomment-233914952)
 | Engine | Lumix Engine | [github](https://github.com/nem0/LumixEngine) / [shots](https://github.com/ocornut/imgui/issues/1269#issuecomment-322048463)
 | Game | Lumote | [homepage](http://www.luminawesome.com) / [shot](https://github.com/ocornut/imgui/issues/539#issuecomment-199952613)
