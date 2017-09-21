@@ -18,6 +18,7 @@ Help us complete this list!
 | Game | Chrono-Drive | [video](https://www.youtube.com/watch?v=gFbh4wxZ6DE&feature=youtu.be&t=2m3s) |
 | Misc | Cinder-Experiments | [github](https://github.com/simongeilfus/Cinder-Experiments)
 | App | CortexRecognition | [homepage](http://www.recognitionrobotics.com) / [shots](https://github.com/ocornut/imgui/issues/123#issuecomment-114941904) / [photos](https://github.com/ocornut/imgui/issues/973#issuecomment-303784406)
+| App | Decaf | [github](https://github.com/decaf-emu/decaf-emu)
 | Game | Dreams | [homepage](http://dreams.mediamolecule.com) |
 | Game | Dual Universe | [homepage](https://www.dualthegame.com) / [video](https://www.youtube.com/watch?v=WTvT4BAg7RI) |
 | Game | Dungeons of Everchange | [homepage](http://www.darkgnosis.com/game/dungeons-of-everchange/) |
