@@ -53,6 +53,7 @@ Help us complete this list!
 | Game | Pionner Space Sim | [homepage](https://pioneerspacesim.net/) / [github](https://github.com/pioneerspacesim/pioneer)
 | Game | Pirate Power | [app store](https://itunes.apple.com/us/app/pirate-power/id605057245) / [google play](https://play.google.com/store/apps/details?id=com.godzilab.happypirate&hl=en)
 | Engine | PhyreEngine | [homepage](http://rdwest.playstation.com/research-technology/phyreengine)
+| Game | Quake Champions | [post](https://www.unknowncheats.me/forum/quake-champions/212973-quake-champions-using-imgui.html)
 | App | RayTeak | [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-248678671)
 | Game | Re:creation | [blog](https://eliasdaler.github.io/) |
 | App | Redream | [homepage](https://github.com/inolen/redream) / [github](https://github.com/inolen/redream/)
