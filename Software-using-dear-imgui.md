@@ -63,6 +63,7 @@ Help us complete this list!
 | Game | SNES Classic Mini | [shot](https://user-images.githubusercontent.com/8225057/31039823-4aef87e2-a581-11e7-8329-077f5ded258d.jpg)
 | App | SpecialK Modding System | [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-295128588)
 | App | Splash | [homepage](https://github.com/paperManu/splash/wiki) / [shot](https://github.com/ocornut/imgui/issues/539#issuecomment-192671061)
+| App | SoShade | [shot](https://twitter.com/aiekick/status/915133246157008896)
 | App | Stagemaster | [homepage](http://cityboundsim.com/devblog/introducing-stagemaster) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-299647845)
 | Game | Tearaway | [homepage](http://tearaway.mediamolecule.com/)
 | Game | Tearaway Unfolded | [homepage](http://tearaway.mediamolecule.com/) / [shots](https://github.com/ocornut/imgui/issues/539#issuecomment-193710713)
