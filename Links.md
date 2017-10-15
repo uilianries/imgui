@@ -48,6 +48,9 @@ Unmerged PR: DirectX12 example (with issues)
 Unmerged PR: SDL2 + OpenGLES + Emscripten example
 <br>https://github.com/ocornut/imgui/pull/336
 
+Unmerged PR: SDL2 + Vulkan example
+<br>https://github.com/ocornut/imgui/pull/1367
+
 Unmerged PR: FreeGlut + OpenGL2 example
 <br>https://github.com/ocornut/imgui/pull/801
 
