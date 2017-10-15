@@ -2,34 +2,34 @@
 
 _NB: those bindings may be more or less maintained, more or less close to the spirit of original API. People who create language bindings sometimes haven't used the C++ API themselves. ImGui was designed for C++ and some of the subtleties may be lost in translation with other languages. If your language supports it, I would suggest replicating the function overloading and default parameters used in the original, else the API may be harder to use. In doubt, always check the original C++ version first!_
 
-C - cimgui: thin c-api wrapper for ImGui
+C (cimgui): thin c-api wrapper for ImGui
 <br>https://github.com/Extrawurst/cimgui
 
-C#/.Net - ImGui.NET: An ImGui wrapper for .NET Core
+C#/.Net (ImGui.NET): An ImGui wrapper for .NET Core
 <br>https://github.com/mellinoe/ImGui.NET
 
-D - DerelictImgui: Dynamic bindings to the cimgui library for the D programming language
-<br>https://github.com/Extrawurst/DerelictImgui
-
-Go - Go bindings for the dear imgui immediate mode GUI library 
-<br>https://github.com/Armored-Dragon/go-imgui
-
-Python - CyImGui: Python bindings for ImGui using Cython.
-<br>https://github.com/chromy/cyimgui
-
-Python - pyimgui: another Python bindings under development
-<br>https://github.com/swistakm/pyimgui
-
-Rust - imgui-rs: Rust bindings for ImGui
-<br>https://github.com/Gekkio/imgui-rs
-
-Lua - imgui bindings for lua
-<br>https://github.com/patrickriordan/imgui_lua_bindings
-
-ChaiScript - imgui-chaiscript: ChaiScript bindings for ImGui
+ChaiScript (imgui-chaiscript): ChaiScript bindings for ImGui
 <br>https://github.com/JuJuBoSc/imgui-chaiscript
 
-Pascal - imgui-pas: pascal bindings for imgui
+D (DerelictImgui): Dynamic bindings to the cimgui library for the D programming language
+<br>https://github.com/Extrawurst/DerelictImgui
+
+Go (go-imgui): Go bindings for the dear imgui immediate mode GUI library 
+<br>https://github.com/Armored-Dragon/go-imgui
+
+Python (CyImGui): Python bindings for ImGui using Cython.
+<br>https://github.com/chromy/cyimgui
+
+Python (pyimgui): Cython-based Python bindings for dear imgui
+<br>https://github.com/swistakm/pyimgui
+
+Rust (imgui-rs): Rust bindings for ImGui
+<br>https://github.com/Gekkio/imgui-rs
+
+Lua: imgui bindings for lua
+<br>https://github.com/patrickriordan/imgui_lua_bindings
+
+Pascal (imgui-pas): pascal bindings for imgui
 <br>https://github.com/dpethes/imgui-pas
 
 ### Full port/rewrites
@@ -57,44 +57,18 @@ Unmerged PR: Native Win32 and OSX example
 Unmerged PR: Android Example
 <br>https://github.com/ocornut/imgui/pull/421
 
-Cinder backend for dear imgui
-<br>https://github.com/simongeilfus/Cinder-ImGui
-
-Flexium/SFML backend for dear imgui (FlexGUI)
-<br>https://github.com/DXsmiley/FlexGUI
-
-Irrlicht backend for dear imgui (IrrIMGUI)
-<br>https://github.com/ZahlGraf/IrrIMGUI
-
-Unreal Engine 4 backends
-<br>https://github.com/segross/UnrealImGui
-<br>https://github.com/sronsse/UnrealEngine_ImGui
-
-LÖVE backend for dear imgui
-<br>https://github.com/slages/love-imgui
-
-Ogre backend for dear imgui
-<br>https://bitbucket.org/LMCrashy/ogreimgui/src
-
-openFrameworks backend for dear imgui (ofxImGui)
-<br>https://github.com/jvcleave/ofxImGui
-
-SFML backend for dear imgui
-<br>https://github.com/EliasD/imgui-sfml
-<br>https://github.com/Mischa-Alff/imgui-backends
-
-sokol sample
-<br>https://github.com/floooh/sokol-samples/blob/master/glfw/imgui-glfw.cc
-
-fips-imgui: fipsified imgui for fips build system
-<br>https://github.com/fungos/fips-imgui
-
-cocos2d-x with imgui
-<br>https://github.com/c0i/imguix
-<br>https://github.com/ocornut/imgui/issues/551
-
-NanoRT. Raytraced version, no GPU/OpenGL required. Renders on CPU only machine.
-<br>https://github.com/syoyo/imgui/tree/nanort/examples/raytrace_example
+Cinder: https://github.com/simongeilfus/Cinder-ImGui
+cocos2d-x: https://github.com/c0i/imguix and https://github.com/ocornut/imgui/issues/551
+Flexium/SFML (FlexGUI): https://github.com/DXsmiley/FlexGUI
+Irrlicht Engine (IrrIMGUI): https://github.com/ZahlGraf/IrrIMGUI
+Ogre: https://bitbucket.org/LMCrashy/ogreimgui/src
+openFrameworks (ofxImGui): https://github.com/jvcleave/ofxImGui
+LÖVE: https://github.com/slages/love-imgui
+NanoRT (software raytraced): https://github.com/syoyo/imgui/tree/nanort/examples/raytrace_example
+Qt3d: https://github.com/alpqr/imgui-qt3d
+SFML: https://github.com/EliasD/imgui-sfml or https://github.com/Mischa-Alff/imgui-backends
+Sokol (sample): https://github.com/floooh/sokol-samples/blob/master/glfw/imgui-glfw.cc
+Unreal Engine 4: https://github.com/segross/UnrealImGui or https://github.com/sronsse/UnrealEngine_ImGui
 
 ### Misc
 
@@ -109,6 +83,9 @@ imgui_wm: based on ImWindow above
 
 Docking
 <br>https://github.com/ocornut/imgui/issues/351
+
+Fips (fips-imgui): fipsified imgui for fips build system
+<br>https://github.com/fungos/fips-imgui
 
 ### Articles
 
