@@ -42,53 +42,32 @@ Java - JVM port, written in Kotlin, 100% Java compatible
 Main ImGui repository include examples for DirectX9, DirectX10, DirectX11, OpenGL2/3, Vulkan, Allegro 5, SDL+GL2/3, iOS and Marmalade.
 <br>https://github.com/ocornut/imgui/tree/master/examples
 
-Unmerged PR: DirectX12 example (with issues)
-<br>https://github.com/ocornut/imgui/pull/301
-
-Unmerged PR: SDL2 + OpenGLES + Emscripten example
-<br>https://github.com/ocornut/imgui/pull/336
-
-Unmerged PR: SDL2 + Vulkan example
-<br>https://github.com/ocornut/imgui/pull/1367
-
-Unmerged PR: FreeGlut + OpenGL2 example
-<br>https://github.com/ocornut/imgui/pull/801
-
-Unmerged PR: Native Win32 and OSX example
-<br>https://github.com/ocornut/imgui/pull/281
-
-Unmerged PR: Android Example
-<br>https://github.com/ocornut/imgui/pull/421
-
-Cinder: https://github.com/simongeilfus/Cinder-ImGui
-cocos2d-x: https://github.com/c0i/imguix and https://github.com/ocornut/imgui/issues/551
-Flexium/SFML (FlexGUI): https://github.com/DXsmiley/FlexGUI
-Irrlicht Engine (IrrIMGUI): https://github.com/ZahlGraf/IrrIMGUI
-Ogre: https://bitbucket.org/LMCrashy/ogreimgui/src
-openFrameworks (ofxImGui): https://github.com/jvcleave/ofxImGui
-LÖVE: https://github.com/slages/love-imgui
-NanoRT (software raytraced): https://github.com/syoyo/imgui/tree/nanort/examples/raytrace_example
-Qt3d: https://github.com/alpqr/imgui-qt3d
-SFML: https://github.com/EliasD/imgui-sfml or https://github.com/Mischa-Alff/imgui-backends
-Sokol (sample): https://github.com/floooh/sokol-samples/blob/master/glfw/imgui-glfw.cc
-Unreal Engine 4: https://github.com/segross/UnrealImGui or https://github.com/sronsse/UnrealEngine_ImGui
+- Unmerged PR: DirectX12 example (with issues): https://github.com/ocornut/imgui/pull/301
+- Unmerged PR: SDL2 + OpenGLES + Emscripten example: https://github.com/ocornut/imgui/pull/336
+- Unmerged PR: SDL2 + Vulkan example: https://github.com/ocornut/imgui/pull/1367
+- Unmerged PR: FreeGlut + OpenGL2 example: https://github.com/ocornut/imgui/pull/801
+- Unmerged PR: Native Win32 and OSX example: https://github.com/ocornut/imgui/pull/281
+- Unmerged PR: Android Example: https://github.com/ocornut/imgui/pull/421
+- Cinder: https://github.com/simongeilfus/Cinder-ImGui
+- cocos2d-x: https://github.com/c0i/imguix and https://github.com/ocornut/imgui/issues/551
+- Flexium/SFML (FlexGUI): https://github.com/DXsmiley/FlexGUI
+- Irrlicht Engine (IrrIMGUI): https://github.com/ZahlGraf/IrrIMGUI
+- Ogre: https://bitbucket.org/LMCrashy/ogreimgui/src
+- openFrameworks (ofxImGui): https://github.com/jvcleave/ofxImGui
+- LÖVE: https://github.com/slages/love-imgui
+- NanoRT (software raytraced): https://github.com/syoyo/imgui/tree/nanort/examples/raytrace_example
+- Qt3d: https://github.com/alpqr/imgui-qt3d
+- SFML: https://github.com/EliasD/imgui-sfml or https://github.com/Mischa-Alff/imgui-backends
+- Sokol (sample): https://github.com/floooh/sokol-samples/blob/master/glfw/imgui-glfw.cc
+- Unreal Engine 4: https://github.com/segross/UnrealImGui or https://github.com/sronsse/UnrealEngine_ImGui
 
 ### Misc
 
-Remote ImGui: send vertices over the network
-<br>https://github.com/JordiRos/remoteimgui
-
-ImWindow: Window and GUI system, include docking/floating window, multi window and multi render support
-<br>https://github.com/thennequin/ImWindow
-
-imgui_wm: based on ImWindow above
-<br>https://github.com/bkaradzic/bgfx/tree/master/3rdparty/ocornut-imgui
-
-Docking
-<br>https://github.com/ocornut/imgui/issues/351
-
-Fips (fips-imgui): fipsified imgui for fips build system
-<br>https://github.com/fungos/fips-imgui
+- Remote ImGui: send vertices over the network https://github.com/JordiRos/remoteimgui
+- ImWindow: Window and GUI system, include docking/floating window, multi window and multi render support https://github.com/thennequin/ImWindow
+- imgui_wm: based on ImWindow above https://github.com/bkaradzic/bgfx/tree/master/3rdparty/ocornut-imgui
+- Docking solutions: https://github.com/ocornut/imgui/issues/351
+- Fips (fips-imgui): fipsified imgui for fips build system https://github.com/fungos/fips-imgui
 
 ### Articles
 
