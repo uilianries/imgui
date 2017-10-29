@@ -39,6 +39,7 @@ Ideas and codes
 - Gamepad/keyboard navigation branch: https://github.com/ocornut/imgui/tree/navigation
 - Splitters https://github.com/ocornut/imgui/issues/319
 - Tabs https://github.com/ocornut/imgui/issues/261
+- Knobs https://github.com/ocornut/imgui/issues/942#issuecomment-268369298
 - Color pickers https://github.com/ocornut/imgui/issues/346 (now merged into master)
 - [[Plot var helper|plot_var_example]]
 - [[Screenshot Tool|screenshot_tool]]
