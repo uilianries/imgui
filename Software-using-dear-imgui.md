@@ -84,7 +84,7 @@ Help us complete this list!
 | App | virtualkc | [homepage](http://floooh.github.io/virtualkc) |
 | App | Visual Designer 3D | [video](https://www.youtube.com/watch?v=211NzYhNSFQ)
 | App | VK Pipeline Layout Editor | [shot](https://github.com/ocornut/imgui/issues/539#issuecomment-236273659)
-| App | WaveEdit | [github](https://github.com/AndrewBelt/WaveEdit) [shot](https://user-images.githubusercontent.com/338179/32145081-0944cab2-bc99-11e7-9c81-e3af92a47eb7.png)
+| App | WaveEdit | [github](https://github.com/AndrewBelt/WaveEdit) / [shot](https://user-images.githubusercontent.com/338179/32145081-0944cab2-bc99-11e7-9c81-e3af92a47eb7.png)
 | Game | WiLD | [homepage](http://www.wildsheepstudio.com) / [shots](https://github.com/ocornut/imgui/issues/539#issuecomment-193720307) |
 | App | What The Loop | [shot](https://github.com/ocornut/imgui/issues/1269#issuecomment-332807951)
 | Game | Wonder Boy: The Dragon's Trap | [homepage](http://www.TheDragonsTrap.com) / [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-262975159) |
