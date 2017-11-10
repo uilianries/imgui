@@ -30,6 +30,10 @@ Docking extensions
 - @flix01's one, https://github.com/Flix01/imgui/tree/2015-10-Addons/addons/imguidock
 - @aoterodelaroza's one, https://github.com/aoterodelaroza/imgui-goodies
 
+Using dear imgui with STL types (std::vector etc.)
+
+- https://eliasdaler.github.io/using-imgui-with-sfml-pt2/#using-imgui-with-stl
+
 Ideas and codes
 
 - Tabs https://github.com/ocornut/imgui/issues/261
