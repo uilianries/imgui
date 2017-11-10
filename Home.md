@@ -19,6 +19,7 @@ Third party repos
 - @nem0's snippets (in imgui_user.* files) https://github.com/nem0/LumixEngine/tree/master/external/imgui
 - @aoterodelaroza's snippets https://github.com/aoterodelaroza/imgui-goodies
 - ImGuizmo (3d translation/rotation Gizmo) https://github.com/CedricGuillemet/ImGuizmo
+- @BalazsJako text editor with syntax highlighting https://github.com/BalazsJako/ImGuiColorTextEdit
 
 Docking extensions
 - Thread https://github.com/ocornut/imgui/issues/351
@@ -31,14 +32,14 @@ Docking extensions
 
 Ideas and codes
 
+- Tabs https://github.com/ocornut/imgui/issues/261
+- Splitters https://github.com/ocornut/imgui/issues/319
 - Bezier widget (@r-lyeh) https://github.com/ocornut/imgui/issues/786
 - Node graph editors https://github.com/ocornut/imgui/issues/306
 - Log Window https://github.com/ocornut/imgui/issues/300
 - IP Entry Box (@adam4813) https://github.com/ocornut/imgui/issues/388
 - Pie menu test https://github.com/ocornut/imgui/issues/434
 - Gamepad/keyboard navigation branch: https://github.com/ocornut/imgui/tree/navigation
-- Splitters https://github.com/ocornut/imgui/issues/319
-- Tabs https://github.com/ocornut/imgui/issues/261
 - Knobs https://github.com/ocornut/imgui/issues/942#issuecomment-268369298
 - Color pickers https://github.com/ocornut/imgui/issues/346 (now merged into master)
 - [[Plot var helper|plot_var_example]]
