@@ -56,7 +56,7 @@ Main ImGui repository include examples for DirectX9, DirectX10, DirectX11, OpenG
 - Flexium/SFML (FlexGUI): https://github.com/DXsmiley/FlexGUI
 - Irrlicht Engine (IrrIMGUI): https://github.com/ZahlGraf/IrrIMGUI
 - Ogre: https://bitbucket.org/LMCrashy/ogreimgui/src
-- OpenSceneGraph/OSG: https://www.mail-archive.com/osg-users@lists.openscenegraph.org/msg75576.html
+- OpenSceneGraph/OSG: https://gist.github.com/fulezi/d2442ca7626bf270226014501357042c
 - openFrameworks (ofxImGui): https://github.com/jvcleave/ofxImGui
 - LÖVE: https://github.com/slages/love-imgui
 - NanoRT (software raytraced): https://github.com/syoyo/imgui/tree/nanort/examples/raytrace_example
