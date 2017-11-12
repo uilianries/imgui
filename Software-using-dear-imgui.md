@@ -40,6 +40,7 @@ Help us complete this list!
 | App | HCK_ | [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-274636854)
 | Game | Hellbreaker | [homepage](https://enhex.itch.io/hellbreaker) / [shot](https://img.itch.zone/aW1hZ2UvMTY5MjQ4Lzg2MTI5NC5qcGc=/original/1InRJS.jpg)
 | Game | Hexterminate | [homepage](http://www.pedro-nunes.net/hexterminate/)
+| App | IceSL | [homepage](http://shapeforge.loria.fr/icesl/)
 | App | karmaMapper | [github](https://github.com/Karma-Kusala/karmaMapper) / [shot](https://raw.githubusercontent.com/Karma-Kusala/karmaMapper/master/karmaMapper-cover-GIF.gif)
 | Engine | Kit Framework | [shot](https://github.com/ocornut/imgui/issues/539#issuecomment-226131049)
 | App | MAME | [homepage](http://mamedev.org/) [alternate debugger](https://github.com/ocornut/imgui/issues/539#issuecomment-211326923)
