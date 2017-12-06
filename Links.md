@@ -17,6 +17,9 @@ D (DerelictImgui): Dynamic bindings to the cimgui library for the D programming 
 Go (go-imgui): Go bindings for the dear imgui immediate mode GUI library 
 <br>https://github.com/Armored-Dragon/go-imgui
 
+GML/GameMakerStudio2 (ImGuiGML)
+<br>https://marketplace.yoyogames.com/assets/6221/imguigml
+
 Odin: Odin binding for Dear ImGui
 <br>https://github.com/ThisDrunkDane/odin-dear_imgui
 
