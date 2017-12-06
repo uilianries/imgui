@@ -17,9 +17,6 @@ D (DerelictImgui): Dynamic bindings to the cimgui library for the D programming 
 Go (go-imgui): Go bindings for the dear imgui immediate mode GUI library 
 <br>https://github.com/Armored-Dragon/go-imgui
 
-GML (ImGuiGML): DLL / GML wrapper for GameMaker Studio 2
-<br>https://marketplace.yoyogames.com/assets/6221/imguigml
-
 Odin: Odin binding for Dear ImGui
 <br>https://github.com/ThisDrunkDane/odin-dear_imgui
 
@@ -57,6 +54,7 @@ Main ImGui repository include examples for DirectX9, DirectX10, DirectX11, OpenG
 - Cinder: https://github.com/simongeilfus/Cinder-ImGui
 - cocos2d-x: https://github.com/c0i/imguix and https://github.com/ocornut/imgui/issues/551
 - Flexium/SFML (FlexGUI): https://github.com/DXsmiley/FlexGUI
+- GML/GameMaker Studio 2 (ImGuiGML): https://marketplace.yoyogames.com/assets/6221/imguigml
 - Irrlicht Engine (IrrIMGUI): https://github.com/ZahlGraf/IrrIMGUI
 - Ogre: https://bitbucket.org/LMCrashy/ogreimgui/src
 - OpenSceneGraph/OSG: https://gist.github.com/fulezi/d2442ca7626bf270226014501357042c
