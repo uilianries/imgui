@@ -55,6 +55,7 @@ Help us complete this list!
 | App | OdinVR | [homepage](http://odenvr.com)
 | Game | Overgrowth | [homepage](http://www.wolfire.com/overgrowth) / [shots](https://github.com/ocornut/imgui/issues/973#issuecomment-277081512)
 | App | OpenBoardView | [homepage](http://openboardview.org)
+| App | OpenSpace | [homepage](http://openspaceproject.com) / [github](https://github.OpenSpace/OpenSpace)
 | Game | Pionner Space Sim | [homepage](https://pioneerspacesim.net/) / [github](https://github.com/pioneerspacesim/pioneer)
 | Game | Pirate Power | [app store](https://itunes.apple.com/us/app/pirate-power/id605057245) / [google play](https://play.google.com/store/apps/details?id=com.godzilab.happypirate&hl=en)
 | App | PiSP | [github](https://github.com/twentytwoo/PiSP)
