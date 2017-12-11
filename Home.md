@@ -20,8 +20,10 @@ Third party repos
 - @aoterodelaroza's snippets https://github.com/aoterodelaroza/imgui-goodies
 - ImGuizmo (3d translation/rotation Gizmo) https://github.com/CedricGuillemet/ImGuizmo
 - @BalazsJako text editor with syntax highlighting https://github.com/BalazsJako/ImGuiColorTextEdit
+- ImGui::Auto() leverage C++17 to automatically serialize any data into imgui interfaces https://github.com/Csabix/imgui/tree/master/auto
 
 Docking extensions
+(Note: an official docking extension is now in the work, Dec 2017)
 - Thread https://github.com/ocornut/imgui/issues/351
 - @nem0's one, from LumixEngine https://github.com/nem0/LumixEngine/tree/master/external/imgui
 - @thennequin's one, with OS window managing https://github.com/thennequin/ImWindow
