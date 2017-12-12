@@ -29,6 +29,9 @@ Python (pyimgui): Cython-based Python bindings for dear imgui
 Rust (imgui-rs): Rust bindings for ImGui
 <br>https://github.com/Gekkio/imgui-rs
 
+Rust: "ImStr" Patch by @bitshifter to use string-range more commonly instead of zero-terminated strings.
+<br>https://github.com/ocornut/imgui/pull/683
+
 Lua: imgui bindings for lua
 <br>https://github.com/patrickriordan/imgui_lua_bindings
 
