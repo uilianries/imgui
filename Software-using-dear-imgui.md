@@ -26,6 +26,7 @@ Help us complete this list!
 | Engine | EtherealEngine | [github](https://github.com/volcoma/EtherealEngine) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-276082731)
 | App | Geocod/Geogram | [homepage](http://homepages.loria.fr/BLevy/GEOGRAM) / [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-249678740) / [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-270942101) |
 | Engine | GeeXLab | [homepage](http://www.geeks3d.com/geexlab/)
+| App | Glimpse | [github](https://github.com/glimpse-project/glimpse) / [shot](https://raw.githubusercontent.com/wiki/glimpse-project/glimpse/images/screenshot-2017-12-07.png)
 | App | gpuvis | [github](https://github.com/mikesart/gpuvis) / [shot](https://github.com/ocornut/imgui/issues/1269#issuecomment-325657871)
 | Game | Graceful Explosion Machine | [steam](http://store.steampowered.com/app/575450/Graceful_Explosion_Machine) / [eshop](http://www.nintendo.com/games/detail/graceful-explosion-machine-switch) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-297435445)
 | Misc | Guberniya | [homepage](http://www.pouet.net/prod.php?which=69652) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-298192944) / [blog](http://www.lofibucket.com/articles/64k_intro.html#the-tool)
@@ -84,6 +85,7 @@ Help us complete this list!
 | App | Unknown tool @mellinoe | [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-274290052)
 | App | Unknown animation tool | [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-241142663)
 | App | Unknown sprite editor @johanwendin | [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-294857022)
+| App | vdb | [homepage](https://lightbits.github.io/vdb/)
 | App | virtualkc | [homepage](http://floooh.github.io/virtualkc) |
 | App | Visual Designer 3D | [video](https://www.youtube.com/watch?v=211NzYhNSFQ)
 | App | VK Pipeline Layout Editor | [shot](https://github.com/ocornut/imgui/issues/539#issuecomment-236273659)
