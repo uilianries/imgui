@@ -95,3 +95,4 @@ Help us complete this list!
 | App | What The Loop | [shot](https://github.com/ocornut/imgui/issues/1269#issuecomment-332807951)
 | Game | Wonder Boy: The Dragon's Trap | [homepage](http://www.TheDragonsTrap.com) / [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-262975159) |
 | Engine | XT | [github](https://github.com/invghost/XT) |
+| Game | Zombie Tsunami | [appstore](https://itunes.apple.com/us/app/zombie-tsunami/id529652920?mt=8)
