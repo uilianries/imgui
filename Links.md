@@ -17,6 +17,9 @@ D (DerelictImgui): Dynamic bindings to the cimgui library for the D programming 
 Go (go-imgui): Go bindings for the dear imgui immediate mode GUI library 
 <br>https://github.com/Armored-Dragon/go-imgui
 
+Haxe/hxcpp (linc_imgui): binding for imgui
+<br>https://github.com/Aidan63/linc_imgui
+
 Odin: Odin binding for Dear ImGui
 <br>https://github.com/ThisDrunkDane/odin-dear_imgui
 
