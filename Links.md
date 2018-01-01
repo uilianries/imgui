@@ -41,7 +41,7 @@ Lua: imgui bindings for lua
 Pascal (imgui-pas): pascal bindings for imgui
 <br>https://github.com/dpethes/imgui-pas
 
-### Full port/rewrites
+### Port/rewrites
 
 Java - JVM port, written in Kotlin, 100% Java compatible
 <br>https://github.com/kotlin-graphics/imgui
