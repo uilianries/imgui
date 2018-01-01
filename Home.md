@@ -5,7 +5,7 @@ This wiki is in construction, doesn't have much contents and is a total mess. En
 - [[Tips]]
 - [[Known Software using dear imgui|Software-using-dear-imgui]]
 - [[Future features / Roadmap|Future-Features]]
-- [[Developer tips|DeveloperTips]] (for people working _on_ dear imgui)
+- [[Developer tips|Developer-Tips]] (for people working _on_ dear imgui)
 
 imgui_club (officially maintained bits)
 https://github.com/ocornut/imgui_club
