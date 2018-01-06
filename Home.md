@@ -27,15 +27,17 @@ Docking extensions
 (Note: an official docking extension is now in the work, Dec 2017)
 - Thread https://github.com/ocornut/imgui/issues/351
 - @nem0's one, from LumixEngine https://github.com/nem0/LumixEngine/tree/master/external/imgui
+- @paniq's one (based on @nem0's), https://github.com/ocornut/imgui/issues/351#issuecomment-219775521
+- @BentleyBlanks's one (based on @paniq's), https://github.com/BentleyBlanks/imguiDock
 - @thennequin's one, with OS window managing https://github.com/thennequin/ImWindow
 - @edin-purkovic's one https://github.com/edin-purkovic/ImGuiDock
-- @paniq's one, https://github.com/ocornut/imgui/issues/351#issuecomment-219775521
 - @flix01's one, https://github.com/Flix01/imgui/tree/2015-10-Addons/addons/imguidock
 - @aoterodelaroza's one, https://github.com/aoterodelaroza/imgui-goodies
 
 Using dear imgui with STL types (std::vector etc.)
 
 - https://eliasdaler.github.io/using-imgui-with-sfml-pt2/#using-imgui-with-stl
+- New `BeginCombo()` api makes it more natural to use all sorts of containers.
 
 Ideas and codes
 
