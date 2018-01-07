@@ -86,7 +86,7 @@ Help us complete this list!
 | App | Unknown tool @mellinoe | [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-274290052)
 | App | Unknown animation tool | [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-241142663)
 | App | Unknown sprite editor @johanwendin | [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-294857022)
-| App | vdb | [homepage](https://lightbits.github.io/vdb/)
+| App | vdb | [homepage](https://lightbits.github.io/vdb/) / [gallery](https://github.com/lightbits/vdb/blob/master/gallery.md)
 | App | virtualkc | [homepage](http://floooh.github.io/virtualkc) |
 | App | Visual Designer 3D | [video](https://www.youtube.com/watch?v=211NzYhNSFQ)
 | App | VK Pipeline Layout Editor | [shot](https://github.com/ocornut/imgui/issues/539#issuecomment-236273659)
