@@ -43,6 +43,7 @@ Help us complete this list!
 | Game | Hexterminate | [homepage](http://www.pedro-nunes.net/hexterminate/)
 | App | IceSL | [homepage](http://shapeforge.loria.fr/icesl/)
 | Misc | Inori-Prayer | [homepage](http://www.k2.t.u-tokyo.ac.jp/vision/WOW_TOKYO_AYABAMBI/index-e.html) 
+| Misc | Intel RealSense SDK | [homepage](https://realsense.intel.com/sdk/) / [gif](https://github.com/ocornut/imgui/issues/1269#issuecomment-358929119)
 | App | JangaFX | [homepage](https://jangafx.com/)
 | App | karmaMapper | [github](https://github.com/Karma-Kusala/karmaMapper) / [shot](https://raw.githubusercontent.com/Karma-Kusala/karmaMapper/master/karmaMapper-cover-GIF.gif)
 | Engine | Kit Framework | [shot](https://github.com/ocornut/imgui/issues/539#issuecomment-226131049)
