@@ -1,3 +1,6 @@
+### Using Natvis file for Visual Studio debugging
+The `examples/libs/imgui.natvis` file may be included in your project to provide support for dear imgui types in the debugger (e.g. expanding of `ImVector<>` arrays).
+
 ### Using breakpoints
 Using debugger breakpoints can be tedious in an interactive application dealing with lots of data. Even more so as the state of the application may be so reliant on mouse and keyboard inputs. One convenient trick is filter breakpoint based on custom conditions, e.g checking for the Alt key modifier to be pressed:
 
