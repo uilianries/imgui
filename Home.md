@@ -19,7 +19,7 @@ Third party repos
 - @leiradel's snippets: https://github.com/leiradel/ImGuiAl/
 - @nem0's snippets (in imgui_user.* files) https://github.com/nem0/LumixEngine/tree/master/external/imgui
 - @aoterodelaroza's snippets https://github.com/aoterodelaroza/imgui-goodies
-- ImGuizmo (3d translation/rotation Gizmo) https://github.com/CedricGuillemet/ImGuizmo
+- ImGuizmo (3d translation/rotation Gizmo) and ImSequencer (animation sequencer) https://github.com/CedricGuillemet/ImGuizmo
 - @BalazsJako text editor with syntax highlighting https://github.com/BalazsJako/ImGuiColorTextEdit
 - ImGui::Auto() leverage C++17 to automatically serialize any data into imgui interfaces https://github.com/Csabix/imgui/tree/master/auto
 
@@ -54,6 +54,7 @@ Ideas and codes
 - [[Plot var helper|plot_var_example]]
 - [[Screenshot Tool|screenshot_tool]]
 - Gradient color generator (@galloman) https://gist.github.com/Galloman/8a5d179e432e062550972afcd1ecf112
+- tear imgui: Experiment for a terminal-based renderer for imgui https://github.com/jonvaldes/tear_imgui
 
 Articles, Talks
 - CppCon 2016: Nicolas Guillemot “Dear imgui," https://www.youtube.com/watch?v=LSRJ1jZq90k
