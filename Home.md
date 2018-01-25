@@ -55,3 +55,9 @@ Ideas and codes
 - [[Screenshot Tool|screenshot_tool]]
 - Gradient color generator (@galloman) https://gist.github.com/Galloman/8a5d179e432e062550972afcd1ecf112
 
+Articles, Talks
+- CppCon 2016: Nicolas Guillemot “Dear imgui," https://www.youtube.com/watch?v=LSRJ1jZq90k
+- Why I think Immediate Mode GUI is way to go for GameDev tools https://gist.github.com/bkaradzic/853fd21a15542e0ec96f7268150f1b62
+- OpenGLやDirectXなGUIにimguiが最強すぎる https://qiita.com/Ushio/items/446d78c881334919e156
+- 最強すぎるGUIことImGuiの見た目もイイ感じにする https://qiita.com/izumin5210/items/26eaed69eea2c4318fcd
+- GLFW 사용 방법 정리 (Windows 10, Visual Studio 2017) https://3dshovel.blogspot.fr/2018/01/glfw-windows-10-visual-studio-2017.html
