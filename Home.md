@@ -50,7 +50,8 @@ Ideas and codes
 - Pie menu test https://github.com/ocornut/imgui/issues/434
 - Gamepad/keyboard navigation branch: https://github.com/ocornut/imgui/tree/navigation
 - Knobs https://github.com/ocornut/imgui/issues/942#issuecomment-268369298
-- Color pickers https://github.com/ocornut/imgui/issues/346 (now merged into master)
+- Toggle Button https://github.com/ocornut/imgui/issues/1537
+- Color Picker https://github.com/ocornut/imgui/issues/346 (now merged into master)
 - [[Plot var helper|plot_var_example]]
 - [[Screenshot Tool|screenshot_tool]]
 - Gradient color generator (@galloman) https://gist.github.com/Galloman/8a5d179e432e062550972afcd1ecf112
