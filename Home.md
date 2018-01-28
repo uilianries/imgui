@@ -22,6 +22,7 @@ Third party repos
 - ImGuizmo (3d translation/rotation Gizmo) and ImSequencer (animation sequencer) https://github.com/CedricGuillemet/ImGuizmo
 - @BalazsJako text editor with syntax highlighting https://github.com/BalazsJako/ImGuiColorTextEdit
 - ImGui::Auto() leverage C++17 to automatically serialize any data into imgui interfaces https://github.com/Csabix/imgui/tree/master/auto
+- MetricsGui: controls for displaying performance metrics https://github.com/GameTechDev/MetricsGui
 
 Docking extensions
 (Note: an official docking extension is now in the work, Dec 2017)
