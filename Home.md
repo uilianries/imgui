@@ -25,8 +25,8 @@ Third party repos
 - MetricsGui: controls for displaying performance metrics https://github.com/GameTechDev/MetricsGui
 
 Docking extensions
-(Note: an official docking extension is now in the work, Dec 2017)
-- Thread https://github.com/ocornut/imgui/issues/351
+(Note: an official docking extension is now in the work, Dec 2017, see  [#351](https://github.com/ocornut/imgui/issues/351) and [#1542](https://github.com/ocornut/imgui/issues/1542))
+- Main Docking Thread [#351](https://github.com/ocornut/imgui/issues/351)
 - @nem0's one, from LumixEngine https://github.com/nem0/LumixEngine/tree/master/external/imgui
 - @paniq's one (based on @nem0's), https://github.com/ocornut/imgui/issues/351#issuecomment-219775521
 - @BentleyBlanks's one (based on @paniq's), https://github.com/BentleyBlanks/imguiDock
@@ -38,7 +38,7 @@ Docking extensions
 Using dear imgui with STL types (std::vector etc.)
 
 - https://eliasdaler.github.io/using-imgui-with-sfml-pt2/#using-imgui-with-stl
-- New `BeginCombo()` api makes it more natural to use all sorts of containers.
+- Note that `BeginCombo()` api since 1.53 makes it more natural to use all sorts of containers.
 
 Ideas and codes
 
