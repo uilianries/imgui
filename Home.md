@@ -2,10 +2,10 @@ Welcome to the imgui wiki!
 This wiki is in construction, doesn't have much contents and is a total mess. Enjoy :)
 
 - [[Links, Language bindings, Engine bindings|Links]]
-- [[Tips]]
 - [[Known Software using dear imgui|Software-using-dear-imgui]]
 - [[Future features / Roadmap|Future-Features]]
 - [[Developer tips|Developer-Tips]] (for people working _on_ dear imgui)
+- [[A few random tips|Tips]]
 
 imgui_club (officially maintained bits)
 https://github.com/ocornut/imgui_club
