@@ -20,7 +20,8 @@ Third party repos
 - @nem0's snippets (in imgui_user.* files) https://github.com/nem0/LumixEngine/tree/master/external/imgui
 - @aoterodelaroza's snippets https://github.com/aoterodelaroza/imgui-goodies
 - ImGuizmo (3d translation/rotation Gizmo) and ImSequencer (animation sequencer) https://github.com/CedricGuillemet/ImGuizmo
-- @BalazsJako text editor with syntax highlighting https://github.com/BalazsJako/ImGuiColorTextEdit
+- ImGuiColorTextEdit: Colorizing text editor for ImGui https://github.com/BalazsJako/ImGuiColorTextEdit
+- Zep: An embeddable editor, with optional support for using vim keystrokes. https://github.com/cmaughan/zep
 - ImGui::Auto() leverage C++17 to automatically serialize any data into imgui interfaces https://github.com/Csabix/imgui/tree/master/auto
 - MetricsGui: controls for displaying performance metrics https://github.com/GameTechDev/MetricsGui
 
