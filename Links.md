@@ -21,7 +21,7 @@ Haxe/hxcpp (linc_imgui): binding for imgui
 <br>https://github.com/Aidan63/linc_imgui
 
 JavaScript (imgui-js): JavaScript bindings for Dear ImGui using Emscripten and TypeScript
-<b>https://github.com/flyover/imgui-js
+<br>https://github.com/flyover/imgui-js
 
 Odin: Odin binding for Dear ImGui
 <br>https://github.com/ThisDrunkDane/odin-dear_imgui
