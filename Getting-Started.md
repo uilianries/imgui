@@ -1,3 +1,5 @@
+** THIS PAGE WAS A PROPOSAL AND HAS NEVER BEEN UPDATED, PREFER REFERRING TO EXAMPLES/ **
+
 \* **This page is a proposal that has been given up on** \*
 \* Please refer to imgui.cpp and regular examples/ for up to date instructions \*
 
