@@ -18,12 +18,13 @@ Third party repos
 - @flix01's snippets: https://github.com/Flix01/imgui/tree/2015-10-Addons/addons in particular see his [wiki](https://github.com/Flix01/imgui/wiki/ImGui-Addons-Branch-Home)
 - @leiradel's snippets: https://github.com/leiradel/ImGuiAl/
 - @nem0's snippets (in imgui_user.* files) https://github.com/nem0/LumixEngine/tree/master/external/imgui
-- @aoterodelaroza's snippets https://github.com/aoterodelaroza/imgui-goodies
-- ImGuizmo (3d translation/rotation Gizmo) and ImSequencer (animation sequencer) https://github.com/CedricGuillemet/ImGuizmo
-- ImGuiColorTextEdit: Colorizing text editor for ImGui https://github.com/BalazsJako/ImGuiColorTextEdit
-- Zep: An embeddable editor, with optional support for using vim keystrokes. https://github.com/cmaughan/zep
-- ImGui::Auto() leverage C++17 to automatically serialize any data into imgui interfaces https://github.com/Csabix/imgui/tree/master/auto
-- MetricsGui: controls for displaying performance metrics https://github.com/GameTechDev/MetricsGui
+- @aoterodelaroza's snippets [[github](https://github.com/aoterodelaroza/imgui-goodies)]
+- ImGuizmo (3d translation/rotation Gizmo) and ImSequencer (animation sequencer) [[github](https://github.com/CedricGuillemet/ImGuizmo)]
+- ImGuiColorTextEdit: Colorizing text editor for ImGui [[github](https://github.com/BalazsJako/ImGuiColorTextEdit)]
+- Zep: An embeddable editor, with optional support for using vim keystrokes. [[github](https://github.com/cmaughan/zep)]
+- ImGui::Auto() leverage C++17 to automatically serialize any data into imgui interfaces [[github](https://github.com/Csabix/imgui/tree/master/auto)]
+- MetricsGui: controls for displaying performance metrics [[github](https://github.com/GameTechDev/MetricsGui)]
+- ImGuiVR: Demo code for using Imgui with OpenVR [[github](https://github.com/temcgraw/ImguiVR)] [[video](https://www.youtube.com/watch?v=nlwfn4HJw5E)]
 
 Docking extensions
 (Note: an official docking extension is now in the work, Dec 2017, see  [#351](https://github.com/ocornut/imgui/issues/351) and [#1542](https://github.com/ocornut/imgui/issues/1542))
