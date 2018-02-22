@@ -51,10 +51,9 @@ Java - JVM port, written in Kotlin, 100% Java compatible
 
 ### Framework/engine bindings
 
-Main ImGui repository include examples for DirectX9, DirectX10, DirectX11, OpenGL2/3, Vulkan, Allegro 5, SDL+GL2/3, iOS and Marmalade.
+Main ImGui repository include examples for DirectX9, DirectX10, DirectX11, DirectX12, OpenGL2/3, Vulkan, Allegro 5, SDL+GL2/3, iOS and Marmalade.
 <br>https://github.com/ocornut/imgui/tree/master/examples
 
-- Unmerged PR: DirectX12 example (with issues): https://github.com/ocornut/imgui/pull/301
 - Unmerged PR: SDL2 + OpenGLES + Emscripten example: https://github.com/ocornut/imgui/pull/336
 - Unmerged PR: SDL2 + Vulkan example: https://github.com/ocornut/imgui/pull/1367
 - Unmerged PR: FreeGlut + OpenGL2 example: https://github.com/ocornut/imgui/pull/801
