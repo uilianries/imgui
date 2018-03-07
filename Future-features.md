@@ -7,6 +7,8 @@ I _think_ there is a sort of urgency. If those features are not standardized, mo
 
 We have just shipped [our game](http://www.TheDragonsTrap.com) this month, finishing Steam version now. From June-ish I will be free and I would like to take this timing opportunity to gather funds and focus on Dear ImGui for a while. If your company uses it, there is probably something you can do to contribute and make that goal happens. I could e.g. invoice for support, that would be used to fund further development of the library. Let's talk about it! E-mail me: omarcornut (gmail).
 
+(April 2017)
+
 ## Screenshots
 
 [LumixEngine](https://cloud.githubusercontent.com/assets/153526/17481789/18b71916-5d7f-11e6-9726-9e17dec1f3b4.png)
