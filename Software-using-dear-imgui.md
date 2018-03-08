@@ -21,6 +21,7 @@ Help us complete this list!
 | Misc | Cinder-Experiments | [github](https://github.com/simongeilfus/Cinder-Experiments)
 | App | CortexRecognition | [homepage](http://www.recognitionrobotics.com) / [shots](https://github.com/ocornut/imgui/issues/123#issuecomment-114941904) / [photos](https://github.com/ocornut/imgui/issues/973#issuecomment-303784406)
 | App | Decaf | [github](https://github.com/decaf-emu/decaf-emu)
+| Engine | Directus3D | [github](https://github.com/PanosK92/Directus3D)
 | Game | Dreams | [homepage](http://dreams.mediamolecule.com) |
 | Game | Dual Universe | [homepage](https://www.dualthegame.com) / [video](https://www.youtube.com/watch?v=WTvT4BAg7RI) |
 | Game | Dungeons of Everchange | [homepage](http://www.darkgnosis.com/game/dungeons-of-everchange/) |
