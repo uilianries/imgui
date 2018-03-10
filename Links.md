@@ -11,6 +11,9 @@ C#/.Net (ImGui.NET): An ImGui wrapper for .NET Core
 ChaiScript (imgui-chaiscript): ChaiScript bindings for ImGui
 <br>https://github.com/JuJuBoSc/imgui-chaiscript
 
+CovScript (covscript-imgui): ImGui Extension for CovScript (Covariant)
+<br>https://github.com/covscript/covscript-imgui
+
 D (DerelictImgui): Dynamic bindings to the cimgui library for the D programming language
 <br>https://github.com/Extrawurst/DerelictImgui
 
