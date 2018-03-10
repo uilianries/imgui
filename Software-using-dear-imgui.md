@@ -52,6 +52,7 @@ Help us complete this list!
 | Game | Jurassic World Evolution | [homepage](http://www.jurassicworldevolutiongame.com)
 | App | karmaMapper | [github](https://github.com/Karma-Kusala/karmaMapper) / [shot](https://raw.githubusercontent.com/Karma-Kusala/karmaMapper/master/karmaMapper-cover-GIF.gif)
 | Engine | Kit Framework | [shot](https://github.com/ocornut/imgui/issues/539#issuecomment-226131049)
+| Game | Librelancer | [shot](https://camo.githubusercontent.com/746f970dbd4f0b2fb64df8e188cce35e023fbd5c/68747470733a2f2f692e696d6775722e636f6d2f666b344f6164382e706e67) / [github](https://github.com/Librelancer/Librelancer)
 | App | MAME | [homepage](http://mamedev.org/) [alternate debugger](https://github.com/ocornut/imgui/issues/539#issuecomment-211326923)
 | Game | Moonman | [kickstarter](https://www.kickstarter.com/projects/eigenbom/moonman) / [dev blog](http://discuss.moonman.io/t/june-12-2016/1478)
 | Game | Monster Boy | [homepage](http://www.monsterboy.com)
