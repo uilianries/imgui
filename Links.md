@@ -35,6 +35,9 @@ Python (CyImGui): Python bindings for ImGui using Cython.
 Python (pyimgui): Cython-based Python bindings for dear imgui
 <br>https://github.com/swistakm/pyimgui
 
+PureBasic (pb-cimgui): PureBasic interface to CImGui Wrapper
+<br>https://github.com/hippyau/pb-cimgui
+
 Rust (imgui-rs): Rust bindings for ImGui
 <br>https://github.com/Gekkio/imgui-rs
 
