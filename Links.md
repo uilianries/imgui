@@ -44,8 +44,11 @@ Rust (imgui-rs): Rust bindings for ImGui
 Rust: "ImStr" Patch by @bitshifter to use string-range more commonly instead of zero-terminated strings.
 <br>https://github.com/ocornut/imgui/pull/683
 
-Lua: imgui bindings for lua
+Lua: imgui bindings for lua (also see: LOVE binding)
 <br>https://github.com/patrickriordan/imgui_lua_bindings
+
+Lua: FFI bindings for LuaJIT
+<br>https://github.com/thenumbernine/lua-ffi-bindings
 
 Pascal (imgui-pas): pascal bindings for imgui
 <br>https://github.com/dpethes/imgui-pas
@@ -73,7 +76,7 @@ Main ImGui repository include examples for DirectX9, DirectX10, DirectX11, Direc
 - Ogre: https://bitbucket.org/LMCrashy/ogreimgui/src
 - OpenSceneGraph/OSG: https://gist.github.com/fulezi/d2442ca7626bf270226014501357042c
 - openFrameworks (ofxImGui): https://github.com/jvcleave/ofxImGui
-- LÖVE: https://github.com/slages/love-imgui
+- LÖVE+LUA: https://github.com/slages/love-imgui
 - NanoRT (software raytraced): https://github.com/syoyo/imgui/tree/nanort/examples/raytrace_example
 - Qt3d: https://github.com/alpqr/imgui-qt3d
 - SFML: https://github.com/EliasD/imgui-sfml or https://github.com/Mischa-Alff/imgui-backends
