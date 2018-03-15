@@ -77,6 +77,7 @@ Help us complete this list!
 | Game | Re:creation | [blog](https://eliasdaler.github.io/) |
 | App | Redream | [homepage](https://github.com/inolen/redream) / [github](https://github.com/inolen/redream/)
 | Engine | RCRL (Read-Compile-Run-Loop) | [github](https://github.com/onqtam/rcrl)
+| Demo | Rise and Shine | [homepage](http://www.pouet.net/prod.php?which=68178)
 | App | ScalaPixel | [github](https://github.com/lapinozz/ScalaPixel) / [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-248404445)
 | Game | Seaquence | [homepage](http://okaynokay.xyz/seaquence) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-308277401)
 | Game | SNES Classic Mini | [shot](https://user-images.githubusercontent.com/8225057/31039823-4aef87e2-a581-11e7-8329-077f5ded258d.jpg)
