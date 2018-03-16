@@ -30,6 +30,7 @@ Help us complete this list!
 | App | Geocod/Geogram | [homepage](http://homepages.loria.fr/BLevy/GEOGRAM) / [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-249678740) / [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-270942101) |
 | Engine | GeeXLab | [homepage](http://www.geeks3d.com/geexlab/)
 | App | Glimpse | [github](https://github.com/glimpse-project/glimpse) / [shot](https://raw.githubusercontent.com/wiki/glimpse-project/glimpse/images/screenshot-2017-12-07.png)
+| App | GNOMIC | [bitbucket](https://bitbucket.org/gnomicSolver/gnomic/src/master/)
 | App | gputop | [github](https://github.com/rib/gputop/) / [web demo](http://www.gputop.com/)
 | App | gpuvis | [github](https://github.com/mikesart/gpuvis) / [shot](https://github.com/ocornut/imgui/issues/1269#issuecomment-325657871)
 | Game | Graceful Explosion Machine | [steam](http://store.steampowered.com/app/575450/Graceful_Explosion_Machine) / [eshop](http://www.nintendo.com/games/detail/graceful-explosion-machine-switch) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-297435445)
@@ -108,5 +109,4 @@ Help us complete this list!
 | Game | Wonder Boy: The Dragon's Trap | [homepage](http://www.TheDragonsTrap.com) / [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-262975159) |
 | Engine | XT | [github](https://github.com/invghost/XT) |
 | Misc | Zep | [github](https://github.com/cmaughan/zep) |
-| Game | Zombie Tsunami | [appstore](https://itunes.apple.com/us/app/zombie-tsunami/id529652920?mt=8) |
-| App  | GNOMIC | [bitbucket](https://bitbucket.org/gnomicSolver/gnomic/src/master/)
+| Game | Zombie Tsunami | [appstore](https://itunes.apple.com/us/app/zombie-tsunami/id529652920?mt=8)
