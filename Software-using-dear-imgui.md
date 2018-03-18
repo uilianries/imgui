@@ -85,6 +85,7 @@ Help us complete this list!
 | App | SpecialK Modding System | [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-295128588)
 | App | Splash | [homepage](https://github.com/paperManu/splash/wiki) / [shot](https://github.com/ocornut/imgui/issues/539#issuecomment-192671061)
 | App | SpiritCalc | [github](https://github.com/ShrewdSpirit/SpiritCalc)
+| Game | Squarium | [homepage](https://bartveldstra.com/game/squarium/) / [play store](https://play.google.com/store/apps/details?id=nl.ghostweb.Squarium)
 | App | SoShade | [shot](https://twitter.com/aiekick/status/915133246157008896)
 | App | Stagemaster | [homepage](http://cityboundsim.com/devblog/introducing-stagemaster) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-299647845)
 | Game | Tearaway | [homepage](http://tearaway.mediamolecule.com/)
