@@ -1,6 +1,6 @@
 Help us complete this list!
 
-- Large game studios, where people are the most likely to make good use of the library, are also traditionally the least likely to share shots or footage of their internal tools. If you work on a project using dear imgui, please consider sharing tool footage in the [gallery threads](https://github.com/ocornut/imgui/issues/1607), or at least sharing the fact that you are using the library. I known of a dozen large studios (not on this list) using the library that I cannot list as I am under NDA (hopefully they will eventually be ok with sharing info).
+- Large game studios, where people are the most likely to make good use of the library, are also traditionally the least likely to share shots or footage of their internal tools. If you work on a project using dear imgui, please consider sharing tool footage in the [gallery threads](https://github.com/ocornut/imgui/issues/1607), or at least sharing the fact that you are using the library. I know of a dozen large studios (not on this list) using the library that I cannot list as I am under NDA (hopefully they will eventually be ok with sharing info).
 
 - The library is used by also lots of smaller personal, research or throwaway projects that are difficult to track. 
 
@@ -91,6 +91,7 @@ Help us complete this list!
 | Game | Tearaway | [homepage](http://tearaway.mediamolecule.com/)
 | Game | Tearaway Unfolded | [homepage](http://tearaway.mediamolecule.com/) / [shots](https://github.com/ocornut/imgui/issues/539#issuecomment-193710713)
 | Engine | Thorium 3D | [shots](https://github.com/ocornut/imgui/issues/772#issuecomment-268208362) / [shots](https://github.com/ocornut/imgui/issues/973#issuecomment-286752876)
+| Engine | Tristeon | [github](https://github.com/HyperionDH/Tristeon)
 | Game | TT Isle of Man: Ride of the Edge | [shots](https://github.com/ocornut/imgui/issues/1269#issuecomment-322049726)
 | App | TwoTriangles | [github](https://github.com/fabioarnold/TwoTriangles)
 | Engine | Unknown engine @antoniozero | [shot](https://github.com/ocornut/imgui/issues/1269#issuecomment-320994182)
