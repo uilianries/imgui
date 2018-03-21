@@ -11,7 +11,7 @@ Help us complete this list!
 | Game | Avoyd | [homepage](https://www.enkisoftware.com) / [shot](https://github.com/ocornut/imgui/issues/707#issuecomment-226993714)
 | App | b2 | [homepage](https://github.com/tom-seddon/b2) / [shot](https://github.com/ocornut/imgui/issues/1269#issuecomment-340313270)
 | App | BASIC8 | [homepage](https://paladin-t.github.io/b8/) / [steam](store.steampowered.com/app/767240/)
-| Game | Below | [homepage](http://www.whatliesbelow.com)
+| Game | Below | [homepage](http://www.whatliesbelow.com) / [shots](https://github.com/ocornut/imgui/issues/973#issuecomment-301079827)
 | Game | Boundless | [homepage](http://playboundless.com) / [shot](https://github.com/ocornut/imgui/issues/539#issuecomment-234486231) / [shots](https://github.com/ocornut/imgui/issues/539#issuecomment-236357140) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-276030982)
 | Game | Brigador | [steam](http://store.steampowered.com/app/274500/Brigador_UpArmored_Edition)
 | App | Cacu Studio | [video](https://v.qq.com/x/page/i0181kqlx02.html)
@@ -25,7 +25,7 @@ Help us complete this list!
 | Game | Dreams | [homepage](http://dreams.mediamolecule.com) |
 | Game | Dual Universe | [homepage](https://www.dualthegame.com) / [video](https://www.youtube.com/watch?v=WTvT4BAg7RI) |
 | Game | Dungeons of Everchange | [homepage](http://www.darkgnosis.com/game/dungeons-of-everchange/) |
-| App | Electric Eye | [video](https://www.youtube.com/watch?v=uEQ3be0ss2A)
+| App | Electric Eye | [video](https://www.youtube.com/watch?v=uEQ3be0ss2A) / [shot](https://cloud.githubusercontent.com/assets/8225057/22478523/9062f8fe-e7ea-11e6-8761-f29cb317bf1a.jpg)
 | Engine | EtherealEngine | [github](https://github.com/volcoma/EtherealEngine) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-276082731)
 | App | Geocod/Geogram | [homepage](http://homepages.loria.fr/BLevy/GEOGRAM) / [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-249678740) / [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-270942101) |
 | Engine | GeeXLab | [homepage](http://www.geeks3d.com/geexlab/)
@@ -34,7 +34,7 @@ Help us complete this list!
 | App | gputop | [github](https://github.com/rib/gputop/) / [web demo](http://www.gputop.com/)
 | App | gpuvis | [github](https://github.com/mikesart/gpuvis) / [shot](https://github.com/ocornut/imgui/issues/1269#issuecomment-325657871)
 | Game | Graceful Explosion Machine | [steam](http://store.steampowered.com/app/575450/Graceful_Explosion_Machine) / [eshop](http://www.nintendo.com/games/detail/graceful-explosion-machine-switch) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-297435445)
-| Misc | Guberniya | [homepage](http://www.pouet.net/prod.php?which=69652) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-298192944) / [blog](http://www.lofibucket.com/articles/64k_intro.html#the-tool)
+| Demo | Guberniya | [homepage](http://www.pouet.net/prod.php?which=69652) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-298192944) / [blog](http://www.lofibucket.com/articles/64k_intro.html#the-tool)
 | Game | GunHero | [steam](http://store.steampowered.com/app/568840/GunHero/)
 | Engine | FishEngine | [github](https://github.com/yushroom/FishEngine) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-282622054)
 | Game | Fisherboy | [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-315665148) |
@@ -78,8 +78,8 @@ Help us complete this list!
 | Game | Re:creation | [blog](https://eliasdaler.github.io/) |
 | App | Redream | [homepage](https://github.com/inolen/redream) / [github](https://github.com/inolen/redream/)
 | Engine | RCRL (Read-Compile-Run-Loop) | [github](https://github.com/onqtam/rcrl)
-| Demo | Rise and Shine | [homepage](http://www.pouet.net/prod.php?which=68178)
-| App | ScalaPixel | [github](https://github.com/lapinozz/ScalaPixel) / [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-248404445)
+| Demo | Rise and Shine | [homepage](http://www.pouet.net/prod.php?which=68178) / [shot](https://user-images.githubusercontent.com/8225057/37464207-f1ec0a8a-2857-11e8-9f84-bbc4eede53ba.jpg)
+| App | ScalaPixel | [github](https://github.com/lapinozz/ScalaPixel) / [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-248404445) / [shot](https://user-images.githubusercontent.com/8225057/37464208-f201c8ac-2857-11e8-97be-66010be9e7be.jpg)
 | Game | Seaquence | [homepage](http://okaynokay.xyz/seaquence) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-308277401)
 | Game | SNES Classic Mini | [shot](https://user-images.githubusercontent.com/8225057/31039823-4aef87e2-a581-11e7-8329-077f5ded258d.jpg)
 | App | SpecialK Modding System | [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-295128588)
