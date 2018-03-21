@@ -73,7 +73,7 @@ Main ImGui repository include examples for DirectX9, DirectX10, DirectX11, Direc
 - Flexium/SFML (FlexGUI): https://github.com/DXsmiley/FlexGUI
 - GML/GameMaker Studio 2 (ImGuiGML): https://marketplace.yoyogames.com/assets/6221/imguigml
 - Irrlicht Engine (IrrIMGUI): https://github.com/ZahlGraf/IrrIMGUI
-- Ogre: https://bitbucket.org/LMCrashy/ogreimgui/src
+- Ogre: https://bitbucket.org/LMCrashy/ogreimgui/src, https://github.com/OGRECave/ogre-imgui
 - OpenSceneGraph/OSG: https://gist.github.com/fulezi/d2442ca7626bf270226014501357042c
 - openFrameworks (ofxImGui): https://github.com/jvcleave/ofxImGui
 - LÖVE+LUA: https://github.com/slages/love-imgui
