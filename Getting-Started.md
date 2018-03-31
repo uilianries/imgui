@@ -202,7 +202,7 @@ void setup(GLFWwindow* window)
         display_width,
         display_height;
     GLuint g_FontTexture;
-
+    ImGui::CreateContext();
     ImGuiIO& io { ImGui::GetIO() };
 
     io.Fonts->GetTexDataAsAlpha8(&pixels, &width, &height);
