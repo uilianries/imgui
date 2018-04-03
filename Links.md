@@ -78,6 +78,7 @@ Main ImGui repository include examples for DirectX9, DirectX10, DirectX11, Direc
 - openFrameworks (ofxImGui): https://github.com/jvcleave/ofxImGui
 - LÖVE+LUA: https://github.com/slages/love-imgui
 - NanoRT (software raytraced): https://github.com/syoyo/imgui/tree/nanort/examples/raytrace_example
+- Nim Game Lib: https://github.com/cavariux/nimgl
 - Qt3d: https://github.com/alpqr/imgui-qt3d
 - SFML: https://github.com/EliasD/imgui-sfml or https://github.com/Mischa-Alff/imgui-backends
 - Sokol (sample): https://github.com/floooh/sokol-samples/blob/master/glfw/imgui-glfw.cc
