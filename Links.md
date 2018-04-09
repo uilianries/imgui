@@ -81,6 +81,7 @@ Main ImGui repository include examples for DirectX9, DirectX10, DirectX11, Direc
 - Nim Game Lib: https://github.com/cavariux/nimgl
 - Qt3d: https://github.com/alpqr/imgui-qt3d
 - SFML: https://github.com/EliasD/imgui-sfml or https://github.com/Mischa-Alff/imgui-backends
+- Software renderer: https://github.com/emilk/imgui_software_renderer
 - Sokol (sample): https://github.com/floooh/sokol-samples/blob/master/glfw/imgui-glfw.cc
 - Unreal Engine 4: https://github.com/segross/UnrealImGui or https://github.com/sronsse/UnrealEngine_ImGui
 
