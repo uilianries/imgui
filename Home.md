@@ -25,6 +25,7 @@ Third party repos
 - ImGui::Auto() leverage C++17 to automatically serialize any data into imgui interfaces [[github](https://github.com/Csabix/imgui/tree/master/auto)]
 - MetricsGui: controls for displaying performance metrics [[github](https://github.com/GameTechDev/MetricsGui)]
 - ImGuiVR: Demo code for using Imgui with OpenVR [[github](https://github.com/temcgraw/ImguiVR)] [[video](https://www.youtube.com/watch?v=nlwfn4HJw5E)]
+- Software Renderer for Dear ImGui [[github](https://github.com/emilk/imgui_software_renderer)] by @emilk
 
 Docking extensions
 (Note: an official docking extension is now in the work, Dec 2017, see  [#351](https://github.com/ocornut/imgui/issues/351) and [#1542](https://github.com/ocornut/imgui/issues/1542))
