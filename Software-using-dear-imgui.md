@@ -47,6 +47,7 @@ Help us complete this list!
 | Game | Hellbreaker | [homepage](https://enhex.itch.io/hellbreaker) / [shot](https://img.itch.zone/aW1hZ2UvMTY5MjQ4Lzg2MTI5NC5qcGc=/original/1InRJS.jpg)
 | Game | Hexterminate | [homepage](http://www.pedro-nunes.net/hexterminate/)
 | App | IceSL | [homepage](http://shapeforge.loria.fr/icesl/)
+| Game | Indivisible | [homepage](http://www.indivisiblegame.com/)
 | Misc | Inori-Prayer | [homepage](http://www.k2.t.u-tokyo.ac.jp/vision/WOW_TOKYO_AYABAMBI/index-e.html) 
 | Misc | Intel RealSense SDK | [homepage](https://realsense.intel.com/sdk/) / [gif](https://github.com/ocornut/imgui/issues/1269#issuecomment-358929119)
 | App | JangaFX | [homepage](https://jangafx.com/)
