@@ -110,6 +110,7 @@ Help us complete this list!
 | Game | WiLD | [homepage](http://www.wildsheepstudio.com) / [shots](https://github.com/ocornut/imgui/issues/539#issuecomment-193720307) |
 | App | What The Loop | [shot](https://github.com/ocornut/imgui/issues/1269#issuecomment-332807951)
 | Game | Wonder Boy: The Dragon's Trap | [homepage](http://www.TheDragonsTrap.com) / [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-262975159) |
+| Game Plugin | XSquawkBox 2.0 (yet to be released) | [homepage](http://xsb.xsquawkbox.net/) [shot](http://xsb.xsquawkbox.net/wp-content/uploads/sites/6/2018/03/XSB-NewUI-WIP.png) [binding src](https://github.com/kuroneko/xsb_public/) |
 | Engine | XT | [github](https://github.com/invghost/XT) |
 | Misc | Zep | [github](https://github.com/cmaughan/zep) |
 | Game | Zombie Tsunami | [appstore](https://itunes.apple.com/us/app/zombie-tsunami/id529652920?mt=8)
