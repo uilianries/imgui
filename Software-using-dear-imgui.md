@@ -2,9 +2,11 @@ Help us complete this list!
 
 - Large game studios, where people are the most likely to make good use of the library, are also traditionally the least likely to share shots or footage of their internal tools. If you work on a project using dear imgui, please consider sharing tool footage in the [gallery threads](https://github.com/ocornut/imgui/issues/1607), or at least sharing the fact that you are using the library (through talks, publications, blog posts). I am in contact with various high-profile studios who have used dear imgui but details are unfortunately not disclosable.
 
+- The field listing author/company/team name is provided to make this list easier to parse. It doesn't imply endorsement from said author/company/team. 
+
 - The library is used by also lots of smaller personal, research or throwaway projects that are difficult to track. 
 
-- The field listing author/company/team name is provided to make this list easier to parse. It doesn't imply endorsement from said author/company/team. 
+----
 
 | Type | By | Title | Links |
 | ---- | ------ | ----- | ----- |
