@@ -1,10 +1,10 @@
 Help us complete this list!
 
-- Large game studios, where people are the most likely to make good use of the library, are also traditionally the least likely to share shots or footage of their internal tools. If you work on a project using dear imgui, please consider sharing tool footage in the [gallery threads](https://github.com/ocornut/imgui/issues/1607), or at least sharing the fact that you are using the library (through talks, publications, blog posts). I am in contact with various high-profile studios who have used dear imgui but details are unfortunately not disclosable.
+- Large game studios, where people are the most likely to make fancy use of the library, are also traditionally the least likely to share shots or footage of their internal tools. If you work on a project using dear imgui, please consider sharing tool footage in the [gallery threads](https://github.com/ocornut/imgui/issues/1607), or at least sharing the fact that you are using the library (through talks, publications, blog posts, twitter shout-outs). I am in contact with various high-profile studios who are using dear imgui but many are unfortunately not disclosable.
 
-- The field listing author/company/team name is provided to make this list easier to parse and contextualize. It doesn't imply endorsement from said author/company/team. 
+- The field listing author/company/team name is provided to make this list easier to parse and contextualize. It doesn't imply any endorsement from said author/company/team. 
 
-- The library is used by also lots of smaller personal, research or throwaway projects that are difficult to track. 
+- The library is used by also lots of smaller personal, research or throwaway projects that are difficult to track and not listed here. 
 
 ----
 
@@ -16,10 +16,10 @@ Help us complete this list!
 | App | b2 | | [homepage](https://github.com/tom-seddon/b2) / [shot](https://github.com/ocornut/imgui/issues/1269#issuecomment-340313270)
 | App | BASIC8 | Tony Wang | [homepage](https://paladin-t.github.io/b8/) / [steam](store.steampowered.com/app/767240/)
 | Game | Below | Capybara Games | [homepage](http://www.whatliesbelow.com) / [shots](https://github.com/ocornut/imgui/issues/973#issuecomment-301079827)
-| Game | Boundless | Wonderstruck Games | [homepage](http://playboundless.com) / [shot](https://github.com/ocornut/imgui/issues/539#issuecomment-234486231) / [shots](https://github.com/ocornut/imgui/issues/539#issuecomment-236357140) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-276030982)
+| Game | Boundless | Wonderstruck Games | [homepage](http://playboundless.com) / [shots 1](https://github.com/ocornut/imgui/issues/539#issuecomment-234486231), [2](https://github.com/ocornut/imgui/issues/539#issuecomment-236357140), [3](https://github.com/ocornut/imgui/issues/973#issuecomment-276030982)
 | Game | Brigador | Stellar Jockeys | [steam](http://store.steampowered.com/app/274500/Brigador_UpArmored_Edition)
 | App | Cacu Studio | | [video](https://v.qq.com/x/page/i0181kqlx02.html)
-| App | CADRays | | [homepage](https://www.opencascade.com/content/cadrays) / [video](https://www.youtube.com/watch?v=D6_uGxmhuVk) 
+| App | CADRays | Open Cascade | [homepage](https://www.opencascade.com/content/cadrays) / [video](https://www.youtube.com/watch?v=D6_uGxmhuVk) 
 | App | Cheevos Hunter | @leiradel | [github](https://github.com/leiradel/CheevosHunter) / [shot](https://raw.githubusercontent.com/leiradel/CheevosHunter/master/ch.png)
 | Game | Chrono-Drive | | [video](https://www.youtube.com/watch?v=gFbh4wxZ6DE&feature=youtu.be&t=2m3s) |
 | Misc | Cinder-Experiments | @simongeilfus | [github](https://github.com/simongeilfus/Cinder-Experiments)
@@ -43,7 +43,7 @@ Help us complete this list!
 | Game | GunHero | Olli-Samuli Lehmus | [steam](http://store.steampowered.com/app/568840/GunHero/)
 | Engine | FishEngine | | [github](https://github.com/yushroom/FishEngine) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-282622054)
 | Game | Fisherboy | | [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-315665148) |
-| Game | Fugl | Team Fulg | [steam](https://store.steampowered.com/app/643810/Fugl/) / [homepage](http://fuglgame.com) |
+| Game | Fugl | Team Fugl | [steam](https://store.steampowered.com/app/643810/Fugl/) / [homepage](http://fuglgame.com) |
 | App | graph based noise tool | | [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-288334906)
 | App | Graphic Depictions | | [github](https://github.com/blackhole89/graphicdepictions) / [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-254023884) 
 | App | Goxel | | [homepage](https://guillaumechereau.github.io/goxel)
@@ -61,7 +61,7 @@ Help us complete this list!
 | Engine | Kit Framework | | [shot](https://github.com/ocornut/imgui/issues/539#issuecomment-226131049)
 | Game | Librelancer | | [shot](https://camo.githubusercontent.com/746f970dbd4f0b2fb64df8e188cce35e023fbd5c/68747470733a2f2f692e696d6775722e636f6d2f666b344f6164382e706e67) / [github](https://github.com/Librelancer/Librelancer)
 | Game | Limit Theory | Procedural Reality | [homepage](http://ltheory.com/) / [blog](http://forums.ltheory.com/viewtopic.php?f=30&t=6459#p160975) / [shots](https://github.com/ocornut/imgui/issues/1607#issuecomment-372018336)
-| App | MAME | | [homepage](http://mamedev.org/) [alternate debugger](https://github.com/ocornut/imgui/issues/539#issuecomment-211326923)
+| App | MAME (alternate debugger) | | [homepage](http://mamedev.org/) / [shot](https://github.com/ocornut/imgui/issues/539#issuecomment-211326923)
 | Game | Moonman/MoonQuest | @eigenbom | [kickstarter](https://www.kickstarter.com/projects/eigenbom/moonman) / [dev blog](http://discuss.moonman.io/t/june-12-2016/1478)
 | Game | Monster Boy | Game Atelier | [homepage](http://www.monsterboy.com)
 | Game | Mount & Blade II Bannerlord | TaleWorlds | [blog](https://www.taleworlds.com/en/Games/Bannerlord/Blog/25) / [shot](https://user-images.githubusercontent.com/8225057/30460822-b4e9cadc-99b9-11e7-97fd-377a615b1e4e.jpg)
@@ -107,6 +107,7 @@ Help us complete this list!
 | App | Unknown tool | @mellinoe | [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-274290052)
 | App | Unknown animation tool | ArenaNet | [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-241142663)
 | App | Unknown sprite editor | @johanwendin | [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-294857022)
+| App | Unknown software | Airbus | [video](https://youtu.be/Te3qptOwTK4?t=20s) (at 00:20)
 | App | vdb | | [homepage](https://lightbits.github.io/vdb/) / [gallery](https://github.com/lightbits/vdb/blob/master/gallery.md)
 | App | virtualkc | | [homepage](http://floooh.github.io/virtualkc) |
 | App | Visual Designer 3D | | [video](https://www.youtube.com/watch?v=211NzYhNSFQ)
@@ -115,7 +116,7 @@ Help us complete this list!
 | Game | WiLD | Wild Sheep Studio | [homepage](http://www.wildsheepstudio.com) / [shots](https://github.com/ocornut/imgui/issues/539#issuecomment-193720307) |
 | App | What The Loop | | [shot](https://github.com/ocornut/imgui/issues/1269#issuecomment-332807951)
 | Game | Wonder Boy: The Dragon's Trap | Lizardcube | [homepage](http://www.TheDragonsTrap.com) / [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-262975159) |
-| Plugin | XSquawkBox 2.0 | | [homepage](http://xsb.xsquawkbox.net/) / [shot](http://xsb.xsquawkbox.net/wp-content/uploads/sites/6/2018/03/XSB-NewUI-WIP.png) / [binding src](https://github.com/kuroneko/xsb_public/) |
+| Plugin | XSquawkBox 2.0 | | [homepage](http://xsb.xsquawkbox.net/) / [shot](http://xsb.xsquawkbox.net/wp-content/uploads/sites/6/2018/03/XSB-NewUI-WIP.png) / [github](https://github.com/kuroneko/xsb_public/) |
 | Engine | XT | | [github](https://github.com/invghost/XT) |
 | Misc | Zep | | [github](https://github.com/cmaughan/zep) |
 | Game | Zombie Tsunami | Mobigame | [appstore](https://itunes.apple.com/us/app/zombie-tsunami/id529652920?mt=8)
