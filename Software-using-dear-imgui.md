@@ -81,9 +81,9 @@ Help us complete this list!
 | Engine | PhyreEngine | SIE R&D West | [homepage](http://rdwest.playstation.com/research-technology/phyreengine)
 | Game | Quake Champions | | [post](https://www.unknowncheats.me/forum/quake-champions/212973-quake-champions-using-imgui.html)
 | App | RayTeak | | [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-248678671)
-| Game | Re:creation | | [blog](https://eliasdaler.github.io/) |
+| Game | Re:creation | @eliasdaler | [blog](https://eliasdaler.github.io/) |
 | App | Redream | | [homepage](https://github.com/inolen/redream) / [github](https://github.com/inolen/redream/)
-| Engine | RCRL (Read-Compile-Run-Loop) | | [github](https://github.com/onqtam/rcrl)
+| Engine | RCRL (Read-Compile-Run-Loop) | @onqtam | [github](https://github.com/onqtam/rcrl)
 | Demo | Rise and Shine | Aberration Creations | [homepage](http://www.pouet.net/prod.php?which=68178) / [shot](https://user-images.githubusercontent.com/8225057/37464207-f1ec0a8a-2857-11e8-9f84-bbc4eede53ba.jpg)
 | App | ScalaPixel | | [github](https://github.com/lapinozz/ScalaPixel) / [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-248404445) / [shot](https://user-images.githubusercontent.com/8225057/37464208-f201c8ac-2857-11e8-97be-66010be9e7be.jpg)
 | Game | Seaquence | | [homepage](http://okaynokay.xyz/seaquence) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-308277401)
