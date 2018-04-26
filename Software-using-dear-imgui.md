@@ -25,6 +25,7 @@ Help us complete this list!
 | Game | Dreams | [homepage](http://dreams.mediamolecule.com) |
 | Game | Dual Universe | [homepage](https://www.dualthegame.com) / [video](https://www.youtube.com/watch?v=WTvT4BAg7RI) |
 | Game | Dungeons of Everchange | [homepage](http://www.darkgnosis.com/game/dungeons-of-everchange/) |
+| App | Effekseer | [homepage](https://twitter.com/Effekseer)
 | App | Electric Eye | [video](https://www.youtube.com/watch?v=uEQ3be0ss2A) / [shot](https://cloud.githubusercontent.com/assets/8225057/22478523/9062f8fe-e7ea-11e6-8761-f29cb317bf1a.jpg)
 | Engine | EtherealEngine | [github](https://github.com/volcoma/EtherealEngine) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-276082731)
 | App | Geocod/Geogram | [homepage](http://homepages.loria.fr/BLevy/GEOGRAM) / [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-249678740) / [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-270942101) |
