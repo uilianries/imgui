@@ -75,6 +75,7 @@ Help us complete this list!
 | App | OpenBoardView | | [homepage](http://openboardview.org)
 | App | OpenPlanet | | [homepage](https://openplanet.nl/) / [shots](https://github.com/ocornut/imgui/issues/1269#issuecomment-359883857)
 | App | OpenSpace | | [homepage](http://openspaceproject.com) / [github](https://github.com/OpenSpace/OpenSpace)
+| App | Panorama | @ronen25 | [github](https://github.com/ronen25/panorama)
 | Game | Pionner Space Sim | | [homepage](https://pioneerspacesim.net/) / [github](https://github.com/pioneerspacesim/pioneer)
 | Game | Pirate Power | Godzilab | [app store](https://itunes.apple.com/us/app/pirate-power/id605057245) / [google play](https://play.google.com/store/apps/details?id=com.godzilab.happypirate&hl=en)
 | App | PiSP | | [github](https://github.com/twentytwoo/PiSP)
