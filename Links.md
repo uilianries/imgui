@@ -23,6 +23,9 @@ Go (go-imgui): Go bindings for the dear imgui immediate mode GUI library
 Haxe/hxcpp (linc_imgui): binding for imgui
 <br>https://github.com/Aidan63/linc_imgui
 
+Java (jimgui): Pure Java binding for dear imgui 
+<br>https://github.com/ice1000/jimgui
+
 JavaScript (imgui-js): JavaScript bindings for Dear ImGui using Emscripten and TypeScript
 <br>https://github.com/flyover/imgui-js + also see [web demo](https://flyover.github.io/imgui-js/example/)
 
