@@ -58,7 +58,7 @@ Pascal (imgui-pas): pascal bindings for imgui
 
 ### Port/rewrites
 
-Java - JVM port, written in Kotlin, 100% Java compatible
+Java - JVM port/rewrite, written in Kotlin
 <br>https://github.com/kotlin-graphics/imgui
 
 ### Framework/engine bindings
@@ -80,6 +80,7 @@ Main ImGui repository include examples for DirectX9, DirectX10, DirectX11, Direc
 - OpenSceneGraph/OSG: https://gist.github.com/fulezi/d2442ca7626bf270226014501357042c
 - openFrameworks (ofxImGui): https://github.com/jvcleave/ofxImGui
 - LÖVE+LUA: https://github.com/slages/love-imgui
+- Magnum: https://github.com/lecopivo/magnum-imgui, https://github.com/lecopivo/MagnumImguiPort
 - NanoRT (software raytraced): https://github.com/syoyo/imgui/tree/nanort/examples/raytrace_example
 - Nim Game Lib: https://github.com/cavariux/nimgl
 - Qt3d: https://github.com/alpqr/imgui-qt3d
