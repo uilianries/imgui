@@ -32,6 +32,9 @@ JavaScript (imgui-js): JavaScript bindings for Dear ImGui using Emscripten and T
 Odin: Odin binding for Dear ImGui
 <br>https://github.com/ThisDrunkDane/odin-dear_imgui
 
+Pascal (imgui-pas): pascal bindings for imgui
+<br>https://github.com/dpethes/imgui-pas
+
 Python (CyImGui): Python bindings for ImGui using Cython.
 <br>https://github.com/chromy/cyimgui
 
@@ -52,9 +55,6 @@ Lua: imgui bindings for lua (also see: LOVE binding)
 
 Lua: FFI bindings for LuaJIT
 <br>https://github.com/thenumbernine/lua-ffi-bindings
-
-Pascal (imgui-pas): pascal bindings for imgui
-<br>https://github.com/dpethes/imgui-pas
 
 ### Port/rewrites
 
