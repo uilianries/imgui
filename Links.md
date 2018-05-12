@@ -29,6 +29,12 @@ Java (jimgui): Pure Java binding for dear imgui
 JavaScript (imgui-js): JavaScript bindings for Dear ImGui using Emscripten and TypeScript
 <br>https://github.com/flyover/imgui-js + also see [web demo](https://flyover.github.io/imgui-js/example/)
 
+Lua: imgui bindings for lua (also see: LOVE binding)
+<br>https://github.com/patrickriordan/imgui_lua_bindings
+
+Lua: FFI bindings for LuaJIT
+<br>https://github.com/thenumbernine/lua-ffi-bindings
+
 Odin: Odin binding for Dear ImGui
 <br>https://github.com/ThisDrunkDane/odin-dear_imgui
 
@@ -49,12 +55,6 @@ Rust (imgui-rs): Rust bindings for ImGui
 
 Rust: "ImStr" Patch by @bitshifter to use string-range more commonly instead of zero-terminated strings.
 <br>https://github.com/ocornut/imgui/pull/683
-
-Lua: imgui bindings for lua (also see: LOVE binding)
-<br>https://github.com/patrickriordan/imgui_lua_bindings
-
-Lua: FFI bindings for LuaJIT
-<br>https://github.com/thenumbernine/lua-ffi-bindings
 
 ### Port/rewrites
 
