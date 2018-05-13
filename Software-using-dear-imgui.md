@@ -69,7 +69,7 @@ Help us complete this list!
 | App | ledSynthMaster | | [github](https://github.com/olekristensen/ledSynthMaster) / [shot](https://github.com/ocornut/imgui/issues/539#issuecomment-233914952)
 | Engine | Lumix Engine | @nem0 | [github](https://github.com/nem0/LumixEngine) / [shots](https://github.com/ocornut/imgui/issues/1269#issuecomment-322048463)
 | Game | Lumote | Luminawesome Games | [homepage](http://www.luminawesome.com) / [shot](https://github.com/ocornut/imgui/issues/539#issuecomment-199952613)
-| App | LuxCore GUI | | [bitbucket](https://bitbucket.org/luxrender/luxrays/overview) / [shots](https://github.com/ocornut/imgui/issues/123#issuecomment-163197372)
+| App | LuxCoreUI | | [github](https://github.com/LuxCoreRender/LuxCore) / [shots](https://github.com/ocornut/imgui/issues/123#issuecomment-163197372)
 | App | Oculus Medium | Oculus | [homepage](https://www.oculus.com/medium/)
 | App | OvinVR | OdinVR | [homepage](http://odenvr.com)
 | Game | Overgrowth | Wolfire Games | [homepage](http://www.wolfire.com/overgrowth) / [shots](https://github.com/ocornut/imgui/issues/973#issuecomment-277081512)
