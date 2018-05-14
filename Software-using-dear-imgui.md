@@ -28,9 +28,10 @@ Help us complete this list!
 | Engine | Directus3D | | [github](https://github.com/PanosK92/Directus3D)
 | Game | Dreams | Media Molecule | [homepage](http://dreams.mediamolecule.com) |
 | Game | Dual Universe | Novaquark | [homepage](https://www.dualthegame.com) / [video](https://www.youtube.com/watch?v=WTvT4BAg7RI) |
-| Game | Dungeons of Everchange | Dark Gnosis | [homepage](http://www.darkgnosis.com/game/dungeons-of-everchange/) |
+| Game | Dungeons of Everchange | Dark Gnosis | [homepage](http://www.darkgnosis.com/game/dungeons-of-everchange/) / [shots](https://github.com/ocornut/imgui/issues/1607#issuecomment-387039874) |
 | App | Effekseer | | [homepage](https://twitter.com/Effekseer)
 | App | Electric Eye | Netflix | [video](https://www.youtube.com/watch?v=uEQ3be0ss2A) / [shot](https://cloud.githubusercontent.com/assets/8225057/22478523/9062f8fe-e7ea-11e6-8761-f29cb317bf1a.jpg)
+| Engine | Enjon | | [shot](https://user-images.githubusercontent.com/7358367/39782964-3dc7eb6c-52d9-11e8-8029-723ea5fa5546.png) / [video](https://www.youtube.com/watch?v=fHUdVhmsi6s&t=855s)
 | Engine | EtherealEngine | | [github](https://github.com/volcoma/EtherealEngine) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-276082731)
 | App | Geocod/Geogram | Loria | [homepage](http://homepages.loria.fr/BLevy/GEOGRAM) / [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-249678740) / [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-270942101) |
 | Engine | GeeXLab | | [homepage](http://www.geeks3d.com/geexlab/)
@@ -47,7 +48,7 @@ Help us complete this list!
 | App | graph based noise tool | | [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-288334906)
 | App | Graphic Depictions | | [github](https://github.com/blackhole89/graphicdepictions) / [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-254023884) 
 | App | Goxel | | [homepage](https://guillaumechereau.github.io/goxel)
-| Engine | Harfang 3d | Movida Production | [homepage](https://www.harfang3d.com)
+| Engine | Harfang 3d | Movida Production | [homepage](https://www.harfang3d.com) / [shot](https://user-images.githubusercontent.com/8225057/39697837-9e758aba-51f2-11e8-91a9-834d33b5351f.jpg)
 | App | HCK_ | | [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-274636854)
 | Game | Hellbreaker | | [homepage](https://enhex.itch.io/hellbreaker) / [shot](https://img.itch.zone/aW1hZ2UvMTY5MjQ4Lzg2MTI5NC5qcGc=/original/1InRJS.jpg)
 | Game | Hexterminate | | [homepage](http://www.pedro-nunes.net/hexterminate/)
@@ -66,6 +67,7 @@ Help us complete this list!
 | Game | Moonman/MoonQuest | @eigenbom | [kickstarter](https://www.kickstarter.com/projects/eigenbom/moonman) / [dev blog](http://discuss.moonman.io/t/june-12-2016/1478)
 | Game | Monster Boy | Game Atelier | [homepage](http://www.monsterboy.com)
 | Game | Mount & Blade II Bannerlord | TaleWorlds | [blog](https://www.taleworlds.com/en/Games/Bannerlord/Blog/25) / [shot](https://user-images.githubusercontent.com/8225057/30460822-b4e9cadc-99b9-11e7-97fd-377a615b1e4e.jpg)
+| App | Nodable | | [github](https://github.com/berdal84/Nodable)
 | App | ledSynthMaster | | [github](https://github.com/olekristensen/ledSynthMaster) / [shot](https://github.com/ocornut/imgui/issues/539#issuecomment-233914952)
 | Engine | Lumix Engine | @nem0 | [github](https://github.com/nem0/LumixEngine) / [shots](https://github.com/ocornut/imgui/issues/1269#issuecomment-322048463)
 | Game | Lumote | Luminawesome Games | [homepage](http://www.luminawesome.com) / [shot](https://github.com/ocornut/imgui/issues/539#issuecomment-199952613)
