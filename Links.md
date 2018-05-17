@@ -95,6 +95,10 @@ Main ImGui repository include examples for DirectX9, DirectX10, DirectX11, Direc
 - ImWindow: Window and GUI system, include docking/floating window, multi window and multi render support https://github.com/thennequin/ImWindow
 - imgui_wm: based on ImWindow above https://github.com/bkaradzic/bgfx/tree/master/3rdparty/ocornut-imgui
 - Docking solutions: https://github.com/ocornut/imgui/issues/351
+
+### Packaging cruft
+
+- Conan https://github.com/bincrafters/conan-imgui, https://bintray.com/bincrafters/public-conan/imgui%3Abincrafters
 - Fips (fips-imgui): fipsified imgui for fips build system https://github.com/fungos/fips-imgui
 
 ### Articles
