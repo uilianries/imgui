@@ -4,7 +4,7 @@ Help us complete this list!
 
 - The field listing author/company/team name is provided to make this list easier to parse and contextualize. It doesn't imply any endorsement from said author/company/team. 
 
-- The library is used by also lots of smaller personal, research or throwaway projects that are difficult to track and not listed here. 
+- The library is also used by many smaller personal, research or throwaway projects that are difficult to track and not listed here. 
 
 ----
 
