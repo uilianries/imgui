@@ -56,6 +56,9 @@ Rust (imgui-rs): Rust bindings for ImGui
 Rust: "ImStr" Patch by @bitshifter to use string-range more commonly instead of zero-terminated strings.
 <br>https://github.com/ocornut/imgui/pull/683
 
+Rust: imgui-opengl-renderer
+<br>https://github.com/michaelfairley/rust-imgui-opengl-renderer
+
 Swift (Swift-imgui): Dear ImGui Swift Wrapper API for macOS and iOS 
 <br>https://github.com/mnmly/Swift-imgui
 
