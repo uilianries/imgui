@@ -1,4 +1,4 @@
-Refer to TODO.txt for a more detailed list
+This is a higher-level list of intent. Refer to TODO.txt for a more detailed list.
 
 ## Viewport
 
