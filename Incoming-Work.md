@@ -1,3 +1,5 @@
+Refer to TODO.txt for a more detailed list
+
 ## Viewport
 
 - Improve Viewport branch toward merging in Master.
@@ -20,13 +22,13 @@
 
 ## Columns, Table
 
-- Redesign Columns/Table API
-- With e.g.: Header, re-ordering, sizing policy, persistence, sorting, scrolling with visible headers, etc.
+- Redesign Columns/Table API.
+- With features such e.g.: Header, re-ordering, sizing policy, persistence, sorting, scrolling with visible headers, etc.
 
 ## Styling
 
 - Improve styling support (easier to add more colors, basic inheritance system, cache float4->ImU32 conversions).
-- Improve basic render primitives (gradients, etc.).
+- Improve basic render primitives (allow for gradients, etc.).
 - Optimize basic render primitives (e.g. using 8-way texture for curved shapes, borders, circles) to reduce CPU  +vertices cost.
 - Better default styles.
 
@@ -43,7 +45,8 @@
 
 ## Testing, Doc
 
-- Introduce a testing/documentation framework. Reduce regression, make it easier for anyone to contribute, reduce dependencies on @ocornut.
+- Introduce an auto-testing framework. Reduce regression, make it easier for anyone to contribute, reduce dependencies on @ocornut.
+- The framework could double-down as a documentation generation framework?
 
 ## Misc
 
