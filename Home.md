@@ -11,7 +11,7 @@ imgui_club (officially maintained bits)
 https://github.com/ocornut/imgui_club
 
 - Memory Editor: [imgui_club/imgui_memory_editor/](https://github.com/ocornut/imgui_club/tree/master/imgui_memory_editor)
-- Freetype font atlas renderer: [imgui_club/imgui_freetype/](https://github.com/ocornut/imgui_club/tree/master/imgui_freetype)
+- Freetype renderer: [imgui/misc/freetype/](https://github.com/ocornut/imgui/tree/master/misc/freetype)
 
 Third party repos
 
