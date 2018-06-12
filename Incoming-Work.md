@@ -50,6 +50,7 @@ This is a higher-level list of intent. Refer to TODO.txt for a more detailed lis
 
 ## Misc
 
+- Inputs: Provide a standard IO queue system for apps to not miss events on low framerate without requiring app code to do it.
 - Widgets: Design a way to represent and interact "mixed values" for when a multi-selection set have differing values and the widget represents them.
 - Selection: Range-selection/multi-selection API (to support Shift+Click, Shift+Arrow, etc.).
 - Layout: various layout helpers/improvements (alignment, layout variations for common widgets).
