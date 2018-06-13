@@ -3,6 +3,7 @@ This wiki is in construction, doesn't have much contents and is a total mess. En
 
 - [[Links, Language bindings, Engine bindings|Links]]
 - [[Known Software using dear imgui|Software-using-dear-imgui]]
+- [[Help wanted|Help-wanted]]
 - [[Incoming work|Incoming-work]]
 - [[Developer tips|Developer-Tips]] (for people working _on_ dear imgui)
 - [[A few random tips|Tips]]
