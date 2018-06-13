@@ -7,7 +7,7 @@ Currently looking for help with those things:
 - Mac: imgui_impl_osx.cpp need some love ([#1873](https://github.com/ocornut/imgui/issues/1873))
 - Mac: Wanted a imgui_impl_metal Renderer. ([#1873](https://github.com/ocornut/imgui/issues/1873))
 - Mac, iOS: Example_apple/ has been unmaintained, has too much difference from other examples+binding needs to be reworked.
-- Mobile, Web: Wanted: Make sure the existing OpenGL renderers are compatible with OpenGL ES 2/3 or write separate renderers.
+- Mobile, Web: Wanted: Make sure the existing OpenGL renderers are compatible with whatever WebGL / GL ES versions those platform needs, or write separate renderers if needed.
 - Mobile: Wanted imgui_impl_ios.cpp Platform Binding+Example for iOS (+ use existing renderer).
 - Mobile: Wanted imgui_impl_android.cpp Platform Binding+Example for Android (+ use existing renderer).
 - Web: Wanted imgui_impl_emscripten.cpp Platform Binding+Example for Emscripten (+ use existing renderer to create a new example). ([#336](https://github.com/ocornut/imgui/pull/336))
