@@ -1,5 +1,5 @@
 Welcome to the imgui wiki!
-This wiki is in construction, and not super complete.
+This wiki is in construction.
 
 - [[Language bindings, Framework/Engine bindings|Bindings]]
 - [[Software using dear imgui|Software-using-dear-imgui]]
@@ -8,8 +8,8 @@ This wiki is in construction, and not super complete.
 - [[Developer tips|Developer-Tips]] (for people working _on_ dear imgui)
 - [[Tips|Tips]] (for people working _with_ dear imgui)
 
-imgui_club (officially maintained bits)
-https://github.com/ocornut/imgui_club
+### imgui_club 
+(officially maintained bits)
 
 - Memory Editor: [imgui_club/imgui_memory_editor/](https://github.com/ocornut/imgui_club/tree/master/imgui_memory_editor)
 - Freetype renderer: [imgui/misc/freetype/](https://github.com/ocornut/imgui/tree/master/misc/freetype)
@@ -47,7 +47,7 @@ https://github.com/ocornut/imgui_club
 
 - RemoteImGui: send vertices over the network https://github.com/JordiRos/remoteimgui
 
-### Ideas and codes
+### Other
 
 - Tabs https://github.com/ocornut/imgui/issues/261
 - Splitters https://github.com/ocornut/imgui/issues/319
