@@ -1,12 +1,12 @@
 Welcome to the imgui wiki!
-This wiki is in construction, doesn't have much contents and is a total mess. Enjoy :)
+This wiki is in construction, and not super complete.
 
-- [[Links, Language bindings, Engine bindings|Links]]
-- [[Known Software using dear imgui|Software-using-dear-imgui]]
+- [[Language bindings, Framework/Engine bindings|Bindings]]
+- [[Software using dear imgui|Software-using-dear-imgui]]
 - [[Help wanted|Help-wanted]]
 - [[Incoming work|Incoming-work]]
 - [[Developer tips|Developer-Tips]] (for people working _on_ dear imgui)
-- [[A few random tips|Tips]]
+- [[Tips|Tips]] (for people working _with_ dear imgui)
 
 imgui_club (officially maintained bits)
 https://github.com/ocornut/imgui_club
@@ -14,7 +14,7 @@ https://github.com/ocornut/imgui_club
 - Memory Editor: [imgui_club/imgui_memory_editor/](https://github.com/ocornut/imgui_club/tree/master/imgui_memory_editor)
 - Freetype renderer: [imgui/misc/freetype/](https://github.com/ocornut/imgui/tree/master/misc/freetype)
 
-Third party repos
+### Third party repos
 
 - @flix01's snippets: https://github.com/Flix01/imgui/tree/2015-10-Addons/addons in particular see his [wiki](https://github.com/Flix01/imgui/wiki/ImGui-Addons-Branch-Home)
 - @leiradel's snippets: https://github.com/leiradel/ImGuiAl/
@@ -26,28 +26,28 @@ Third party repos
 - ImGuiVR: Demo code for using Imgui with OpenVR [[github](https://github.com/temcgraw/ImguiVR)] [[video](https://www.youtube.com/watch?v=nlwfn4HJw5E)]
 - Software Renderer for Dear ImGui [[github](https://github.com/emilk/imgui_software_renderer)] by @emilk
 
-Text Editors
+### Text Editors
 - ImGuiColorTextEdit: Colorizing text editor for ImGui [[github](https://github.com/BalazsJako/ImGuiColorTextEdit)]
 - Zep: An embeddable editor, with optional support for using vim keystrokes. [[github](https://github.com/cmaughan/zep)]
 - Scintilla integration [[thread](https://github.com/ocornut/imgui/issues/108)]
 
-Docking extensions
+### Docking extensions
 (Note: an official docking extension is now in the work, Dec 2017, see  [#351](https://github.com/ocornut/imgui/issues/351) and [#1542](https://github.com/ocornut/imgui/issues/1542))
 - Main Docking Thread [#351](https://github.com/ocornut/imgui/issues/351)
 - @nem0's one, from LumixEngine https://github.com/nem0/LumixEngine/tree/master/external/imgui
 - @paniq's one (based on @nem0's), https://github.com/ocornut/imgui/issues/351#issuecomment-219775521
 - @BentleyBlanks's one (based on @paniq's), https://github.com/BentleyBlanks/imguiDock
-- @thennequin's one, with OS window managing https://github.com/thennequin/ImWindow
+- @thennequin's one ImWindow, with OS window managing https://github.com/thennequin/ImWindow
+- imgui_wm: based on ImWindow above https://github.com/bkaradzic/bgfx/tree/master/3rdparty/ocornut-imgui 
 - @edin-purkovic's one https://github.com/edin-purkovic/ImGuiDock
 - @flix01's one, https://github.com/Flix01/imgui/tree/2015-10-Addons/addons/imguidock
 - @aoterodelaroza's one, https://github.com/aoterodelaroza/imgui-goodies
 
-Using dear imgui with STL types (std::vector etc.)
+### Remoting
 
-- https://eliasdaler.github.io/using-imgui-with-sfml-pt2/#using-imgui-with-stl
-- Note that `BeginCombo()` api since 1.53 makes it more natural to use all sorts of containers.
+- RemoteImGui: send vertices over the network https://github.com/JordiRos/remoteimgui
 
-Ideas and codes
+### Ideas and codes
 
 - Tabs https://github.com/ocornut/imgui/issues/261
 - Splitters https://github.com/ocornut/imgui/issues/319
@@ -65,9 +65,11 @@ Ideas and codes
 - Gradient color generator (@galloman) https://gist.github.com/Galloman/8a5d179e432e062550972afcd1ecf112
 - tear imgui: Experiment for a terminal-based renderer for imgui https://github.com/jonvaldes/tear_imgui
 
-Articles, Talks
+### Articles, Talks
+
 - CppCon 2016: Nicolas Guillemot “Dear imgui," https://www.youtube.com/watch?v=LSRJ1jZq90k
 - Why I think Immediate Mode GUI is way to go for GameDev tools https://gist.github.com/bkaradzic/853fd21a15542e0ec96f7268150f1b62
+- Using imgui with STL types (std::vector) https://eliasdaler.github.io/using-imgui-with-sfml-pt2/#using-imgui-with-stl - Note that `BeginCombo()` api since 1.53 makes it more natural to use all sorts of containers.
 - TheChernoProject: ImGui in OpenGL https://www.youtube.com/watch?v=nVaQuNXueFw
 - (Polish) Szkolenie 30.01.2018 z biblioteki dear imgui [Video Part 1](https://www.youtube.com/watch?v=TOop9EGngKY) [2](https://www.youtube.com/watch?v=fh6uOdherYw), [3](https://www.youtube.com/watch?v=bF2eOvsX7kY) [4](https://www.youtube.com/watch?v=rcCReEX6h-M) [5](https://www.youtube.com/watch?v=N2Jan6IizbA) [6](https://www.youtube.com/watch?v=70A0YH9h3Ek) [7](https://www.youtube.com/watch?v=0JRaThBx9Ww) [8](https://www.youtube.com/watch?v=O7PVZ6OKDtI) [9](https://www.youtube.com/watch?v=uIp7tLqFzKo), [Slide](https://docs.google.com/presentation/d/1F3jkWkRGCNrCAKi34KXvrkZ9luhS_7RUwHwdYDTFEiY/preview#slide=id.p) 
 - (Japanese) OpenGLやDirectXなGUIにimguiが最強すぎる https://qiita.com/Ushio/items/446d78c881334919e156
