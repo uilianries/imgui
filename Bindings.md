@@ -95,13 +95,6 @@ Main ImGui repository include examples for DirectX9, DirectX10, DirectX11, Direc
 - Sokol (sample): https://github.com/floooh/sokol-samples/blob/master/glfw/imgui-glfw.cc
 - Unreal Engine 4: https://github.com/segross/UnrealImGui or https://github.com/sronsse/UnrealEngine_ImGui
 
-### Misc
-
-- Remote ImGui: send vertices over the network https://github.com/JordiRos/remoteimgui
-- ImWindow: Window and GUI system, include docking/floating window, multi window and multi render support https://github.com/thennequin/ImWindow
-- imgui_wm: based on ImWindow above https://github.com/bkaradzic/bgfx/tree/master/3rdparty/ocornut-imgui
-- Docking solutions: see https://github.com/ocornut/imgui/wiki
-
 ### Packaging cruft
 
 - Conan https://github.com/bincrafters/conan-imgui, https://bintray.com/bincrafters/public-conan/imgui%3Abincrafters
