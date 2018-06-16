@@ -72,13 +72,12 @@ Java - JVM port/rewrite, written in Kotlin
 Main ImGui repository include examples for DirectX9, DirectX10, DirectX11, DirectX12, OpenGL2/3, Vulkan, Allegro 5, SDL+GL2/3, iOS and Marmalade.
 <br>https://github.com/ocornut/imgui/tree/master/examples
 
-- Unmerged PR: SDL2 + OpenGLES + Emscripten example: https://github.com/ocornut/imgui/pull/336
-- Unmerged PR: SDL2 + Vulkan example: https://github.com/ocornut/imgui/pull/1367
-- Unmerged PR: FreeGlut + OpenGL2 example: https://github.com/ocornut/imgui/pull/801
-- Unmerged PR: Native Win32 and OSX example: https://github.com/ocornut/imgui/pull/281
-- Unmerged PR: Android Example: https://github.com/ocornut/imgui/pull/421
+- Unmerged Branch: imgui_impl_osx.cpp: https://github.com/ocornut/imgui/tree/osx
+- Unmerged PR: SDL2 + OpenGLES + Emscripten example: https://github.com/ocornut/imgui/pull/336 (old example design)
+- Unmerged PR: Native Win32 and OSX example: https://github.com/ocornut/imgui/pull/281 (old example design)
+- Unmerged PR: Android Example: https://github.com/ocornut/imgui/pull/421 (old example design)
 - Cinder: https://github.com/simongeilfus/Cinder-ImGui
-- cocos2d-x: https://github.com/c0i/imguix and https://github.com/ocornut/imgui/issues/551
+- Cocos2d-x: https://github.com/c0i/imguix and https://github.com/ocornut/imgui/issues/551
 - Flexium/SFML (FlexGUI): https://github.com/DXsmiley/FlexGUI
 - GML/GameMaker Studio 2 (ImGuiGML): https://marketplace.yoyogames.com/assets/6221/imguigml
 - Irrlicht Engine (IrrIMGUI): https://github.com/ZahlGraf/IrrIMGUI
@@ -101,17 +100,9 @@ Main ImGui repository include examples for DirectX9, DirectX10, DirectX11, Direc
 - Remote ImGui: send vertices over the network https://github.com/JordiRos/remoteimgui
 - ImWindow: Window and GUI system, include docking/floating window, multi window and multi render support https://github.com/thennequin/ImWindow
 - imgui_wm: based on ImWindow above https://github.com/bkaradzic/bgfx/tree/master/3rdparty/ocornut-imgui
-- Docking solutions: https://github.com/ocornut/imgui/issues/351
+- Docking solutions: see https://github.com/ocornut/imgui/wiki
 
 ### Packaging cruft
 
 - Conan https://github.com/bincrafters/conan-imgui, https://bintray.com/bincrafters/public-conan/imgui%3Abincrafters
 - Fips (fips-imgui): fipsified imgui for fips build system https://github.com/fungos/fips-imgui
-
-### Articles
-
-OpenGLやDirectXなGUIにimguiが最強すぎる (Japanese)
-<br>http://qiita.com/Ushio@github/items/446d78c881334919e156
-
-Using ImGui with modern C++ and STL [...] Part 2. Some tips and tricks.
-<br>https://eliasdaler.github.io/using-imgui-with-sfml-pt2
