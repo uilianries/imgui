@@ -60,7 +60,7 @@ Help us complete this list!
 | App | IceSL | Loria | [homepage](http://shapeforge.loria.fr/icesl/)
 | Game | Indivisible | Lab Zero Games | [homepage](http://www.indivisiblegame.com/)
 | Misc | Inori-Prayer | | [homepage](http://www.k2.t.u-tokyo.ac.jp/vision/WOW_TOKYO_AYABAMBI/index-e.html) 
-| Game | iRacing | iRacing.com Motorsport Simulations | [blog](https://www.iracing.com/road-new-damage/)
+| Game | iRacing | iRacing.com<br>Motorsport Simulations | [blog](https://www.iracing.com/road-new-damage/)
 | Misc | RealSense SDK | Intel | [homepage](https://realsense.intel.com/sdk/) / [gif](https://github.com/ocornut/imgui/issues/1269#issuecomment-358929119)
 | App | JangaFX | JangaFX | [homepage](https://jangafx.com/)
 | Game | Jurassic World Evolution | Frontier | [homepage](http://www.jurassicworldevolutiongame.com)
