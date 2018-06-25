@@ -52,6 +52,7 @@ This wiki is in construction.
 - Tabs https://github.com/ocornut/imgui/issues/261
 - Splitters https://github.com/ocornut/imgui/issues/319
 - Bezier widget (@r-lyeh) https://github.com/ocornut/imgui/issues/786
+- Spinner + Loading Bar progress indicators https://github.com/ocornut/imgui/issues/1901
 - Node graph editors https://github.com/ocornut/imgui/issues/306
 - Log Window https://github.com/ocornut/imgui/issues/300
 - IP Entry Box (@adam4813) https://github.com/ocornut/imgui/issues/388
