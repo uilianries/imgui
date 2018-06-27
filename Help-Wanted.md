@@ -4,7 +4,7 @@ Currently looking for help with those things:
 - Viewport: The multi-viewport branch needs users/testers to move forward! (see Viewport branch and [#1542](https://github.com/ocornut/imgui/issues/1542))
 
 **Platform/Renderer Bindings**
-- Mac: imgui_impl_osx.cpp need some love ([#1873](https://github.com/ocornut/imgui/issues/1873))
+- Mac: imgui_impl_osx.mm need some love ([#1873](https://github.com/ocornut/imgui/issues/1873))
 - Mac: Wanted a imgui_impl_metal Renderer. ([#1873](https://github.com/ocornut/imgui/issues/1873))
 - Mac, iOS: Example_apple/ has been unmaintained, has too much difference from other examples+binding needs to be reworked. If we want to keep showcasing Synergy on the ios example this needs to be cleaned up and split. 
 - Mobile, Web: Wanted: Make sure the existing OpenGL renderers are compatible with whatever WebGL / GL ES versions those platform needs, or write separate renderers if needed.
