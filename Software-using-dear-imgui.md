@@ -62,7 +62,6 @@ Help us complete this list!
 | Game | Indivisible | Lab Zero Games | [homepage](http://www.indivisiblegame.com/)
 | Misc | Inori-Prayer | | [homepage](http://www.k2.t.u-tokyo.ac.jp/vision/WOW_TOKYO_AYABAMBI/index-e.html) 
 | Game | iRacing | iRacing.com<br>Motorsport Simulations | [blog](https://www.iracing.com/road-new-damage/)
-| Misc | RealSense SDK | Intel | [homepage](https://realsense.intel.com/sdk/) / [gif](https://github.com/ocornut/imgui/issues/1269#issuecomment-358929119)
 | App | JangaFX | JangaFX | [homepage](https://jangafx.com/)
 | Game | Jurassic World Evolution | Frontier | [homepage](http://www.jurassicworldevolutiongame.com)
 | App | karmaMapper | | [github](https://github.com/Karma-Kusala/karmaMapper) / [shot](https://raw.githubusercontent.com/Karma-Kusala/karmaMapper/master/karmaMapper-cover-GIF.gif)
@@ -71,6 +70,7 @@ Help us complete this list!
 | Game | Librelancer | | [shot](https://camo.githubusercontent.com/746f970dbd4f0b2fb64df8e188cce35e023fbd5c/68747470733a2f2f692e696d6775722e636f6d2f666b344f6164382e706e67) / [github](https://github.com/Librelancer/Librelancer)
 | Game | Limit Theory | Procedural Reality | [homepage](http://ltheory.com/) / [blog](http://forums.ltheory.com/viewtopic.php?f=30&t=6459#p160975) / [shots](https://github.com/ocornut/imgui/issues/1607#issuecomment-372018336)
 | App | MAME (alternate debugger) | | [homepage](http://mamedev.org/) / [shot](https://github.com/ocornut/imgui/issues/539#issuecomment-211326923)
+| App | Milton | | [homepage](https://www.miltonpaint.com/)
 | Game | Moonman/MoonQuest | @eigenbom | [kickstarter](https://www.kickstarter.com/projects/eigenbom/moonman) / [dev blog](http://discuss.moonman.io/t/june-12-2016/1478)
 | Game | Monster Boy | Game Atelier | [homepage](http://www.monsterboy.com)
 | Game | Mount & Blade II Bannerlord | TaleWorlds | [blog](https://www.taleworlds.com/en/Games/Bannerlord/Blog/25) / [shot](https://user-images.githubusercontent.com/8225057/30460822-b4e9cadc-99b9-11e7-97fd-377a615b1e4e.jpg)
@@ -95,6 +95,7 @@ Help us complete this list!
 | App | Qt 3D Studio Viewer | Qt Company | [blog](http://blog.qt.io/blog/2018/05/16/qt-3d-studio-2-0-beta-available/)
 | App | RayTeak | | [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-248678671)
 | Game | Re:creation | @eliasdaler | [blog](https://eliasdaler.github.io/) |
+| Misc | RealSense SDK | Intel | [homepage](https://realsense.intel.com/sdk/) / [gif](https://github.com/ocornut/imgui/issues/1269#issuecomment-358929119)
 | App | Redream | | [homepage](https://github.com/inolen/redream) / [github](https://github.com/inolen/redream/)
 | Engine | RCRL (Read-Compile-Run-Loop) | @onqtam | [github](https://github.com/onqtam/rcrl)
 | Demo | Rise and Shine | Aberration Creations | [homepage](http://www.pouet.net/prod.php?which=68178) / [shot](https://user-images.githubusercontent.com/8225057/37464207-f1ec0a8a-2857-11e8-9f84-bbc4eede53ba.jpg)
