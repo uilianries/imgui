@@ -113,6 +113,7 @@ Help us complete this list!
 | App | Stagemaster | | [homepage](http://cityboundsim.com/devblog/introducing-stagemaster) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-299647845)
 | Game | Tearaway | Media Molecule | [homepage](http://tearaway.mediamolecule.com/)
 | Game | Tearaway Unfolded | Media Molecule | [homepage](http://tearaway.mediamolecule.com/) / [shots](https://github.com/ocornut/imgui/issues/539#issuecomment-193710713)
+| App | Timelapse View for HG | @jschmidt42 | [github](https://github.com/jschmidt42/timelapse)
 | App | Tracy | | [homepage](https://bitbucket.org/wolfpld/tracy/src/master/) / [video](https://www.youtube.com/watch?v=fB5B46lbapc)
 | Engine | Thorium 3D | | [shots](https://github.com/ocornut/imgui/issues/772#issuecomment-268208362) / [shots](https://github.com/ocornut/imgui/issues/973#issuecomment-286752876)
 | Engine | Tristeon | | [github](https://github.com/HyperionDH/Tristeon)
