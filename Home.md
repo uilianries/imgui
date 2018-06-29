@@ -59,6 +59,7 @@ This wiki is in construction.
 - Pie menu test https://github.com/ocornut/imgui/issues/434
 - Gamepad/keyboard navigation branch: https://github.com/ocornut/imgui/tree/navigation
 - Knobs https://github.com/ocornut/imgui/issues/942#issuecomment-268369298
+- URL/Links https://gist.github.com/dougbinks/ef0962ef6ebe2cadae76c4e9f0586c69#file-imguiutils-h-L228-L262
 - Toggle Button https://github.com/ocornut/imgui/issues/1537
 - Color Picker https://github.com/ocornut/imgui/issues/346 (now merged into master)
 - [[Plot var helper|plot_var_example]]
