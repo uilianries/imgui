@@ -95,8 +95,3 @@ Main ImGui repository include examples for DirectX9, DirectX10, DirectX11, Direc
 - Software renderer: https://github.com/emilk/imgui_software_renderer
 - Sokol (sample): https://github.com/floooh/sokol-samples/blob/master/glfw/imgui-glfw.cc
 - Unreal Engine 4: https://github.com/segross/UnrealImGui or https://github.com/sronsse/UnrealEngine_ImGui
-
-### Packaging cruft
-
-- Conan https://github.com/bincrafters/conan-imgui, https://bintray.com/bincrafters/public-conan/imgui%3Abincrafters
-- Fips (fips-imgui): fipsified imgui for fips build system https://github.com/fungos/fips-imgui
