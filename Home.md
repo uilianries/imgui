@@ -68,6 +68,7 @@ This wiki is in construction.
 - tear imgui: Experiment for a terminal-based renderer for imgui https://github.com/jonvaldes/tear_imgui
 
 ### Example Apps, Framework
+(Please also check our [examples/](https://github.com/ocornut/imgui/tree/master/examples) folder in the repo)
 
 - Starter project for portable app with optional GUI (GLFW/ImGui) https://github.com/abdes/asap
 - Starter dear-imgui GLFW/OpenGL 3 based CMake C++ project: https://github.com/urddru/imgui-glfw
