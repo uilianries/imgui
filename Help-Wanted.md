@@ -18,6 +18,10 @@ Currently looking for help with those things:
 - Many language bindings are not kept up to date (see https://github.com/ocornut/imgui/wiki/Links)
 - Ideally, we could aim toward providing an official binding generator + an official C binding?
 
+**Community**
+- Help improving the wiki.
+- Volunteers to moderate a Discourse forum dedicated to dear imgui.
+
 **Third-party Software**
 - GLFW: implement/solve https://github.com/glfw/glfw/issues/427 in GLFW to add missing diagonal resize mouse cursors.
 - GLFW: implement/solve https://github.com/glfw/glfw/issues/1236 in GLFW to allow for portable multi-viewport support.
