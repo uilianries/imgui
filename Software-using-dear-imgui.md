@@ -29,6 +29,7 @@ Help us complete this list!
 | App | Decaf | | [github](https://github.com/decaf-emu/decaf-emu)
 | Game | Deformers | Ready at Dawn | [homepage](https://www.deformers.com/)
 | Engine | Directus3D | | [github](https://github.com/PanosK92/Directus3D) / [shot](https://raw.githubusercontent.com/PanosK92/Directus3D/master/Assets/screenshot-v0.3_preview2.jpg)
+| App | Downhole Imaging Technology | | [homepage](https://darkvisiontech.com/)
 | Game | Dreams | Media Molecule | [homepage](http://dreams.mediamolecule.com) |
 | Game | Dual Universe | Novaquark | [homepage](https://www.dualthegame.com) / [video](https://www.youtube.com/watch?v=WTvT4BAg7RI) |
 | Game | Dungeons of Everchange | Dark Gnosis | [homepage](http://www.darkgnosis.com/game/dungeons-of-everchange/) / [shots](https://github.com/ocornut/imgui/issues/1607#issuecomment-387039874) |
