@@ -90,6 +90,7 @@ Main ImGui repository include examples for DirectX9, DirectX10, DirectX11, Direc
 - Magnum: https://github.com/lecopivo/magnum-imgui, https://github.com/lecopivo/MagnumImguiPort
 - NanoRT (software raytraced): https://github.com/syoyo/imgui/tree/nanort/examples/raytrace_example
 - Nim Game Lib: https://github.com/cavariux/nimgl
+- px_render: https://github.com/ocornut/imgui/pull/1935
 - Qt3d: https://github.com/alpqr/imgui-qt3d
 - SFML: https://github.com/EliasD/imgui-sfml or https://github.com/Mischa-Alff/imgui-backends
 - Software renderer: https://github.com/emilk/imgui_software_renderer
