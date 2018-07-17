@@ -67,17 +67,17 @@ This wiki is in construction.
 - Gradient color generator (@galloman) https://gist.github.com/Galloman/8a5d179e432e062550972afcd1ecf112
 - tear imgui: Experiment for a terminal-based renderer for imgui https://github.com/jonvaldes/tear_imgui
 
+### Building / Packaging Cruft
+
+- Cmake https://github.com/ocornut/imgui/pull/1713 (unmerged PR, please send feedback)
+- Conan https://github.com/bincrafters/conan-imgui, https://bintray.com/bincrafters/public-conan/imgui%3Abincrafters
+- Fips (fips-imgui): fipsified imgui for fips build system https://github.com/fungos/fips-imgui
+
 ### Example Apps, Framework
 (Please also check our [examples/](https://github.com/ocornut/imgui/tree/master/examples) folder in the repo)
 
 - Starter project for portable app with optional GUI (GLFW/ImGui) https://github.com/abdes/asap
 - Starter dear-imgui GLFW/OpenGL 3 based CMake C++ project: https://github.com/urddru/imgui-glfw
-
-### Packaging Cruft
-
-- Cmake https://github.com/ocornut/imgui/pull/1713 (unmerged PR, please send feedback)
-- Conan https://github.com/bincrafters/conan-imgui, https://bintray.com/bincrafters/public-conan/imgui%3Abincrafters
-- Fips (fips-imgui): fipsified imgui for fips build system https://github.com/fungos/fips-imgui
 
 ### Articles, Talks
 
