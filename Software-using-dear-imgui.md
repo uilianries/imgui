@@ -96,7 +96,7 @@ Help us complete this list!
 | App | PiSP | | [github](https://github.com/twentytwoo/PiSP)
 | Engine | PhyreEngine | SIE R&D West | [homepage](http://rdwest.playstation.com/research-technology/phyreengine)
 | Game | Quake Champions | | [post](https://www.unknowncheats.me/forum/quake-champions/212973-quake-champions-using-imgui.html)
-| App | Qt 3D Studio Viewer | Qt Company | [blog](http://blog.qt.io/blog/2018/05/16/qt-3d-studio-2-0-beta-available/)
+| App | Qt 3D Studio Viewer | Qt Company | [blog](http://blog.qt.io/blog/2018/06/27/whats-qt-3d-studio-scene/) / [blog](http://blog.qt.io/blog/2018/05/16/qt-3d-studio-2-0-beta-available/)
 | App | RayTeak | | [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-248678671)
 | Game | Re:creation | @eliasdaler | [blog](https://eliasdaler.github.io/) |
 | Misc | RealSense SDK | Intel | [homepage](https://realsense.intel.com/sdk/) / [gif](https://github.com/ocornut/imgui/issues/1269#issuecomment-358929119)
