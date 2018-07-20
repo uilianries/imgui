@@ -78,6 +78,7 @@ This wiki is in construction.
 
 - Starter project for portable app with optional GUI (GLFW/ImGui) https://github.com/abdes/asap
 - Starter dear-imgui GLFW/OpenGL 3 based CMake C++ project: https://github.com/urddru/imgui-glfw
+- Bimpy: bundled imgui for python: https://github.com/podgorskiy/bimpy
 
 ### Articles, Talks
 
