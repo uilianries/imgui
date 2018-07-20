@@ -1,6 +1,8 @@
 Welcome to the imgui wiki!
 This wiki is in construction.
 
+### Pages
+
 - [[Language bindings, Framework/Engine bindings|Bindings]]
 - [[Software using dear imgui|Software-using-dear-imgui]]
 - [[Help wanted|Help-wanted]]
