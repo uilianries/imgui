@@ -1,7 +1,7 @@
 Welcome to the imgui wiki!
 This wiki is in construction.
 
-### Pages
+## Pages
 
 - [[Language bindings, Framework/Engine bindings|Bindings]]
 - [[Software using dear imgui|Software-using-dear-imgui]]
@@ -9,6 +9,8 @@ This wiki is in construction.
 - [[Incoming work|Incoming-work]]
 - [[Developer tips|Developer-Tips]] (for people working _on_ dear imgui)
 - [[Tips|Tips]] (for people working _with_ dear imgui)
+
+## Links
 
 ### imgui_club 
 (officially maintained bits)
