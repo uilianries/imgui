@@ -141,7 +141,7 @@ Help us complete this list!
 | App | VK Pipeline Layout Editor | | [shot](https://github.com/ocornut/imgui/issues/539#issuecomment-236273659)
 | App | WaveEdit | | [homepage](http://synthtech.com/waveedit/) / [github](https://github.com/AndrewBelt/WaveEdit)
 | Game | WiLD | Wild Sheep Studio | [homepage](http://www.wildsheepstudio.com) / [shots](https://github.com/ocornut/imgui/issues/539#issuecomment-193720307) |
-| App | What The Loop | | [shot](https://github.com/ocornut/imgui/issues/1269#issuecomment-332807951)
+| App | What The Loop | | [homepage](https://whattheloop.net/) / [shot](https://github.com/ocornut/imgui/issues/1269#issuecomment-332807951)
 | Game | Wonder Boy: The Dragon's Trap | Lizardcube | [homepage](http://www.TheDragonsTrap.com) / [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-262975159) |
 | Plugin | XSquawkBox 2.0 | | [homepage](http://xsb.xsquawkbox.net/) / [shot](http://xsb.xsquawkbox.net/wp-content/uploads/sites/6/2018/03/XSB-NewUI-WIP.png) / [github](https://github.com/kuroneko/xsb_public/) |
 | Engine | XT | | [github](https://github.com/invghost/XT) |
