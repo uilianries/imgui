@@ -85,7 +85,7 @@ Feel free to edit and contribute!
 - Starter dear-imgui GLFW/OpenGL 3 based CMake C++ project: https://github.com/urddru/imgui-glfw
 - Bimpy: bundled imgui for python: https://github.com/podgorskiy/bimpy
 
-### Articles, Talks
+## Articles, Talks
 
 - CppCon 2016: Nicolas Guillemot “Dear imgui," https://www.youtube.com/watch?v=LSRJ1jZq90k
 - Why I think Immediate Mode GUI is way to go for GameDev tools https://gist.github.com/bkaradzic/853fd21a15542e0ec96f7268150f1b62
