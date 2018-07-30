@@ -63,6 +63,7 @@ Help us complete this list!
 | App | IceSL | Loria | [homepage](http://shapeforge.loria.fr/icesl/)
 | Lib | IYFThreading | | [github](https://github.com/manvis/IYFThreading) / [shot](https://raw.githubusercontent.com/wiki/manvis/IYFThreading/images/profiler.png)
 | Game | Indivisible | Lab Zero Games | [homepage](http://www.indivisiblegame.com/)
+| Tool | InkyBlackness HackEd | | [homepage](https://inkyblackness.github.io/) / [github](https://github.com/inkyblackness/hacked) / [shot](https://user-images.githubusercontent.com/1508944/43354138-a4676cc4-9246-11e8-883f-46ddde4aba25.png)
 | Misc | Inori-Prayer | | [homepage](http://www.k2.t.u-tokyo.ac.jp/vision/WOW_TOKYO_AYABAMBI/index-e.html) 
 | Game | iRacing | iRacing.com<br>Motorsport Simulations | [blog](https://www.iracing.com/road-new-damage/)
 | App | JangaFX | JangaFX | [homepage](https://jangafx.com/)
