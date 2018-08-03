@@ -39,7 +39,7 @@ Help us complete this list!
 | Engine | EtherealEngine | | [github](https://github.com/volcoma/EtherealEngine) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-276082731)
 | Misc | Falcor | Nvidia | [github](https://github.com/NVIDIAGameWorks/Falcor)
 | Game | Fallout 76 | Bethesda | [homepage](https://fallout.bethesda.net) / [shot](https://user-images.githubusercontent.com/4228359/41322748-b9756e6e-6e78-11e8-8dfc-9a3437c1fd1a.png) 
-| Engine | Filament | [github](https://github.com/google/filament)
+| Engine | Filament | Google | [github](https://github.com/google/filament)
 | App | FlexBV | pldaniels | [homepage](https://pldaniels.com/flexbv/)
 | App | Geocod/Geogram | Loria | [homepage](http://homepages.loria.fr/BLevy/GEOGRAM) / [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-249678740) / [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-270942101) |
 | Engine | GeeXLab | | [homepage](http://www.geeks3d.com/geexlab/)
