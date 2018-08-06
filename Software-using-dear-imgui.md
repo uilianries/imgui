@@ -13,6 +13,7 @@ Help us complete this list!
 | App | 3d Object Scatter | | [homepage](https://cubebrush.co/3dobjectscatter?product_id=jyheqw)
 | App | Apple2Emu | | [github](https://github.com/allender/apple2emu) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-280105757)
 | Game | Arcane Worlds | Ranmantaru Games | [steam](http://steamcommunity.com/app/269610) / [patch note](http://steamcommunity.com/app/269610/discussions/0/357288572127498771)
+| App | Aveto.vis | B-plus | [homepage](https://www.b-plus.com/produkte/automotive/messtechnik-logger/aveto/avetovis.html)
 | Game | Avoyd | Enki Software | [homepage](https://www.enkisoftware.com) / [shot](https://github.com/ocornut/imgui/issues/707#issuecomment-226993714)
 | App | b2 | | [homepage](https://github.com/tom-seddon/b2) / [shot](https://github.com/ocornut/imgui/issues/1269#issuecomment-340313270)
 | App | BASIC8 | Tony Wang | [homepage](https://paladin-t.github.io/b8/) / [steam](store.steampowered.com/app/767240/)
