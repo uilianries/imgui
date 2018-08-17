@@ -82,7 +82,7 @@ Main ImGui repository include examples for DirectX9, DirectX10, DirectX11, Direc
 - Unmerged PR: Android Example: https://github.com/ocornut/imgui/pull/421 (old example design)
 - Cinder: https://github.com/simongeilfus/Cinder-ImGui
 - Cocos2d-x: https://github.com/c0i/imguix and https://github.com/ocornut/imgui/issues/551
-- Flexium/SFML (FlexGUI): https://github.com/DXsmiley/FlexGUI
+- Flexium (FlexGUI): https://github.com/DXsmiley/FlexGUI
 - GML/GameMaker Studio 2 (ImGuiGML): https://marketplace.yoyogames.com/assets/6221/imguigml
 - Irrlicht Engine (IrrIMGUI): https://github.com/ZahlGraf/IrrIMGUI
 - Ogre: https://bitbucket.org/LMCrashy/ogreimgui/src, https://github.com/OGRECave/ogre-imgui
@@ -96,7 +96,7 @@ Main ImGui repository include examples for DirectX9, DirectX10, DirectX11, Direc
 - px_render: https://github.com/ocornut/imgui/pull/1935
 - Qt3d: https://github.com/alpqr/imgui-qt3d
 - QOpenGLWidget/QOpenGLWindow: https://github.com/ocornut/imgui/issues/1910
-- SFML: https://github.com/EliasD/imgui-sfml or https://github.com/Mischa-Alff/imgui-backends
+- SFML: https://github.com/EliasD/imgui-sfml (or older: https://github.com/Mischa-Alff/imgui-backends)
 - Software renderer: https://github.com/emilk/imgui_software_renderer
 - Sokol (sample): https://github.com/floooh/sokol-samples/blob/master/glfw/imgui-glfw.cc
 - Unreal Engine 4: https://github.com/segross/UnrealImGui or https://github.com/sronsse/UnrealEngine_ImGui
