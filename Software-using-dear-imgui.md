@@ -17,6 +17,7 @@ Help us complete this list!
 | App | AVETO.vis | B-plus | [homepage](https://www.b-plus.com/en/products/automotive/measurement-logging/avetorec/avetovis.html)
 | Game | Avoyd | Enki Software | [homepage](https://www.enkisoftware.com) / [shot](https://github.com/ocornut/imgui/issues/707#issuecomment-226993714)
 | App | b2 | | [homepage](https://github.com/tom-seddon/b2) / [shot](https://github.com/ocornut/imgui/issues/1269#issuecomment-340313270)
+| Game | Barbearian | Gimblll | [homepage](http://www.gimblll.com/barbearian/) / [steam](https://store.steampowered.com/app/813450/Barbearian/) / [ios](https://itunes.apple.com/us/app/barbearian/id1351822099)
 | App | BASIC8 | Tony Wang | [homepage](https://paladin-t.github.io/b8/) / [steam](store.steampowered.com/app/767240/)
 | Game | BeamNG.drive | BeamNG | [homepage](https://www.beamng.com) / [steam](https://store.steampowered.com/app/284160/BeamNGdrive/)
 | Game | Below | Capybara Games | [homepage](http://www.whatliesbelow.com) / [shots](https://github.com/ocornut/imgui/issues/973#issuecomment-301079827)
