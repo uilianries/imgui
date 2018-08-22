@@ -2,6 +2,11 @@ Welcome to the imgui wiki!
 This wiki is in construction.
 Feel free to edit and contribute!
 
+## Forums
+
+- [Discourse Forum](https://discourse.dearimgui.org/) - if you have issues compiling, linking, running or displaying Dear ImGui (render or inputs, portability issues, using the examples, adding fonts).
+- [Github issues](https://github.com/ocornut/imgui/issues/) - for feature requests, bug reports, feedback, etc.
+
 ## Wiki Pages
 
 - [[Language bindings, Framework/Engine bindings|Bindings]]
