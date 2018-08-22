@@ -12,6 +12,7 @@ Help us complete this list!
 | ---- | ------ | ----- | ----- |
 | Game | 22 Racing Series | GOATi | [homepage](www.22series.com/)
 | App | 3d Object Scatter | | [homepage](https://cubebrush.co/3dobjectscatter?product_id=jyheqw)
+| Game | Agents of Mayhem | Volition | [homepage](https://www.aomthegame.com/)
 | App | Apple2Emu | | [github](https://github.com/allender/apple2emu) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-280105757)
 | Game | Arcane Worlds | Ranmantaru Games | [steam](http://steamcommunity.com/app/269610) / [patch note](http://steamcommunity.com/app/269610/discussions/0/357288572127498771)
 | App | AVETO.vis | B-plus | [homepage](https://www.b-plus.com/en/products/automotive/measurement-logging/avetorec/avetovis.html)
