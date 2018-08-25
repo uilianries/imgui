@@ -72,7 +72,7 @@ Help us complete this list!
 | Tool | InkyBlackness HackEd | | [homepage](https://inkyblackness.github.io/) / [github](https://github.com/inkyblackness/hacked) / [shot](https://user-images.githubusercontent.com/1508944/43354138-a4676cc4-9246-11e8-883f-46ddde4aba25.png)
 | Misc | Inori-Prayer | | [homepage](http://www.k2.t.u-tokyo.ac.jp/vision/WOW_TOKYO_AYABAMBI/index-e.html) 
 | Game | iRacing | iRacing.com<br>Motorsport Simulations | [blog](https://www.iracing.com/road-new-damage/)
-| App | JangaFX | JangaFX | [homepage](https://jangafx.com/)
+| App | JangaFX | JangaFX | [homepage](https://jangafx.com/) / [video](https://twitter.com/JangaFX/status/1031357366711803910)
 | Game | Jurassic World Evolution | Frontier | [homepage](http://www.jurassicworldevolutiongame.com)
 | App | karmaMapper | | [github](https://github.com/Karma-Kusala/karmaMapper) / [shot](https://raw.githubusercontent.com/Karma-Kusala/karmaMapper/master/karmaMapper-cover-GIF.gif)
 | Engine | Kit Framework | | [shot](https://github.com/ocornut/imgui/issues/539#issuecomment-226131049)
