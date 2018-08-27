@@ -125,6 +125,7 @@ Help us complete this list!
 | Game | Squarium | | [homepage](https://bartveldstra.com/game/squarium/) / [play store](https://play.google.com/store/apps/details?id=nl.ghostweb.Squarium)
 | App | SoShade | @aiekick | [shot](https://twitter.com/aiekick/status/915133246157008896)
 | App | Stagemaster | | [homepage](http://cityboundsim.com/devblog/introducing-stagemaster) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-299647845)
+| Game | Streets of Rage 4 | Guard Crush | [homepage](https://www.streets4rage.com/)
 | Game | Tearaway | Media Molecule | [homepage](http://tearaway.mediamolecule.com/)
 | Game | Tearaway Unfolded | Media Molecule | [homepage](http://tearaway.mediamolecule.com/) / [shots](https://github.com/ocornut/imgui/issues/539#issuecomment-193710713)
 | App | Timelapse View for HG | @jschmidt42 | [github](https://github.com/jschmidt42/timelapse)
