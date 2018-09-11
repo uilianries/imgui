@@ -82,6 +82,7 @@ Help us complete this list!
 | Game | Limit Theory | Procedural Reality | [homepage](http://ltheory.com/) / [blog](http://forums.ltheory.com/viewtopic.php?f=30&t=6459#p160975) / [shots](https://github.com/ocornut/imgui/issues/1607#issuecomment-372018336)
 | Misc | Lullaby | Google | [github](https://github.com/google/lullaby)
 | App | MAME (alternate debugger) | | [homepage](http://mamedev.org/) / [shot](https://github.com/ocornut/imgui/issues/539#issuecomment-211326923)
+| Game | Marvel's Spider-Man | Insomniac Games | [homepage](https://insomniac.games/game/spider-man-ps4/)
 | App | Milton | | [homepage](https://www.miltonpaint.com/)
 | Game | Moonman/MoonQuest | @eigenbom | [kickstarter](https://www.kickstarter.com/projects/eigenbom/moonman) / [dev blog](http://discuss.moonman.io/t/june-12-2016/1478)
 | Game | Monster Boy | Game Atelier | [homepage](http://www.monsterboy.com)
