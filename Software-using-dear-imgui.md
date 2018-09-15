@@ -91,9 +91,10 @@ Help us complete this list!
 | Engine | Lumix Engine | @nem0 | [github](https://github.com/nem0/LumixEngine) / [shots](https://github.com/ocornut/imgui/issues/1269#issuecomment-322048463)
 | Game | Lumote | Luminawesome Games | [homepage](http://www.luminawesome.com) / [shot](https://github.com/ocornut/imgui/issues/539#issuecomment-199952613)
 | App | LuxCoreUI | | [github](https://github.com/LuxCoreRender/LuxCore) / [shots](https://github.com/ocornut/imgui/issues/123#issuecomment-163197372)
-| App | Oculus Home| Oculus |  
+| App | Oculus Home | Oculus |  
 | App | Oculus Medium | Oculus | [homepage](https://www.oculus.com/medium/)
-| App | OvinVR | OdinVR | [homepage](http://odenvr.com)
+| App | Oculus Monitor | @rajetic | [post](https://forums.oculusvr.com/community/discussion/69471/oculus-monitor) / [github](https://github.com/rajetic/OculusMonitor)
+| App | OdinVR | OdinVR | [homepage](http://odenvr.com)
 | Game | Onrush | Codemasters | [homepage](http://www.codemasters.com/game/onrush/) / [video](https://www.youtube.com/watch?v=rC9wmXDzAX0&feature=youtu.be&t=18m42s)
 | Game | Overgrowth | Wolfire Games | [homepage](http://www.wolfire.com/overgrowth) / [shots](https://github.com/ocornut/imgui/issues/973#issuecomment-277081512)
 | App | OpenBoardView | | [homepage](http://openboardview.org)
