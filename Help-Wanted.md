@@ -25,4 +25,4 @@ Currently looking for help with those things:
 <br>If you are familiar or interested in GLFW pushing/developing those changes would be extremely helpful to imgui:
 - GLFW: implement/solve https://github.com/glfw/glfw/issues/427 in GLFW to add missing diagonal resize mouse cursors.
 - GLFW: implement/solve https://github.com/glfw/glfw/issues/1236 in GLFW to allow for portable multi-viewport support.
-- GLFW: implement/solve https://github.com/glfw/glfw/pull/989 in GLFW to allow for portable multi-viewport support.
+- GLFW: implement/solve https://github.com/glfw/glfw/pull/989 in GLFW to allow for portable multi-viewport support. (Update: PR submitted as https://github.com/glfw/glfw/pull/1322)
