@@ -19,7 +19,7 @@ Currently looking for help with those things:
 
 **External Language Bindings**
 - Many language bindings are not kept up to date (see https://github.com/ocornut/imgui/wiki/Links)
-- Ideally, we could aim toward providing an official binding generator + an official C binding. See the work in https://github.com/ocornut/imgui/issues/1879, feedback/help welcome.
+- Help with the work on a binding generator. See the work in [#1879](https://github.com/ocornut/imgui/issues/1879), feedback/help welcome. Ideally this would lead us toward officially maintained C bindings.
 
 **Third-party Software**
 <br>If you are familiar or interested in GLFW pushing/developing those changes would be extremely helpful to imgui:
