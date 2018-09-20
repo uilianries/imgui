@@ -1,7 +1,7 @@
 Currently looking for help with those things:
 
 **Features**
-- Viewport: The multi-viewport branch needs users/testers to move forward! (see Viewport branch and [#1542](https://github.com/ocornut/imgui/issues/1542))
+- Viewport: The multi-viewport branch needs users/testers to move forward! (see Viewport branch and [#1542](https://github.com/ocornut/imgui/issues/1542)). In particular, things may not work as well on all back-ends or operating systems (Linux/OSX are poorly tested regardless of the underlying back-end).
 
 **Community**
 - Help improving the wiki.
