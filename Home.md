@@ -42,16 +42,16 @@ Feel free to edit and contribute!
 - Scintilla integration [[thread](https://github.com/ocornut/imgui/issues/108)]
 
 ### Docking extensions
-(Note: an official docking extension is now in the work, Dec 2017, see  [#351](https://github.com/ocornut/imgui/issues/351) and [#1542](https://github.com/ocornut/imgui/issues/1542))
-- Main Docking Thread [#351](https://github.com/ocornut/imgui/issues/351)
-- @nem0's one, from LumixEngine https://github.com/nem0/LumixEngine/tree/master/external/imgui
-- @paniq's one (based on @nem0's), https://github.com/ocornut/imgui/issues/351#issuecomment-219775521
-- @BentleyBlanks's one (based on @paniq's), https://github.com/BentleyBlanks/imguiDock
-- @thennequin's one ImWindow, with OS window managing https://github.com/thennequin/ImWindow
-- imgui_wm: based on ImWindow above https://github.com/bkaradzic/bgfx/tree/master/3rdparty/ocornut-imgui 
-- @edin-purkovic's one https://github.com/edin-purkovic/ImGuiDock
-- @flix01's one, https://github.com/Flix01/imgui/tree/2015-10-Addons/addons/imguidock
-- @aoterodelaroza's one, https://github.com/aoterodelaroza/imgui-goodies
+- **Official Docking Branch (October 2018): see [#2109](https://github.com/ocornut/imgui/issues/2109).**
+- [old] Docking Thread [#351](https://github.com/ocornut/imgui/issues/351)
+- [old] @nem0's one, from LumixEngine https://github.com/nem0/LumixEngine/tree/master/external/imgui
+- [old] @paniq's one (based on @nem0's), https://github.com/ocornut/imgui/issues/351#issuecomment-219775521
+- [old] @BentleyBlanks's one (based on @paniq's), https://github.com/BentleyBlanks/imguiDock
+- [old] @thennequin's one ImWindow, with OS window managing https://github.com/thennequin/ImWindow
+- [old] imgui_wm: based on ImWindow above https://github.com/bkaradzic/bgfx/tree/master/3rdparty/ocornut-imgui 
+- [old] @edin-purkovic's one https://github.com/edin-purkovic/ImGuiDock
+- [old] @flix01's one, https://github.com/Flix01/imgui/tree/2015-10-Addons/addons/imguidock
+- [old] @aoterodelaroza's one, https://github.com/aoterodelaroza/imgui-goodies
 
 ### Remoting
 
@@ -59,7 +59,7 @@ Feel free to edit and contribute!
 
 ### Other
 
-- Tabs https://github.com/ocornut/imgui/issues/261
+- Tabs: see Docking branch [#2109](https://github.com/ocornut/imgui/issues/2109) / old thread: [#261](https://github.com/ocornut/imgui/issues/261)
 - Splitters https://github.com/ocornut/imgui/issues/319
 - Bezier widget (@r-lyeh) https://github.com/ocornut/imgui/issues/786
 - Spinner + Loading Bar progress indicators https://github.com/ocornut/imgui/issues/1901
