@@ -26,6 +26,7 @@ Help us complete this list!
 | Game | Brigador | Stellar Jockeys | [steam](http://store.steampowered.com/app/274500/Brigador_UpArmored_Edition)
 | App | Cacu Studio | | [video](https://v.qq.com/x/page/i0181kqlx02.html)
 | App | CADRays | Open Cascade | [homepage](https://www.opencascade.com/content/cadrays) / [video](https://www.youtube.com/watch?v=D6_uGxmhuVk) 
+| Game | Call of Duty: Black Ops 4 | Treyarch | [homepage](https://www.callofduty.com)
 | App | Cheevos Hunter | @leiradel | [github](https://github.com/leiradel/CheevosHunter) / [shot](https://raw.githubusercontent.com/leiradel/CheevosHunter/master/ch.png)
 | Game | Chrono-Drive | | [video](https://www.youtube.com/watch?v=gFbh4wxZ6DE&feature=youtu.be&t=2m3s) |
 | Misc | Cinder-Experiments | @simongeilfus | [github](https://github.com/simongeilfus/Cinder-Experiments)
