@@ -1,11 +1,11 @@
 Currently looking for help with those things:
 
+**Community**
+- If you have experience with Dear ImGui and/or programming, helping people out on the [Dear ImGui Discourse forum](http://discourse.dearimgui.org/) would be very useful.
+- The wiki needs improvements!
+
 **Features**
 - Viewport: The multi-viewport branch needs users/testers to move forward! (see Viewport branch and [#1542](https://github.com/ocornut/imgui/issues/1542)). In particular, things may not work as well on all back-ends or operating systems (Linux/OSX are poorly tested regardless of the underlying back-end).
-
-**Community**
-- Help improving the wiki.
-- Participate or moderate the [Dear ImGui Discourse forum](http://discourse.dearimgui.org/). 
 
 **Platform/Renderer Bindings**
 - Mac: imgui_impl_osx.mm need some love ([#1873](https://github.com/ocornut/imgui/issues/1873))
