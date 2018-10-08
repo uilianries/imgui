@@ -2,8 +2,8 @@
 
 _NB: those bindings may be more or less maintained, more or less close to the spirit of original API. People who create language bindings sometimes haven't used the C++ API themselves. ImGui was designed for C++ and some of the subtleties may be lost in translation with other languages. If your language supports it, I would suggest replicating the function overloading and default parameters used in the original, else the API may be harder to use. In doubt, always check the original C++ version first!_
 
-C (cimgui): thin c-api wrapper for ImGui
-<br>https://github.com/Extrawurst/cimgui
+C (cimgui): auto-generated c-api wrapper for Dear ImGui
+<br>https://github.com/cimgui/cimgui
 
 C#/.Net (ImGui.NET): An ImGui wrapper for .NET Core
 <br>https://github.com/mellinoe/ImGui.NET
