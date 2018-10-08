@@ -72,11 +72,9 @@ Java - JVM port/rewrite, written in Kotlin
 
 ### Framework/engine bindings
 
-Main ImGui repository include examples for DirectX9, DirectX10, DirectX11, DirectX12, OpenGL2/3, Vulkan, Allegro 5, SDL+GL2/3, iOS and Marmalade.
+Main repository include examples for DirectX9, DirectX10, DirectX11, DirectX12, Metal, OpenGL2/3, Vulkan, iOS, Allegro 5, and Marmalade, using frameworks such as Glfw, SDL2, Win32, Cocoa. 
 <br>https://github.com/ocornut/imgui/tree/master/examples
 
-- Unmerged Branch: imgui_impl_osx.cpp: https://github.com/ocornut/imgui/tree/osx
-- Unmerged Branch: Metal example: https://github.com/warrenm/imgui/tree/metal/
 - Unmerged PR: SDL2 + OpenGLES + Emscripten example: https://github.com/ocornut/imgui/pull/336 (old example design)
 - Unmerged PR: Native Win32 and OSX example: https://github.com/ocornut/imgui/pull/281 (old example design)
 - Unmerged PR: Android Example: https://github.com/ocornut/imgui/pull/421 (old example design)
