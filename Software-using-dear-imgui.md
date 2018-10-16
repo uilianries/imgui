@@ -150,6 +150,7 @@ Help us complete this list!
 | Game | Unravel Two | Coldwood Interactive | [shot](https://user-images.githubusercontent.com/8225057/41195062-e06fcb4e-6c26-11e8-9ef3-0a00c9541029.jpg)
 | App | vdb | | [homepage](https://lightbits.github.io/vdb/) / [gallery](https://github.com/lightbits/vdb/blob/master/gallery.md)
 | App | virtualkc | | [homepage](http://floooh.github.io/virtualkc) |
+| App | Virtual Reality Neuron Tracer | Visus | [steam](https://store.steampowered.com/app/791040/Virtual_Reality_Neuron_Tracer/)
 | App | Visual Designer 3D | | [video](https://www.youtube.com/watch?v=211NzYhNSFQ)
 | App | VK Pipeline Layout Editor | | [shot](https://github.com/ocornut/imgui/issues/539#issuecomment-236273659)
 | App | WaveEdit | | [homepage](http://synthtech.com/waveedit/) / [github](https://github.com/AndrewBelt/WaveEdit)
