@@ -32,6 +32,7 @@ Help us complete this list!
 | App | CortexRecognition | Recognition Robotics | [homepage](http://www.recognitionrobotics.com) / [shots](https://github.com/ocornut/imgui/issues/123#issuecomment-114941904) / [photos](https://github.com/ocornut/imgui/issues/973#issuecomment-303784406)
 | App | Decaf | | [github](https://github.com/decaf-emu/decaf-emu)
 | Game | Deformers | Ready at Dawn | [homepage](https://www.deformers.com/)
+| Game | Devil Daggers | Sorath | [homepage](http://devildaggers.com/) / [steam](https://store.steampowered.com/app/422970/Devil_Daggers/)
 | Engine | Directus3D | | [github](https://github.com/PanosK92/Directus3D) / [shot](https://raw.githubusercontent.com/PanosK92/Directus3D/master/Assets/screenshot-v0.3_preview2.jpg)
 | App | Downhole Imaging Technology | | [homepage](https://darkvisiontech.com/)
 | Game | Dreams | Media Molecule | [homepage](http://dreams.mediamolecule.com) |
