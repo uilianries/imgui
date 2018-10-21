@@ -69,6 +69,7 @@ Help us complete this list!
 | Game | Hexterminate | | [homepage](http://www.pedro-nunes.net/hexterminate/)
 | App | IceSL | Loria | [homepage](http://shapeforge.loria.fr/icesl/)
 | Lib | IYFThreading | | [github](https://github.com/manvis/IYFThreading) / [shot](https://raw.githubusercontent.com/wiki/manvis/IYFThreading/images/profiler.png)
+| App | Imogen | @CedricGuillemet | [github](https://github.com/CedricGuillemet/Imogen)
 | Game | Indivisible | Lab Zero Games | [homepage](http://www.indivisiblegame.com/)
 | Tool | InkyBlackness HackEd | | [homepage](https://inkyblackness.github.io/) / [github](https://github.com/inkyblackness/hacked) / [shot](https://user-images.githubusercontent.com/1508944/43354138-a4676cc4-9246-11e8-883f-46ddde4aba25.png)
 | Misc | Inori-Prayer | | [homepage](http://www.k2.t.u-tokyo.ac.jp/vision/WOW_TOKYO_AYABAMBI/index-e.html) 
