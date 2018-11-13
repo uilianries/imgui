@@ -159,6 +159,7 @@ Help us complete this list!
 | App | Visual Designer 3D | | [video](https://www.youtube.com/watch?v=211NzYhNSFQ)
 | App | VK Pipeline Layout Editor | | [shot](https://github.com/ocornut/imgui/issues/539#issuecomment-236273659)
 | App | WaveEdit | | [homepage](http://synthtech.com/waveedit/) / [github](https://github.com/AndrewBelt/WaveEdit)
+| App | wave-gui | | [github](https://github.com/ggerganov/wave-gui)
 | Game | WiLD | Wild Sheep Studio | [homepage](http://www.wildsheepstudio.com) / [shots](https://github.com/ocornut/imgui/issues/539#issuecomment-193720307) |
 | App | What The Loop | | [homepage](https://whattheloop.net/) / [shot](https://github.com/ocornut/imgui/issues/1269#issuecomment-332807951)
 | Game | Wonder Boy: The Dragon's Trap | Lizardcube | [homepage](http://www.TheDragonsTrap.com) / [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-262975159) |
