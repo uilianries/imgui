@@ -124,6 +124,7 @@ Help us complete this list!
 | App | SdfFontDesigner | @aiekick | [shot](https://twitter.com/aiekick/status/988729357731532803)
 | Game | Seaquence | | [homepage](http://okaynokay.xyz/seaquence) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-308277401)
 | Misc | Seed | EA | [homepage](https://www.ea.com/seed) 
+| Game | Shenmue I & II | Sega | [homepage](https://shenmue.sega.com)
 | Game | SNES Classic Mini | Nintendo | [shot](https://user-images.githubusercontent.com/8225057/31039823-4aef87e2-a581-11e7-8329-077f5ded258d.jpg)
 | App | SpecialK Modding System | | [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-295128588)
 | App | Speljongen | | [github](https://github.com/fallahn/speljongen) / [video](https://twitter.com/TrederiaGames/status/1010566791062605824)
