@@ -113,10 +113,11 @@ Help us complete this list!
 | Game | Quake Champions | | [post](https://www.unknowncheats.me/forum/quake-champions/212973-quake-champions-using-imgui.html)
 | App | Qt 3D Studio Viewer | Qt Company | [blog](http://blog.qt.io/blog/2018/06/27/whats-qt-3d-studio-scene/) / [blog](http://blog.qt.io/blog/2018/05/16/qt-3d-studio-2-0-beta-available/)
 | App | RayTeak | | [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-248678671)
+| Engine | RCRL (Read-Compile-Run-Loop) | @onqtam | [github](https://github.com/onqtam/rcrl)
 | Game | Re:creation | @eliasdaler | [blog](https://eliasdaler.github.io/) |
 | Misc | RealSense SDK | Intel | [homepage](https://realsense.intel.com/sdk/) / [gif](https://github.com/ocornut/imgui/issues/1269#issuecomment-358929119)
 | App | Redream | | [homepage](https://github.com/inolen/redream) / [github](https://github.com/inolen/redream/)
-| Engine | RCRL (Read-Compile-Run-Loop) | @onqtam | [github](https://github.com/onqtam/rcrl)
+| App | ReShade | | [homepage](http://reshade.me) / [github](https://github.com/crosire/reshade)
 | Demo | Rise and Shine | Aberration Creations | [homepage](http://www.pouet.net/prod.php?which=68178) / [shot](https://user-images.githubusercontent.com/8225057/37464207-f1ec0a8a-2857-11e8-9f84-bbc4eede53ba.jpg)
 | Game | Rise of the Tomb Raider | Feral Interactive | [video](https://www.youtube.com/watch?v=ptakmFGcIRU&feature=youtu.be&t=638)
 | App | ScalaPixel | | [github](https://github.com/lapinozz/ScalaPixel) / [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-248404445) / [shot](https://user-images.githubusercontent.com/8225057/37464208-f201c8ac-2857-11e8-97be-66010be9e7be.jpg)
