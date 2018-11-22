@@ -1,3 +1,5 @@
+Also see: [[Quotes]].
+
 Help us complete this list!
 
 - Large game studios, where people are the most likely to make fancy use of the library, are also traditionally the least likely to share shots or footage of their internal tools. If you work on a project using dear imgui, please consider sharing tool footage in the [gallery threads](https://github.com/ocornut/imgui/issues/1607), or at least sharing the fact that you are using the library (through talks, publications, blog posts, twitter shout-outs). I am in contact with various high-profile studios who are using dear imgui but many are unfortunately not disclosable.
