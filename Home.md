@@ -11,6 +11,7 @@ Feel free to edit and contribute!
 
 - [[Language bindings, Framework/Engine bindings|Bindings]]
 - [[Software using dear imgui|Software-using-dear-imgui]]
+- [[User quotes|Quotes]]
 - [[Help wanted|Help-wanted]]
 - [[Incoming work|Incoming-work]]
 - [[Developer tips|Developer-Tips]] (for people working _on_ dear imgui)
