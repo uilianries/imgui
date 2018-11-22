@@ -8,7 +8,7 @@ _"Imgui is a small, well written immediate mode GUI that allowed me to build and
 <br>-Michael Sartain ([Valve Software](https://www.valvesoftware.com))
 
 _"ImGui is the perfect fit for any personal projects, games and R&D apps. I use it as a git module: easy to include and straight to the point, while still allowing me to create customised and advanced UI. A pleasure to use!"_
-<br>-Sébastien Hillaire (Frostbite / [Electronic Arts](https://www.ea.com))
+<br>-Sébastien Hillaire ([Frostbite](https://www.ea.com/frostbite) / [Electronic Arts](https://www.ea.com))
 
 _"Dear ImGui is amazing. It's pretty much the only sizable library written by someone else that I've ever enjoyed using."_
 <br>-Shawn McGrath ([RAD Game Tools](http://www.radgametools.com/))
