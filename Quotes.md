@@ -31,4 +31,7 @@ _"From fast prototyping to professional UI, Dear ImGui is a stellar library. We 
 <br>-Benoit Jacquier (Kylotonn)
 
 _"From generic property list to very specific realtime tool UI, dear imgui covers all our needs. Tool UI has never been so easy."_
-<br>-Damien Quilot (Nadeo)
+<br>-Damien Quilot (Lead developer, Nadeo)
+
+_"Dear ImGui is hands down the best C++ GUI library I've ever used. It's easy to setup and integrate, the API is very intuitive, and the feature-set is broad and flexible. I couldn't imagine building our engine tools without it!"_
+<br>-Mobeen Fikree (Vertex Pop)
