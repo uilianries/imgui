@@ -2,11 +2,12 @@ This is a higher-level list of intent. Refer to TODO.txt for a more detailed lis
 
 ## Viewport
 
-- Improve Viewport branch toward merging in Master.
+- Improve Viewport branch toward merging in Master. ([#1542](https://github.com/ocornut/imgui/issues/1542)).
+
 
 ## DPI
 
-- Better DPI support (current solution is for user to load font + scale style according to DPI).
+- Better DPI support (current solution is for user to load font + scale style according to DPI). ([#1676](https://github.com/ocornut/imgui/issues/1676))
 
 ## Navigation, Controls
 
@@ -17,8 +18,8 @@ This is a higher-level list of intent. Refer to TODO.txt for a more detailed lis
 
 ## Tabs, Docking
 
-- Tabs: with re-ordering, custom menus, persistent orders, also usable locally aside from docking (WIP).
-- Docking: full-featured docking solution (WIP).
+- Docking: full-featured docking solution. ([#2109](https://github.com/ocornut/imgui/issues/2109))
+- Tabs: with re-ordering, custom menus, persistent orders, also usable locally aside from docking. ([#2109](https://github.com/ocornut/imgui/issues/2109))
 
 ## Columns, Table
 
@@ -38,10 +39,9 @@ This is a higher-level list of intent. Refer to TODO.txt for a more detailed lis
 
 ## Bindings
 
-- Renderer: Add Metal renderer.
 - Renderer: Decide on texture handling for Vulkan, DirectX12 renderer.
-- Platform: GLFW: Assist toward GLFW support what we need for full portable multi-viewport support (remaining: https://github.com/glfw/glfw/issues/1236, https://github.com/glfw/glfw/pull/989, https://github.com/glfw/glfw/issues/427)
-- Languages: Provide/maintain a script to ease the generation of language bindings (e.g. C).
+- Platform: GLFW: Assist toward GLFW support what we need for full portable multi-viewport support (remaining: https://github.com/glfw/glfw/issues/1236, https://github.com/glfw/glfw/pull/989, https://github.com/glfw/glfw/issues/427), also see [[Help Wanted]].
+- Languages: Provide/maintain a script to ease the generation of language bindings (e.g. C). See https://github.com/cimgui/cimgui
 
 ## Testing, Doc
 
@@ -50,7 +50,7 @@ This is a higher-level list of intent. Refer to TODO.txt for a more detailed lis
 
 ## Misc
 
-- Inputs: Provide a standard IO queue system for apps to not miss events on low framerate without requiring app code to do it.
+- Inputs: Provide a standard IO queue system for apps to not miss events on low framerate without requiring app code to do it. See [imgui_io_queue.cpp](https://gist.github.com/ocornut/8417344f3506790304742b07887adf9f]) gist.
 - Widgets: Design a way to represent and interact "mixed values" for when a multi-selection set have differing values and the widget represents them.
 - Selection: Range-selection/multi-selection API (to support Shift+Click, Shift+Arrow, etc.).
 - Layout: various layout helpers/improvements (alignment, layout variations for common widgets).
