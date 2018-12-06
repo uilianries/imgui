@@ -12,7 +12,7 @@ Help us complete this list!
 
 | Type | Title | By | Links |
 | ---- | ------ | ----- | ----- |
-| Game | 22 Racing Series | GOATi | [homepage](www.22series.com/)
+| Game | 22 Racing Series | GOATi | [homepage](http://www.22series.com/)
 | App | 3d Object Scatter | | [homepage](https://cubebrush.co/3dobjectscatter?product_id=jyheqw)
 | Game | Agents of Mayhem | Volition | [homepage](https://www.aomthegame.com/)
 | App | Apple2Emu | @allender | [github](https://github.com/allender/apple2emu) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-280105757)
