@@ -57,6 +57,7 @@ Help us complete this list!
 | App | GL-Z | | [homepage](https://www.geeks3d.com/glz/)
 | App | GNOMIC | | [bitbucket](https://bitbucket.org/gnomicSolver/gnomic/src/master/)
 | Game | GOATi Traffic Simulation | GOATi | [video](https://www.youtube.com/watch?v=A0ZdyzekVBo)
+| Game | Good Company | Chasing Carrots | [homepage](https://www.chasing-carrots.com/)
 | App | Goxel | | [homepage](https://guillaumechereau.github.io/goxel)
 | App | gputop | @rib | [github](https://github.com/rib/gputop/) / [web demo](http://www.gputop.com/)
 | App | gpuvis | Valve Software | [github](https://github.com/mikesart/gpuvis) / [shot](https://github.com/ocornut/imgui/issues/1269#issuecomment-325657871)
