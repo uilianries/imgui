@@ -94,7 +94,7 @@ Help us complete this list!
 | Game | Marvel's Spider-Man | Insomniac Games | [homepage](https://insomniac.games/game/spider-man-ps4/)
 | App | Milton | | [homepage](https://www.miltonpaint.com/)
 | App | MiniDart | @ebachard| [homepage](https://framagit.org/ericb/miniDart) / [shot](https://framagit.org/ericb/miniDart/wikis/Pr%C3%A9sentation-du-logiciel-miniDart)
-| Game | Monster Boy | Game Atelier | [homepage](http://www.monsterboy.com)
+| Game | Monster Boy and The Cursed Kingdom | Game Atelier | [homepage](http://www.monsterboy.com)
 | Game | Moonman/MoonQuest | @eigenbom | [kickstarter](https://www.kickstarter.com/projects/eigenbom/moonman) / [dev blog](http://discuss.moonman.io/t/june-12-2016/1478)
 | Game | Mount & Blade II Bannerlord | TaleWorlds | [blog](https://www.taleworlds.com/en/Games/Bannerlord/Blog/25) / [shot](https://user-images.githubusercontent.com/8225057/30460822-b4e9cadc-99b9-11e7-97fd-377a615b1e4e.jpg)
 | App | MSI Kombustor | MSI/Geeks3D | [homepage](https://geeks3d.com/furmark/kombustor/)
