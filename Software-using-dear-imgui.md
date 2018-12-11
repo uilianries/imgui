@@ -53,6 +53,7 @@ Help us complete this list!
 | App | FlexBV | pldaniels | [homepage](https://pldaniels.com/flexbv/)
 | Game | Fugl | Team Fugl | [steam](https://store.steampowered.com/app/643810/Fugl/) / [homepage](http://fuglgame.com) |
 | App | Geocod/Geogram | Loria | [homepage](http://homepages.loria.fr/BLevy/GEOGRAM) / [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-249678740) / [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-270942101) |
+| App | Geo::Math | brbl | [homepage](https://brbl.itch.io/geomath)
 | Engine | GeeXLab | | [homepage](http://www.geeks3d.com/geexlab/)
 | App | Glimpse | | [github](https://github.com/glimpse-project/glimpse) / [shot](https://raw.githubusercontent.com/wiki/glimpse-project/glimpse/images/screenshot-2017-12-07.png)
 | App | GL-Z | | [homepage](https://www.geeks3d.com/glz/)
