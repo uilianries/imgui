@@ -16,6 +16,7 @@ Feel free to edit and contribute!
 - [[Incoming work|Incoming-work]]
 - [[Developer tips|Developer-Tips]] (for people working _on_ dear imgui)
 - [[Tips|Tips]] (for people working _with_ dear imgui)
+- [[Loading Font Example|Loading-Font-Example]] (w/ Japanese font)
 
 ## Articles, Video, Talks
 
