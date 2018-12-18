@@ -1,4 +1,5 @@
-Currently looking for help with those things:
+Currently looking for help with those things.
+<br>This is absolutely not a complete list (there a millions of other things to do, see Issues and docs/TODO.txt). If you are motivated and want to help this project and the community there is almost certainly a spot for you :)
 
 **Community**
 - If you have experience with Dear ImGui and programming, helping people out on the [Discourse forum](http://discourse.dearimgui.org/) would be very useful.
