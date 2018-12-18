@@ -2,6 +2,7 @@ Currently looking for help with those things:
 
 **Community**
 - If you have experience with Dear ImGui and programming, helping people out on the [Discourse forum](http://discourse.dearimgui.org/) would be very useful.
+- Helping to answer in the GitHub issues/threads is very helpful too! 
 - The wiki needs improvements!
 
 **Features**
