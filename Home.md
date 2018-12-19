@@ -24,7 +24,7 @@ Feel free to edit and contribute!
 - [#1542](https://github.com/ocornut/imgui/issues/1542) Multi-viewports / virtual viewports Branch
 - [#2117](https://github.com/ocornut/imgui/issues/2117) Linux/Mac compatibility of the multi-viewport branch
 - [#1902](https://github.com/ocornut/imgui/issues/1902) Gallery (Part 7)
-- [#1713)(https://github.com/ocornut/imgui/pull/1713) CMake project (PR) by @podsvirov
+- [#1713](https://github.com/ocornut/imgui/pull/1713) CMake project (PR) by @podsvirov
 
 ## Labels
 
