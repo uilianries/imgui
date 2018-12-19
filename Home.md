@@ -1,4 +1,4 @@
-Welcome to the imgui wiki!
+Welcome to the Dear ImGui wiki!
 This wiki is in construction.
 Feel free to edit and contribute!
 
