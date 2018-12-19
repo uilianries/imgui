@@ -44,7 +44,7 @@ Feel free to edit and contribute!
 
 ### Third party repos
 
-- @flix01's snippets: https://github.com/Flix01/imgui/tree/2015-10-Addons/addons in particular see his [wiki](https://github.com/Flix01/imgui/wiki/ImGui-Addons-Branch-Home)
+- @flix01's addons: [ImGui-Addons-Branch-Home](https://github.com/Flix01/imgui/wiki/ImGui-Addons-Branch-Home) for instructions and [github repo](https://github.com/Flix01/imgui) for code.
 - @leiradel's snippets: https://github.com/leiradel/ImGuiAl/
 - @nem0's snippets (in imgui_user.* files) https://github.com/nem0/LumixEngine/tree/master/external/imgui
 - @aoterodelaroza's snippets [[github](https://github.com/aoterodelaroza/imgui-goodies)]
