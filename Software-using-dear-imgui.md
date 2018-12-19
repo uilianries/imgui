@@ -105,10 +105,10 @@ Help us complete this list!
 | App | Oculus Monitor | @rajetic | [post](https://forums.oculusvr.com/community/discussion/69471/oculus-monitor) / [github](https://github.com/rajetic/OculusMonitor)
 | App | OdinVR | OdinVR | [homepage](http://odenvr.com)
 | Game | Onrush | Codemasters | [homepage](http://www.codemasters.com/game/onrush/) / [video](https://www.youtube.com/watch?v=rC9wmXDzAX0&feature=youtu.be&t=18m42s)
-| Game | Overgrowth | Wolfire Games | [homepage](http://www.wolfire.com/overgrowth) / [shots](https://github.com/ocornut/imgui/issues/973#issuecomment-277081512)
 | App | OpenBoardView | | [homepage](http://openboardview.org)
 | App | OpenPlanet | | [homepage](https://openplanet.nl/) / [shots](https://github.com/ocornut/imgui/issues/1269#issuecomment-359883857)
 | App | OpenSpace | | [homepage](http://openspaceproject.com) / [github](https://github.com/OpenSpace/OpenSpace)
+| Game | Overgrowth | Wolfire Games | [homepage](http://www.wolfire.com/overgrowth) / [shots](https://github.com/ocornut/imgui/issues/973#issuecomment-277081512)
 | App | Panorama | @ronen25 | [github](https://github.com/ronen25/panorama)
 | App | Patterns of Life | @armadillu | [shots](https://github.com/ocornut/imgui/issues/1902#issuecomment-413715089)
 | Engine | PhyreEngine | SIE R&D West | [homepage](http://rdwest.playstation.com/research-technology/phyreengine)
@@ -172,8 +172,8 @@ Help us complete this list!
 | App | VK Pipeline Layout Editor | | [shot](https://github.com/ocornut/imgui/issues/539#issuecomment-236273659)
 | App | WaveEdit | | [homepage](http://synthtech.com/waveedit/) / [github](https://github.com/AndrewBelt/WaveEdit)
 | App | wave-gui | | [github](https://github.com/ggerganov/wave-gui)
-| Game | WiLD | Wild Sheep Studio | [homepage](http://www.wildsheepstudio.com) / [shots](https://github.com/ocornut/imgui/issues/539#issuecomment-193720307) |
 | App | What The Loop | | [homepage](https://whattheloop.net/) / [shot](https://github.com/ocornut/imgui/issues/1269#issuecomment-332807951)
+| Game | WiLD | Wild Sheep Studio | [homepage](http://www.wildsheepstudio.com) / [shots](https://github.com/ocornut/imgui/issues/539#issuecomment-193720307) |
 | Game | Wonder Boy: The Dragon's Trap | Lizardcube | [homepage](http://www.TheDragonsTrap.com) / [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-262975159) |
 | Plugin | XSquawkBox 2.0 | | [homepage](http://xsb.xsquawkbox.net/) / [shot](http://xsb.xsquawkbox.net/wp-content/uploads/sites/6/2018/03/XSB-NewUI-WIP.png) / [github](https://github.com/kuroneko/xsb_public/) |
 | Engine | XT | | [github](https://github.com/invghost/XT) |
