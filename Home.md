@@ -18,6 +18,18 @@ Feel free to edit and contribute!
 - [[Tips|Tips]] (for people working _with_ dear imgui)
 - [[Loading Font Example|Loading-Font-Example]] (w/ Japanese font)
 
+## Important Topics
+
+- [#2109](https://github.com/ocornut/imgui/issues/2109) Docking branch available for testing
+- [#1542](https://github.com/ocornut/imgui/issues/1542) Multi-viewports / virtual viewports Branch
+- [#2117](https://github.com/ocornut/imgui/issues/2117) Linux/Mac compatibility of the multi-viewport branch
+- [#1902](https://github.com/ocornut/imgui/issues/1902) Gallery (Part 7)
+- [#1713)(https://github.com/ocornut/imgui/pull/1713) CMake project (PR) by @podsvirov
+
+## Labels
+
+- https://github.com/ocornut/imgui/labels
+
 ## Articles, Video, Talks
 
 - CppCon 2016: Nicolas Guillemot “Dear imgui," https://www.youtube.com/watch?v=LSRJ1jZq90k
@@ -86,11 +98,9 @@ Feel free to edit and contribute!
 - Log Window https://github.com/ocornut/imgui/issues/300
 - IP Entry Box (@adam4813) https://github.com/ocornut/imgui/issues/388
 - Pie menu test https://github.com/ocornut/imgui/issues/434
-- Gamepad/keyboard navigation branch: https://github.com/ocornut/imgui/tree/navigation
 - Knobs https://github.com/ocornut/imgui/issues/942#issuecomment-268369298
 - URL/Links https://gist.github.com/dougbinks/ef0962ef6ebe2cadae76c4e9f0586c69#file-imguiutils-h-L228-L262
 - Toggle Button https://github.com/ocornut/imgui/issues/1537
-- Color Picker https://github.com/ocornut/imgui/issues/346 (now merged into master)
 - [[Plot var helper|plot_var_example]]
 - [[Screenshot Tool|screenshot_tool]]
 - Gradient color generator (@galloman) https://gist.github.com/Galloman/8a5d179e432e062550972afcd1ecf112
