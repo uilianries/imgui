@@ -108,6 +108,7 @@ Help us complete this list!
 | App | OpenBoardView | | [homepage](http://openboardview.org)
 | App | OpenPlanet | | [homepage](https://openplanet.nl/) / [shots](https://github.com/ocornut/imgui/issues/1269#issuecomment-359883857)
 | App | OpenSpace | | [homepage](http://openspaceproject.com) / [github](https://github.com/OpenSpace/OpenSpace)
+| App | Orbital | | [github](https://github.com/AlexAltea/orbital)
 | Game | Overgrowth | Wolfire Games | [homepage](http://www.wolfire.com/overgrowth) / [shots](https://github.com/ocornut/imgui/issues/973#issuecomment-277081512)
 | App | Panorama | @ronen25 | [github](https://github.com/ronen25/panorama)
 | App | Patterns of Life | @armadillu | [shots](https://github.com/ocornut/imgui/issues/1902#issuecomment-413715089)
