@@ -72,7 +72,7 @@ Help us complete this list!
 | Engine | Harfang 3d | Movida Production | [homepage](https://www.harfang3d.com) / [shot](https://user-images.githubusercontent.com/8225057/39697837-9e758aba-51f2-11e8-91a9-834d33b5351f.jpg)
 | App | HCK_ | | [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-274636854)
 | Game | Hellbreaker | | [homepage](https://enhex.itch.io/hellbreaker) / [shot](https://img.itch.zone/aW1hZ2UvMTY5MjQ4Lzg2MTI5NC5qcGc=/original/1InRJS.jpg)
-| Game | Hexterminate | | [homepage](http://www.pedro-nunes.net/hexterminate/)
+| Game | Hexterminate | | [homepage](https://www.pedro-nunes.net/hexterminate/)
 | App | IceSL | Loria | [homepage](http://shapeforge.loria.fr/icesl/)
 | App | Imogen | @CedricGuillemet | [github](https://github.com/CedricGuillemet/Imogen)
 | Game | Indivisible | Lab Zero Games | [homepage](http://www.indivisiblegame.com/)
