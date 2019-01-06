@@ -36,7 +36,7 @@ Help us complete this list!
 | App | Decaf | | [github](https://github.com/decaf-emu/decaf-emu)
 | Game | Deformers | Ready at Dawn | [homepage](https://www.deformers.com/)
 | Game | Devil Daggers | Sorath | [homepage](http://devildaggers.com/) / [steam](https://store.steampowered.com/app/422970/Devil_Daggers/)
-| Engine | Directus3D | | [github](https://github.com/PanosK92/Directus3D) / [shot](https://raw.githubusercontent.com/PanosK92/Directus3D/master/Assets/screenshot-v0.3_preview2.jpg)
+| Engine | Directus3D | @PanosK92 | [github](https://github.com/PanosK92/Directus3D) / [shot](https://raw.githubusercontent.com/PanosK92/Directus3D/master/Assets/screenshot-v0.3_preview2.jpg)
 | App | Downhole Imaging Technology | | [homepage](https://darkvisiontech.com/)
 | Game | Dreams | Media Molecule | [homepage](http://dreams.mediamolecule.com) |
 | Game | Dual Universe | Novaquark | [homepage](https://www.dualthegame.com) / [video](https://www.youtube.com/watch?v=WTvT4BAg7RI) |
@@ -49,7 +49,7 @@ Help us complete this list!
 | Misc | Falcor | Nvidia | [github](https://github.com/NVIDIAGameWorks/Falcor)
 | Game | Fallout 76 | Bethesda | [homepage](https://fallout.bethesda.net) / [shot](https://user-images.githubusercontent.com/4228359/41322748-b9756e6e-6e78-11e8-8dfc-9a3437c1fd1a.png) 
 | Engine | Filament | Google | [github](https://github.com/google/filament)
-| Engine | FishEngine | | [github](https://github.com/yushroom/FishEngine) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-282622054)
+| Engine | FishEngine | @yushroom | [github](https://github.com/yushroom/FishEngine) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-282622054)
 | Game | Fisherboy | | [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-315665148) |
 | App | FlexBV | pldaniels | [homepage](https://pldaniels.com/flexbv/)
 | Game | Fugl | Team Fugl | [steam](https://store.steampowered.com/app/643810/Fugl/) / [homepage](http://fuglgame.com) |
@@ -82,12 +82,12 @@ Help us complete this list!
 | Lib | IYFThreading | | [github](https://github.com/manvis/IYFThreading) / [shot](https://raw.githubusercontent.com/wiki/manvis/IYFThreading/images/profiler.png)
 | App | JangaFX | JangaFX | [homepage](https://jangafx.com/) / [video](https://twitter.com/JangaFX/status/1031357366711803910)
 | Game | Jurassic World Evolution | Frontier | [homepage](http://www.jurassicworldevolutiongame.com)
-| App | karmaMapper | | [github](https://github.com/Karma-Kusala/karmaMapper) / [shot](https://raw.githubusercontent.com/Karma-Kusala/karmaMapper/master/karmaMapper-cover-GIF.gif)
+| App | karmaMapper | Karma Kusala | [github](https://github.com/Karma-Kusala/karmaMapper) / [shot](https://raw.githubusercontent.com/Karma-Kusala/karmaMapper/master/karmaMapper-cover-GIF.gif)
 | App | Keytap/kbd-audio | | [homepage](https://ggerganov.github.io/jekyll/update/2018/11/24/keytap.html) / [shot](https://camo.githubusercontent.com/00e50db2d5e64f98c168afcae7ad8d95dfd20653/68747470733a2f2f692e696d6775722e636f6d2f4c526e546b50412e6a7067)
 | Engine | Kit Framework | | [shot](https://github.com/ocornut/imgui/issues/539#issuecomment-226131049)
-| App | ledSynthMaster | | [github](https://github.com/olekristensen/ledSynthMaster) / [shot](https://github.com/ocornut/imgui/issues/539#issuecomment-233914952)
+| App | ledSynthMaster | @olekristensen | [github](https://github.com/olekristensen/ledSynthMaster) / [shot](https://github.com/ocornut/imgui/issues/539#issuecomment-233914952)
 | Lib | Libigl | | [github](https://github.com/libigl/libigl)
-| Game | Librelancer | | [shot](https://camo.githubusercontent.com/746f970dbd4f0b2fb64df8e188cce35e023fbd5c/68747470733a2f2f692e696d6775722e636f6d2f666b344f6164382e706e67) / [github](https://github.com/Librelancer/Librelancer)
+| Game | Librelancer | @CallumDev | [shot](https://camo.githubusercontent.com/746f970dbd4f0b2fb64df8e188cce35e023fbd5c/68747470733a2f2f692e696d6775722e636f6d2f666b344f6164382e706e67) / [github](https://github.com/Librelancer/Librelancer)
 | Game | Limit Theory | Procedural Reality | [homepage](http://ltheory.com/) / [blog](http://forums.ltheory.com/viewtopic.php?f=30&t=6459#p160975) / [shots](https://github.com/ocornut/imgui/issues/1607#issuecomment-372018336)
 | Misc | Lullaby | Google | [github](https://github.com/google/lullaby)
 | Engine | Lumix Engine | @nem0 | [github](https://github.com/nem0/LumixEngine) / [shots](https://github.com/ocornut/imgui/issues/1269#issuecomment-322048463)
@@ -101,7 +101,7 @@ Help us complete this list!
 | Game | Mount & Blade II Bannerlord | TaleWorlds | [blog](https://www.taleworlds.com/en/Games/Bannerlord/Blog/25) / [shot](https://user-images.githubusercontent.com/8225057/30460822-b4e9cadc-99b9-11e7-97fd-377a615b1e4e.jpg)
 | App | MSI Kombustor | MSI/Geeks3D | [homepage](https://geeks3d.com/furmark/kombustor/)
 | Engine | NAP Framework | | [homepage](https://www.napframework.com)
-| App | Nodable | | [github](https://github.com/berdal84/Nodable) / [video](https://www.youtube.com/watch?v=_9_wzS7Hme8)
+| App | Nodable | @berdal84 | [github](https://github.com/berdal84/Nodable) / [video](https://www.youtube.com/watch?v=_9_wzS7Hme8)
 | App | Oculus Home | Oculus |  
 | App | Oculus Medium | Oculus | [homepage](https://www.oculus.com/medium/)
 | App | Oculus Monitor | @rajetic | [post](https://forums.oculusvr.com/community/discussion/69471/oculus-monitor) / [github](https://github.com/rajetic/OculusMonitor)
@@ -110,7 +110,7 @@ Help us complete this list!
 | App | OpenBoardView | | [homepage](http://openboardview.org)
 | App | OpenPlanet | | [homepage](https://openplanet.nl/) / [shots](https://github.com/ocornut/imgui/issues/1269#issuecomment-359883857)
 | App | OpenSpace | | [homepage](http://openspaceproject.com) / [github](https://github.com/OpenSpace/OpenSpace)
-| App | Orbital | | [github](https://github.com/AlexAltea/orbital)
+| App | Orbital | @AlexAltea | [github](https://github.com/AlexAltea/orbital)
 | Game | Overgrowth | Wolfire Games | [homepage](http://www.wolfire.com/overgrowth) / [shots](https://github.com/ocornut/imgui/issues/973#issuecomment-277081512)
 | App | Panorama | @ronen25 | [github](https://github.com/ronen25/panorama)
 | App | Patterns of Life | @armadillu | [shots](https://github.com/ocornut/imgui/issues/1902#issuecomment-413715089)
