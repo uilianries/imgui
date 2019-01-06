@@ -64,7 +64,7 @@ Help us complete this list!
 | App | Goxel | | [homepage](https://guillaumechereau.github.io/goxel)
 | App | gputop | @rib | [github](https://github.com/rib/gputop/) / [web demo](http://www.gputop.com/)
 | App | gpuvis | Valve Software | [github](https://github.com/mikesart/gpuvis) / [shot](https://github.com/ocornut/imgui/issues/1269#issuecomment-325657871)
-| Game | Graceful Explosion Machine | Vertex Pop | [steam](http://store.steampowered.com/app/575450/Graceful_Explosion_Machine) / [eshop](http://www.nintendo.com/games/detail/graceful-explosion-machine-switch) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-297435445)
+| Game | Graceful Explosion Machine | Vertex Pop | [steam](https://store.steampowered.com/app/575450/Graceful_Explosion_Machine) / [eshop](https://www.nintendo.com/games/detail/graceful-explosion-machine-switch) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-297435445)
 | App | graph based noise tool | | [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-288334906)
 | App | Graphic Depictions | | [github](https://github.com/blackhole89/graphicdepictions) / [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-254023884)
 | Demo | Guberniya | Macau Exports | [homepage](http://www.pouet.net/prod.php?which=69652) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-298192944) / [blog](http://www.lofibucket.com/articles/64k_intro.html#the-tool)
