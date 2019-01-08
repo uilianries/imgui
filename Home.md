@@ -103,7 +103,7 @@ Feel free to edit and contribute!
 - Toggle Button https://github.com/ocornut/imgui/issues/1537
 - [[Plot var helper|plot_var_example]]
 - [[Screenshot Tool|screenshot_tool]]
-- Gradient color generator (@galloman) https://gist.github.com/Galloman/8a5d179e432e062550972afcd1ecf112
+- Gradient color generator (@galloscript) https://gist.github.com/galloscript/8a5d179e432e062550972afcd1ecf112
 - tear imgui: Experiment for a terminal-based renderer for imgui https://github.com/jonvaldes/tear_imgui
 
 ### Building / Packaging Cruft
