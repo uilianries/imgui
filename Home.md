@@ -118,3 +118,10 @@ Feel free to edit and contribute!
 - Starter project for portable app with optional GUI (GLFW/ImGui) https://github.com/abdes/asap
 - Starter dear-imgui GLFW/OpenGL 3 based CMake C++ project: https://github.com/urddru/imgui-glfw
 - Bimpy: bundled imgui for python: https://github.com/podgorskiy/bimpy
+
+### Related/Suggested Librairies
+
+- stb (stb single-file public domain libraries for C/C++) https://github.com/nothings/stb/
+- nuklear (A single-header ANSI C gui library) https://github.com/vurtun/nuklear
+- im3d (Immediate mode rendering and 3d gizmos) https://github.com/john-chapman/im3d/projects
+- small librairies with minimal dependencies https://github.com/nothings/single_file_libs
