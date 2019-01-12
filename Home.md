@@ -124,4 +124,4 @@ Feel free to edit and contribute!
 - stb (stb single-file public domain libraries for C/C++) https://github.com/nothings/stb/
 - nuklear (A single-header ANSI C gui library) https://github.com/vurtun/nuklear
 - im3d (Immediate mode rendering and 3d gizmos) https://github.com/john-chapman/im3d/projects
-- small librairies with minimal dependencies https://github.com/nothings/single_file_libs
+- small libraries with minimal dependencies https://github.com/nothings/single_file_libs
