@@ -86,6 +86,7 @@ Feel free to edit and contribute!
 ### Remoting
 
 - RemoteImGui: send vertices over the network https://github.com/JordiRos/remoteimgui
+- Android GLES3 stub with RemoteImGui: https://github.com/CedricGuillemet/AndroidAppViewer
 
 ### Other
 
