@@ -42,6 +42,9 @@ Lua: imgui bindings for lua (also see: LOVE binding)
 Lua: FFI bindings for LuaJIT
 <br>https://github.com/thenumbernine/lua-ffi-bindings
 
+Nim: cimgui bindings for Nim
+<br>https://github.com/zacharycarter/nimgui
+
 Odin: Odin binding for Dear ImGui
 <br>https://github.com/ThisDrunkDane/odin-dear_imgui
 
@@ -100,7 +103,7 @@ Main repository include examples for DirectX9, DirectX10, DirectX11, DirectX12, 
 - LÖVE+LUA: https://github.com/slages/love-imgui
 - Magnum: https://github.com/mosra/magnum-integration ([doc](https://doc.magnum.graphics/magnum/namespaceMagnum_1_1ImGuiIntegration.html), [example](https://doc.magnum.graphics/magnum/examples-imgui.html))
 - NanoRT (software raytraced): https://github.com/syoyo/imgui/tree/nanort/examples/raytrace_example
-- Nim Game Lib: https://github.com/cavariux/nimgl
+- Nim Game Lib: https://github.com/lmariscal/nimgl
 - px_render: https://github.com/ocornut/imgui/pull/1935
 - Qt: [imgui-qt3d](https://github.com/alpqr/imgui-qt3d) / [QOpenGLWindow (qtimgui)](https://github.com/ocornut/imgui/issues/1910) / [QtDirect3D](https://github.com/giladreich/QtDirect3D) / [qt6](https://github.com/alpqr/qvk6/tree/imgui/examples/rhi/imguidemo)
 - SFML: https://github.com/EliasD/imgui-sfml (or older: https://github.com/Mischa-Alff/imgui-backends)
