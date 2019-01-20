@@ -18,7 +18,7 @@ Feel free to edit and contribute!
 - [[Tips|Tips]] (for people working _with_ dear imgui)
 - [[Loading Font Example|Loading-Font-Example]] (w/ Japanese font)
 
-## Important Topics
+## Issues: Some Important Topics
 
 - [#2109](https://github.com/ocornut/imgui/issues/2109) Docking branch available for testing
 - [#1542](https://github.com/ocornut/imgui/issues/1542) Multi-viewports / virtual viewports Branch
@@ -26,7 +26,7 @@ Feel free to edit and contribute!
 - [#1902](https://github.com/ocornut/imgui/issues/1902) Gallery (Part 7)
 - [#1713](https://github.com/ocornut/imgui/pull/1713) CMake project (PR) by @podsvirov
 
-## Labels
+## Issues: Labels
 
 - https://github.com/ocornut/imgui/labels
 
