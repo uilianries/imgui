@@ -7,7 +7,9 @@ Currently looking for help with those things.
 - The wiki needs improvements!
 
 **Features**
-- Viewport: The multi-viewport branch needs users/testers to move forward! (see Viewport branch and [#1542](https://github.com/ocornut/imgui/issues/1542)). In particular, things may not work as well on all back-ends or operating systems (Linux/OSX are poorly tested regardless of the underlying back-end).
+- Viewport: The multi-viewport feature needs users/testers to move forward! (see [#1542](https://github.com/ocornut/imgui/issues/1542), available in `docking` branch`). 
+- Viewport: In particular, Linux/OSX have issues and need some work from volunteers. See [#2117](https://github.com/ocornut/imgui/issues/2117).
+- Docking: See [#2109](https://github.com/ocornut/imgui/issues/2109).
 
 **Platform/Renderer Bindings**
 - Mac: imgui_impl_osx.mm need some love ([#1873](https://github.com/ocornut/imgui/issues/1873))
