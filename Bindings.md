@@ -51,11 +51,11 @@ Odin: Odin binding for Dear ImGui
 Pascal (imgui-pas): pascal bindings for imgui
 <br>https://github.com/dpethes/imgui-pas
 
-Python (CyImGui): Python bindings for ImGui using Cython.
-<br>https://github.com/chromy/cyimgui
-
 Python (pyimgui): Cython-based Python bindings for dear imgui
 <br>https://github.com/swistakm/pyimgui
+
+Python (CyImGui): Python bindings for ImGui using Cython. (obsolete?)
+<br>https://github.com/chromy/cyimgui
 
 PureBasic (pb-cimgui): PureBasic interface to CImGui Wrapper
 <br>https://github.com/hippyau/pb-cimgui
