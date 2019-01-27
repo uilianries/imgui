@@ -54,7 +54,10 @@ Pascal (imgui-pas): pascal bindings for imgui
 Python (pyimgui): Cython-based Python bindings for dear imgui
 <br>https://github.com/swistakm/pyimgui
 
-Python (CyImGui): Python bindings for ImGui using Cython. (obsolete?)
+Python (Bimpy): Bundled imgui for python
+<br>https://github.com/podgorskiy/bimpy
+
+Python (CyImGui): Python bindings for ImGui using Cython. (obsolete)
 <br>https://github.com/chromy/cyimgui
 
 PureBasic (pb-cimgui): PureBasic interface to CImGui Wrapper
