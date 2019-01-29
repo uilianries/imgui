@@ -91,7 +91,6 @@ Feel free to edit and contribute!
 ### Other
 
 - Input / IO queue for very low framerate applications: https://gist.github.com/ocornut/8417344f3506790304742b07887adf9f
-- Tabs: see Docking branch [#2109](https://github.com/ocornut/imgui/issues/2109) / old thread: [#261](https://github.com/ocornut/imgui/issues/261)
 - Splitters https://github.com/ocornut/imgui/issues/319
 - Bezier widget (@r-lyeh) https://github.com/ocornut/imgui/issues/786
 - Spinner + Loading Bar progress indicators https://github.com/ocornut/imgui/issues/1901
