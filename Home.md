@@ -91,19 +91,20 @@ Feel free to edit and contribute!
 ### Other
 
 - Input / IO queue for very low framerate applications: https://gist.github.com/ocornut/8417344f3506790304742b07887adf9f
-- Splitters https://github.com/ocornut/imgui/issues/319
+- Markdown: https://gist.github.com/dougbinks/65d125e0c11fba81c5e78c546dcfe7af
+- Splitters: https://github.com/ocornut/imgui/issues/319
 - Bezier widget (@r-lyeh) https://github.com/ocornut/imgui/issues/786
-- Spinner + Loading Bar progress indicators https://github.com/ocornut/imgui/issues/1901
-- Node graph editors https://github.com/ocornut/imgui/issues/306
-- Log Window https://github.com/ocornut/imgui/issues/300
+- Spinner + Loading Bar progress indicators: https://github.com/ocornut/imgui/issues/1901
+- Node graph editors: https://github.com/ocornut/imgui/issues/306
+- Log Window: https://github.com/ocornut/imgui/issues/300
 - IP Entry Box (@adam4813) https://github.com/ocornut/imgui/issues/388
-- Pie menu test https://github.com/ocornut/imgui/issues/434
-- Knobs https://github.com/ocornut/imgui/issues/942#issuecomment-268369298
-- URL/Links https://gist.github.com/dougbinks/ef0962ef6ebe2cadae76c4e9f0586c69#file-imguiutils-h-L228-L262
-- Toggle Button https://github.com/ocornut/imgui/issues/1537
+- Pie menu test: https://github.com/ocornut/imgui/issues/434
+- Knobs: https://github.com/ocornut/imgui/issues/942#issuecomment-268369298
+- URL/Links: https://gist.github.com/dougbinks/ef0962ef6ebe2cadae76c4e9f0586c69#file-imguiutils-h-L228-L262
+- Toggle Button: https://github.com/ocornut/imgui/issues/1537
 - [[Plot var helper|plot_var_example]]
 - [[Screenshot Tool|screenshot_tool]]
-- Gradient color generator (@galloscript) https://gist.github.com/galloscript/8a5d179e432e062550972afcd1ecf112
+- Gradient color generator (@galloscript): https://gist.github.com/galloscript/8a5d179e432e062550972afcd1ecf112
 - tear imgui: Experiment for a terminal-based renderer for imgui https://github.com/jonvaldes/tear_imgui
 
 ### Building / Packaging Cruft
