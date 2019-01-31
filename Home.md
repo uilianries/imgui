@@ -91,7 +91,7 @@ Feel free to edit and contribute!
 ### Other
 
 - Input / IO queue for very low framerate applications: https://gist.github.com/ocornut/8417344f3506790304742b07887adf9f
-- Markdown: https://gist.github.com/dougbinks/65d125e0c11fba81c5e78c546dcfe7af
+- Markdown: https://github.com/juliettef/imgui_markdown
 - Splitters: https://github.com/ocornut/imgui/issues/319
 - Bezier widget (@r-lyeh) https://github.com/ocornut/imgui/issues/786
 - Spinner + Loading Bar progress indicators: https://github.com/ocornut/imgui/issues/1901
