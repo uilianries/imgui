@@ -129,6 +129,7 @@ Help us complete this list!
 | Misc | RealSense SDK | Intel | [homepage](https://realsense.intel.com/sdk/) / [gif](https://github.com/ocornut/imgui/issues/1269#issuecomment-358929119)
 | Game | Re:creation | @eliasdaler | [blog](https://eliasdaler.github.io/) |
 | App | Redream | | [github](https://github.com/inolen/redream/)
+| App | RemedyBG | | [homepage](https://remedybg.itch.io/remedybg)
 | App | ReShade | | [homepage](http://reshade.me) / [github](https://github.com/crosire/reshade)
 | Demo | Rise and Shine | Aberration Creations | [homepage](http://www.pouet.net/prod.php?which=68178) / [shot](https://user-images.githubusercontent.com/8225057/37464207-f1ec0a8a-2857-11e8-9f84-bbc4eede53ba.jpg)
 | Game | Rise of the Tomb Raider | Feral Interactive | [video](https://www.youtube.com/watch?v=ptakmFGcIRU&feature=youtu.be&t=638)
