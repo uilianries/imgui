@@ -5,7 +5,7 @@ Feel free to edit and contribute!
 ## Forums
 
 - [Discourse Forum](https://discourse.dearimgui.org/) - if you have issues compiling, linking, running or displaying Dear ImGui (render or inputs, portability issues, using the examples, adding fonts). If you are experienced with Dear ImGui, please consider helping people and answering questions there!
-- [Github issues](https://github.com/ocornut/imgui/issues/) - for feature requests, bug reports, feedback, etc.
+- [Github issues](https://github.com/ocornut/imgui/issues/) - for feature requests, bug reports, feedback, code snippets, etc. If you are experienced with Dear ImGui, please consider helping people and answering questions there!
 
 ## Wiki Pages
 
