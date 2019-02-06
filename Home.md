@@ -77,8 +77,8 @@ Feel free to edit and contribute!
 - [old] @nem0's one, from LumixEngine https://github.com/nem0/LumixEngine/tree/master/external/imgui
 - [old] @paniq's one (based on @nem0's), https://github.com/ocornut/imgui/issues/351#issuecomment-219775521
 - [old] @BentleyBlanks's one (based on @paniq's), https://github.com/BentleyBlanks/imguiDock
-- [old] @thennequin's one ImWindow, with OS window managing https://github.com/thennequin/ImWindow
-- [old] imgui_wm: based on ImWindow above https://github.com/bkaradzic/bgfx/tree/master/3rdparty/ocornut-imgui 
+- [old] @thennequin's ImWindow, with OS window managing https://github.com/thennequin/ImWindow
+- [old] imgui_wm: based on ImWindow https://github.com/bkaradzic/bgfx/tree/master/3rdparty/ocornut-imgui 
 - [old] @edin-purkovic's one https://github.com/edin-purkovic/ImGuiDock
 - [old] @flix01's one, https://github.com/Flix01/imgui/tree/2015-10-Addons/addons/imguidock
 - [old] @aoterodelaroza's one, https://github.com/aoterodelaroza/imgui-goodies
