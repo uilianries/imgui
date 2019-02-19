@@ -6,6 +6,12 @@ Currently looking for help with those things.
 - Helping to answer in the GitHub [issues/threads](https://github.com/ocornut/imgui/issues) is very helpful too! 
 - The wiki needs improvements!
 
+**Third-party Software**
+<br>If you are familiar or interested in GLFW, designing/developing/submitting those changes to GLFW would be extremely helpful to imgui:
+- GLFW: implement/solve https://github.com/glfw/glfw/issues/427 in GLFW to add missing diagonal resize mouse cursors.
+- GLFW: implement/solve https://github.com/glfw/glfw/issues/1236 in GLFW to allow for portable multi-viewport support.
+- GLFW: implement/solve https://github.com/glfw/glfw/pull/989 in GLFW to allow for portable multi-viewport support. (Update: PR submitted as https://github.com/glfw/glfw/pull/1322)
+
 **Features**
 - Viewport: The multi-viewport feature needs users/testers to move forward! (see [#1542](https://github.com/ocornut/imgui/issues/1542), available in `docking` branch`). 
 - Viewport: In particular, Linux/OSX have issues and need some work from volunteers. See [#2117](https://github.com/ocornut/imgui/issues/2117).
@@ -25,9 +31,3 @@ Currently looking for help with those things.
 **External Language Bindings**
 - Many language bindings are not kept up to date (see https://github.com/ocornut/imgui/wiki/Links)
 - Help with the work on a binding generator. See the work in [#1879](https://github.com/ocornut/imgui/issues/1879), feedback/help welcome. Ideally this would lead us toward officially maintained C bindings.
-
-**Third-party Software**
-<br>If you are familiar or interested in GLFW pushing/developing those changes would be extremely helpful to imgui:
-- GLFW: implement/solve https://github.com/glfw/glfw/issues/427 in GLFW to add missing diagonal resize mouse cursors.
-- GLFW: implement/solve https://github.com/glfw/glfw/issues/1236 in GLFW to allow for portable multi-viewport support.
-- GLFW: implement/solve https://github.com/glfw/glfw/pull/989 in GLFW to allow for portable multi-viewport support. (Update: PR submitted as https://github.com/glfw/glfw/pull/1322)
