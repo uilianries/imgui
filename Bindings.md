@@ -102,7 +102,7 @@ Main repository include examples for DirectX9, DirectX10, DirectX11, DirectX12, 
 - Ogre: https://bitbucket.org/LMCrashy/ogreimgui/src, https://github.com/OGRECave/ogre-imgui
 - OpenSceneGraph/OSG: https://gist.github.com/fulezi/d2442ca7626bf270226014501357042c
 - openFrameworks (ofxImGui): https://github.com/jvcleave/ofxImGui
-- Orx: https://github.com/ocornut/imgui/pull/1843
+- Orx (ImGuiOrx): https://github.com/thegwydd/ImGuiOrx (was [#1843](https://github.com/ocornut/imgui/pull/1843))
 - LÖVE+LUA: https://github.com/slages/love-imgui
 - Magnum: https://github.com/mosra/magnum-integration ([doc](https://doc.magnum.graphics/magnum/namespaceMagnum_1_1ImGuiIntegration.html), [example](https://doc.magnum.graphics/magnum/examples-imgui.html))
 - NanoRT (software raytraced): https://github.com/syoyo/imgui/tree/nanort/examples/raytrace_example
