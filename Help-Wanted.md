@@ -8,9 +8,9 @@ Currently looking for help with those things.
 
 **Third-party Software**
 <br>If you are familiar or interested in GLFW, designing/developing/submitting those changes to GLFW would be extremely helpful to imgui:
-- GLFW: implement/solve https://github.com/glfw/glfw/issues/427 in GLFW to add missing diagonal resize mouse cursors.
-- GLFW: implement/solve https://github.com/glfw/glfw/issues/1236 in GLFW to allow for portable multi-viewport support.
-- Linux/Mac: implement workaround, see https://github.com/ocornut/imgui/issues/2117#issuecomment-465185644
+- **GLFW: implement/solve https://github.com/glfw/glfw/issues/1236 in GLFW (transparent inputs) to allow for portable multi-viewport support. OR implement per-OS workaround in imgui_impl_glfw.cpp.**
+- **Linux/Mac: implement per-OS workarounds for other GLFW/SDL issues**, see https://github.com/ocornut/imgui/issues/2117#issuecomment-465185644
+- GLFW: implement/solve https://github.com/glfw/glfw/issues/427 in GLFW (add missing diagonal resize mouse cursors).
 
 **Features**
 - Viewport: The multi-viewport feature needs users/testers to move forward! (see [#1542](https://github.com/ocornut/imgui/issues/1542), available in `docking` branch`). 
