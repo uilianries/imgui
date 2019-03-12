@@ -30,4 +30,4 @@ Currently looking for help with those things.
 
 **External Language Bindings**
 - Many language bindings are not kept up to date (see https://github.com/ocornut/imgui/wiki/Links)
-- Help with the work on a binding generator. See the work in [#1879](https://github.com/ocornut/imgui/issues/1879), feedback/help welcome. Ideally this would lead us toward officially maintained C bindings.
+- Considering switching bindings to use the [cimgui](https://github.com/cimgui/cimgui) generated data so users of your framework/language can stay up to date without manual intervention.
