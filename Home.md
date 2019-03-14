@@ -98,6 +98,7 @@ Feel free to edit and contribute!
 - Spinner + Loading Bar progress indicators: https://github.com/ocornut/imgui/issues/1901
 - Node graph editors: https://github.com/ocornut/imgui/issues/306
 - Log Window: https://github.com/ocornut/imgui/issues/300
+- ImHotKey (Hotkey Editor): https://github.com/CedricGuillemet/ImHotKey
 - IP Entry Box (@adam4813) https://github.com/ocornut/imgui/issues/388
 - Pie menu test: https://github.com/ocornut/imgui/issues/434
 - Knobs: https://github.com/ocornut/imgui/issues/942#issuecomment-268369298
