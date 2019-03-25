@@ -33,6 +33,9 @@ Java (jimgui): Pure Java binding for dear imgui
 JavaScript (imgui-js): JavaScript bindings for Dear ImGui using Emscripten and TypeScript
 <br>https://github.com/flyover/imgui-js + also see [web demo](https://flyover.github.io/imgui-js/example/)
 
+Julia (CImGui.jl]: Julia wrapper for cimgui 
+<br>https://github.com/Gnimuc/CImGui.jL
+
 Lua (LuaJIT-ImGui): LuaJIT ffi binding for imgui and implementations
 <br>https://github.com/sonoro1234/LuaJIT-ImGui
 
