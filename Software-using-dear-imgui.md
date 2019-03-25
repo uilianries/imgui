@@ -46,6 +46,7 @@ Help us complete this list!
 | Game | Dreams | Media Molecule | [homepage](http://dreams.mediamolecule.com) |
 | Game | Dual Universe | Novaquark | [homepage](https://www.dualthegame.com) / [video](https://www.youtube.com/watch?v=WTvT4BAg7RI) |
 | Game | Dungeons of Everchange | Dark Gnosis | [homepage](http://www.darkgnosis.com/game/dungeons-of-everchange/) / [shots](https://github.com/ocornut/imgui/issues/1607#issuecomment-387039874) |
+| Game | Endless Fables 3: Dark Moor | Sunward Games | [steam](https://store.steampowered.com/app/867050/Endless_Fables_3_Dark_Moor/)
 | App | Effekseer | | [homepage](https://twitter.com/Effekseer)
 | App | Electric Eye | Netflix | [video](https://www.youtube.com/watch?v=uEQ3be0ss2A) / [shot](https://cloud.githubusercontent.com/assets/8225057/22478523/9062f8fe-e7ea-11e6-8761-f29cb317bf1a.jpg)
 | Engine | Enjon | | [shot](https://user-images.githubusercontent.com/7358367/39782964-3dc7eb6c-52d9-11e8-8029-723ea5fa5546.png) / [video](https://www.youtube.com/watch?v=fHUdVhmsi6s&t=855s)
