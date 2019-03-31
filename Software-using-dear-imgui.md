@@ -142,7 +142,7 @@ Help us complete this list!
 | Demo | Rise and Shine | Aberration Creations | [homepage](http://www.pouet.net/prod.php?which=68178) / [shot](https://user-images.githubusercontent.com/8225057/37464207-f1ec0a8a-2857-11e8-9f84-bbc4eede53ba.jpg)
 | Game | Rise of the Tomb Raider | Feral Interactive | [video](https://www.youtube.com/watch?v=ptakmFGcIRU&feature=youtu.be&t=638)
 | App | ScalaPixel | | [github](https://github.com/lapinozz/ScalaPixel) / [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-248404445) / [shot](https://user-images.githubusercontent.com/8225057/37464208-f201c8ac-2857-11e8-97be-66010be9e7be.jpg)
-| App | SdfFontDesigner | @aiekick | [shot](https://twitter.com/aiekick/status/988729357731532803)
+| App | SdfFontDesigner | @aiekick | [github](https://github.com/aiekick/SdfFontDesigner) / [shot](https://twitter.com/hashtag/SdfFontDesigner)
 | App | SdfMesher | @aiekick | [shot](https://twitter.com/aiekick/status/975873174930907136)
 | Game | Seaquence | | [homepage](http://okaynokay.xyz/seaquence) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-308277401)
 | Misc | Seed | EA | [homepage](https://www.ea.com/seed) 
