@@ -1,5 +1,5 @@
 _"imgui revolutionised our game development, i cannot imagine making tools without it. from tiny test projects to a large console game, it's utterly dependable and delightful to use. its simple & deep, a rare combination._"
-<br>-Alex Evans ([Media Molecule](mediamolecule.com))
+<br>-Alex Evans ([Media Molecule](https://www.mediamolecule.com/))
 
 _"Dear ImGui is stunning. I don't know how I lasted so long without ever knowing about this. I've removed all my old debugging GUI code and replaced it with this."_
 <br>-Ron Gilbert ([Terrible Toybox](https://thimbleweedpark.com))
@@ -31,7 +31,7 @@ _"The biggest productivity boost I regularly see in a codebase is adding Dear IM
 <br>-Noel Austin (Technical Director, [d3tLtd](https://d3tltd.com/))
 
 _"From fast prototyping to professional UI, Dear ImGui is a stellar library. We moved our tools to Dear ImGui three years ago, and never looked back. Omar did an amazing job!"_
-<br>-Benoit Jacquier ([Kylotonn](www.kylotonngames.com))
+<br>-Benoit Jacquier ([Kylotonn](https://www.kylotonn.com))
 
 _"From generic property list to very specific realtime tool UI, dear imgui covers all our needs. Tool UI has never been so easy."_
 <br>-Damien Quilot (Lead developer, [Nadeo](https://www.nadeo.com/))
