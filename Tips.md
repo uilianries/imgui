@@ -3,7 +3,7 @@ https://github.com/ocornut/imgui/issues/270
 
 An interesting trick that isn't obvious is that you can use Begin() just to put yourself into the context of that window. So here I want to react to the user inputting an address to scroll to, I use BeginChild() again on the child that I've already drawn so I can use SetScrollFromPosY() on it.
 
-```
+```cpp
 ImGui::BeginChild("##scrolling", ImVec2(0, -ImGui::GetItemsLineHeightWithSpacing()));
 // ...(draw main content)
 ImGui::EndChild();
