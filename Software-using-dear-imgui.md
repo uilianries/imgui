@@ -187,6 +187,7 @@ Help us complete this list!
 | App | Virtual Reality Neuron Tracer | Visus | [steam](https://store.steampowered.com/app/791040/Virtual_Reality_Neuron_Tracer/)
 | App | Visual Designer 3D | | [video](https://www.youtube.com/watch?v=211NzYhNSFQ)
 | App | VK Pipeline Layout Editor | | [shot](https://github.com/ocornut/imgui/issues/539#issuecomment-236273659)
+| Game | VRMONLINE-NX | | https://vrmcloud.net/nx/beta/
 | App | WaveEdit | | [homepage](http://synthtech.com/waveedit/) / [github](https://github.com/AndrewBelt/WaveEdit)
 | App | wave-gui | | [github](https://github.com/ggerganov/wave-gui)
 | App | What The Loop | | [homepage](https://whattheloop.net/) / [shot](https://github.com/ocornut/imgui/issues/1269#issuecomment-332807951)
