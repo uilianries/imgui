@@ -94,8 +94,9 @@ Java - JVM port/rewrite, written in Kotlin
 Main repository include examples for DirectX9, DirectX10, DirectX11, DirectX12, Metal, OpenGL2/3, Vulkan, iOS, Allegro 5, and Marmalade, using frameworks such as Glfw, SDL2, Win32, Cocoa. 
 <br>https://github.com/ocornut/imgui/tree/master/examples
 
-- Unmerged PR: SDL2 + OpenGLES + Emscripten example: https://github.com/ocornut/imgui/pull/336 (old example design)
+- Unmerged PR: GTK3 + OpenGL3: https://github.com/ocornut/imgui/pull/2032
 - Unmerged PR: Native Win32 and OSX example: https://github.com/ocornut/imgui/pull/281 (old example design)
+- Unmerged PR: SDL2 + OpenGLES + Emscripten example: https://github.com/ocornut/imgui/pull/336 (old example design)
 - Unmerged PR: Android Example: https://github.com/ocornut/imgui/pull/421 (old example design)
 - Cinder: https://github.com/simongeilfus/Cinder-ImGui
 - Cocos2d-x: https://github.com/c0i/imguix and https://github.com/ocornut/imgui/issues/551
