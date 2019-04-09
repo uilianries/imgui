@@ -114,6 +114,7 @@ Feel free to edit and contribute!
 - Cmake https://github.com/ocornut/imgui/pull/1713 (unmerged PR, please send feedback)
 - Conan https://github.com/bincrafters/conan-imgui, https://bintray.com/bincrafters/public-conan/imgui%3Abincrafters
 - Fips (fips-imgui): fipsified imgui for fips build system https://github.com/fungos/fips-imgui
+- GN (Chromium, ninja) BUILD.gn file: https://github.com/ndsol/VolcanoSamples/blob/master/src/BUILD.gn
 
 ### Example Apps, Framework
 (Please also check our [examples/](https://github.com/ocornut/imgui/tree/master/examples) folder in the repo)
