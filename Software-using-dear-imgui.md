@@ -17,6 +17,7 @@ Help us complete this list!
 | Game | Agents of Mayhem | Volition | [homepage](https://www.aomthegame.com/)
 | App | Apple2Emu | @allender | [github](https://github.com/allender/apple2emu) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-280105757)
 | Game | Arcane Worlds | Ranmantaru Games | [steam](http://steamcommunity.com/app/269610) / [patch note](http://steamcommunity.com/app/269610/discussions/0/357288572127498771)
+| Game | Astro Bot Rescue Mission | Sony/SIE | [homepage](https://www.playstation.com/en-us/games/astro-bot-rescue-mission-ps4/) / [shot](https://user-images.githubusercontent.com/8225057/56029150-0f601a00-5d1a-11e9-9615-f4fd04a1d734.JPG)
 | App | AVETO.vis | B-plus | [homepage](https://www.b-plus.com/en/products/automotive/measurement-logging/avetorec/avetovis.html)
 | Game | Avoyd | Enki Software | [homepage](https://www.enkisoftware.com) / [shot](https://github.com/ocornut/imgui/issues/707#issuecomment-226993714)
 | App | AXIOM Remote | | [github](https://github.com/apertus-open-source-cinema/AXIOM-Remote)
