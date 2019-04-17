@@ -148,7 +148,7 @@ Help us complete this list!
 | App | SdfMesher | @aiekick | [shot](https://twitter.com/aiekick/status/975873174930907136)
 | Game | Seaquence | | [homepage](http://okaynokay.xyz/seaquence) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-308277401)
 | Misc | Seed | EA | [homepage](https://www.ea.com/seed) 
-| Game | Shenmue I & II | Sega | [homepage](https://shenmue.sega.com)
+| Game | Shenmue I & II (2018) | Sega, d3t | [homepage](https://shenmue.sega.com)
 | App | Slic3r Prusa Edition | Prusa Research | [github](https://github.com/prusa3d/Slic3r)
 | Game | SNES Classic Mini | Nintendo | [shot](https://user-images.githubusercontent.com/8225057/31039823-4aef87e2-a581-11e7-8329-077f5ded258d.jpg)
 | App | SoShade | @aiekick | [shot](https://twitter.com/aiekick/status/915133246157008896)
