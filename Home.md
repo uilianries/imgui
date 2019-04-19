@@ -65,7 +65,11 @@ Feel free to edit and contribute!
 - ImGui::Auto() leverage C++17 to automatically serialize any data into imgui interfaces [[github](https://github.com/Csabix/imgui/tree/master/auto)]
 - MetricsGui: controls for displaying performance metrics [[github](https://github.com/GameTechDev/MetricsGui)]
 - ImGuiVR: Demo code for using Imgui with OpenVR [[github](https://github.com/temcgraw/ImguiVR)] [[video](https://www.youtube.com/watch?v=nlwfn4HJw5E)]
+
+### Software Renderer/Rasterizer
+
 - Software Renderer for Dear ImGui [[github](https://github.com/emilk/imgui_software_renderer)] by @emilk
+- Fast(er) Software Rasterizer for Dear ImGui [[github](https://github.com/malamanteau/ImFastRast)] by @malamanteau
 
 ### Text Editors
 - ImGuiColorTextEdit: Colorizing text editor for ImGui [[github](https://github.com/BalazsJako/ImGuiColorTextEdit)]
