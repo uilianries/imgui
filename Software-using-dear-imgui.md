@@ -39,6 +39,7 @@ Help us complete this list!
 | Game | Cyberpunk 2077 | CD Projekt Red | [homepage](https://www.cyberpunk.net/)
 | Game | DCS World | Eagle Dynamics | [homepage](https://www.digitalcombatsimulator.com/)
 | App | Decaf | | [github](https://github.com/decaf-emu/decaf-emu)
+| App | DefleMask | Leonardo Demartino | [homepage](http://www.deflemask.com/) / [appstore](https://itunes.apple.com/app/deflemask/id1390797126) / [playstore](https://play.google.com/store/apps/details?id=com.deflemask.mobile)
 | Game | Deformers | Ready at Dawn | [homepage](https://www.deformers.com/)
 | Game | Devil Daggers | Sorath | [homepage](http://devildaggers.com/) / [steam](https://store.steampowered.com/app/422970/Devil_Daggers/)
 | Engine | Directus3D | @PanosK92 | [github](https://github.com/PanosK92/Directus3D) / [shot](https://raw.githubusercontent.com/PanosK92/Directus3D/master/Assets/screenshot-v0.3_preview2.jpg)
