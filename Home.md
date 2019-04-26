@@ -127,7 +127,16 @@ Feel free to edit and contribute!
 - Starter dear-imgui GLFW/OpenGL 3 based CMake C++ project: https://github.com/urddru/imgui-glfw
 - Bimpy: bundled imgui for python: https://github.com/podgorskiy/bimpy
 
-### Related/Suggested Librairies
+### Notable forks
+
+- https://github.com/adobe/imgui
+- https://github.com/ubisoftinc/imgui
+- https://github.com/mojang/imgui
+- https://github.com/flix01/imgui
+- https://github.com/Csabix/imgui
+- https://github.com/thedmd/imgui
+
+### Related/Suggested Libraries
 
 - stb (stb single-file public domain libraries for C/C++) https://github.com/nothings/stb/
 - nuklear (A single-header ANSI C gui library) https://github.com/vurtun/nuklear
