@@ -114,6 +114,7 @@ Help us complete this list!
 | Engine | NAP Framework | | [homepage](https://www.napframework.com)
 | App | Nodable | @berdal84 | [github](https://github.com/berdal84/Nodable) / [video](https://www.youtube.com/watch?v=_9_wzS7Hme8)
 | App | NoodlesPlate | @aiekick | [github](https://github.com/aiekick/NoodlesPlate) / [videos](https://twitter.com/search?src=typd&q=noodlesplate)
+| Engine | Northlight | Remedy Entertainment | [homepage](https://www.remedygames.com/northlight)
 | App | Oculus Home | Oculus |  
 | App | Oculus Medium | Oculus | [homepage](https://www.oculus.com/medium/)
 | App | Oculus Monitor | @rajetic | [post](https://forums.oculusvr.com/community/discussion/69471/oculus-monitor) / [github](https://github.com/rajetic/OculusMonitor)
