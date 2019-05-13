@@ -199,6 +199,7 @@ Help us complete this list!
 | Game | Windjammers 2 | Dotemu | [homepage](http://www.dotemu.com/game/windjammers-2/)
 | Game | WiLD | Wild Sheep Studio | [homepage](http://www.wildsheepstudio.com) / [shots](https://github.com/ocornut/imgui/issues/539#issuecomment-193720307) |
 | Game | Wonder Boy: The Dragon's Trap | Lizardcube | [homepage](http://www.TheDragonsTrap.com) / [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-262975159) |
+| Game | World of Tanks Blitz | Wargaming | [homepage](https://wotblitz.com/)
 | Plugin | XSquawkBox 2.0 | | [homepage](http://xsb.xsquawkbox.net/) / [shot](http://xsb.xsquawkbox.net/wp-content/uploads/sites/6/2018/03/XSB-NewUI-WIP.png) / [github](https://github.com/kuroneko/xsb_public/) |
 | Engine | XT | | [github](https://github.com/invghost/XT) |
 | Misc | Zep | | [github](https://github.com/cmaughan/zep) |
