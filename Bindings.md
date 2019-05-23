@@ -99,7 +99,7 @@ Main repository include examples for DirectX9, DirectX10, DirectX11, DirectX12, 
 - Unmerged PR: SDL2 + OpenGLES + Emscripten example: https://github.com/ocornut/imgui/pull/336 (old example design)
 - Unmerged PR: Android Example: https://github.com/ocornut/imgui/pull/421 (old example design)
 - Cinder: https://github.com/simongeilfus/Cinder-ImGui
-- Cocos2d-x: https://github.com/c0i/imguix and https://github.com/ocornut/imgui/issues/551
+- Cocos2d-x: https://github.com/c0i/imguix, https://github.com/Mjarkiew/cocos2dx-imgui, and https://github.com/ocornut/imgui/issues/551
 - Flexium (FlexGUI): https://github.com/DXsmiley/FlexGUI
 - GML/GameMaker Studio 2 (ImGuiGML): https://marketplace.yoyogames.com/assets/6221/imguigml
 - Irrlicht Engine (IrrIMGUI): https://github.com/ZahlGraf/IrrIMGUI
