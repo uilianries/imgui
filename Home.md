@@ -71,6 +71,7 @@ Feel free to edit and contribute!
 
 - Software Renderer for Dear ImGui [[github](https://github.com/emilk/imgui_software_renderer)] by @emilk
 - Fast(er) Software Rasterizer for Dear ImGui [[github](https://github.com/malamanteau/ImFastRast)] by @malamanteau
+- ImSoft (softraster for ImGui) [[github](https://github.com/LAK132/ImSoft)] by @LAK132
 
 ### Text Editors
 - ImGuiColorTextEdit: Colorizing text editor for ImGui [[github](https://github.com/BalazsJako/ImGuiColorTextEdit)]
@@ -96,6 +97,7 @@ Feel free to edit and contribute!
 
 ### Other
 
+- ImDuino (ESP32+TFT+ImSoft+ImGui example): https://github.com/LAK132/ImDuino
 - Input / IO queue for very low framerate applications: https://gist.github.com/ocornut/8417344f3506790304742b07887adf9f
 - Markdown: https://github.com/juliettef/imgui_markdown
 - Splitters: https://github.com/ocornut/imgui/issues/319
