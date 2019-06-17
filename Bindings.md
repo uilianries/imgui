@@ -63,6 +63,9 @@ Python (Bimpy): Bundled imgui for python
 Python (CyImGui): Python bindings for ImGui using Cython. (obsolete)
 <br>https://github.com/chromy/cyimgui
 
+Python (Ogre-imgui) 
+<br>https://github.com/OGRECave/ogre-imgui
+
 PureBasic (pb-cimgui): PureBasic interface to CImGui Wrapper
 <br>https://github.com/hippyau/pb-cimgui
 
