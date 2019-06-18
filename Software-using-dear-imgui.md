@@ -100,6 +100,7 @@ Help us complete this list!
 | App | ledSynthMaster | @olekristensen | [github](https://github.com/olekristensen/ledSynthMaster) / [shot](https://github.com/ocornut/imgui/issues/539#issuecomment-233914952)
 | Lib | Libigl | | [github](https://github.com/libigl/libigl)
 | Game | Librelancer | @CallumDev | [shot](https://camo.githubusercontent.com/746f970dbd4f0b2fb64df8e188cce35e023fbd5c/68747470733a2f2f692e696d6775722e636f6d2f666b344f6164382e706e67) / [github](https://github.com/Librelancer/Librelancer)
+| App | Light Tracer | | [homepage](http://lighttracer.org/) / [shots](https://github.com/ocornut/imgui/issues/2529#issuecomment-503015800)
 | Game | Limit Theory | Procedural Reality | [homepage](http://ltheory.com/) / [blog](http://forums.ltheory.com/viewtopic.php?f=30&t=6459#p160975) / [shots](https://github.com/ocornut/imgui/issues/1607#issuecomment-372018336)
 | Lib | LIONant Property System | @TomasArce | [gitlab](https://gitlab.com/LIONant/properties) / [shot](https://user-images.githubusercontent.com/7424060/56275269-ffd63c00-6132-11e9-8562-8aea040caac1.png)
 | Misc | Lullaby | Google | [github](https://github.com/google/lullaby)
