@@ -95,6 +95,7 @@ Feel free to edit and contribute!
 ### Remoting
 
 - RemoteImGui: send vertices over the network https://github.com/JordiRos/remoteimgui
+- imgui-ws: ImGui over WebSockets https://github.com/ggerganov/imgui-ws
 - Android GLES3 stub with RemoteImGui: https://github.com/CedricGuillemet/AndroidAppViewer
 
 ### Other
