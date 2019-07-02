@@ -86,6 +86,7 @@ Help us complete this list!
 | Game | Hellbreaker | | [homepage](https://enhex.itch.io/hellbreaker) / [shot](https://img.itch.zone/aW1hZ2UvMTY5MjQ4Lzg2MTI5NC5qcGc=/original/1InRJS.jpg)
 | Game | Hexterminate | | [homepage](https://www.pedro-nunes.net/hexterminate/)
 | App | IceSL | Loria | [homepage](http://shapeforge.loria.fr/icesl/)
+| App | IFStile | | [homepage](https://ifstile.com)
 | App | Imogen | @CedricGuillemet | [github](https://github.com/CedricGuillemet/Imogen)
 | Game | Indivisible | Lab Zero Games | [homepage](http://www.indivisiblegame.com/)
 | Tool | InkyBlackness HackEd | | [homepage](https://inkyblackness.github.io/) / [github](https://github.com/inkyblackness/hacked) / [shot](https://user-images.githubusercontent.com/1508944/43354138-a4676cc4-9246-11e8-883f-46ddde4aba25.png)
