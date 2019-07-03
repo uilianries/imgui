@@ -21,6 +21,7 @@ Help us complete this list!
 | App | AVETO.vis | B-plus | [homepage](https://www.b-plus.com/en/products/automotive/measurement-logging/avetorec/avetovis.html)
 | Game | Avoyd | Enki Software | [homepage](https://www.enkisoftware.com) / [shot](https://github.com/ocornut/imgui/issues/707#issuecomment-226993714)
 | App | AXIOM Remote | | [github](https://github.com/apertus-open-source-cinema/AXIOM-Remote)
+| App | Azure Kinect Viewer | Microsoft | [homepage](https://docs.microsoft.com/en-us/azure/kinect-dk/azure-kinect-viewer)
 | App | b2 | | [homepage](https://github.com/tom-seddon/b2) / [shot](https://github.com/ocornut/imgui/issues/1269#issuecomment-340313270)
 | Game | Barbearian | Gimblll | [homepage](http://www.gimblll.com/barbearian/) / [steam](https://store.steampowered.com/app/813450/Barbearian/) / [shot](https://user-images.githubusercontent.com/8225057/45208439-deeb6580-b28a-11e8-8e65-bcc93254e515.png)
 | App | BASIC8 | Tony Wang | [homepage](https://paladin-t.github.io/b8/) / [steam](https://store.steampowered.com/app/767240/)
