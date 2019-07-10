@@ -101,6 +101,7 @@ Main repository include examples for DirectX9, DirectX10, DirectX11, DirectX12, 
 - Unmerged PR: Native Win32 and OSX example: https://github.com/ocornut/imgui/pull/281 (old example design)
 - Unmerged PR: SDL2 + OpenGLES + Emscripten example: https://github.com/ocornut/imgui/pull/336 (old example design)
 - Unmerged PR: Android Example: https://github.com/ocornut/imgui/pull/421 (old example design)
+- bsf (bsfimgui): https://github.com/pgruenbacher/bsfImgui
 - Cinder: https://github.com/simongeilfus/Cinder-ImGui
 - Cocos2d-x: https://github.com/c0i/imguix, https://github.com/Mjarkiew/cocos2dx-imgui, and https://github.com/ocornut/imgui/issues/551
 - Flexium (FlexGUI): https://github.com/DXsmiley/FlexGUI
