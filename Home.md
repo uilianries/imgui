@@ -99,6 +99,12 @@ Feel free to edit and contribute!
 - imgui-ws: ImGui over WebSockets https://github.com/ggerganov/imgui-ws
 - Android GLES3 stub with RemoteImGui: https://github.com/CedricGuillemet/AndroidAppViewer
 
+### Node graph editors
+
+- imgui-node-editor: https://github.com/thedmd/imgui-node-editor
+- ImNodes: https://github.com/rokups/ImNodes
+- Many more in this thread: https://github.com/ocornut/imgui/issues/306
+
 ### Other
 
 - ImDuino (ESP32+TFT+ImSoft+ImGui example): https://github.com/LAK132/ImDuino
@@ -107,7 +113,6 @@ Feel free to edit and contribute!
 - Splitters: https://github.com/ocornut/imgui/issues/319
 - Bezier widget (@r-lyeh) https://github.com/ocornut/imgui/issues/786
 - Spinner + Loading Bar progress indicators: https://github.com/ocornut/imgui/issues/1901
-- Node graph editors: https://github.com/ocornut/imgui/issues/306
 - Log Window: https://github.com/ocornut/imgui/issues/300
 - ImHotKey (Hotkey Editor): https://github.com/CedricGuillemet/ImHotKey
 - IP Entry Box (@adam4813) https://github.com/ocornut/imgui/issues/388
