@@ -1,11 +1,13 @@
-### Use the Metrics window!
+**Use the Metrics window!**
 
 Many internal state and tools are exposed in the Metrics window. To access the Metrics window:
 - Call `ShowMetricsWindow()`.
 - Or from the Demo window you can find it in the Help menu.
 They will help you understand how Dear ImGui works, and can help you diagnose problems.
 
-### Use `Begin`/`BeginChild` to put yourself back into the context of another window
+----
+**Use `Begin`/`BeginChild` to put yourself back into the context of another window**
+
 https://github.com/ocornut/imgui/issues/270
 
 An interesting trick that isn't obvious is that you can use Begin() just to put yourself into the context of that window. So here I want to react to the user inputting an address to scroll to, I use BeginChild() again on the child that I've already drawn so I can use SetScrollFromPosY() on it.
