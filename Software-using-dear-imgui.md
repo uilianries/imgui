@@ -85,7 +85,7 @@ Help us complete this list!
 | Demo | Guberniya | Macau Exports | [homepage](http://www.pouet.net/prod.php?which=69652) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-298192944) / [blog](http://www.lofibucket.com/articles/64k_intro.html#the-tool)
 | Game | GunHero | Olli-Samuli Lehmus | [steam](http://store.steampowered.com/app/568840/GunHero/)
 | Engine | Harfang 3d | Movida Production | [homepage](https://www.harfang3d.com) / [shot](https://user-images.githubusercontent.com/8225057/39697837-9e758aba-51f2-11e8-91a9-834d33b5351f.jpg)
-| Engine | Hazel | TheCherno | [homepage](https://github.com/TheCherno/Hazel)
+| Engine | Hazel | TheCherno | [github](https://github.com/TheCherno/Hazel)
 | App | HCK_ | | [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-274636854)
 | Game | Hellbreaker | | [homepage](https://enhex.itch.io/hellbreaker) / [shot](https://img.itch.zone/aW1hZ2UvMTY5MjQ4Lzg2MTI5NC5qcGc=/original/1InRJS.jpg)
 | Game | Hexterminate | | [homepage](https://www.pedro-nunes.net/hexterminate/)
