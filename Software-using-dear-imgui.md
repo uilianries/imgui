@@ -2,7 +2,7 @@ Also see: [[Quotes]].
 
 Help us complete this list!
 
-- Large game studios, where people are the most likely to make fancy use of the library, are also traditionally the least likely to share shots or footage of their internal tools. If you work on a project using dear imgui, please consider sharing tool footage in the [gallery threads](https://github.com/ocornut/imgui/issues/1607), or at least sharing the fact that you are using the library (through talks, publications, blog posts, twitter shout-outs). I am in contact with various high-profile studios who are using dear imgui but many are unfortunately not disclosable.
+- This is a list of disclosed users only. The game industry has traditionally been rather private, and a majority of of large game studios who are using Dear ImGui haven't disclosed their use publicly. If you work for one of those studio, consider disclosing your use via in-game credits, tech-oriented publications / blog posts, community shout-outs, or simply posting in the [gallery threads](https://github.com/ocornut/imgui/issues/2529). I work or talked with some of those studios but I am unable to disclose them without their approval.
 
 - The field listing author/company/team name is provided to make this list easier to parse and contextualize. It doesn't imply any endorsement from said author/company/team. 
 
