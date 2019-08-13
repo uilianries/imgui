@@ -122,6 +122,7 @@ Help us complete this list!
 | Game | Mount & Blade II Bannerlord | TaleWorlds | [blog](https://www.taleworlds.com/en/Games/Bannerlord/Blog/25) / [shot](https://user-images.githubusercontent.com/8225057/30460822-b4e9cadc-99b9-11e7-97fd-377a615b1e4e.jpg)
 | App | MSI Kombustor | MSI/Geeks3D | [homepage](https://geeks3d.com/furmark/kombustor/)
 | Engine | NAP Framework | | [homepage](https://www.napframework.com)
+| Game | New World | Amazon Game Studios | [homepage](https://newworld.com)
 | App | nnview | @syoyo | [github](https://github.com/lighttransport/nnview) / [shot](https://user-images.githubusercontent.com/8225057/61595449-37c6a280-abac-11e9-991a-1c4246c9ccc3.jpg)
 | App | Nodable | @berdal84 | [github](https://github.com/berdal84/Nodable) / [video](https://www.youtube.com/watch?v=_9_wzS7Hme8)
 | App | NoodlesPlate | @aiekick | [github](https://github.com/aiekick/NoodlesPlate) / [videos](https://twitter.com/search?src=typd&q=noodlesplate)
