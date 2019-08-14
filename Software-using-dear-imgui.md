@@ -223,5 +223,5 @@ Help us complete this list!
 | Engine | XT | | [github](https://github.com/invghost/XT) |
 | Misc | Zep | | [github](https://github.com/cmaughan/zep) |
 | Game | Zombie Tsunami | Mobigame | [appstore](https://itunes.apple.com/us/app/zombie-tsunami/id529652920?mt=8)
-| Engine | KerboGame´s KESTD Ronin | KerboGames(Mario Sieg) | [homepage](http://www.kerbogames.com/) / [youtube](https://www.youtube.com/channel/UC6ySgw2VTP4fd0rCsO5DWIA) |
+| Engine | KerboGame´s KESTD Ronin | Mario Sieg | [homepage](http://www.kerbogames.com/) / [youtube](https://www.youtube.com/channel/UC6ySgw2VTP4fd0rCsO5DWIA) |
 
