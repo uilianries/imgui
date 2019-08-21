@@ -148,6 +148,7 @@ Help us complete this list!
 | Game | Pioneer Space Sim | | [homepage](https://pioneerspacesim.net/) / [github](https://github.com/pioneerspacesim/pioneer)
 | Game | Pirate Power | Godzilab | [app store](https://itunes.apple.com/us/app/pirate-power/id605057245) / [google play](https://play.google.com/store/apps/details?id=com.godzilab.happypirate&hl=en)
 | App | PiSP | | [github](https://github.com/twentytwoo/PiSP)
+| App | Project Lavina | ChaosGroup | [homepage](https://www.chaosgroup.com/lavina) / [video](https://www.youtube.com/watch?v=eW33uFWoI-M)
 | App | PocketTrace | @PocketwatchGames | [github](https://github.com/PocketwatchGames/PocketTrace)
 | Game | Pokémon: Let's Go, Pikachu! / Eevee! | Game Freak | [homepage](https://pokemonletsgo.pokemon.com/) / [shot 1](https://user-images.githubusercontent.com/8225057/51388476-d274f480-1b29-11e9-9573-f5986f3833dc.jpg) [2](https://user-images.githubusercontent.com/8225057/51388479-d4d74e80-1b29-11e9-8368-8ccbc09b6f25.jpg)
 | App | Polyscope | | [homepage](http://polyscope.run/)
