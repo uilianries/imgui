@@ -105,15 +105,13 @@ Feel free to edit and contribute!
 - ImNodes: https://github.com/rokups/ImNodes
 - Many more in this thread: https://github.com/ocornut/imgui/issues/306
 
-### Other
+### Useful widgets
 
-- ImDuino (ESP32+TFT+ImSoft+ImGui example): https://github.com/LAK132/ImDuino
-- Input / IO queue for very low framerate applications: https://gist.github.com/ocornut/8417344f3506790304742b07887adf9f
 - Markdown: https://github.com/juliettef/imgui_markdown
+- imgui-plot (@soulthreads): https://github.com/soulthreads/imgui-plot
 - Splitters: https://github.com/ocornut/imgui/issues/319
 - Bezier widget (@r-lyeh) https://github.com/ocornut/imgui/issues/786
 - Spinner + Loading Bar progress indicators: https://github.com/ocornut/imgui/issues/1901
-- Log Window: https://github.com/ocornut/imgui/issues/300
 - ImHotKey (Hotkey Editor): https://github.com/CedricGuillemet/ImHotKey
 - IP Entry Box (@adam4813) https://github.com/ocornut/imgui/issues/388
 - Pie menu test: https://github.com/ocornut/imgui/issues/434
@@ -121,8 +119,13 @@ Feel free to edit and contribute!
 - URL/Links: https://gist.github.com/dougbinks/ef0962ef6ebe2cadae76c4e9f0586c69#file-imguiutils-h-L228-L262
 - Toggle Button: https://github.com/ocornut/imgui/issues/1537
 - [[Plot var helper|plot_var_example]]
-- [[Screenshot Tool|screenshot_tool]]
 - Gradient color generator (@galloscript): https://gist.github.com/galloscript/8a5d179e432e062550972afcd1ecf112
+
+### Other
+
+- ImDuino (ESP32+TFT+ImSoft+ImGui example): https://github.com/LAK132/ImDuino
+- Input / IO queue for very low framerate applications: https://gist.github.com/ocornut/8417344f3506790304742b07887adf9f
+- [[Screenshot Tool|screenshot_tool]]
 - tear imgui: Experiment for a terminal-based renderer for imgui https://github.com/jonvaldes/tear_imgui
 
 ### Building / Packaging Cruft
