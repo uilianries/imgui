@@ -31,7 +31,7 @@ Feel free to edit and contribute!
 
 - https://github.com/ocornut/imgui/labels
 
-## Articles, Video, Talks
+# Articles, Video, Talks
 
 - CppCon 2016: Nicolas Guillemot “Dear imgui," https://www.youtube.com/watch?v=LSRJ1jZq90k
 - Why I think Immediate Mode GUI is way to go for GameDev tools https://gist.github.com/bkaradzic/853fd21a15542e0ec96f7268150f1b62
@@ -51,13 +51,48 @@ Feel free to edit and contribute!
 - (Japanese) ダッシュボードオーバーレイ（OpenVR overlay）を作りimguiとDirectXで描いてみる https://qiita.com/ondorela/items/bf4bebf747f90ebf52d8
 - (Korean) GLFW 사용 방법 정리 (Windows 10, VS2017) https://3dshovel.blogspot.fr/2018/01/glfw-windows-10-visual-studio-2017.html
 
-## Code
+# Useful Widgets
 
-### imgui_club 
-(officially maintained bits)
+### Text Editors
 
-- Memory Editor: [imgui_club/imgui_memory_editor/](https://github.com/ocornut/imgui_club/tree/master/imgui_memory_editor)
-- Freetype renderer: [imgui/misc/freetype/](https://github.com/ocornut/imgui/tree/master/misc/freetype)
+- ImGuiColorTextEdit: Colorizing text editor for ImGui [[github](https://github.com/BalazsJako/ImGuiColorTextEdit)]
+- Zep: An embeddable editor, with optional support for using vim keystrokes. [[github](https://github.com/cmaughan/zep)]
+- Scintilla integration [[thread](https://github.com/ocornut/imgui/issues/108)]
+
+### Node Editors
+
+- imgui-node-editor: https://github.com/thedmd/imgui-node-editor
+- ImNodes: https://github.com/rokups/ImNodes
+- Many more in this thread: https://github.com/ocornut/imgui/issues/306
+
+### Curves, Animations, Gradients
+
+- Bezier widget (@r-lyeh) https://github.com/ocornut/imgui/issues/786
+- ImSequencer (animation sequencer) https://github.com/CedricGuillemet/ImGuizmo
+- Gradient color generator (@galloscript): https://gist.github.com/galloscript/8a5d179e432e062550972afcd1ecf112
+
+### Plotting, Graph
+
+- imgui-plot (@soulthreads): https://github.com/soulthreads/imgui-plot
+- Plot var helper: [[plot_var_example]]
+
+### Misc
+
+- Memory Editor: [https://github.com/ocornut/imgui_club/imgui_club/imgui_memory_editor/](https://github.com/ocornut/imgui_club/tree/master/imgui_memory_editor)
+- Markdown: https://github.com/juliettef/imgui_markdown
+- ImGuizmo (3d translation/rotation Gizmo) https://github.com/CedricGuillemet/ImGuizmo
+- Splitters: https://github.com/ocornut/imgui/issues/319
+- Spinner + Loading Bar progress indicators: https://github.com/ocornut/imgui/issues/1901
+- ImHotKey (Hotkey Editor): https://github.com/CedricGuillemet/ImHotKey
+- IP Entry Box (@adam4813) https://github.com/ocornut/imgui/issues/388
+- Pie menu test: https://github.com/ocornut/imgui/issues/434
+- Knobs: https://github.com/ocornut/imgui/issues/942#issuecomment-268369298
+- URL/Links: https://gist.github.com/dougbinks/ef0962ef6ebe2cadae76c4e9f0586c69#file-imguiutils-h-L228-L262
+- Toggle Button: https://github.com/ocornut/imgui/issues/1537
+- ImGui::Auto(): leverage C++17 to serialize any structure into imgui interfaces https://github.com/Csabix/imgui/tree/master/auto
+- Issues Tag: https://github.com/ocornut/imgui/labels/useful%20widgets
+
+## Other code
 
 ### Third party repos
 
@@ -65,8 +100,6 @@ Feel free to edit and contribute!
 - @leiradel's snippets: https://github.com/leiradel/ImGuiAl/
 - @nem0's snippets (in imgui_user.* files) https://github.com/nem0/LumixEngine/tree/master/external/imgui
 - @aoterodelaroza's snippets [[github](https://github.com/aoterodelaroza/imgui-goodies)]
-- ImGuizmo (3d translation/rotation Gizmo) and ImSequencer (animation sequencer) [[github](https://github.com/CedricGuillemet/ImGuizmo)]
-- ImGui::Auto() leverage C++17 to automatically serialize any data into imgui interfaces [[github](https://github.com/Csabix/imgui/tree/master/auto)]
 - MetricsGui: controls for displaying performance metrics [[github](https://github.com/GameTechDev/MetricsGui)]
 - ImGuiVR: Demo code for using Imgui with OpenVR [[github](https://github.com/temcgraw/ImguiVR)] [[video](https://www.youtube.com/watch?v=nlwfn4HJw5E)]
 
@@ -76,12 +109,8 @@ Feel free to edit and contribute!
 - Fast(er) Software Rasterizer for Dear ImGui [[github](https://github.com/malamanteau/ImFastRast)] by @malamanteau
 - ImSoft (softraster for ImGui) [[github](https://github.com/LAK132/ImSoft)] by @LAK132
 
-### Text Editors
-- ImGuiColorTextEdit: Colorizing text editor for ImGui [[github](https://github.com/BalazsJako/ImGuiColorTextEdit)]
-- Zep: An embeddable editor, with optional support for using vim keystrokes. [[github](https://github.com/cmaughan/zep)]
-- Scintilla integration [[thread](https://github.com/ocornut/imgui/issues/108)]
-
 ### Docking extensions
+
 - **Official Docking Branch (October 2018): see [#2109](https://github.com/ocornut/imgui/issues/2109).**
 - [old] Docking Thread [#351](https://github.com/ocornut/imgui/issues/351)
 - [old] @nem0's one, from LumixEngine https://github.com/nem0/LumixEngine/tree/master/external/imgui
@@ -99,30 +128,9 @@ Feel free to edit and contribute!
 - imgui-ws: ImGui over WebSockets https://github.com/ggerganov/imgui-ws
 - Android GLES3 stub with RemoteImGui: https://github.com/CedricGuillemet/AndroidAppViewer
 
-### Node graph editors
-
-- imgui-node-editor: https://github.com/thedmd/imgui-node-editor
-- ImNodes: https://github.com/rokups/ImNodes
-- Many more in this thread: https://github.com/ocornut/imgui/issues/306
-
-### Useful widgets
-
-- Markdown: https://github.com/juliettef/imgui_markdown
-- imgui-plot (@soulthreads): https://github.com/soulthreads/imgui-plot
-- Splitters: https://github.com/ocornut/imgui/issues/319
-- Bezier widget (@r-lyeh) https://github.com/ocornut/imgui/issues/786
-- Spinner + Loading Bar progress indicators: https://github.com/ocornut/imgui/issues/1901
-- ImHotKey (Hotkey Editor): https://github.com/CedricGuillemet/ImHotKey
-- IP Entry Box (@adam4813) https://github.com/ocornut/imgui/issues/388
-- Pie menu test: https://github.com/ocornut/imgui/issues/434
-- Knobs: https://github.com/ocornut/imgui/issues/942#issuecomment-268369298
-- URL/Links: https://gist.github.com/dougbinks/ef0962ef6ebe2cadae76c4e9f0586c69#file-imguiutils-h-L228-L262
-- Toggle Button: https://github.com/ocornut/imgui/issues/1537
-- [[Plot var helper|plot_var_example]]
-- Gradient color generator (@galloscript): https://gist.github.com/galloscript/8a5d179e432e062550972afcd1ecf112
-
 ### Other
 
+- imgui_freetype renderer: [imgui/misc/freetype/](https://github.com/ocornut/imgui/tree/master/misc/freetype) (in main repo)
 - ImDuino (ESP32+TFT+ImSoft+ImGui example): https://github.com/LAK132/ImDuino
 - Input / IO queue for very low framerate applications: https://gist.github.com/ocornut/8417344f3506790304742b07887adf9f
 - [[Screenshot Tool|screenshot_tool]]
