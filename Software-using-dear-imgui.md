@@ -67,6 +67,7 @@ Help us complete this list!
 | App | FlexBV | pldaniels | [homepage](https://pldaniels.com/flexbv/)
 | Game | Fugl | Team Fugl | [steam](https://store.steampowered.com/app/643810/Fugl/) / [homepage](http://fuglgame.com) |
 | Game | Future Unfolding | Spaces of Play| [credits](https://www.mobygames.com/game/playstation-4/future-unfolding/credits)
+| Game | Linear algebra and collision detection | @gszauer| [github](https://github.com/gszauer/GamePhysicsCookbook)
 | Engine | GeeXLab | | [homepage](http://www.geeks3d.com/geexlab/)
 | App | Geocod/Geogram | Loria | [homepage](http://homepages.loria.fr/BLevy/GEOGRAM) / [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-249678740) / [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-270942101) |
 | App | Geo::Math | brbl | [homepage](https://brbl.itch.io/geomath)
