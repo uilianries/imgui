@@ -73,7 +73,7 @@ Feel free to edit and contribute!
 
 ### Plotting, Graph
 
-- imgui-plot (@soulthreads): https://github.com/soulthreads/imgui-plot
+- imgui-plot (@soulthreads): https://github.com/soulthreads/imgui-plot https://github.com/ocornut/imgui/issues/2747
 - Plot var helper: [[plot_var_example]]
 
 ### Misc
