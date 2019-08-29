@@ -1,3 +1,18 @@
+If you are working on Dear ImGui codebase:
+
+### Logging
+You can use the `IMGUI_DEBUG_LOG` macro (declared in `imgui_internal.h`) to easily print text to the console while including the current frame counter, which is very often useful in log.
+
+### Using breakpoints
+Using debugger breakpoints can be tedious in an interactive application dealing with lots of data. Even more so as the state of the application may be so reliant on mouse and keyboard inputs. One convenient trick is filter breakpoint based on custom conditions, e.g checking for the Alt key modifier to be pressed:
+
+```
+if (ImGui::GetIO().KeyAlt)
+    printf(""); // Set a debugger breakpoint here!
+```
+
+So you can setup your UI state for debugging (open windows, mouse position, active action etc.) and then only when you press ALT your breakpoint will trigger.
+
 ### Using Natvis file for Visual Studio debugging
 The `misc/natvis/imgui.natvis` file may be included in your project to provide support for dear imgui types in the debugger (e.g. expanding of `ImVector<>` arrays).
 
@@ -19,13 +34,3 @@ echo ---- Totals:
 type "%WORK_DIR%\output\%PROJ_NAME%.plog_totals.txt"
 start "" "%WORK_DIR%\output\fullhtml\index.html"
 ```
-
-### Using breakpoints
-Using debugger breakpoints can be tedious in an interactive application dealing with lots of data. Even more so as the state of the application may be so reliant on mouse and keyboard inputs. One convenient trick is filter breakpoint based on custom conditions, e.g checking for the Alt key modifier to be pressed:
-
-```
-if (ImGui::GetIO().KeyAlt)
-    printf(""); // Set a debugger breakpoint here!
-```
-
-So you can setup your UI state for debugging (open windows, mouse position, active action etc.) and then only when you press ALT your breakpoint will trigger.
