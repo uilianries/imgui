@@ -62,7 +62,8 @@ Feel free to edit and contribute!
 ### Node Editors
 
 - imgui-node-editor: https://github.com/thedmd/imgui-node-editor
-- ImNodes: https://github.com/rokups/ImNodes
+- rokups/ImNodes: https://github.com/rokups/ImNodes
+- Nelarius/imnodes: https://github.com/Nelarius/imnodes
 - Many more in this thread: https://github.com/ocornut/imgui/issues/306
 
 ### Curves, Animations, Gradients
