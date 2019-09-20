@@ -87,28 +87,41 @@ Add at the top of one of your source file:
 ```
 #include <D3dx9tex.h>
 #pragma comment(lib, "D3dx9")
+
+// Simple helper function to load an image into a DX9 texture with common settings
+bool LoadTextureFromFile(const char* filename, PDIRECT3DTEXTURE9* out_texture, int* out_width, int* out_height)
+{
+    // Load texture from disk
+    PDIRECT3DTEXTURE9 texture;
+    HRESULT hr = D3DXCreateTextureFromFileA(g_pd3dDevice, filename, &texture);
+    if (hr != S_OK)
+        return false;
+
+    // Retrieve description of the texture surface so we can access its size
+    D3DSURFACE_DESC my_image_desc;
+    texture->GetLevelDesc(0, &my_image_desc);
+    *out_texture = texture;
+    *out_width = (int)my_image_desc.Width;
+    *out_height = (int)my_image_desc.Height;
+    return true;
+}
 ```
 
-Then, let's load a file from disk directly into a DirectX9 texture:
+At initialization time, load our texture:
 ```
-// Load texture
-PDIRECT3DTEXTURE9 my_image_texture;
-HRESULT hr = D3DXCreateTextureFromFileA(g_pd3dDevice, "../../MyImage01.jpg", &my_image_texture);
-IM_ASSERT(hr == S_OK);
-    
-// Retrieve description of the texture surface so we can access its size
-D3DSURFACE_DESC my_image_desc;
-my_image_texture->GetLevelDesc(0, &my_image_desc);
-int my_image_width = my_image_desc.Width;
-int my_image_height = my_image_desc.Height;
+int my_image_width = 0;
+int my_image_height = 0;
+PDIRECT3DTEXTURE9 my_texture = NULL;
+bool ret = LoadTextureFromFile("../../MyImage01.jpg", &my_texture, &my_image_width, &my_image_height);
+IM_ASSERT(ret);
 ```
 
 Now that we have an DirectX9 texture and its dimensions, we can display it in our main loop:
 ```
-ImGui::Begin("Test");
-ImGui::Text("pointer = %p", my_image_texture);
+ImGui::Begin("DirectX9 Texture Test");
+ImGui::Text("pointer = %p", my_texture);
 ImGui::Text("size = %d x %d", my_image_width, my_image_height);
-ImGui::Image((void*)my_image_texture, ImVec2(my_image_width, my_image_height));
+ImGui::Image((void*)my_texture, ImVec2(my_image_width, my_image_height));
 ImGui::End();
 ```
 
@@ -118,11 +131,11 @@ ImGui::End();
 
 ### Example for DirectX11 users
 
+Add at the top of one of your source file:
 ```
 #define STB_IMAGE_IMPLEMENTATION
 #include <stb_image.h>
-```
-```
+
 // Simple helper function to load an image into a DX11 texture with common settings
 bool LoadTextureFromFile(const char* filename, ID3D11ShaderResourceView** out_srv, int* out_width, int* out_height)
 {
@@ -131,10 +144,7 @@ bool LoadTextureFromFile(const char* filename, ID3D11ShaderResourceView** out_sr
     int image_height = 0;
     unsigned char* image_data = stbi_load(filename, &image_width, &image_height, NULL, 4);
     if (image_data == NULL)
-    {
-        IM_ASSERT(image_data != NULL);
         return false;
-    }
 
     // Create texture
     D3D11_TEXTURE2D_DESC desc;
