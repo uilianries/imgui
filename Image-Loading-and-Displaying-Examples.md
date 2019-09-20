@@ -27,55 +27,66 @@ Two things to watch for:
 
 ### Example for OpenGL users
 
-We will here use [stb_image.h](https://github.com/nothings/stb/blob/master/stb_image.h) to load image from disk. Grab stb_image.h and add at the top of one of your source file:
+We will here use [stb_image.h](https://github.com/nothings/stb/blob/master/stb_image.h) to load images from disk.
 
+Add at the top of one of your source file:
 ```
-// Use stb_image.h to load a PNG from disk and turn it into raw RGBA pixel data:
 #define STB_IMAGE_IMPLEMENTATION
 #include <stb_image.h>
-```
-You may then include `<stb_image.h>` from multiple sources, but only `#define STB_IMAGE_IMPLEMENTATION` in one of them.
 
-Then, let's load a file from disk:
+// Simple helper function to load an image into a OpenGL texture with common settings
+bool LoadTextureFromFile(const char* filename, GLuint* out_texture, int* out_width, int* out_height)
+{
+    // Load from file
+    int image_width = 0;
+    int image_height = 0;
+    unsigned char* image_data = stbi_load(filename, &image_width, &image_height, NULL, 4);
+    if (image_data == NULL)
+        return false;
+
+    // Create a OpenGL texture identifier
+    GLuint image_texture;
+    glGenTextures(1, &image_texture);
+    glBindTexture(GL_TEXTURE_2D, image_texture);
+
+    // Setup filtering parameters for display
+    glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MIN_FILTER, GL_LINEAR);
+    glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MAG_FILTER, GL_LINEAR);
+
+    // Upload pixels into texture
+    glPixelStorei(GL_UNPACK_ROW_LENGTH, 0);
+    glTexImage2D(GL_TEXTURE_2D, 0, GL_RGBA, image_width, image_height, 0, GL_RGBA, GL_UNSIGNED_BYTE, image_data);
+    stbi_image_free(image_data);
+
+    *out_texture = image_texture;
+    *out_width = image_width;
+    *out_height = image_height;
+
+    return true;
+}
+```
+
+At initialization time, load our texture:
 ```
 int my_image_width = 0;
 int my_image_height = 0;
-unsigned char* my_image_data = stbi_load("MyImage01.jpg", &my_image_width, &my_image_height, NULL, 4);
-IM_ASSERT(my_image_data != NULL);
+GLuint my_image_texture = 0;
+bool ret = LoadTextureFromFile("../../MyImage01.jpg", &my_image_texture, &my_image_width, &my_image_height);
+IM_ASSERT(ret);
 ```
 
-In the snippet of code above, we added an assert (`IM_ASSERT(my_image_data != NULL)`) to check if the image file was loaded correctly. You may also use your Debugger and confirm that `my_image_data` is not null, and that `my_image_width` `my_image_width` are correct.
+In the snippet of code above, we added an assert (`IM_ASSERT(ret)`) to check if the image file was loaded correctly. You may also use your Debugger and confirm that `my_image_texture` is not zeroand that `my_image_width` `my_image_width` are correct.
 
-Now, we'll be upload our pixels into an OpenGL texture:
-
+Now that we have an DirectX9 texture and its dimensions, we can display it in our main loop:
 ```
-// Create a OpenGL texture identifier
-GLuint my_image_texture;
-glGenTextures(1, &my_image_texture);
-glBindTexture(GL_TEXTURE_2D, my_image_texture);
-
-// Setup filtering parameters for display
-glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MIN_FILTER, GL_LINEAR);
-glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MAG_FILTER, GL_LINEAR);
-
-// Setup CPU->GPU upload parameters
-glPixelStorei(GL_UNPACK_ROW_LENGTH, 0);
-
-// Upload pixels into texture
-glTexImage2D(GL_TEXTURE_2D, 0, GL_RGBA, my_image_width, my_image_height, 0, GL_RGBA, GL_UNSIGNED_BYTE, image_data);
-```
-
-Now that we have an OpenGL texture and its dimension, we can add in our main loop:
-
-```
-ImGui::Begin("Test");
+ImGui::Begin("OpenGL Texture Text");
 ImGui::Text("pointer = %p", my_image_texture);
 ImGui::Text("size = %d x %d", my_image_width, my_image_height);
 ImGui::Image((void*)(intptr_t)my_image_texture, ImVec2(my_image_width, my_image_height));
 ImGui::End();
 ```
 
-![image](https://user-images.githubusercontent.com/8225057/65342485-26f9d380-dbd3-11e9-967e-b279b1ad8551.png)
+![image](https://user-images.githubusercontent.com/8225057/65344387-dfc21180-dbd7-11e9-9478-627403721435.png)
 
 ----
 
@@ -125,7 +136,7 @@ ImGui::Image((void*)my_texture, ImVec2(my_image_width, my_image_height));
 ImGui::End();
 ```
 
-![image](https://user-images.githubusercontent.com/8225057/65342425-0467ba80-dbd3-11e9-833f-3feb5084e1da.png)
+![image](https://user-images.githubusercontent.com/8225057/65344041-dedcb000-dbd6-11e9-8a52-120673e8e85f.png)
 
 ----
 
@@ -178,6 +189,8 @@ bool LoadTextureFromFile(const char* filename, ID3D11ShaderResourceView** out_sr
 
     *out_width = image_width;
     *out_height = image_height;
+    stbi_image_free(image_data);
+
     return true;
 }
 ```
