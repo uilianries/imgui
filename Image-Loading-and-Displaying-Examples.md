@@ -1,3 +1,5 @@
+Examples: [OpenGL](#Example-for-OpenGL-users) - [DirectX9](#Example-for-DirectX9-users) - [DirectX11](#Example-for-DirectX11-users)
+
 ### TL;DR;
 
 Loading an image file into a GPU texture is outside of the scope of Dear ImGui and has more to do with your Graphics API. Because this is such a recurring issue for Dear ImGui users, we are providing a guide here.
@@ -34,7 +36,6 @@ We will here use [stb_image.h](https://github.com/nothings/stb/blob/master/stb_i
 You may then include `<stb_image.h>` from multiple sources, but only `#define STB_IMAGE_IMPLEMENTATION` in one of them.
 
 Then, let's load a file from disk:
-
 ```
 int my_image_width = 0;
 int my_image_height = 0;
@@ -63,19 +64,52 @@ glPixelStorei(GL_UNPACK_ROW_LENGTH, 0);
 glTexImage2D(GL_TEXTURE_2D, 0, GL_RGBA, my_image_width, my_image_height, 0, GL_RGBA, GL_UNSIGNED_BYTE, image_data);
 ```
 
-Now that we have an OpenGL texture, assuming our imgui rendering function (imgui_impl_xxx.cpp file) takes GLuint as ImTextureID, we can display it. Add in your main loop:
+Now that we have an OpenGL texture and its dimension, we can add in our main loop:
 
 ```
 ImGui::Begin("Test");
-ImGui::Text("my_image_texture = %p", my_image_texture);
-ImGui::Text("my_image_size = %d x %d", my_image_width, my_image_height);
+ImGui::Text("pointer = %p", my_image_texture);
+ImGui::Text("size = %d x %d", my_image_width, my_image_height);
 ImGui::Image((void*)(intptr_t)my_image_texture, ImVec2(my_image_width, my_image_height));
 ImGui::End();
 ```
 
-![image](https://user-images.githubusercontent.com/8225057/65341917-d3d35100-dbd1-11e9-9f13-6d99a6f1a891.png)
+![image](https://user-images.githubusercontent.com/8225057/65342485-26f9d380-dbd3-11e9-967e-b279b1ad8551.png)
 
 ### Example for DirectX9 users
+
+Unlike the majority of modern graphics API, DirectX9 include helper functions to load image files from disk. We are going to use them here, instead of using `stb_image.h`.
+
+Add at the top of one of your source file:
+```
+#include <D3dx9tex.h>
+#pragma comment(lib, "D3dx9")
+```
+
+Then, let's load a file from disk directly into a DirectX9 texture:
+```
+// Load texture
+PDIRECT3DTEXTURE9 my_image_texture;
+HRESULT hr = D3DXCreateTextureFromFileA(g_pd3dDevice, "../../MyImage01.jpg", &my_image_texture);
+IM_ASSERT(hr == S_OK);
+    
+// Retrieve description of the texture surface so we can access its size
+D3DSURFACE_DESC my_image_desc;
+my_image_texture->GetLevelDesc(0, &my_image_desc);
+int my_image_width = my_image_desc.Width;
+int my_image_height = my_image_desc.Height;
+```
+
+Now that we have an DirectX9 texture and its dimensions, we can add in our main loop:
+```
+ImGui::Begin("Test");
+ImGui::Text("pointer = %p", my_image_texture);
+ImGui::Text("size = %d x %d", my_image_width, my_image_height);
+ImGui::Image((void*)my_image_texture, ImVec2(my_image_width, my_image_height));
+ImGui::End();
+```
+
+![image](https://user-images.githubusercontent.com/8225057/65342425-0467ba80-dbd3-11e9-833f-3feb5084e1da.png)
 
 ### Example for DirectX11 users
 
