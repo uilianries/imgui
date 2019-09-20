@@ -23,6 +23,7 @@ Two things to watch for:
 - Make sure your IDE/debugger settings starts your executable from the right working directory. In Visual Studio you can change your working directory in project `Properties > General > Debugging > Working Directory`. People assume that their execution will start from the root folder of the project, where by default it oftens start from the folder where object or executable files are stored.
 - In C/C++ and most programming languages if you want to use a backslash `\` within a string literal, you need to write it double backslash `\\`. So if you try to use `"C:\MyFiles\MyImage01.jpg"` when performing a quick test this will be incorrect. Use `"C:\\MyFiles\\MyImage01.jpg"` instead.
 
+----
 
 ### Example for OpenGL users
 
@@ -76,6 +77,8 @@ ImGui::End();
 
 ![image](https://user-images.githubusercontent.com/8225057/65342485-26f9d380-dbd3-11e9-967e-b279b1ad8551.png)
 
+----
+
 ### Example for DirectX9 users
 
 Unlike the majority of modern graphics API, DirectX9 include helper functions to load image files from disk. We are going to use them here, instead of using `stb_image.h`.
@@ -100,7 +103,7 @@ int my_image_width = my_image_desc.Width;
 int my_image_height = my_image_desc.Height;
 ```
 
-Now that we have an DirectX9 texture and its dimensions, we can add in our main loop:
+Now that we have an DirectX9 texture and its dimensions, we can display it in our main loop:
 ```
 ImGui::Begin("Test");
 ImGui::Text("pointer = %p", my_image_texture);
@@ -111,7 +114,85 @@ ImGui::End();
 
 ![image](https://user-images.githubusercontent.com/8225057/65342425-0467ba80-dbd3-11e9-833f-3feb5084e1da.png)
 
+----
+
 ### Example for DirectX11 users
+
+```
+#define STB_IMAGE_IMPLEMENTATION
+#include <stb_image.h>
+```
+```
+// Simple helper function to load an image into a DX11 texture with common settings
+bool LoadTextureFromFile(const char* filename, ID3D11ShaderResourceView** out_srv, int* out_width, int* out_height)
+{
+    // Load from disk into a raw RGBA buffer
+    int image_width = 0;
+    int image_height = 0;
+    unsigned char* image_data = stbi_load(filename, &image_width, &image_height, NULL, 4);
+    if (image_data == NULL)
+    {
+        IM_ASSERT(image_data != NULL);
+        return false;
+    }
+
+    // Create texture
+    D3D11_TEXTURE2D_DESC desc;
+    ZeroMemory(&desc, sizeof(desc));
+    desc.Width = image_width;
+    desc.Height = image_height;
+    desc.MipLevels = 1;
+    desc.ArraySize = 1;
+    desc.Format = DXGI_FORMAT_R8G8B8A8_UNORM;
+    desc.SampleDesc.Count = 1;
+    desc.Usage = D3D11_USAGE_DEFAULT;
+    desc.BindFlags = D3D11_BIND_SHADER_RESOURCE;
+    desc.CPUAccessFlags = 0;
+
+    ID3D11Texture2D *pTexture = NULL;
+    D3D11_SUBRESOURCE_DATA subResource;
+    subResource.pSysMem = image_data;
+    subResource.SysMemPitch = desc.Width * 4;
+    subResource.SysMemSlicePitch = 0;
+    g_pd3dDevice->CreateTexture2D(&desc, &subResource, &pTexture);
+
+    // Create texture view
+    D3D11_SHADER_RESOURCE_VIEW_DESC srvDesc;
+    ZeroMemory(&srvDesc, sizeof(srvDesc));
+    srvDesc.Format = DXGI_FORMAT_R8G8B8A8_UNORM;
+    srvDesc.ViewDimension = D3D11_SRV_DIMENSION_TEXTURE2D;
+    srvDesc.Texture2D.MipLevels = desc.MipLevels;
+    srvDesc.Texture2D.MostDetailedMip = 0;
+    g_pd3dDevice->CreateShaderResourceView(pTexture, &srvDesc, out_srv);
+    pTexture->Release();
+
+    *out_width = image_width;
+    *out_height = image_height;
+    return true;
+}
+```
+
+At initialization time, load our texture:
+```
+int my_image_width = 0;
+int my_image_height = 0;
+ID3D11ShaderResourceView* my_texture = NULL;
+bool ret = LoadTextureFromFile("../../MyImage01.jpg", &my_texture, &my_image_width, &my_image_height);
+IM_ASSERT(ret);
+```
+
+Now that we have an DirectX9 texture and its dimensions, we can display it in our main loop:
+```
+ImGui::Begin("DirectX11 Texture Test");
+ImGui::Text("pointer = %p", my_texture);
+ImGui::Text("size = %d x %d", my_image_width, my_image_height);
+ImGui::Image((void*)my_texture, ImVec2(my_image_width, my_image_height));
+ImGui::End();
+```
+
+![image](https://user-images.githubusercontent.com/8225057/65343598-a38db180-dbd5-11e9-8776-80dfa4a7f3c6.png)
+
+----
 
 ### Technical Explanation
 
