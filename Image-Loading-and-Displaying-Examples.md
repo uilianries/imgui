@@ -11,7 +11,7 @@ We will load this image: (Right-click to save as MyImage01.jpg, 20,123 bytes)
 This is generally done in two steps:
 
 - Load image from the disk into a decompressed RGBA stored in RAM. You may use helper librairies such as [stb_image.h](https://github.com/nothings/stb/blob/master/stb_image.h) to do this.
-- Load the decompressed RGBA image storage in RAM into a GPU texture. You'll want to use dedicated functions of your graphics API (e.g. OpenGL, DirectX11) to do this.
+- Load the raw decompressed RGBA image in RAM into a GPU texture. You'll want to use dedicated functions of your graphics API (e.g. OpenGL, DirectX11) to do this.
 
 Once you have an image in GPU texture memory, you can use functions such as `ImGui::Image()` to request Dear ImGui to create a draw command that your Dear ImGui rendering back-end will turn into a draw call.
 
@@ -21,7 +21,7 @@ Once you have an image in GPU texture memory, you can use functions such as `ImG
 
 Two things to watch for:
 - Make sure your IDE/debugger settings starts your executable from the right working directory. In Visual Studio you can change your working directory in project `Properties > General > Debugging > Working Directory`. People assume that their execution will start from the root folder of the project, where by default it oftens start from the folder where object or executable files are stored.
-- In C/C++ and most programming languages if you want to use a backslash `\` within a string literal, you need to write it double backslash `\\`. So if you try to use `"C:\MyFiles\MyImage01.jpg"` when performing a quick test this will be incorrect. Use `"C:\\MyFiles\\MyImage01.jpg"` instead.
+- In C/C++ and most programming languages if you want to use a backslash `\` within a string literal, you need to write it double backslash `\\`. So if you try to use `"C:\MyFiles\MyImage01.jpg"` when performing a quick test this will be incorrect. Use `"C:\\MyFiles\\MyImage01.jpg"` instead. In some situations, you may also use `/` path separator under Windows.
 
 ----
 
@@ -75,7 +75,7 @@ bool ret = LoadTextureFromFile("../../MyImage01.jpg", &my_image_texture, &my_ima
 IM_ASSERT(ret);
 ```
 
-In the snippet of code above, we added an assert (`IM_ASSERT(ret)`) to check if the image file was loaded correctly. You may also use your Debugger and confirm that `my_image_texture` is not zeroand that `my_image_width` `my_image_width` are correct.
+In the snippet of code above, we added an assert `IM_ASSERT(ret)` to check if the image file was loaded correctly. You may also use your Debugger and confirm that `my_image_texture` is not zero and that `my_image_width` `my_image_width` are correct.
 
 Now that we have an DirectX9 texture and its dimensions, we can display it in our main loop:
 ```
@@ -252,4 +252,4 @@ MyEngineBindTexture2D(texture);
 ```
 Once you understand this design you will understand that loading image files and turning them into displayable textures is not within the scope of Dear ImGui. This is by design and is actually a good thing, because it means your code has full control over your data types and how you display them. If you want to display an image file (e.g. PNG file) into the screen, please refer to documentation and tutorials for the graphics API you are using.
 
-Finally, you may call ImGui::ShowMetricsWindow() to explore/visualize/understand how the ImDrawList are generated.
+Finally, you may call `ImGui::ShowMetricsWindow()` to explore/visualize/understand how the ImDrawList are generated.
