@@ -17,6 +17,7 @@ Feel free to edit and contribute!
 - [[Sponsors|Sponsors]]
 - [[Tips|Tips]] (for people working _with_ dear imgui)
 - [[Developer tips|Developer-Tips]] (for people working _on_ dear imgui)
+- [[Image Loading and Displaying Examples|Image-Loading-and-Displaying-Examples]]
 - [[Loading Font Example|Loading-Font-Example]] (w/ Japanese font)
 
 ## Issues: Some Important Topics
@@ -82,6 +83,7 @@ Feel free to edit and contribute!
 - Memory Editor: [https://github.com/ocornut/imgui_club/imgui_club/imgui_memory_editor/](https://github.com/ocornut/imgui_club/tree/master/imgui_memory_editor)
 - Markdown: https://github.com/juliettef/imgui_markdown
 - ImGuizmo (3d translation/rotation Gizmo) https://github.com/CedricGuillemet/ImGuizmo
+- imGuiZMO.quat (3d translation/rotation Gizmo) https://github.com/BrutPitt/imGuIZMO.quat
 - Splitters: https://github.com/ocornut/imgui/issues/319
 - Spinner + Loading Bar progress indicators: https://github.com/ocornut/imgui/issues/1901
 - ImHotKey (Hotkey Editor): https://github.com/CedricGuillemet/ImHotKey
