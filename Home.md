@@ -1,3 +1,7 @@
+| Index |
+:----------------------------------------------------------: |
+| [Forums](#Forums) - [Wiki Pages](#wiki-pages) - [Articles, Video, Talks](#articles-video-talks) - [Useful Widgets](#useful-widgets) - [More](#more) |
+
 Welcome to the Dear ImGui wiki!
 This wiki is in construction.
 Feel free to edit and contribute!
@@ -96,7 +100,7 @@ Feel free to edit and contribute!
 - LayoutWidget #2779 https://github.com/xpenatan/jDear-imgui/tree/master/extensions/imgui-layout-widget
 - Issues Tag: https://github.com/ocornut/imgui/labels/useful%20widgets
 
-## Other code
+# More
 
 ### Third party repos
 
