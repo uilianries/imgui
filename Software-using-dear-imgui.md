@@ -192,6 +192,7 @@ Help us complete this list!
 | Game | Tearaway | Media Molecule | [homepage](http://tearaway.mediamolecule.com/)
 | Game | Tearaway Unfolded | Media Molecule | [homepage](http://tearaway.mediamolecule.com/) / [shots](https://github.com/ocornut/imgui/issues/539#issuecomment-193710713)
 | App | TexGraph | @galloscript | [web](https://galloscript.itch.io/texgraph)
+| Game | The Surge 2 | Deck 13 | [web](http://thesurge-game.com) / [video](https://www.youtube.com/watch?v=WjPiJn9dkxs)
 | Engine | Thorium 3D | | [shots](https://github.com/ocornut/imgui/issues/772#issuecomment-268208362) / [shots](https://github.com/ocornut/imgui/issues/973#issuecomment-286752876)
 | App | Timelapse View for HG | @jschmidt42 | [github](https://github.com/jschmidt42/timelapse)
 | App | Tiny8bit | @floooh | [web](https://floooh.github.io/tiny8bit/) / [shot](https://user-images.githubusercontent.com/1699414/50175000-02976080-02fc-11e9-9e51-42369c8e5792.png)
