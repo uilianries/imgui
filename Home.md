@@ -93,6 +93,7 @@ Feel free to edit and contribute!
 - URL/Links: https://gist.github.com/dougbinks/ef0962ef6ebe2cadae76c4e9f0586c69#file-imguiutils-h-L228-L262
 - Toggle Button: https://github.com/ocornut/imgui/issues/1537
 - ImGui::Auto(): leverage C++17 to serialize any structure into imgui interfaces https://github.com/Csabix/imgui/tree/master/auto
+- LayoutWidget #2779 https://github.com/xpenatan/jDear-imgui/tree/master/extensions/imgui-layout-widget
 - Issues Tag: https://github.com/ocornut/imgui/labels/useful%20widgets
 
 ## Other code
