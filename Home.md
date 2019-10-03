@@ -34,10 +34,7 @@ Feel free to edit and contribute!
 - [#2117](https://github.com/ocornut/imgui/issues/2117) Linux/Mac compatibility of the multi-viewport branch
 - [#2265](https://github.com/ocornut/imgui/issues/2529) Gallery
 - [#1713](https://github.com/ocornut/imgui/pull/1713) CMake project to build Examples (PR) by @podsvirov
-
-## Issues: Labels
-
-- https://github.com/ocornut/imgui/labels
+- Also see https://github.com/ocornut/imgui/labels for categorized issues.
 
 # Useful Widgets & References
 
@@ -139,6 +136,7 @@ Feel free to edit and contribute!
 - Starter project for portable app with optional GUI (GLFW/ImGui) https://github.com/abdes/asap
 - Starter dear-imgui GLFW/OpenGL 3 based CMake C++ project: https://github.com/urddru/imgui-glfw
 - Bimpy: bundled imgui for python: https://github.com/podgorskiy/bimpy
+- imgui_dojo: an easy setup example for imgui https://github.com/LiuZHolmes/imgui_dojo
 
 ### Notable forks
 
@@ -155,8 +153,6 @@ Feel free to edit and contribute!
 - nuklear (A single-header ANSI C gui library) https://github.com/vurtun/nuklear
 - im3d (Immediate mode rendering and 3d gizmos) https://github.com/john-chapman/im3d/projects
 - small libraries with minimal dependencies https://github.com/nothings/single_file_libs
-- an easy setup example for imgui https://github.com/LiuZHolmes/imgui_dojo
-
 
 # Articles, Video, Talks
 
