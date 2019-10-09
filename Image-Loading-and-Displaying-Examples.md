@@ -1,6 +1,6 @@
 Examples: [OpenGL](#Example-for-OpenGL-users) - [DirectX9](#Example-for-DirectX9-users) - [DirectX11](#Example-for-DirectX11-users)
 
-### TL;DR;
+## TL;DR;
 
 Loading an image file into a GPU texture is outside of the scope of Dear ImGui and has more to do with your Graphics API. Because this is such a recurring issue for Dear ImGui users, we are providing a guide here.
 
@@ -10,22 +10,27 @@ We will load this image: (Right-click to save as MyImage01.jpg, 20,123 bytes)
 
 This is generally done in two steps:
 
-- Load image from the disk into a decompressed RGBA stored in RAM. You may use helper librairies such as [stb_image.h](https://github.com/nothings/stb/blob/master/stb_image.h) to do this.
-- Load the raw decompressed RGBA image in RAM into a GPU texture. You'll want to use dedicated functions of your graphics API (e.g. OpenGL, DirectX11) to do this.
+- Load image from the disk into RAM. In this example, we'll decompress the image into RGBA a image. You may use helper librairies such as [stb_image.h](https://github.com/nothings/stb/blob/master/stb_image.h) to do this.
+- Load the raw decompressed RGBA image from RAM into a GPU texture. You'll want to use dedicated functions of your graphics API (e.g. OpenGL, DirectX11) to do this.
 
 Once you have an image in GPU texture memory, you can use functions such as `ImGui::Image()` to request Dear ImGui to create a draw command that your Dear ImGui rendering back-end will turn into a draw call.
 
-### About filenames
+## About filenames
 
 **Please note that many new C/C++ users have issues their files _because the filename they provide is wrong_.**
 
 Two things to watch for:
 - Make sure your IDE/debugger settings starts your executable from the right working directory. In Visual Studio you can change your working directory in project `Properties > General > Debugging > Working Directory`. People assume that their execution will start from the root folder of the project, where by default it oftens start from the folder where object or executable files are stored.
-- In C/C++ and most programming languages if you want to use a backslash `\` within a string literal, you need to write it double backslash `\\`. So if you try to use `"C:\MyFiles\MyImage01.jpg"` when performing a quick test this will be incorrect. Use `"C:\\MyFiles\\MyImage01.jpg"` instead. In some situations, you may also use `/` path separator under Windows.
+- In C/C++ and most programming languages if you want to use a backslash `\` within a string literal, you need to write it double backslash `\\`. At it happens, Windows uses backslashes as a path separator, so be mindful.
+```
+"C:\MyFiles\MyImage01.jpg"   // INCORRECT!!
+"C:\\MyFiles\\MyImage01.jpg" // CORRECT
+```
+In some situations, you may also use `/` path separator under Windows.
 
 ----
 
-### Example for OpenGL users
+## Example for OpenGL users
 
 We will here use [stb_image.h](https://github.com/nothings/stb/blob/master/stb_image.h) to load images from disk.
 
@@ -77,7 +82,7 @@ IM_ASSERT(ret);
 
 In the snippet of code above, we added an assert `IM_ASSERT(ret)` to check if the image file was loaded correctly. You may also use your Debugger and confirm that `my_image_texture` is not zero and that `my_image_width` `my_image_width` are correct.
 
-Now that we have an DirectX9 texture and its dimensions, we can display it in our main loop:
+Now that we have an OpenGL texture and its dimensions, we can display it in our main loop:
 ```
 ImGui::Begin("OpenGL Texture Text");
 ImGui::Text("pointer = %p", my_image_texture);
@@ -90,7 +95,7 @@ ImGui::End();
 
 ----
 
-### Example for DirectX9 users
+## Example for DirectX9 users
 
 Unlike the majority of modern graphics API, DirectX9 include helper functions to load image files from disk. We are going to use them here, instead of using `stb_image.h`.
 
@@ -140,7 +145,7 @@ ImGui::End();
 
 ----
 
-### Example for DirectX11 users
+## Example for DirectX11 users
 
 Add at the top of one of your source file:
 ```
@@ -231,10 +236,10 @@ Long explanation:
 - Each rendering function decides on a data type to represent "textures". The concept of what is a "texture" is entirely tied to your underlying engine/graphics API. We carry the information to identify a "texture" in the ImTextureID type. ImTextureID is nothing more that a void*, aka 4/8 bytes worth of data: just enough to store 1 pointer or 1 integer of your choice. Dear ImGui doesn't know or understand what you are storing in ImTextureID, it merely pass ImTextureID values until they reach your rendering function.
 - In the examples/ bindings, for each graphics API binding we decided on a type that is likely to be a good representation for specifying an image from the end-user perspective. This is what the _examples_ rendering functions are using:
 ```
-OpenGL:     ImTextureID = GLuint                       (see ImGui_ImplOpenGL3_RenderDrawData() function in imgui_impl_opengl3.cpp)
-DirectX9:   ImTextureID = LPDIRECT3DTEXTURE9           (see ImGui_ImplDX9_RenderDrawData()     function in imgui_impl_dx9.cpp)
-DirectX11:  ImTextureID = ID3D11ShaderResourceView*    (see ImGui_ImplDX11_RenderDrawData()    function in imgui_impl_dx11.cpp)
-DirectX12:  ImTextureID = D3D12_GPU_DESCRIPTOR_HANDLE  (see ImGui_ImplDX12_RenderDrawData()    function in imgui_impl_dx12.cpp)
+OpenGL:    ImTextureID = GLuint                       (see ImGui_ImplOpenGL3_RenderDrawData() in imgui_impl_opengl3.cpp)
+DirectX9:  ImTextureID = LPDIRECT3DTEXTURE9           (see ImGui_ImplDX9_RenderDrawData()     in imgui_impl_dx9.cpp)
+DirectX11: ImTextureID = ID3D11ShaderResourceView*    (see ImGui_ImplDX11_RenderDrawData()    in imgui_impl_dx11.cpp)
+DirectX12: ImTextureID = D3D12_GPU_DESCRIPTOR_HANDLE  (see ImGui_ImplDX12_RenderDrawData()    in imgui_impl_dx12.cpp)
 ```
 For example, in the OpenGL example binding we store raw OpenGL texture identifier (GLuint) inside ImTextureID. Whereas in the DirectX11 example binding we store a pointer to ID3D11ShaderResourceView inside ImTextureID, which is a higher-level structure tying together both the texture and information about its format and how to read it.
 - If you have a custom engine built over e.g. OpenGL, instead of passing GLuint around you may decide to use a high-level data type to carry information about the texture as well as how to display it (shaders, etc.). The decision of what to use as ImTextureID can always be made better knowing how your codebase is designed. If your engine has high-level data types for "textures" and "material" then you may want to use them. If you are starting with OpenGL or DirectX or Vulkan and haven't built much of a rendering engine over them, keeping the default ImTextureID representation suggested by the example bindings is probably the best choice. (Advanced users may also decide to keep a low-level type in ImTextureID, and use ImDrawList callback and pass information to their renderer)
