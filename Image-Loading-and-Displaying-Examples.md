@@ -23,8 +23,8 @@ Two things to watch for:
 - Make sure your IDE/debugger settings starts your executable from the right working directory. In Visual Studio you can change your working directory in project `Properties > General > Debugging > Working Directory`. People assume that their execution will start from the root folder of the project, where by default it oftens start from the folder where object or executable files are stored.
 - In C/C++ and most programming languages if you want to use a backslash `\` within a string literal, you need to write it double backslash `\\`. At it happens, Windows uses backslashes as a path separator, so be mindful.
 ```
-"C:\MyFiles\MyImage01.jpg"   // INCORRECT!!
-"C:\\MyFiles\\MyImage01.jpg" // CORRECT
+"C:\MyFiles\MyImage01.jpg"         // This is INCORRECT!!
+"C:\\MyFiles\\MyImage01.jpg"       // This is CORRECT
 ```
 In some situations, you may also use `/` path separator under Windows.
 
