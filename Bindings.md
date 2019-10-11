@@ -104,6 +104,7 @@ Main repository include examples for DirectX9, DirectX10, DirectX11, DirectX12, 
 - bsf (bsfimgui): https://github.com/pgruenbacher/bsfImgui
 - Cinder: https://github.com/simongeilfus/Cinder-ImGui
 - Cocos2d-x: https://github.com/c0i/imguix, https://github.com/Mjarkiew/cocos2dx-imgui, and https://github.com/ocornut/imgui/issues/551
+- Diligent Engine: https://github.com/DiligentGraphics/DiligentTools/blob/master/Imgui/src/ImGuiImplDiligent.cpp ([example](https://github.com/DiligentGraphics/DiligentSamples/tree/master/Samples/ImguiDemo))
 - Flexium (FlexGUI): https://github.com/DXsmiley/FlexGUI
 - GML/GameMaker Studio 2 (ImGuiGML): https://marketplace.yoyogames.com/assets/6221/imguigml
 - Irrlicht Engine (IrrIMGUI): https://github.com/ZahlGraf/IrrIMGUI
