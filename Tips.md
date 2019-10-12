@@ -51,6 +51,8 @@ ImGui::PlotLines("LeftToeBase y", &all_sampled_joints[skel.getBoneIndex("LeftToe
 
 ### Use C++11 lambas with Combo/ListBox/Plot functions
 
+_Update: Since 1.53 you can use `BeginCombo()/EndCombo()` and submit items yourself, which is more adequate than using Combo with a function._
+
 ```cpp
 void SelectBoneByName(const char* label, int* bone_idx, const Skeleton* skeleton)
 {
