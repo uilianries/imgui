@@ -1,6 +1,6 @@
 | Index |
 :----------------------------------------------------------: |
-| [Forums](#Forums) - [Wiki Pages](#Wiki-pages) - [Tutorials](#Tutorials) - [Useful Widgets & References](#Useful-widgets--references) - [Articles, Video, Talks](#articles-video-talks) |
+| [Forums](#Forums) - [Wiki Pages](#Wiki-pages) - [Tutorials](#Tutorials) - [Useful Widgets & References](#Useful-widgets--references) - [Articles, Videos, etc.](#articles-videos-blog-posts) |
 
 Welcome to the Dear ImGui wiki!
 This wiki is in construction.
@@ -155,7 +155,19 @@ Feel free to edit and contribute!
 - im3d (Immediate mode rendering and 3d gizmos) https://github.com/john-chapman/im3d/projects
 - small libraries with minimal dependencies https://github.com/nothings/single_file_libs
 
-# Articles, Video, Talks
+## Articles, Videos, Blog Posts
+
+### Articles about the IMGUI paradigm
+
+The Immediate Mode GUI paradigm may at first appear unusual to some users. This is mainly because "Retained Mode" GUIs have been so widespread and predominant. The following links can give you a better understanding about how Immediate Mode GUIs works.
+- [Johannes 'johno' Norneby's article](http://www.johno.se/book/imgui.html).
+- [A presentation by Rickard Gustafsson and Johannes Algelind](http://www.cse.chalmers.se/edu/year/2011/course/TDA361/Advanced%20Computer%20Graphics/IMGUI.pdf).
+- [Jari Komppa's tutorial on building an IMGUI library](http://iki.fi/sol/imgui/).
+- [Casey Muratori's original video that popularized the concept](https://mollyrocket.com/861), 2005.
+- [Nicolas Guillemot's CppCon'16 flash-talk about Dear ImGui](https://www.youtube.com/watch?v=LSRJ1jZq90k), 2016.
+- [Thierry Excoffier's ZMV (Zero Memory Widget)](http://perso.univ-lyon1.fr/thierry.excoffier/ZMW/), 2004.
+
+### Articles about Dear ImGui
 
 - CppCon 2016: Nicolas Guillemot “Dear imgui," https://www.youtube.com/watch?v=LSRJ1jZq90k
 - Why I think Immediate Mode GUI is way to go for GameDev tools https://gist.github.com/bkaradzic/853fd21a15542e0ec96f7268150f1b62
