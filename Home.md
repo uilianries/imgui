@@ -157,7 +157,7 @@ Feel free to edit and contribute!
 
 ## Articles, Videos, Blog Posts
 
-### Articles about the IMGUI paradigm
+### About the IMGUI paradigm
 
 The Immediate Mode GUI paradigm may at first appear unusual to some users. This is mainly because "Retained Mode" GUIs have been so widespread and predominant. The following links can give you a better understanding about how Immediate Mode GUIs works.
 - [Johannes 'johno' Norneby's article](http://www.johno.se/book/imgui.html).
@@ -167,7 +167,7 @@ The Immediate Mode GUI paradigm may at first appear unusual to some users. This 
 - [Nicolas Guillemot's CppCon'16 flash-talk about Dear ImGui](https://www.youtube.com/watch?v=LSRJ1jZq90k), 2016.
 - [Thierry Excoffier's ZMV (Zero Memory Widget)](http://perso.univ-lyon1.fr/thierry.excoffier/ZMW/), 2004.
 
-### Articles about Dear ImGui
+### About Dear ImGui
 
 - CppCon 2016: Nicolas Guillemot “Dear imgui," https://www.youtube.com/watch?v=LSRJ1jZq90k
 - Why I think Immediate Mode GUI is way to go for GameDev tools https://gist.github.com/bkaradzic/853fd21a15542e0ec96f7268150f1b62
