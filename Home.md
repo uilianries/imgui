@@ -1,6 +1,6 @@
 | Index |
 :----------------------------------------------------------: |
-| [Forums](#Forums) - [Wiki Pages](#wiki-pages) - [Tutorials](#tutorials) - [Useful Widgets & References](#useful-widgets-references) - [More](#more) - [Articles, Video, Talks](#articles-video-talks) |
+| [Forums](#Forums) - [Wiki Pages](#Wiki-pages) - [Tutorials](#Tutorials) - [Useful Widgets & References](#Useful-widgets--references) - [Articles, Video, Talks](#articles-video-talks) |
 
 Welcome to the Dear ImGui wiki!
 This wiki is in construction.
