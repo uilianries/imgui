@@ -13,8 +13,8 @@ They will help you understand how Dear ImGui works, and can help you diagnose pr
 
 ### Using Begin/BeginChild
 
+- You can omit `Begin()`/`End()`, widgets will be created into an implicit "Debug" window.
 - You can call `Begin()` multiple times to append to a same window from different place.
-
 - Use `Begin()`/`BeginChild()` to put yourself back into the context of another window (see [#270](https://github.com/ocornut/imgui/issues/270)
 An interesting trick that isn't obvious is that you can use Begin() just to put yourself into the context of that window. So here I want to react to the user inputting an address to scroll to, I use BeginChild() again on the child that I've already drawn so I can use SetScrollFromPosY() on it.
 
@@ -28,6 +28,12 @@ ImGui::BeginChild("##scrolling");
 ImGui::SetScrollFromPosY(ImGui::GetCursorStartPos().y + (goto_addr / Rows) * line_height);
 ImGui::End();
 ```
+
+---
+
+### Using ImGuiOnceUponAFrame
+
+The `ImGuiOnceUponAFrame` helper will allow run the block of code only once a frame. You can use it to quickly add custom UI in the middle of a deep nested inner loop in your code. (It is essentially just a helper which stores and compare a frame number).
 
 ----
 
