@@ -1,4 +1,8 @@
-**Use the Metrics window!**
+This section is lacking...
+
+----
+
+### Use the Metrics window!
 
 Many internal state and tools are exposed in the Metrics window. To access the Metrics window:
 - Call `ShowMetricsWindow()`.
@@ -6,10 +10,12 @@ Many internal state and tools are exposed in the Metrics window. To access the M
 They will help you understand how Dear ImGui works, and can help you diagnose problems.
 
 ----
-**Use `Begin`/`BeginChild` to put yourself back into the context of another window**
 
-https://github.com/ocornut/imgui/issues/270
+### Using Begin/BeginChild
 
+- You can call `Begin()` multiple times to append to a same window from different place.
+
+- Use `Begin()`/`BeginChild()` to put yourself back into the context of another window (see [#270](https://github.com/ocornut/imgui/issues/270)
 An interesting trick that isn't obvious is that you can use Begin() just to put yourself into the context of that window. So here I want to react to the user inputting an address to scroll to, I use BeginChild() again on the child that I've already drawn so I can use SetScrollFromPosY() on it.
 
 ```cpp
@@ -25,7 +31,7 @@ ImGui::End();
 
 ----
 
-**Tip: use Stride for easily plotting a field in array of structures**<br>
+### Plot: Use Stride for easily plotting a field in array of structures
 https://github.com/ocornut/imgui/issues/271
 
 Here I've got some code sampling joints of an animation as e.g 60 hz.
@@ -43,7 +49,7 @@ ImGui::PlotLines("LeftToeBase y", &all_sampled_joints[skel.getBoneIndex("LeftToe
 
 ----
 
-**Tip: use c++11 lambas with Combo/ListBox/Plot functions**
+### Use C++11 lambas with Combo/ListBox/Plot functions
 
 ```cpp
 void SelectBoneByName(const char* label, int* bone_idx, const Skeleton* skeleton)
