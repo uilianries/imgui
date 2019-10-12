@@ -20,7 +20,7 @@
 | [I integrated Dear ImGui in my engine and the text or lines are blurry..](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-i-integrated-dear-imgui-in-my-engine-and-the-text-or-lines-are-blurry) |
 | [I integrated Dear ImGui in my engine and some elements are clipping or disappearing when I move windows around..](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-i-integrated-dear-imgui-in-my-engine-and-some-elements-are-clipping-or-disappearing-when-i-move-windows-around) |
 | [How can I help?](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-how-can-i-help) |
-| [Tips](https://github.com/ocornut/imgui/wiki/_new#tips) |
+| [Tips](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#tips) |
 
 
 ### Q: Where is the documentation?
