@@ -2,90 +2,27 @@
 
 _NB: those bindings may be more or less maintained, more or less close to the spirit of original API. People who create language bindings sometimes haven't used the C++ API themselves. ImGui was designed for C++ and some of the subtleties may be lost in translation with other languages. If your language supports it, I would suggest replicating the function overloading and default parameters used in the original, else the API may be harder to use. In doubt, always check the original C++ version first!_
 
-**C (cimgui): auto-generated c-api wrapper for Dear ImGui**
-**<br>also output json/lua data which can be used to automatically generate other bindings**
-<br>https://github.com/cimgui/cimgui
-
-C#/.Net (ImGui.NET): An ImGui wrapper for .NET Core
-<br>https://github.com/mellinoe/ImGui.NET
-
-ChaiScript (imgui-chaiscript): ChaiScript bindings for ImGui
-<br>https://github.com/JuJuBoSc/imgui-chaiscript
-
-CovScript (covscript-imgui): ImGui Extension for CovScript (Covariant)
-<br>https://github.com/covscript/covscript-imgui
-
-D (DerelictImgui): Dynamic bindings to the cimgui library for the D programming language
-<br>https://github.com/Extrawurst/DerelictImgui
-
-Go (imgui-go): Go wrapper library for "Dear ImGui"
-<br>https://github.com/inkyblackness/imgui-go
-
-Go (go-imgui): Go bindings for the dear imgui immediate mode GUI library 
-<br>https://github.com/Armored-Dragon/go-imgui
-
-Haxe/hxcpp (linc_imgui): binding for imgui
-<br>https://github.com/Aidan63/linc_imgui
-
-Java (jimgui): Pure Java binding for dear imgui 
-<br>https://github.com/ice1000/jimgui
-
-JavaScript (imgui-js): JavaScript bindings for Dear ImGui using Emscripten and TypeScript
-<br>https://github.com/flyover/imgui-js + also see [web demo](https://flyover.github.io/imgui-js/example/)
-
-Julia (CImGui.jl]: Julia wrapper for cimgui 
-<br>https://github.com/Gnimuc/CImGui.jL
-
-Lua (LuaJIT-ImGui): LuaJIT ffi binding for imgui and implementations
-<br>https://github.com/sonoro1234/LuaJIT-ImGui
-
-Lua: imgui bindings for lua (also see: LOVE binding)
-<br>https://github.com/patrickriordan/imgui_lua_bindings
-
-Lua: FFI bindings for LuaJIT
-<br>https://github.com/thenumbernine/lua-ffi-bindings
-
-Nim: cimgui bindings for Nim
-<br>https://github.com/zacharycarter/nimgui
-
-Odin: Odin binding for Dear ImGui
-<br>https://github.com/ThisDrunkDane/odin-dear_imgui
-
-Pascal (imgui-pas): pascal bindings for imgui
-<br>https://github.com/dpethes/imgui-pas
-
-Python (pyimgui): Cython-based Python bindings for dear imgui
-<br>https://github.com/swistakm/pyimgui
-
-Python (Bimpy): Bundled imgui for python
-<br>https://github.com/podgorskiy/bimpy
-
-Python (CyImGui): Python bindings for ImGui using Cython. (obsolete)
-<br>https://github.com/chromy/cyimgui
-
-Python (Ogre-imgui) 
-<br>https://github.com/OGRECave/ogre-imgui
-
-PureBasic (pb-cimgui): PureBasic interface to CImGui Wrapper
-<br>https://github.com/hippyau/pb-cimgui
-
-Ruby (ruby-imgui): Yet another ImGui wrapper for Ruby
-<br>https://github.com/vaiorabbit/ruby-imgui
-
-Rust (imgui-rs): Rust bindings for ImGui
-<br>https://github.com/Gekkio/imgui-rs
-
-Rust (imgui-rust): Alternative (personal) imgui rust bindings
-<br>https://github.com/nsf/imgui-rust
-
-Rust: "ImStr" Patch by @bitshifter to use string-range more commonly instead of zero-terminated strings.
-<br>https://github.com/ocornut/imgui/pull/683
-
-Rust: imgui-opengl-renderer
-<br>https://github.com/michaelfairley/rust-imgui-opengl-renderer
-
-Swift (Swift-imgui): Dear ImGui Swift Wrapper API for macOS and iOS 
-<br>https://github.com/mnmly/Swift-imgui
+| Language | Bindings |
+|------------|---|
+| C          | **cimgui**: auto-generated c-api wrapper for Dear ImGui <br>https://github.com/cimgui/cimgui |
+| C#/.Net    | **ImGui.NET**: An ImGui wrapper for .NET Core <br>https://github.com/mellinoe/ImGui.NET |
+| ChaiScript | **imgui-chaiscript**: ChaiScript bindings for ImGui <br>https://github.com/JuJuBoSc/imgui-chaiscript |
+| CovScript  | **covscript-imgui**: ImGui Extension for CovScript (Covariant) <br>https://github.com/covscript/covscript-imgui |
+| D          | **DerelictImgui**: Dynamic bindings to the cimgui library for the D programming language <br>https://github.com/Extrawurst/DerelictImgui |
+| Go         | **imgui-go**: Go wrapper library for "Dear ImGui" <br> https://github.com/inkyblackness/imgui-go <br>**go-imgui**: Go bindings for the dear imgui immediate mode GUI library <br>https://github.com/Armored-Dragon/go-imgui |
+| Have/hxcpp | **linc_imgui**: binding for imgui <br>https://github.com/Aidan63/linc_imgui |
+| Java       | **jimgui**: Pure Java binding for dear imgui <br>https://github.com/ice1000/jimgui |
+| JavaScript | **imgui-js**: JavaScript bindings for Dear ImGui using Emscripten and TypeScript <br>https://github.com/flyover/imgui-js + also see [web demo](https://flyover.github.io/imgui-js/example/) |
+| Julia      | **CImGui.jl**: Julia wrapper for cimgui <br>https://github.com/Gnimuc/CImGui.jL |
+| Lua        | **LuaJIT-ImGui**: LuaJIT ffi binding for imgui and implementations <br>https://github.com/sonoro1234/LuaJIT-ImGui <br>**imgui_lua_bindings**: imgui bindings for lua (also see LÖVE binding) <br>https://github.com/patrickriordan/imgui_lua_bindings <br> **lua-ffi-bindings**: FFI bindings for LuaJIT <br>https://github.com/thenumbernine/lua-ffi-bindings |
+| Nim        | **nimgui**: cimgui bindings for Nim <br>https://github.com/zacharycarter/nimgui |
+| Odin       | **odin_dear_imgui**: Odin binding for Dear ImGui <br>https://github.com/ThisDrunkDane/odin-dear_imgui |
+| Pascal     | **imgui-pas**: pascal bindings for imgui <br>https://github.com/dpethes/imgui-pas |
+| Python     | **pyimgui**: Cython-based Python bindings for dear imgui <br>https://github.com/swistakm/pyimgui <br> **Bimpy**: Bundled imgui for python <br>https://github.com/podgorskiy/bimpy <br> **CyImGui**: Python bindings for ImGui using Cython. (obsolete) <br>https://github.com/chromy/cyimgui <br> **Ogre-imgui**: <br> https://github.com/OGRECave/ogre-imgui |
+| PureBasic | **pb-cimgui**: PureBasic interface to CImGui Wrapper <br>https://github.com/hippyau/pb-cimgui  |
+| Ruby | **ruby-imgui**: Yet another ImGui wrapper for Ruby <br>https://github.com/vaiorabbit/ruby-imgui |
+| Rust | **imgui-rs**: Rust bindings for ImGui <br>https://github.com/Gekkio/imgui-rs <br>**imgui-rust**: Alternative (personal) imgui rust bindings <br>https://github.com/nsf/imgui-rust <br> **ImStr** Patch by @bitshifter to use string-range more commonly instead of zero-terminated strings. <br>https://github.com/ocornut/imgui/pull/683 <br>**rust-imgui-opengl-renderer** <br>https://github.com/michaelfairley/rust-imgui-opengl-renderer|
+| Swift  | **Swift-imgui**: Dear ImGui Swift Wrapper API for macOS and iOS <br>https://github.com/mnmly/Swift-imgui |
 
 ## Framework/Engine Bindings
 
