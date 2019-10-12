@@ -1,9 +1,27 @@
-| Questions |
-:----------------------------------------------------------: |
+| **Quick Reference** |
+:---------------------------------------------------------- |
 | [Where is the documentation?](https://github.com/ocornut/imgui/wiki/_new#q-where-is-the-documentation) |
 | [Which version should you get?](https://github.com/ocornut/imgui/wiki/_new#q-which-version-should-i-get) |
-| []() |
-| []() |
+| [Which version should I get?](https://github.com/ocornut/imgui/wiki/_new#q-which-version-should-i-get) |
+| [Who uses Dear ImGui?](https://github.com/ocornut/imgui/wiki/_new#q-who-uses-dear-imgui) |
+| ["Dear ImGui" vs "ImGui"?](https://github.com/ocornut/imgui/wiki/_new#q-why-the-odd-dual-naming-dear-imgui-vs-imgui) |
+| [How can I tell whether to dispatch mouse/keyboard to Dear ImGui or to my application?](https://github.com/ocornut/imgui/wiki/_new#q-how-can-i-tell-whether-to-dispatch-mousekeyboard-to-dear-imgui-or-to-my-application) |
+| [How can I display an image? What is ImTextureID, how does it work?](https://github.com/ocornut/imgui/wiki/_new#q-how-can-i-display-an-image-what-is-imtextureid-how-does-it-work)| 
+| [Why are multiple widgets reacting when I interact with a single one?](https://github.com/ocornut/imgui/wiki/_new#q-why-are-multiple-widgets-reacting-when-i-interact-with-a-single-one) |
+| [How can I have multiple widgets with the same label or with an empty label?](https://github.com/ocornut/imgui/wiki/_new#q-how-can-i-have-multiple-widgets-with-the-same-label-or-with-an-empty-label) |
+| [How can I use my own math types instead of ImVec2/ImVec4?](https://github.com/ocornut/imgui/wiki/_new#q-how-can-i-use-my-own-math-types-instead-of-imvec2imvec4) |
+| [How can I load a different font than the default?](https://github.com/ocornut/imgui/wiki/_new#q-how-can-i-load-a-different-font-than-the-default) |
+| [How can I easily use icons in my application?](https://github.com/ocornut/imgui/wiki/_new#q-how-can-i-easily-use-icons-in-my-application) | 
+| [How can I load multiple fonts?](https://github.com/ocornut/imgui/wiki/_new#q-how-can-i-load-multiple-fonts) |
+| [How can I display and input non-Latin characters such as Chinese, Japanese, Korean, Cyrillic?](https://github.com/ocornut/imgui/wiki/_new#q-how-can-i-display-and-input-non-latin-characters-such-as-chinese-japanese-korean-cyrillic) |
+| [How can I interact with standard C++ types (such as std::string and std::vector)?](https://github.com/ocornut/imgui/wiki/_new#q-how-can-i-interact-with-standard-c-types-such-as-stdstring-and-stdvector) |
+| [How can I use the drawing facilities without an ImGui window? (using ImDrawList API)](https://github.com/ocornut/imgui/wiki/_new#q-how-can-i-use-the-drawing-facilities-without-an-imgui-window-using-imdrawlist-api) |
+| [How can I use this without a mouse, without a keyboard or without a screen? (gamepad, input share, remote display)](https://github.com/ocornut/imgui/wiki/_new#q-how-can-i-use-this-without-a-mouse-without-a-keyboard-or-without-a-screen-gamepad-input-share-remote-display) |
+| [I integrated Dear ImGui in my engine and the text or lines are blurry..](https://github.com/ocornut/imgui/wiki/_new#q-i-integrated-dear-imgui-in-my-engine-and-the-text-or-lines-are-blurry) |
+| [I integrated Dear ImGui in my engine and some elements are clipping or disappearing when I move windows around..](https://github.com/ocornut/imgui/wiki/_new#q-i-integrated-dear-imgui-in-my-engine-and-some-elements-are-clipping-or-disappearing-when-i-move-windows-around) |
+| [How can I help?](https://github.com/ocornut/imgui/wiki/_new#q-how-can-i-help) |
+| [Tips](https://github.com/ocornut/imgui/wiki/_new#tips) |
+
 
 ### Q: Where is the documentation?
 
@@ -80,14 +98,17 @@ Short explanation:
 
 **Please read documentations or tutorials on your graphics API to understand how to display textures on the screen before moving onward.**
 
-    Long explanation:
+**Long explanation:**
+```
     - Dear ImGui's job is to create "meshes", defined in a renderer-agnostic format made of draw commands and vertices.
       At the end of the frame those meshes (ImDrawList) will be displayed by your rendering function. They are made up of textured polygons and the code
       to render them is generally fairly short (a few dozen lines). In the examples/ folder we provide functions for popular graphics API (OpenGL, DirectX, etc.).
+
     - Each rendering function decides on a data type to represent "textures". The concept of what is a "texture" is entirely tied to your underlying engine/graphics API.
       We carry the information to identify a "texture" in the ImTextureID type.
       ImTextureID is nothing more that a void*, aka 4/8 bytes worth of data: just enough to store 1 pointer or 1 integer of your choice.
       Dear ImGui doesn't know or understand what you are storing in ImTextureID, it merely pass ImTextureID values until they reach your rendering function.
+
     - In the examples/ bindings, for each graphics API binding we decided on a type that is likely to be a good representation for specifying
       an image from the end-user perspective. This is what the _examples_ rendering functions are using:
 
@@ -99,6 +120,7 @@ Short explanation:
       For example, in the OpenGL example binding we store raw OpenGL texture identifier (GLuint) inside ImTextureID.
       Whereas in the DirectX11 example binding we store a pointer to ID3D11ShaderResourceView inside ImTextureID, which is a higher-level structure
       tying together both the texture and information about its format and how to read it.
+
     - If you have a custom engine built over e.g. OpenGL, instead of passing GLuint around you may decide to use a high-level data type to carry information about
       the texture as well as how to display it (shaders, etc.). The decision of what to use as ImTextureID can always be made better knowing how your codebase
       is designed. If your engine has high-level data types for "textures" and "material" then you may want to use them.
@@ -141,6 +163,7 @@ Short explanation:
         my_dx11_srv = (ID3D11ShaderResourceView*)my_void_ptr;   // cast a void* into a ID3D11ShaderResourceView*
 
     Finally, you may call ImGui::ShowMetricsWindow() to explore/visualize/understand how the ImDrawList are generated.
+```
 
 ---
 
