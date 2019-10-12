@@ -8,7 +8,7 @@ _NB: those bindings may be more or less maintained, more or less close to the sp
 | C#/.Net    | **ImGui.NET**: An ImGui wrapper for .NET Core <br>https://github.com/mellinoe/ImGui.NET |
 | ChaiScript | **imgui-chaiscript**: ChaiScript bindings for ImGui <br>https://github.com/JuJuBoSc/imgui-chaiscript |
 | CovScript  | **covscript-imgui**: ImGui Extension for CovScript (Covariant) <br>https://github.com/covscript/covscript-imgui |
-| D          | **DerelictImgui**: Dynamic bindings to the cimgui library for the D programming language <br>https://github.com/Extrawurst/DerelictImgui |
+| D          | **DerelictImgui**: Dynamic bindings to cimgui for the D programming language <br>https://github.com/Extrawurst/DerelictImgui |
 | Go         | **imgui-go**: Go wrapper library for "Dear ImGui" <br> https://github.com/inkyblackness/imgui-go <br>**go-imgui**: Go bindings for the dear imgui immediate mode GUI library <br>https://github.com/Armored-Dragon/go-imgui |
 | Have/hxcpp | **linc_imgui**: binding for imgui <br>https://github.com/Aidan63/linc_imgui |
 | Java       | **jimgui**: Pure Java binding for dear imgui <br>https://github.com/ice1000/jimgui |
