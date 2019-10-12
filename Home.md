@@ -59,12 +59,12 @@ Feel free to edit and contribute!
 
 ### Plotting, Graph
 
-- imgui-plot (@soulthreads): https://github.com/soulthreads/imgui-plot https://github.com/ocornut/imgui/issues/2747
+- imgui-plot (@soulthreads): https://github.com/soulthreads/imgui-plot and [#2747](https://github.com/ocornut/imgui/issues/2747)
 - Plot var helper: [[plot_var_example]]
 
 ### Misc
 
-- Memory Editor: [https://github.com/ocornut/imgui_club/imgui_club/imgui_memory_editor/](https://github.com/ocornut/imgui_club/tree/master/imgui_memory_editor)
+- Memory Editor: [imgui_club/imgui_memory_editor/](https://github.com/ocornut/imgui_club/tree/master/imgui_memory_editor)
 - Markdown: https://github.com/juliettef/imgui_markdown
 - ImGuizmo (3d translation/rotation Gizmo) https://github.com/CedricGuillemet/ImGuizmo
 - imGuiZMO.quat (3d translation/rotation Gizmo) https://github.com/BrutPitt/imGuIZMO.quat
@@ -126,6 +126,7 @@ Feel free to edit and contribute!
 ### Building / Packaging Cruft
 
 - Cmake https://github.com/ocornut/imgui/pull/1713 (unmerged PR, please send feedback)
+- Premake5 https://github.com/ocornut/imgui/tree/features/premake5 (unmerged branch)
 - Conan https://github.com/bincrafters/conan-imgui, https://bintray.com/bincrafters/public-conan/imgui%3Abincrafters
 - Fips (fips-imgui): fipsified imgui for fips build system https://github.com/fungos/fips-imgui
 - GN (Chromium, ninja) BUILD.gn file: https://github.com/ndsol/VolcanoSamples/blob/master/src/BUILD.gn
