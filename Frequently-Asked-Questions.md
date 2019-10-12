@@ -1,3 +1,5 @@
+(work in progress)
+
 | **Quick Reference** |
 :---------------------------------------------------------- |
 | [Where is the documentation?](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-where-is-the-documentation) |
@@ -20,7 +22,6 @@
 | [I integrated Dear ImGui in my engine and the text or lines are blurry..](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-i-integrated-dear-imgui-in-my-engine-and-the-text-or-lines-are-blurry) |
 | [I integrated Dear ImGui in my engine and some elements are clipping or disappearing when I move windows around..](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-i-integrated-dear-imgui-in-my-engine-and-some-elements-are-clipping-or-disappearing-when-i-move-windows-around) |
 | [How can I help?](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-how-can-i-help) |
-| [Tips](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#tips) |
 
 
 ### Q: Where is the documentation?
@@ -98,77 +99,63 @@ Short explanation:
 
 **Please read documentations or tutorials on your graphics API to understand how to display textures on the screen before moving onward.**
 
-**Long explanation:**
+Long explanation:
+- Dear ImGui's job is to create "meshes", defined in a renderer-agnostic format made of draw commands and vertices. At the end of the frame those meshes (ImDrawList) will be displayed by your rendering function. They are made up of textured polygons and the code to render them is generally fairly short (a few dozen lines). In the examples/ folder we provide functions for popular graphics API (OpenGL, DirectX, etc.).
+- Each rendering function decides on a data type to represent "textures". The concept of what is a "texture" is entirely tied to your underlying engine/graphics API.
+ We carry the information to identify a "texture" in the ImTextureID type.
+ImTextureID is nothing more that a void*, aka 4/8 bytes worth of data: just enough to store 1 pointer or 1 integer of your choice.
+Dear ImGui doesn't know or understand what you are storing in ImTextureID, it merely pass ImTextureID values until they reach your rendering function.
+- In the examples/ bindings, for each graphics API binding we decided on a type that is likely to be a good representation for specifying an image from the end-user perspective. This is what the _examples_ rendering functions are using:
+```cpp
+OpenGL:     ImTextureID = GLuint                       (see ImGui_ImplOpenGL3_RenderDrawData() function in imgui_impl_opengl3.cpp)
+DirectX9:   ImTextureID = LPDIRECT3DTEXTURE9           (see ImGui_ImplDX9_RenderDrawData()     function in imgui_impl_dx9.cpp)
+DirectX11:  ImTextureID = ID3D11ShaderResourceView*    (see ImGui_ImplDX11_RenderDrawData()    function in imgui_impl_dx11.cpp)
+DirectX12:  ImTextureID = D3D12_GPU_DESCRIPTOR_HANDLE  (see ImGui_ImplDX12_RenderDrawData()    function in imgui_impl_dx12.cpp)
 ```
-    - Dear ImGui's job is to create "meshes", defined in a renderer-agnostic format made of draw commands and vertices.
-      At the end of the frame those meshes (ImDrawList) will be displayed by your rendering function. They are made up of textured polygons and the code
-      to render them is generally fairly short (a few dozen lines). In the examples/ folder we provide functions for popular graphics API (OpenGL, DirectX, etc.).
+For example, in the OpenGL example binding we store raw OpenGL texture identifier (GLuint) inside ImTextureID.
+Whereas in the DirectX11 example binding we store a pointer to ID3D11ShaderResourceView inside ImTextureID, which is a higher-level structure tying together both the texture and information about its format and how to read it.
 
-    - Each rendering function decides on a data type to represent "textures". The concept of what is a "texture" is entirely tied to your underlying engine/graphics API.
-      We carry the information to identify a "texture" in the ImTextureID type.
-      ImTextureID is nothing more that a void*, aka 4/8 bytes worth of data: just enough to store 1 pointer or 1 integer of your choice.
-      Dear ImGui doesn't know or understand what you are storing in ImTextureID, it merely pass ImTextureID values until they reach your rendering function.
+- If you have a custom engine built over e.g. OpenGL, instead of passing GLuint around you may decide to use a high-level data type to carry information about the texture as well as how to display it (shaders, etc.). The decision of what to use as ImTextureID can always be made better knowing how your codebase is designed. If your engine has high-level data types for "textures" and "material" then you may want to use them.
+If you are starting with OpenGL or DirectX or Vulkan and haven't built much of a rendering engine over them, keeping the default ImTextureID representation suggested by the example bindings is probably the best choice.
+(Advanced users may also decide to keep a low-level type in ImTextureID, and use ImDrawList callback and pass information to their renderer)
 
-    - In the examples/ bindings, for each graphics API binding we decided on a type that is likely to be a good representation for specifying
-      an image from the end-user perspective. This is what the _examples_ rendering functions are using:
-
-         OpenGL:     ImTextureID = GLuint                       (see ImGui_ImplOpenGL3_RenderDrawData() function in imgui_impl_opengl3.cpp)
-         DirectX9:   ImTextureID = LPDIRECT3DTEXTURE9           (see ImGui_ImplDX9_RenderDrawData()     function in imgui_impl_dx9.cpp)
-         DirectX11:  ImTextureID = ID3D11ShaderResourceView*    (see ImGui_ImplDX11_RenderDrawData()    function in imgui_impl_dx11.cpp)
-         DirectX12:  ImTextureID = D3D12_GPU_DESCRIPTOR_HANDLE  (see ImGui_ImplDX12_RenderDrawData()    function in imgui_impl_dx12.cpp)
-
-      For example, in the OpenGL example binding we store raw OpenGL texture identifier (GLuint) inside ImTextureID.
-      Whereas in the DirectX11 example binding we store a pointer to ID3D11ShaderResourceView inside ImTextureID, which is a higher-level structure
-      tying together both the texture and information about its format and how to read it.
-
-    - If you have a custom engine built over e.g. OpenGL, instead of passing GLuint around you may decide to use a high-level data type to carry information about
-      the texture as well as how to display it (shaders, etc.). The decision of what to use as ImTextureID can always be made better knowing how your codebase
-      is designed. If your engine has high-level data types for "textures" and "material" then you may want to use them.
-      If you are starting with OpenGL or DirectX or Vulkan and haven't built much of a rendering engine over them, keeping the default ImTextureID
-      representation suggested by the example bindings is probably the best choice.
-      (Advanced users may also decide to keep a low-level type in ImTextureID, and use ImDrawList callback and pass information to their renderer)
-
-    User code may do:
-
-        // Cast our texture type to ImTextureID / void*
-        MyTexture* texture = g_CoffeeTableTexture;
-        ImGui::Image((void*)texture, ImVec2(texture->Width, texture->Height));
-
-    The renderer function called after ImGui::Render() will receive that same value that the user code passed:
-
-        // Cast ImTextureID / void* stored in the draw command as our texture type
-        MyTexture* texture = (MyTexture*)pcmd->TextureId;
-        MyEngineBindTexture2D(texture);
-
-    Once you understand this design you will understand that loading image files and turning them into displayable textures is not within the scope of Dear ImGui.
-    This is by design and is actually a good thing, because it means your code has full control over your data types and how you display them.
-    If you want to display an image file (e.g. PNG file) into the screen, please refer to documentation and tutorials for the graphics API you are using.
-
-    Refer to the Wiki to find simplified examples for loading textures with OpenGL, DirectX9 and DirectX11:
-
-        https://github.com/ocornut/imgui/wiki/Image-Loading-and-Displaying-Examples
-
-    C/C++ tip: a void* is pointer-sized storage. You may safely store any pointer or integer into it by casting your value to ImTextureID / void*, and vice-versa.
-    Because both end-points (user code and rendering function) are under your control, you know exactly what is stored inside the ImTextureID / void*.
-    Examples:
-
-        GLuint my_tex = XXX;
-        void* my_void_ptr;
-        my_void_ptr = (void*)(intptr_t)my_tex;                  // cast a GLuint into a void* (we don't take its address! we literally store the value inside the pointer)
-        my_tex = (GLuint)(intptr_t)my_void_ptr;                 // cast a void* into a GLuint
-
-        ID3D11ShaderResourceView* my_dx11_srv = XXX;
-        void* my_void_ptr;
-        my_void_ptr = (void*)my_dx11_srv;                       // cast a ID3D11ShaderResourceView* into an opaque void*
-        my_dx11_srv = (ID3D11ShaderResourceView*)my_void_ptr;   // cast a void* into a ID3D11ShaderResourceView*
-
-    Finally, you may call ImGui::ShowMetricsWindow() to explore/visualize/understand how the ImDrawList are generated.
+User code may do:
+```cpp
+// Cast our texture type to ImTextureID / void*
+MyTexture* texture = g_CoffeeTableTexture;
+ImGui::Image((void*)texture, ImVec2(texture->Width, texture->Height));
 ```
+The renderer function called after ImGui::Render() will receive that same value that the user code passed:
+```cpp
+// Cast ImTextureID / void* stored in the draw command as our texture type
+MyTexture* texture = (MyTexture*)pcmd->TextureId;
+MyEngineBindTexture2D(texture);
+```
+Once you understand this design you will understand that loading image files and turning them into displayable textures is not within the scope of Dear ImGui. 
+This is by design and is actually a good thing, because it means your code has full control over your data types and how you display them.
+If you want to display an image file (e.g. PNG file) into the screen, please refer to documentation and tutorials for the graphics API you are using.
+
+Refer to the Wiki to find simplified examples for loading textures with OpenGL, DirectX9 and DirectX11: https://github.com/ocornut/imgui/wiki/Image-Loading-and-Displaying-Examples
+
+C/C++ tip: a void* is pointer-sized storage. You may safely store any pointer or integer into it by casting your value to ImTextureID / void*, and vice-versa.
+Because both end-points (user code and rendering function) are under your control, you know exactly what is stored inside the ImTextureID / void*.
+Examples:
+```cpp
+GLuint my_tex = XXX;
+void* my_void_ptr;
+my_void_ptr = (void*)(intptr_t)my_tex;                  // cast a GLuint into a void* (we don't take its address! we literally store the value inside the pointer)
+my_tex = (GLuint)(intptr_t)my_void_ptr;                 // cast a void* into a GLuint
+
+ID3D11ShaderResourceView* my_dx11_srv = XXX;
+void* my_void_ptr;
+my_void_ptr = (void*)my_dx11_srv;                       // cast a ID3D11ShaderResourceView* into an opaque void*
+my_dx11_srv = (ID3D11ShaderResourceView*)my_void_ptr;   // cast a void* into a ID3D11ShaderResourceView*
+```
+Finally, you may call ImGui::ShowMetricsWindow() to explore/visualize/understand how the ImDrawList are generated.
 
 ---
 
 ### Q: Why are multiple widgets reacting when I interact with a single one?
-
 ### Q: How can I have multiple widgets with the same label or with an empty label?
 
 A primer on labels and the ID Stack...
@@ -469,12 +456,3 @@ and see how you want to help and can help!
 You may post screenshot or links in the [gallery threads](github.com/ocornut/imgui/issues/1902). Visuals are ideal as they inspire other programmers.
 But even without visuals, disclosing your use of dear imgui help the library grow credibility, and help other teams and programmers with taking decisions.
 - If you have issues or if you need to hack into the library, even if you don't expect any support it is useful that you share your issues (on github or privately).
-
----
-
-## Tips
-- you can call Begin() multiple times with the same name during the same frame, it will keep appending to the same window. this is also useful to set yourself in the context of another window (to get/set other settings)
-- you can create widgets without a Begin()/End() block, they will go in an implicit window called "Debug".
-- the ImGuiOnceUponAFrame helper will allow run the block of code only once a frame. You can use it to quickly add custom UI in the middle of a deep nested inner loop in your code.
-- you can call Render() multiple times (e.g for VR renders).
-- call and read the ShowDemoWindow() code in imgui_demo.cpp for more example of how to use ImGui!
