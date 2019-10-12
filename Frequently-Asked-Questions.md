@@ -1,25 +1,25 @@
 | **Quick Reference** |
 :---------------------------------------------------------- |
-| [Where is the documentation?](https://github.com/ocornut/imgui/wiki/_new#q-where-is-the-documentation) |
-| [Which version should you get?](https://github.com/ocornut/imgui/wiki/_new#q-which-version-should-i-get) |
-| [Which version should I get?](https://github.com/ocornut/imgui/wiki/_new#q-which-version-should-i-get) |
-| [Who uses Dear ImGui?](https://github.com/ocornut/imgui/wiki/_new#q-who-uses-dear-imgui) |
-| ["Dear ImGui" vs "ImGui"?](https://github.com/ocornut/imgui/wiki/_new#q-why-the-odd-dual-naming-dear-imgui-vs-imgui) |
-| [How can I tell whether to dispatch mouse/keyboard to Dear ImGui or to my application?](https://github.com/ocornut/imgui/wiki/_new#q-how-can-i-tell-whether-to-dispatch-mousekeyboard-to-dear-imgui-or-to-my-application) |
-| [How can I display an image? What is ImTextureID, how does it work?](https://github.com/ocornut/imgui/wiki/_new#q-how-can-i-display-an-image-what-is-imtextureid-how-does-it-work)| 
-| [Why are multiple widgets reacting when I interact with a single one?](https://github.com/ocornut/imgui/wiki/_new#q-why-are-multiple-widgets-reacting-when-i-interact-with-a-single-one) |
-| [How can I have multiple widgets with the same label or with an empty label?](https://github.com/ocornut/imgui/wiki/_new#q-how-can-i-have-multiple-widgets-with-the-same-label-or-with-an-empty-label) |
-| [How can I use my own math types instead of ImVec2/ImVec4?](https://github.com/ocornut/imgui/wiki/_new#q-how-can-i-use-my-own-math-types-instead-of-imvec2imvec4) |
-| [How can I load a different font than the default?](https://github.com/ocornut/imgui/wiki/_new#q-how-can-i-load-a-different-font-than-the-default) |
-| [How can I easily use icons in my application?](https://github.com/ocornut/imgui/wiki/_new#q-how-can-i-easily-use-icons-in-my-application) | 
-| [How can I load multiple fonts?](https://github.com/ocornut/imgui/wiki/_new#q-how-can-i-load-multiple-fonts) |
-| [How can I display and input non-Latin characters such as Chinese, Japanese, Korean, Cyrillic?](https://github.com/ocornut/imgui/wiki/_new#q-how-can-i-display-and-input-non-latin-characters-such-as-chinese-japanese-korean-cyrillic) |
-| [How can I interact with standard C++ types (such as std::string and std::vector)?](https://github.com/ocornut/imgui/wiki/_new#q-how-can-i-interact-with-standard-c-types-such-as-stdstring-and-stdvector) |
-| [How can I use the drawing facilities without an ImGui window? (using ImDrawList API)](https://github.com/ocornut/imgui/wiki/_new#q-how-can-i-use-the-drawing-facilities-without-an-imgui-window-using-imdrawlist-api) |
-| [How can I use this without a mouse, without a keyboard or without a screen? (gamepad, input share, remote display)](https://github.com/ocornut/imgui/wiki/_new#q-how-can-i-use-this-without-a-mouse-without-a-keyboard-or-without-a-screen-gamepad-input-share-remote-display) |
-| [I integrated Dear ImGui in my engine and the text or lines are blurry..](https://github.com/ocornut/imgui/wiki/_new#q-i-integrated-dear-imgui-in-my-engine-and-the-text-or-lines-are-blurry) |
-| [I integrated Dear ImGui in my engine and some elements are clipping or disappearing when I move windows around..](https://github.com/ocornut/imgui/wiki/_new#q-i-integrated-dear-imgui-in-my-engine-and-some-elements-are-clipping-or-disappearing-when-i-move-windows-around) |
-| [How can I help?](https://github.com/ocornut/imgui/wiki/_new#q-how-can-i-help) |
+| [Where is the documentation?](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-where-is-the-documentation) |
+| [Which version should you get?](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-which-version-should-i-get) |
+| [Which version should I get?](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-which-version-should-i-get) |
+| [Who uses Dear ImGui?](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-who-uses-dear-imgui) |
+| ["Dear ImGui" vs "ImGui"?](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-why-the-odd-dual-naming-dear-imgui-vs-imgui) |
+| [How can I tell whether to dispatch mouse/keyboard to Dear ImGui or to my application?](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-how-can-i-tell-whether-to-dispatch-mousekeyboard-to-dear-imgui-or-to-my-application) |
+| [How can I display an image? What is ImTextureID, how does it work?](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-how-can-i-display-an-image-what-is-imtextureid-how-does-it-work)| 
+| [Why are multiple widgets reacting when I interact with a single one?](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-why-are-multiple-widgets-reacting-when-i-interact-with-a-single-one) |
+| [How can I have multiple widgets with the same label or with an empty label?](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-how-can-i-have-multiple-widgets-with-the-same-label-or-with-an-empty-label) |
+| [How can I use my own math types instead of ImVec2/ImVec4?](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-how-can-i-use-my-own-math-types-instead-of-imvec2imvec4) |
+| [How can I load a different font than the default?](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-how-can-i-load-a-different-font-than-the-default) |
+| [How can I easily use icons in my application?](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-how-can-i-easily-use-icons-in-my-application) | 
+| [How can I load multiple fonts?](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-how-can-i-load-multiple-fonts) |
+| [How can I display and input non-Latin characters such as Chinese, Japanese, Korean, Cyrillic?](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-how-can-i-display-and-input-non-latin-characters-such-as-chinese-japanese-korean-cyrillic) |
+| [How can I interact with standard C++ types (such as std::string and std::vector)?](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-how-can-i-interact-with-standard-c-types-such-as-stdstring-and-stdvector) |
+| [How can I use the drawing facilities without an ImGui window? (using ImDrawList API)](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-how-can-i-use-the-drawing-facilities-without-an-imgui-window-using-imdrawlist-api) |
+| [How can I use this without a mouse, without a keyboard or without a screen? (gamepad, input share, remote display)](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-how-can-i-use-this-without-a-mouse-without-a-keyboard-or-without-a-screen-gamepad-input-share-remote-display) |
+| [I integrated Dear ImGui in my engine and the text or lines are blurry..](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-i-integrated-dear-imgui-in-my-engine-and-the-text-or-lines-are-blurry) |
+| [I integrated Dear ImGui in my engine and some elements are clipping or disappearing when I move windows around..](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-i-integrated-dear-imgui-in-my-engine-and-some-elements-are-clipping-or-disappearing-when-i-move-windows-around) |
+| [How can I help?](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-how-can-i-help) |
 | [Tips](https://github.com/ocornut/imgui/wiki/_new#tips) |
 
 
