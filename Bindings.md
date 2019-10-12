@@ -1,4 +1,4 @@
-### Language bindings
+## Language Bindings
 
 _NB: those bindings may be more or less maintained, more or less close to the spirit of original API. People who create language bindings sometimes haven't used the C++ API themselves. ImGui was designed for C++ and some of the subtleties may be lost in translation with other languages. If your language supports it, I would suggest replicating the function overloading and default parameters used in the original, else the API may be harder to use. In doubt, always check the original C++ version first!_
 
@@ -87,12 +87,7 @@ Rust: imgui-opengl-renderer
 Swift (Swift-imgui): Dear ImGui Swift Wrapper API for macOS and iOS 
 <br>https://github.com/mnmly/Swift-imgui
 
-### Port/rewrites
-
-Java - JVM port/rewrite, written in Kotlin
-<br>https://github.com/kotlin-graphics/imgui
-
-### Framework/engine bindings
+## Framework/Engine Bindings
 
 Main repository include examples for DirectX9, DirectX10, DirectX11, DirectX12, Metal, OpenGL2/3, Vulkan, iOS, Allegro 5, and Marmalade, using frameworks such as Glfw, SDL2, Win32, Cocoa. 
 <br>https://github.com/ocornut/imgui/tree/master/examples
@@ -123,3 +118,8 @@ Main repository include examples for DirectX9, DirectX10, DirectX11, DirectX12, 
 - Sokol (sample): https://github.com/floooh/sokol-samples/blob/master/glfw/imgui-glfw.cc
 - Unreal Engine 4: https://github.com/segross/UnrealImGui or https://github.com/sronsse/UnrealEngine_ImGui
 - vtk (imgui-vtk): https://github.com/trlsmax/imgui-vtk
+
+## Port/rewrites
+
+Java - JVM port/rewrite, written in Kotlin
+<br>https://github.com/kotlin-graphics/imgui
