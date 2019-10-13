@@ -51,7 +51,7 @@ Main repository include examples for DirectX9, DirectX10, DirectX11, DirectX12, 
 | Nim Game Lib | https://github.com/lmariscal/nimgl |
 | px_render | **px_render_imgui.h**: https://github.com/pplux/px/blob/master/px_render_imgui.h (was [#1935](https://github.com/ocornut/imgui/pull/1935)) |
 | Qt | **imgui-qt3d**: https://github.com/alpqr/imgui-qt3d <br>**QOpenGLWindow (qtimgui)**: [#1910](https://github.com/ocornut/imgui/issues/1910), **QtDirect3D**: https://github.com/giladreich/QtDirect3D, qt6: https://github.com/alpqr/qvk6/tree/imgui/examples/rhi/imguidemo |
-| SFML | **imgui-sfml**: https://github.com/eliasdaler/imgui-sfml <br>**Mischa-Alff/imgui-backends** https://github.com/Mischa-Alff/imgui-backends |
+| SFML | **imgui-sfml**: https://github.com/eliasdaler/imgui-sfml |
 | Sokol | https://github.com/floooh/sokol-samples/blob/master/glfw/imgui-glfw.cc |
 | Unreal Engine 4 | **UnrealImGui**: https://github.com/segross/UnrealImGui <br>**UnrealEngine_ImGui**: https://github.com/sronsse/UnrealEngine_ImGui
 | vtk | **imgui-vtk**: https://github.com/trlsmax/imgui-vtk
