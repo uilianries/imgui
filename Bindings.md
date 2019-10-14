@@ -42,7 +42,7 @@ Main repository include examples for DirectX9, DirectX10, DirectX11, DirectX12, 
 | GML / GameMaker Studio 2 | **ImGuiGML**: https://marketplace.yoyogames.com/assets/6221/imguigml |
 | Irrlicht Engine | **IrrIMGUI**: https://github.com/ZahlGraf/IrrIMGUI |
 | Ogre | **ogre-imgui**: https://github.com/OGRECave/ogre-imgui |
-| OpenSceneGraph/OSG | https://gist.github.com/fulezi/d2442ca7626bf270226014501357042c |
+| OpenSceneGraph/OSG | **imgui-osg**: https://github.com/Tordan/imgui-osg<br>older gist: https://gist.github.com/fulezi/d2442ca7626bf270226014501357042c |
 | openFrameworks | **ofxImGui**: https://github.com/jvcleave/ofxImGui
 | Orx | **ImGuiOrx**: https://github.com/thegwydd/ImGuiOrx (was [#1843](https://github.com/ocornut/imgui/pull/1843)) |
 | LÖVE+LUA | **love-imgui**: https://github.com/slages/love-imgui |
