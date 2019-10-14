@@ -1,28 +1,52 @@
 (work in progress)
 
-| **Quick Reference** |
+| **Q&A: Basics** |
 :---------------------------------------------------------- |
 | [Where is the documentation?](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-where-is-the-documentation) |
-| [Which version should you get?](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-which-version-should-i-get) |
 | [Which version should I get?](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-which-version-should-i-get) |
 | [Who uses Dear ImGui?](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-who-uses-dear-imgui) |
-| ["Dear ImGui" vs "ImGui"?](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-why-the-odd-dual-naming-dear-imgui-vs-imgui) |
+| [Why the names "Dear ImGui" vs "ImGui"?](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-why-the-odd-dual-naming-dear-imgui-vs-imgui) |
+| **Q&A: Community** |
+| [How can I help?](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-how-can-i-help) |
+| **Q&A: Integration** |
 | [How can I tell whether to dispatch mouse/keyboard to Dear ImGui or to my application?](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-how-can-i-tell-whether-to-dispatch-mousekeyboard-to-dear-imgui-or-to-my-application) |
-| [How can I display an image? What is ImTextureID, how does it work?](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-how-can-i-display-an-image-what-is-imtextureid-how-does-it-work)| 
+| [I integrated Dear ImGui in my engine and the text or lines are blurry..](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-i-integrated-dear-imgui-in-my-engine-and-the-text-or-lines-are-blurry) |
+| [I integrated Dear ImGui in my engine and some elements are clipping or disappearing when I move windows around..](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-i-integrated-dear-imgui-in-my-engine-and-some-elements-are-clipping-or-disappearing-when-i-move-windows-around) |
+| [How can I use this without a mouse, without a keyboard or without a screen? (gamepad, input share, remote display)](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-how-can-i-use-this-without-a-mouse-without-a-keyboard-or-without-a-screen-gamepad-input-share-remote-display) |
+| **Q&A: Usage** |
 | [Why are multiple widgets reacting when I interact with a single one?](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-why-are-multiple-widgets-reacting-when-i-interact-with-a-single-one) |
 | [How can I have multiple widgets with the same label or with an empty label?](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-how-can-i-have-multiple-widgets-with-the-same-label-or-with-an-empty-label) |
+| [How can I display an image? What is ImTextureID, how does it work?](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-how-can-i-display-an-image-what-is-imtextureid-how-does-it-work)| 
 | [How can I use my own math types instead of ImVec2/ImVec4?](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-how-can-i-use-my-own-math-types-instead-of-imvec2imvec4) |
+| [How can I interact with standard C++ types (such as std::string and std::vector)?](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-how-can-i-interact-with-standard-c-types-such-as-stdstring-and-stdvector) |
+| **Q&A: Fonts, Text** |
 | [How can I load a different font than the default?](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-how-can-i-load-a-different-font-than-the-default) |
 | [How can I easily use icons in my application?](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-how-can-i-easily-use-icons-in-my-application) | 
 | [How can I load multiple fonts?](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-how-can-i-load-multiple-fonts) |
 | [How can I display and input non-Latin characters such as Chinese, Japanese, Korean, Cyrillic?](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-how-can-i-display-and-input-non-latin-characters-such-as-chinese-japanese-korean-cyrillic) |
-| [How can I interact with standard C++ types (such as std::string and std::vector)?](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-how-can-i-interact-with-standard-c-types-such-as-stdstring-and-stdvector) |
 | [How can I use the drawing facilities without an ImGui window? (using ImDrawList API)](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-how-can-i-use-the-drawing-facilities-without-an-imgui-window-using-imdrawlist-api) |
-| [How can I use this without a mouse, without a keyboard or without a screen? (gamepad, input share, remote display)](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-how-can-i-use-this-without-a-mouse-without-a-keyboard-or-without-a-screen-gamepad-input-share-remote-display) |
-| [I integrated Dear ImGui in my engine and the text or lines are blurry..](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-i-integrated-dear-imgui-in-my-engine-and-the-text-or-lines-are-blurry) |
-| [I integrated Dear ImGui in my engine and some elements are clipping or disappearing when I move windows around..](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-i-integrated-dear-imgui-in-my-engine-and-some-elements-are-clipping-or-disappearing-when-i-move-windows-around) |
-| [How can I help?](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-how-can-i-help) |
 
+# Q&A: Basics
+
+# Q&A: Community
+
+### Q: How can I help?
+- If you are experienced with Dear ImGui and C++, look at the [GitHub Issues](https://github.com/ocornut/imgui/issues), look at the [Wiki](https://github.com/ocornut/imgui/wiki), read [docs/TODO.txt](https://github.com/ocornut/imgui/blob/master/docs/TODO.txt) and see how you want to help and can help!
+- Businesses: convince your company to fund development via support contracts/sponsoring! This is among the most useful thing you can do for Dear ImGui. With increased funding we will be able to hire more people working on this project.
+- Individuals: you can also become a [Patron](http://www.patreon.com/imgui) or donate on PayPal! See README.
+- Disclose your usage of dear imgui via a dev blog post, a tweet, a screenshot, a mention somewhere etc.
+You may post screenshot or links in the [gallery threads](github.com/ocornut/imgui/issues/1902). Visuals are ideal as they inspire other programmers.
+But even without visuals, disclosing your use of dear imgui help the library grow credibility, and help other teams and programmers with taking decisions.
+- If you have issues or if you need to hack into the library, even if you don't expect any support it is useful that you share your issues or sometimes incomplete pR.
+
+
+# Q&A: Integration
+
+# Q&A: Usage
+
+# Q&A: Fonts, Text
+
+----
 
 ### Q: Where is the documentation?
 
@@ -106,11 +130,22 @@ Long explanation:
 ImTextureID is nothing more that a void*, aka 4/8 bytes worth of data: just enough to store 1 pointer or 1 integer of your choice.
 Dear ImGui doesn't know or understand what you are storing in ImTextureID, it merely pass ImTextureID values until they reach your rendering function.
 - In the examples/ bindings, for each graphics API binding we decided on a type that is likely to be a good representation for specifying an image from the end-user perspective. This is what the _examples_ rendering functions are using:
-```cpp
-OpenGL:     ImTextureID = GLuint                       (see ImGui_ImplOpenGL3_RenderDrawData() function in imgui_impl_opengl3.cpp)
-DirectX9:   ImTextureID = LPDIRECT3DTEXTURE9           (see ImGui_ImplDX9_RenderDrawData()     function in imgui_impl_dx9.cpp)
-DirectX11:  ImTextureID = ID3D11ShaderResourceView*    (see ImGui_ImplDX11_RenderDrawData()    function in imgui_impl_dx11.cpp)
-DirectX12:  ImTextureID = D3D12_GPU_DESCRIPTOR_HANDLE  (see ImGui_ImplDX12_RenderDrawData()    function in imgui_impl_dx12.cpp)
+```
+OpenGL:
+- ImTextureID = GLuint
+- See ImGui_ImplOpenGL3_RenderDrawData() function in imgui_impl_opengl3.cpp
+
+DirectX9:   
+- ImTextureID = LPDIRECT3DTEXTURE9
+- See ImGui_ImplDX9_RenderDrawData() function in imgui_impl_dx9.cpp
+
+DirectX11:  
+- ImTextureID = ID3D11ShaderResourceView*
+- See ImGui_ImplDX11_RenderDrawData() function in imgui_impl_dx11.cpp
+
+DirectX12:  
+- ImTextureID = D3D12_GPU_DESCRIPTOR_HANDLE
+- See ImGui_ImplDX12_RenderDrawData() function in imgui_impl_dx12.cpp
 ```
 For example, in the OpenGL example binding we store raw OpenGL texture identifier (GLuint) inside ImTextureID.
 Whereas in the DirectX11 example binding we store a pointer to ID3D11ShaderResourceView inside ImTextureID, which is a higher-level structure tying together both the texture and information about its format and how to read it.
@@ -250,10 +285,10 @@ End();
 ```c
 Button("Click");       // Label = "Click",  ID = hash of (..., "Click")
 PushID("node");
-Button("Click");       // Label = "Click",  ID = hash of (..., "node", "Click")
-PushID(my_ptr);
-Button("Click");   // Label = "Click",  ID = hash of (..., "node", my_ptr, "Click")
-PopID();
+  Button("Click");     // Label = "Click",  ID = hash of (..., "node", "Click")
+  PushID(my_ptr);
+    Button("Click");   // Label = "Click",  ID = hash of (..., "node", my_ptr, "Click")
+  PopID();
 PopID();
 ```
 - Tree nodes implicitly creates a scope for you by calling PushID().
@@ -444,15 +479,3 @@ Rectangles provided by ImGui are defined as
 `(x1=left,y1=top,x2=right,y2=bottom)` 
 and **NOT** as 
 `(x1,y1,width,height)`
-
----
-
-### Q: How can I help?
-- If you are experienced with Dear ImGui and C++, look at the github issues, look at the Wiki, read docs/TODO.txt
-and see how you want to help and can help!
-- Businesses: convince your company to fund development via support contracts/sponsoring! This is among the most useful thing you can do for dear imgui.
-- Individuals: you can also become a [Patron](http://www.patreon.com/imgui) or donate on PayPal! See README.
-- Disclose your usage of dear imgui via a dev blog post, a tweet, a screenshot, a mention somewhere etc.
-You may post screenshot or links in the [gallery threads](github.com/ocornut/imgui/issues/1902). Visuals are ideal as they inspire other programmers.
-But even without visuals, disclosing your use of dear imgui help the library grow credibility, and help other teams and programmers with taking decisions.
-- If you have issues or if you need to hack into the library, even if you don't expect any support it is useful that you share your issues (on github or privately).
