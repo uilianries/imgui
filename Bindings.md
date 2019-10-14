@@ -31,15 +31,15 @@ Main repository include examples for DirectX9, DirectX10, DirectX11, DirectX12, 
 
 | Framework | Project |
 |------------|---|
-| GTK3 + OpenGL3 | Unmerged PR: [#2032](https://github.com/ocornut/imgui/pull/2032) |
-| Native Win32 example | Unmerged PR: [#2772](https://github.com/ocornut/imgui/pull/2772), [#281](https://github.com/ocornut/imgui/pull/281) (old example design) |
 | Android | Unmerged PR: [#421](https://github.com/ocornut/imgui/pull/421) (old example design, should not be needed) |
+| Amethyst | **amethyst-imgui**: https://github.com/amethyst/amethyst-imgui
 | bsf | **bsfimgui**: https://github.com/pgruenbacher/bsfImgui | 
 | Cinder | **Cinder-ImGui**: https://github.com/simongeilfus/Cinder-ImGui
 | Cocos2d-x | **imguix**: https://github.com/c0i/imguix <br>**cocos2dx-imgui**: https://github.com/Mjarkiew/cocos2dx-imgui <br> and [#551](https://github.com/ocornut/imgui/issues/551)
 | Diligent Engine | [DiligentTools](https://github.com/DiligentGraphics/DiligentTools/blob/master/Imgui/src/ImGuiImplDiligent.cpp), [example](https://github.com/DiligentGraphics/DiligentSamples/tree/master/Samples/ImguiDemo) |
 | Flexium | **FlexGUI**: https://github.com/DXsmiley/FlexGUI |
 | GML / GameMaker Studio 2 | **ImGuiGML**: https://marketplace.yoyogames.com/assets/6221/imguigml |
+| GTK3 + OpenGL3 | Unmerged PR: [#2032](https://github.com/ocornut/imgui/pull/2032) |
 | Irrlicht Engine | **IrrIMGUI**: https://github.com/ZahlGraf/IrrIMGUI |
 | Ogre | **ogre-imgui**: https://github.com/OGRECave/ogre-imgui |
 | OpenSceneGraph/OSG | **imgui-osg**: https://github.com/Tordan/imgui-osg<br>older gist: https://gist.github.com/fulezi/d2442ca7626bf270226014501357042c |
@@ -55,6 +55,7 @@ Main repository include examples for DirectX9, DirectX10, DirectX11, DirectX12, 
 | Sokol | https://github.com/floooh/sokol-samples/blob/master/glfw/imgui-glfw.cc |
 | Unreal Engine 4 | **UnrealImGui**: https://github.com/segross/UnrealImGui <br>**UnrealEngine_ImGui**: https://github.com/sronsse/UnrealEngine_ImGui
 | vtk | **imgui-vtk**: https://github.com/trlsmax/imgui-vtk
+| Win32 (native) example | Unmerged PR: [#2772](https://github.com/ocornut/imgui/pull/2772), [#281](https://github.com/ocornut/imgui/pull/281) (old example design) |
 
 ## Miscellaneous
 
