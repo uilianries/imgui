@@ -7,26 +7,25 @@
 | [Where is the documentation?](#q-where-is-the-documentation) |
 | [Which version should I get?](#q-which-version-should-i-get) |
 | [Who uses Dear ImGui?](#q-who-uses-dear-imgui) |
-| [Why the names "Dear ImGui" vs "ImGui"?](#q-why-the-odd-dual-naming-dear-imgui-vs-imgui) |
+| [Why the names "Dear ImGui" vs "ImGui"?](#q-why-names-dear-imgui-vs-imgui) |
 | **Q&A: Community** |
 | [How can I help?](#q-how-can-i-help) |
 | **Q&A: Integration** |
 | [How can I tell whether to dispatch mouse/keyboard to Dear ImGui or to my application?](#q-how-can-i-tell-whether-to-dispatch-mousekeyboard-to-dear-imgui-or-to-my-application) |
+| [How can I use this without a mouse, without a keyboard or without a screen? (gamepad, input share, remote display)](#q-how-can-i-use-this-without-a-mouse-without-a-keyboard-or-without-a-screen-gamepad-input-share-remote-display) |
 | [I integrated Dear ImGui in my engine and the text or lines are blurry..](#q-i-integrated-dear-imgui-in-my-engine-and-the-text-or-lines-are-blurry) |
 | [I integrated Dear ImGui in my engine and some elements are clipping or disappearing when I move windows around..](#q-i-integrated-dear-imgui-in-my-engine-and-some-elements-are-clipping-or-disappearing-when-i-move-windows-around) |
-| [How can I use this without a mouse, without a keyboard or without a screen? (gamepad, input share, remote display)](#q-how-can-i-use-this-without-a-mouse-without-a-keyboard-or-without-a-screen-gamepad-input-share-remote-display) |
 | **Q&A: Usage** |
-| [Why are multiple widgets reacting when I interact with a single one?](#q-why-are-multiple-widgets-reacting-when-i-interact-with-a-single-one) |
-| [How can I have multiple widgets with the same label or with an empty label?](#q-how-can-i-have-multiple-widgets-with-the-same-label-or-with-an-empty-label) |
+| [Why are multiple widgets reacting when I interact with a single one?<br>How can I have multiple widgets with the same label or with an empty label?](#q-why-are-multiple-widgets-reacting-when-i-interact-with-a-single-one-q-how-can-i-have-multiple-widgets-with-the-same-label-or-with-an-empty-label) |
 | [How can I display an image? What is ImTextureID, how does it work?](#q-how-can-i-display-an-image-what-is-imtextureid-how-does-it-work)| 
 | [How can I use my own math types instead of ImVec2/ImVec4?](#q-how-can-i-use-my-own-math-types-instead-of-imvec2imvec4) |
 | [How can I interact with standard C++ types (such as std::string and std::vector)?](#q-how-can-i-interact-with-standard-c-types-such-as-stdstring-and-stdvector) |
+| [How can I use the drawing facilities without an ImGui window? (using ImDrawList API)](#q-how-can-i-use-the-drawing-facilities-without-an-imgui-window-using-imdrawlist-api) |
 | **Q&A: Fonts, Text** |
 | [How can I load a different font than the default?](#q-how-can-i-load-a-different-font-than-the-default) |
 | [How can I easily use icons in my application?](#q-how-can-i-easily-use-icons-in-my-application) | 
 | [How can I load multiple fonts?](#q-how-can-i-load-multiple-fonts) |
 | [How can I display and input non-Latin characters such as Chinese, Japanese, Korean, Cyrillic?](#q-how-can-i-display-and-input-non-latin-characters-such-as-chinese-japanese-korean-cyrillic) |
-| [How can I use the drawing facilities without an ImGui window? (using ImDrawList API)](#q-how-can-i-use-the-drawing-facilities-without-an-imgui-window-using-imdrawlist-api) |
 
 # Q&A: Basics
 
@@ -34,10 +33,10 @@
 
 **This library is poorly documented at the moment and expects of the user to be acquainted with C/C++.**
 - Run the examples/ and explore them.
-- See demo code in imgui_demo.cpp and particularly the ImGui::ShowDemoWindow() function.
+- See demo code in [imgui_demo.cpp](https://github.com/ocornut/imgui/blob/master/imgui_demo.cpp) and particularly the `ImGui::ShowDemoWindow()` function.
 - The demo covers most features of Dear ImGui, so you can read the code and see its output.
-- See documentation and comments at the top of imgui.cpp + effectively imgui.h.
-- Dozens of standalone example applications using e.g. OpenGL/DirectX are provided in the examples/folder to explain how to integrate Dear ImGui with your own engine/application.
+- See documentation and comments at the top of [imgui.cpp](https://github.com/ocornut/imgui/blob/master/imgui.cpp) + general API comments in [imgui.h](https://github.com/ocornut/imgui/blob/master/imgui.h).
+- Dozens of standalone example applications using e.g. OpenGL/DirectX are provided in the [examples/](https://github.com/ocornut/imgui/blob/master/examples/) folder to explain how to integrate Dear ImGui with your own engine/application.
 - Your programming IDE is your friend, find the type or function declaration to find comments associated to it.
 
 ---
@@ -45,7 +44,7 @@
 ### Q: Which version should I get?
 I occasionally tag [Releases](https://github.com/ocornut/imgui/releases) but it is generally safe and recommended to sync to master/latest. The library is fairly stable and regressions tend to be fixed fast when reported. 
 
-You may also peak at the 'docking' branch which includes:
+You may also peak at the [docking](https://github.com/ocornut/imgui/tree/docking) branch which includes:
 - [Docking/Merging features](https://github.com/ocornut/imgui/issues/2109)
 - [Multi-viewport features](https://github.com/ocornut/imgui/issues/1542)
 
@@ -55,19 +54,19 @@ Many projects are using this branch and it is kept in sync with master regularly
 
 ### Q: Who uses Dear ImGui?
 
-**Take a look at**
-- [Quotes](https://github.com/ocornut/imgui/wiki/Quotes)
-- [Software using Dear ImGui](https://github.com/ocornut/imgui/wiki/Software-using-dear-imgui) 
+You may take a look at:
 
-Wiki pages for a list of games/software which are publicly known to use dear imgui. Please add yours if you can!
+- [Quotes](https://github.com/ocornut/imgui/wiki/Quotes)
+- [Software using Dear ImGui](https://github.com/ocornut/imgui/wiki/Software-using-dear-imgui)
+- [Gallery](https://github.com/ocornut/imgui/issues/2529)
 
 ---
 
-### Q: Why the odd dual naming, "Dear ImGui" vs "ImGui"?
+### Q: Why the names "Dear ImGui" vs "ImGui"?
+
+**TL;DR: Please try to refer to this library as "Dear ImGui".**
 
 The library started its life as "ImGui" due to the fact that I didn't give it a proper name when when I released 1.0, and had no particular expectation that it would take off. However, the term IMGUI (immediate-mode graphical user interface) was coined before and is being used in variety of other situations (e.g. Unity uses it own implementation of the IMGUI paradigm). To reduce the ambiguity without affecting existing code bases, I have decided on an alternate, longer name "Dear ImGui" that people can use to refer to this specific library.
-
-**Please try to refer to this library as "Dear ImGui".**
 
 ##### [Return to Index](#index)
 
@@ -88,25 +87,36 @@ But even without visuals, disclosing your use of dear imgui help the library gro
 
 ### Q: How can I tell whether to dispatch mouse/keyboard to Dear ImGui or to my application?
 
-You can read the 'io.WantCaptureMouse', 'io.WantCaptureKeyboard' and 'io.WantTextInput' flags from the ImGuiIO structure.
+You can read the `io.WantCaptureMouse`, `io.WantCaptureKeyboard` and `io.WantTextInput` flags from the ImGuiIO structure.
  
 e.g. `if (ImGui::GetIO().WantCaptureMouse) { ... }`
 
-- When 'io.WantCaptureMouse' is set, imgui wants to use your mouse state, and you may want to discard/hide the inputs from the rest of your application.
-- When 'io.WantCaptureKeyboard' is set, imgui wants to use your keyboard state, and you may want to discard/hide the inputs from the rest of your application.
-- When 'io.WantTextInput' is set to may want to notify your OS to popup an on-screen keyboard, if available (e.g. on a mobile phone, or console OS).
+- When `io.WantCaptureMouse` is set, imgui wants to use your mouse state, and you may want to discard/hide the inputs from the rest of your application.
+- When `io.WantCaptureKeyboard` is set, imgui wants to use your keyboard state, and you may want to discard/hide the inputs from the rest of your application.
+- When `io.WantTextInput` is set to may want to notify your OS to popup an on-screen keyboard, if available (e.g. on a mobile phone, or console OS).
 
-**Note:** You should always pass your mouse/keyboard inputs to imgui, even when the io.WantCaptureXXX flag are set false.
+**Note:** You should always pass your mouse/keyboard inputs to Dear ImGui, even when the io.WantCaptureXXX flag are set false.
  This is because imgui needs to detect that you clicked in the void to unfocus its own windows.
 
-**Note:** The 'io.WantCaptureMouse' is more accurate that any attempt to "check if the mouse is hovering a window" (don't do that!).
- It handle mouse dragging correctly (both dragging that started over your application or over an imgui window) and handle e.g. modal windows blocking inputs.
- Those flags are updated by ImGui::NewFrame(). Preferably read the flags after calling NewFrame() if you can afford it, but reading them before is also
- perfectly fine, as the bool toggle fairly rarely. If you have on a touch device, you might find use for an early call to UpdateHoveredWindowAndCaptureFlags().
+**Note:** The `io.WantCaptureMouse` is more accurate that any manual attempt to "check if the mouse is hovering a window" (don't do that!). It handle mouse dragging correctly (both dragging that started over your application or over an imgui window) and handle e.g. modal windows blocking inputs. Those flags are updated by `ImGui::NewFrame()`. Preferably read the flags after calling NewFrame() if you can afford it, but reading them before is also perfectly fine, as the bool toggle fairly rarely. If you have on a touch device, you might find use for an early call to `UpdateHoveredWindowAndCaptureFlags()`.
 
-**Note:** Text input widget releases focus on "Return KeyDown", so the subsequent "Return KeyUp" event that your application receive will typically
- have 'io.WantCaptureKeyboard=false'. Depending on your application logic it may or not be inconvenient. You might want to track which key-downs
- were targeted for Dear ImGui, e.g. with an array of bool, and filter out the corresponding key-ups.)
+**Note:** Text input widget releases focus on "Return KeyDown", so the subsequent "Return KeyUp" event that your application receive will typically have `io.WantCaptureKeyboard == false`. Depending on your application logic it may or not be inconvenient. You might want to track which key-downs were targeted for Dear ImGui, e.g. with an array of bool, and filter out the corresponding key-ups.)
+
+---
+
+### Q: How can I use this without a mouse, without a keyboard or without a screen? (gamepad, input share, remote display)
+- You can control Dear ImGui with a gamepad. Read about navigation in "Using gamepad/keyboard navigation controls".
+(short version: map gamepad inputs into the io.NavInputs[] array + set `io.ConfigFlags |= ImGuiConfigFlags_NavEnableGamepad`).
+- You can share your computer mouse seamlessly with your console/tablet/phone using [Synergy](https://symless.com/synergy)
+This is the preferred solution for developer productivity.
+In particular, the [micro-synergy-client repository](https://github.com/symless/micro-synergy-client) has simple
+and portable source code (uSynergy.c/.h) for a small embeddable client that you can use on any platform to connect
+to your host computer, based on the Synergy 1.x protocol. Make sure you download the Synergy 1 server on your computer.
+Console SDK also sometimes provide equivalent tooling or wrapper for Synergy-like protocols.
+- You may also use a third party solution such as [Remote ImGui](https://github.com/JordiRos/remoteimgui) or [imgui-ws](https://github.com/ggerganov/imgui-ws) which sends the vertices to render over the local network, allowing you to use Dear ImGui even on a screen-less machine. See Wiki index for most details.
+- For touch inputs, you can increase the hit box of widgets (via the `style.TouchPadding` setting) to accommodate
+for the lack of precision of touch inputs, but it is recommended you use a mouse or gamepad to allow optimizing
+for screen real-estate and precision.
 
 ---
 
@@ -123,29 +133,11 @@ Rectangles provided by ImGui are defined as
 and **NOT** as 
 `(x1,y1,width,height)`
 
----
-
-### Q: How can I use this without a mouse, without a keyboard or without a screen? (gamepad, input share, remote display)
-- You can control Dear ImGui with a gamepad. Read about navigation in "Using gamepad/keyboard navigation controls".
-(short version: map gamepad inputs into the io.NavInputs[] array + set io.ConfigFlags |= ImGuiConfigFlags_NavEnableGamepad)
-- You can share your computer mouse seamlessly with your console/tablet/phone using [Synergy](https://symless.com/synergy)
-This is the preferred solution for developer productivity.
-In particular, the [micro-synergy-client repository](https://github.com/symless/micro-synergy-client) has simple
-and portable source code (uSynergy.c/.h) for a small embeddable client that you can use on any platform to connect
-to your host computer, based on the Synergy 1.x protocol. Make sure you download the Synergy 1 server on your computer.
-Console SDK also sometimes provide equivalent tooling or wrapper for Synergy-like protocols.
-- You may also use a third party solution such as [Remote ImGui](https://github.com/JordiRos/remoteimgui) which sends
-the vertices to render over the local network, allowing you to use Dear ImGui even on a screen-less machine.
-- For touch inputs, you can increase the hit box of widgets (via the style.TouchPadding setting) to accommodate
-for the lack of precision of touch inputs, but it is recommended you use a mouse or gamepad to allow optimizing
-for screen real-estate and precision.
-
 ##### [Return to Index](#index)
 
 # Q&A: Usage
 
-### Q: Why are multiple widgets reacting when I interact with a single one?
-### Q: How can I have multiple widgets with the same label or with an empty label?
+### Q: Why are multiple widgets reacting when I interact with a single one? <br>Q: How can I have multiple widgets with the same label or with an empty label?
 
 A primer on labels and the ID Stack...
 
@@ -199,7 +191,7 @@ you to animate labels. For example you may want to include varying information i
 but windows are uniquely identified by their ID. Use "###" to pass a label that isn't part of ID:
 ```c
 Button("Hello###ID");  // Label = "Hello",  ID = hash of (..., "###ID")
-Button("World###ID");  // Label = "World",  ID = hash of (..., "###ID")  // Same as above, even though the label looks different
+Button("World###ID");  // Label = "World",  ID = hash of (..., "###ID")  // Same as above, even if the label looks different
 
 sprintf(buf, "My game (%f FPS)###MyGame", fps);
 Begin(buf);            // Variable title,   ID = hash of "MyGame"
@@ -342,14 +334,14 @@ Finally, you may call ImGui::ShowMetricsWindow() to explore/visualize/understand
 
 ### Q: How can I use my own math types instead of ImVec2/ImVec4?
 
-You can edit imconfig.h and setup the IM_VEC2_CLASS_EXTRA/IM_VEC4_CLASS_EXTRA macros to add implicit type conversions.
-This way you'll be able to use your own types everywhere, e.g. passing glm::vec2 to ImGui functions instead of ImVec2.
+You can edit [imconfig.h](https://github.com/ocornut/imgui/blob/master/imconfig.h) and setup the IM_VEC2_CLASS_EXTRA/IM_VEC4_CLASS_EXTRA macros to add implicit type conversions.
+This way you'll be able to use your own types everywhere, e.g. passing MyVector2 or glm::vec2 to ImGui functions instead of ImVec2.
+
+---
 
 ### Q: How can I interact with standard C++ types (such as std::string and std::vector)?
-- Being highly portable (bindings for several languages, frameworks, programming style, obscure or older platforms/compilers),
-and aiming for compatibility & performance suitable for every modern real-time game engines, dear imgui does not use
-any of std C++ types. We use raw types (e.g. char* instead of std::string) because they adapt to more use cases.
-- To use ImGui::InputText() with a std::string or any resizable string class, see misc/cpp/imgui_stdlib.h.
+- Being highly portable (bindings for several languages, frameworks, programming style, obscure or older platforms/compilers), and aiming for compatibility & performance suitable for every modern real-time game engines, dear imgui does not use any of std C++ types. We use raw types (e.g. char* instead of std::string) because they adapt to more use cases.
+- To use ImGui::InputText() with a std::string or any resizable string class, see [misc/cpp/imgui_stdlib.h](https://github.com/ocornut/imgui/blob/master/misc/cpp/imgui_stdlib.h).
 - To use combo boxes and list boxes with std::vector or any other data structure: the BeginCombo()/EndCombo() API
 lets you iterate and submit items yourself, so does the ListBoxHeader()/ListBoxFooter() API.
 Prefer using them over the old and awkward Combo()/ListBox() api.
@@ -366,6 +358,16 @@ is that you will need to build lots of strings on the fly, and their maximum len
 One possible implementation of a helper to facilitate printf-style building of strings: https://github.com/ocornut/Str
 This is a small helper where you can instance strings with configurable local buffers length. Many game engines will
 provide similar or better string helpers.
+
+---
+
+### Q: How can I use the drawing facilities without an ImGui window? (using ImDrawList API)
+- You can create a dummy window. Call Begin() with the NoBackground | NoDecoration | NoSavedSettings | NoInputs flags.
+(The `ImGuiWindowFlags_NoDecoration` flag itself is a shortcut for NoTitleBar | NoResize | NoScrollbar | NoCollapse)
+Then you can retrieve the ImDrawList* via GetWindowDrawList() and draw to it in any way you like.
+- You can call `ImGui::GetBackgroundDrawList()` or `ImGui::GetForegroundDrawList()` and use those draw list to display
+contents behind or over every other imgui windows (one bg/fg drawlist per viewport).
+- You can create your own ImDrawList instance. You'll need to initialize them with ImGui::GetDrawListSharedData(), or create your own instancing ImDrawListSharedData, and then call your rendered code with your own ImDrawList or ImDrawData data.
 
 ##### [Return to Index](#index)
 
@@ -384,15 +386,15 @@ Default is ProggyClean.ttf, monospace, rendered at size 13, embedded in dear img
 
 (Tip: monospace fonts are convenient because they allow to facilitate horizontal alignment directly at the string level.)
 
-(Read the 'misc/fonts/README.txt' file for more details about font loading.)
+(Read the [misc/fonts/README.txt](https://github.com/ocornut/imgui/blob/master/misc/fonts/README.txt) file for more details about font loading.)
 
 New programmers: remember that in C/C++ and most programming languages if you want to use a
 backslash \ within a string literal, you need to write it double backslash "\\":
 
 ```c
-io.Fonts->AddFontFromFileTTF("MyDataFolder\MyFontFile.ttf", size_in_pixels);   // WRONG (you are escape the M here!)
-io.Fonts->AddFontFromFileTTF("MyDataFolder\\MyFontFile.ttf", size_in_pixels);  // CORRECT
-io.Fonts->AddFontFromFileTTF("MyDataFolder/MyFontFile.ttf", size_in_pixels);   // ALSO CORRECT
+io.Fonts->AddFontFromFileTTF("MyFolder\MyFont.ttf", size);  // WRONG (you are escape the M here!)
+io.Fonts->AddFontFromFileTTF("MyFolder\\MyFont.ttf", size;  // CORRECT
+io.Fonts->AddFontFromFileTTF("MyFolder/MyFont.ttf", size);  // ALSO CORRECT
 ```
 
 ---
@@ -401,7 +403,7 @@ io.Fonts->AddFontFromFileTTF("MyDataFolder/MyFontFile.ttf", size_in_pixels);   /
 The most convenient and practical way is to merge an icon font such as FontAwesome inside you
 main font. Then you can refer to icons within your strings.
 You may want to see ImFontConfig::GlyphMinAdvanceX to make your icon look monospace to facilitate alignment.
-(Read the 'misc/fonts/README.txt' file for more details about icons font loading.)
+(Read the [misc/fonts/README.txt](https://github.com/ocornut/imgui/blob/master/misc/fonts/README.txt) file for more details about icons font loading.)
 With some extra effort, you may use colorful icon by registering custom rectangle space inside the font atlas,
 and copying your own graphics data into it. See misc/fonts/README.txt about using the AddCustomRectFontGlyph API.
 
@@ -409,9 +411,9 @@ and copying your own graphics data into it. See misc/fonts/README.txt about usin
 
 ### Q: How can I load multiple fonts?
 Use the font atlas to pack them into a single texture:
-(Read the 'misc/fonts/README.txt' file and the code in ImFontAtlas for more details.)
+(Read the [misc/fonts/README.txt](https://github.com/ocornut/imgui/blob/master/misc/fonts/README.txt) file and the code in ImFontAtlas for more details.)
 
-```c
+```cpp
 ImGuiIO& io = ImGui::GetIO();
 ImFont* font0 = io.Fonts->AddFontDefault();
 ImFont* font1 = io.Fonts->AddFontFromFileTTF("myfontfile.ttf", size_in_pixels);
@@ -442,7 +444,7 @@ io.Fonts->AddFontFromFileTTF("myfontfile.ttf", size_pixels, NULL, &config, io.Fo
 ### Q: How can I display and input non-Latin characters such as Chinese, Japanese, Korean, Cyrillic?
 When loading a font, pass custom Unicode ranges to specify the glyphs to load.
 
-```c
+```cpp
 // Add default Japanese ranges
 io.Fonts->AddFontFromFileTTF("myfontfile.ttf", size_in_pixels, NULL, io.Fonts->GetGlyphRangesJapanese());
 
@@ -453,7 +455,7 @@ builder.AddText("Hello world");                        // Add a string (here "He
 builder.AddChar(0x7262);                               // Add a specific character
 builder.AddRanges(io.Fonts->GetGlyphRangesJapanese()); // Add one of the default ranges
 builder.BuildRanges(&ranges);                          // Build the final result (ordered ranges with all the unique characters submitted)
-io.Fonts->AddFontFromFileTTF("myfontfile.ttf", size_in_pixels, NULL, ranges.Data);
+io.Fonts->AddFontFromFileTTF("myfontfile.ttf", 16.0f, NULL, ranges.Data);
 ```
 
 All your strings needs to use UTF-8 encoding. In C++11 you can encode a string literal in UTF-8
@@ -467,16 +469,5 @@ Windows: you can use the WM_CHAR or WM_UNICHAR or WM_IME_CHAR message (depending
 You may also use MultiByteToWideChar() or ToUnicode() to retrieve Unicode codepoints from MultiByte characters or keyboard state.
 Windows: if your language is relying on an Input Method Editor (IME), you copy the HWND of your window to io.ImeWindowHandle in order for
 the default implementation of io.ImeSetInputScreenPosFn() to set your Microsoft IME position correctly.
-
----
-
-### Q: How can I use the drawing facilities without an ImGui window? (using ImDrawList API)
-- You can create a dummy window. Call Begin() with the NoBackground | NoDecoration | NoSavedSettings | NoInputs flags.
-(The ImGuiWindowFlags_NoDecoration flag itself is a shortcut for NoTitleBar | NoResize | NoScrollbar | NoCollapse)
-Then you can retrieve the ImDrawList* via GetWindowDrawList() and draw to it in any way you like.
-- You can call ImGui::GetBackgroundDrawList() or ImGui::GetForegroundDrawList() and use those draw list to display
-contents behind or over every other imgui windows (one bg/fg drawlist per viewport).
-- You can create your own ImDrawList instance. You'll need to initialize them ImGui::GetDrawListSharedData(), or create
-your own ImDrawListSharedData, and then call your rendered code with your own ImDrawList or ImDrawData data.
 
 ##### [Return to Index](#index)
