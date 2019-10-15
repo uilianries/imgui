@@ -1,30 +1,32 @@
 (work in progress)
 
+# Index
+
 | **Q&A: Basics** |
 :---------------------------------------------------------- |
-| [Where is the documentation?](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-where-is-the-documentation) |
-| [Which version should I get?](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-which-version-should-i-get) |
-| [Who uses Dear ImGui?](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-who-uses-dear-imgui) |
-| [Why the names "Dear ImGui" vs "ImGui"?](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-why-the-odd-dual-naming-dear-imgui-vs-imgui) |
+| [Where is the documentation?](#q-where-is-the-documentation) |
+| [Which version should I get?](#q-which-version-should-i-get) |
+| [Who uses Dear ImGui?](#q-who-uses-dear-imgui) |
+| [Why the names "Dear ImGui" vs "ImGui"?](#q-why-the-odd-dual-naming-dear-imgui-vs-imgui) |
 | **Q&A: Community** |
-| [How can I help?](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-how-can-i-help) |
+| [How can I help?](#q-how-can-i-help) |
 | **Q&A: Integration** |
-| [How can I tell whether to dispatch mouse/keyboard to Dear ImGui or to my application?](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-how-can-i-tell-whether-to-dispatch-mousekeyboard-to-dear-imgui-or-to-my-application) |
-| [I integrated Dear ImGui in my engine and the text or lines are blurry..](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-i-integrated-dear-imgui-in-my-engine-and-the-text-or-lines-are-blurry) |
-| [I integrated Dear ImGui in my engine and some elements are clipping or disappearing when I move windows around..](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-i-integrated-dear-imgui-in-my-engine-and-some-elements-are-clipping-or-disappearing-when-i-move-windows-around) |
-| [How can I use this without a mouse, without a keyboard or without a screen? (gamepad, input share, remote display)](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-how-can-i-use-this-without-a-mouse-without-a-keyboard-or-without-a-screen-gamepad-input-share-remote-display) |
+| [How can I tell whether to dispatch mouse/keyboard to Dear ImGui or to my application?](#q-how-can-i-tell-whether-to-dispatch-mousekeyboard-to-dear-imgui-or-to-my-application) |
+| [I integrated Dear ImGui in my engine and the text or lines are blurry..](#q-i-integrated-dear-imgui-in-my-engine-and-the-text-or-lines-are-blurry) |
+| [I integrated Dear ImGui in my engine and some elements are clipping or disappearing when I move windows around..](#q-i-integrated-dear-imgui-in-my-engine-and-some-elements-are-clipping-or-disappearing-when-i-move-windows-around) |
+| [How can I use this without a mouse, without a keyboard or without a screen? (gamepad, input share, remote display)](#q-how-can-i-use-this-without-a-mouse-without-a-keyboard-or-without-a-screen-gamepad-input-share-remote-display) |
 | **Q&A: Usage** |
-| [Why are multiple widgets reacting when I interact with a single one?](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-why-are-multiple-widgets-reacting-when-i-interact-with-a-single-one) |
-| [How can I have multiple widgets with the same label or with an empty label?](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-how-can-i-have-multiple-widgets-with-the-same-label-or-with-an-empty-label) |
-| [How can I display an image? What is ImTextureID, how does it work?](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-how-can-i-display-an-image-what-is-imtextureid-how-does-it-work)| 
-| [How can I use my own math types instead of ImVec2/ImVec4?](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-how-can-i-use-my-own-math-types-instead-of-imvec2imvec4) |
-| [How can I interact with standard C++ types (such as std::string and std::vector)?](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-how-can-i-interact-with-standard-c-types-such-as-stdstring-and-stdvector) |
+| [Why are multiple widgets reacting when I interact with a single one?](#q-why-are-multiple-widgets-reacting-when-i-interact-with-a-single-one) |
+| [How can I have multiple widgets with the same label or with an empty label?](#q-how-can-i-have-multiple-widgets-with-the-same-label-or-with-an-empty-label) |
+| [How can I display an image? What is ImTextureID, how does it work?](#q-how-can-i-display-an-image-what-is-imtextureid-how-does-it-work)| 
+| [How can I use my own math types instead of ImVec2/ImVec4?](#q-how-can-i-use-my-own-math-types-instead-of-imvec2imvec4) |
+| [How can I interact with standard C++ types (such as std::string and std::vector)?](#q-how-can-i-interact-with-standard-c-types-such-as-stdstring-and-stdvector) |
 | **Q&A: Fonts, Text** |
-| [How can I load a different font than the default?](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-how-can-i-load-a-different-font-than-the-default) |
-| [How can I easily use icons in my application?](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-how-can-i-easily-use-icons-in-my-application) | 
-| [How can I load multiple fonts?](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-how-can-i-load-multiple-fonts) |
-| [How can I display and input non-Latin characters such as Chinese, Japanese, Korean, Cyrillic?](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-how-can-i-display-and-input-non-latin-characters-such-as-chinese-japanese-korean-cyrillic) |
-| [How can I use the drawing facilities without an ImGui window? (using ImDrawList API)](https://github.com/ocornut/imgui/wiki/Frequently-Asked-Questions#q-how-can-i-use-the-drawing-facilities-without-an-imgui-window-using-imdrawlist-api) |
+| [How can I load a different font than the default?](#q-how-can-i-load-a-different-font-than-the-default) |
+| [How can I easily use icons in my application?](#q-how-can-i-easily-use-icons-in-my-application) | 
+| [How can I load multiple fonts?](#q-how-can-i-load-multiple-fonts) |
+| [How can I display and input non-Latin characters such as Chinese, Japanese, Korean, Cyrillic?](#q-how-can-i-display-and-input-non-latin-characters-such-as-chinese-japanese-korean-cyrillic) |
+| [How can I use the drawing facilities without an ImGui window? (using ImDrawList API)](#q-how-can-i-use-the-drawing-facilities-without-an-imgui-window-using-imdrawlist-api) |
 
 # Q&A: Basics
 
@@ -67,6 +69,8 @@ The library started its life as "ImGui" due to the fact that I didn't give it a 
 
 **Please try to refer to this library as "Dear ImGui".**
 
+##### [Return to Index](#index)
+
 # Q&A: Community
 
 ### Q: How can I help?
@@ -77,6 +81,8 @@ The library started its life as "ImGui" due to the fact that I didn't give it a 
 You may post screenshot or links in the [gallery threads](github.com/ocornut/imgui/issues/1902). Visuals are ideal as they inspire other programmers.
 But even without visuals, disclosing your use of dear imgui help the library grow credibility, and help other teams and programmers with taking decisions.
 - If you have issues or if you need to hack into the library, even if you don't expect any support it is useful that you share your issues or sometimes incomplete pR.
+
+##### [Return to Index](#index)
 
 # Q&A: Integration
 
@@ -133,6 +139,8 @@ the vertices to render over the local network, allowing you to use Dear ImGui ev
 - For touch inputs, you can increase the hit box of widgets (via the style.TouchPadding setting) to accommodate
 for the lack of precision of touch inputs, but it is recommended you use a mouse or gamepad to allow optimizing
 for screen real-estate and precision.
+
+##### [Return to Index](#index)
 
 # Q&A: Usage
 
@@ -359,6 +367,8 @@ One possible implementation of a helper to facilitate printf-style building of s
 This is a small helper where you can instance strings with configurable local buffers length. Many game engines will
 provide similar or better string helpers.
 
+##### [Return to Index](#index)
+
 # Q&A: Fonts, Text
 
 ### Q: How can I load a different font than the default?
@@ -468,3 +478,5 @@ Then you can retrieve the ImDrawList* via GetWindowDrawList() and draw to it in 
 contents behind or over every other imgui windows (one bg/fg drawlist per viewport).
 - You can create your own ImDrawList instance. You'll need to initialize them ImGui::GetDrawListSharedData(), or create
 your own ImDrawListSharedData, and then call your rendered code with your own ImDrawList or ImDrawData data.
+
+##### [Return to Index](#index)
