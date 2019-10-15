@@ -26,7 +26,7 @@
 | [How can I display an image? What is ImTextureID, how does it work?](#q-how-can-i-display-an-image-what-is-imtextureid-how-does-it-work)| 
 | [How can I use my own math types instead of ImVec2/ImVec4?](#q-how-can-i-use-my-own-math-types-instead-of-imvec2imvec4) |
 | [How can I interact with standard C++ types (such as std::string and std::vector)?](#q-how-can-i-interact-with-standard-c-types-such-as-stdstring-and-stdvector) |
-| [How can I use the drawing facilities without an ImGui window? (using ImDrawList API)](#q-how-can-i-use-the-drawing-facilities-without-an-imgui-window-using-imdrawlist-api) |
+| [How can I use low-level drawing facilities? (using ImDrawList API)](#q-how-can-i-use-low-level-drawing-facilities-using-imdrawlist-api) |
 | **Q&A: Fonts, Text** |
 | [How can I load a different font than the default?](#q-how-can-i-load-a-different-font-than-the-default) |
 | [How can I easily use icons in my application?](#q-how-can-i-easily-use-icons-in-my-application) | 
@@ -390,7 +390,7 @@ provide similar or better string helpers.
 
 ---
 
-### Q: How can I use the drawing facilities without an ImGui window? (using ImDrawList API)
+### Q: How can I use low-level drawing facilities? (using ImDrawList API)
 - You can create a dummy window. Call Begin() with the NoBackground | NoDecoration | NoSavedSettings | NoInputs flags.
 (The `ImGuiWindowFlags_NoDecoration` flag itself is a shortcut for NoTitleBar | NoResize | NoScrollbar | NoCollapse)
 Then you can retrieve the ImDrawList* via GetWindowDrawList() and draw to it in any way you like.
