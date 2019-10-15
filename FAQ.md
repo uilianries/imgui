@@ -9,8 +9,6 @@
 | [Where is the documentation?](#q-where-is-the-documentation) |
 | [Which version should I get?](#q-which-version-should-i-get) |
 | [Why the names "Dear ImGui" vs "ImGui"?](#q-why-names-dear-imgui-vs-imgui) |
-| **Q&A: Community** |
-| [How can I help?](#q-how-can-i-help) |
 | **Q&A: Concerns** |
 | [Who uses Dear ImGui?](#q-who-uses-dear-imgui) |
 | [Can you create elaborate/serious tools with Dear ImGui?](#q-can-you-create-elaborateserious-tools-with-dear-imgui)  |
@@ -32,6 +30,8 @@
 | [How can I easily use icons in my application?](#q-how-can-i-easily-use-icons-in-my-application) | 
 | [How can I load multiple fonts?](#q-how-can-i-load-multiple-fonts) |
 | [How can I display and input non-Latin characters such as Chinese, Japanese, Korean, Cyrillic?](#q-how-can-i-display-and-input-non-latin-characters-such-as-chinese-japanese-korean-cyrillic) |
+| **Q&A: Community** |
+| [How can I help?](#q-how-can-i-help) |
 
 # Q&A: Basics
 
@@ -63,19 +63,6 @@ Many projects are using this branch and it is kept in sync with master regularly
 **TL;DR: Please try to refer to this library as "Dear ImGui".**
 
 The library started its life as "ImGui" due to the fact that I didn't give it a proper name when when I released 1.0, and had no particular expectation that it would take off. However, the term IMGUI (immediate-mode graphical user interface) was coined before and is being used in variety of other situations (e.g. Unity uses it own implementation of the IMGUI paradigm). To reduce the ambiguity without affecting existing code bases, I have decided on an alternate, longer name "Dear ImGui" that people can use to refer to this specific library.
-
-##### [Return to Index](#index)
-
-# Q&A: Community
-
-### Q: How can I help?
-- If you are experienced with Dear ImGui and C++, look at the [GitHub Issues](https://github.com/ocornut/imgui/issues), look at the [Wiki](https://github.com/ocornut/imgui/wiki), read [docs/TODO.txt](https://github.com/ocornut/imgui/blob/master/docs/TODO.txt) and see how you want to help and can help!
-- Businesses: convince your company to fund development via support contracts/sponsoring! This is among the most useful thing you can do for Dear ImGui. With increased funding we will be able to hire more people working on this project.
-- Individuals: you can also become a [Patron](http://www.patreon.com/imgui) or donate on PayPal! See README.
-- Disclose your usage of dear imgui via a dev blog post, a tweet, a screenshot, a mention somewhere etc.
-You may post screenshot or links in the [gallery threads](https://github.com/ocornut/imgui/issues/2847). Visuals are ideal as they inspire other programmers.
-But even without visuals, disclosing your use of dear imgui help the library grow credibility, and help other teams and programmers with taking decisions.
-- If you have issues or if you need to hack into the library, even if you don't expect any support it is useful that you share your issues or sometimes incomplete pR.
 
 ##### [Return to Index](#index)
 
@@ -498,5 +485,18 @@ Windows: you can use the WM_CHAR or WM_UNICHAR or WM_IME_CHAR message (depending
 You may also use MultiByteToWideChar() or ToUnicode() to retrieve Unicode codepoints from MultiByte characters or keyboard state.
 Windows: if your language is relying on an Input Method Editor (IME), you copy the HWND of your window to io.ImeWindowHandle in order for
 the default implementation of io.ImeSetInputScreenPosFn() to set your Microsoft IME position correctly.
+
+##### [Return to Index](#index)
+
+# Q&A: Community
+
+### Q: How can I help?
+- If you are experienced with Dear ImGui and C++, look at the [GitHub Issues](https://github.com/ocornut/imgui/issues), look at the [Wiki](https://github.com/ocornut/imgui/wiki), read [docs/TODO.txt](https://github.com/ocornut/imgui/blob/master/docs/TODO.txt) and see how you want to help and can help!
+- Businesses: convince your company to fund development via support contracts/sponsoring! This is among the most useful thing you can do for Dear ImGui. With increased funding we will be able to hire more people working on this project.
+- Individuals: you can also become a [Patron](http://www.patreon.com/imgui) or donate on PayPal! See README.
+- Disclose your usage of dear imgui via a dev blog post, a tweet, a screenshot, a mention somewhere etc.
+You may post screenshot or links in the [gallery threads](https://github.com/ocornut/imgui/issues/2847). Visuals are ideal as they inspire other programmers.
+But even without visuals, disclosing your use of dear imgui help the library grow credibility, and help other teams and programmers with taking decisions.
+- If you have issues or if you need to hack into the library, even if you don't expect any support it is useful that you share your issues or sometimes incomplete pR.
 
 ##### [Return to Index](#index)
