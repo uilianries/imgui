@@ -13,9 +13,9 @@
 | [How can I help?](#q-how-can-i-help) |
 | **Q&A: Concerns** |
 | [Who uses Dear ImGui?](#q-who-uses-dear-imgui) |
-| [Can you create elaborate/serious tools with Dear ImGui?](#q-can-you-create-elaborate-serious-tools-with-dear-imgui)  |
+| [Can you create elaborate/serious tools with Dear ImGui?](#q-can-you-create-elaborateserious-tools-with-dear-imgui)  |
 | [Can you reskin the look of Dear ImGui?](#q-can-you-reskin-the-look-of-dear-imgui) |
-| [Why using C++ (as opposed to C)?](#why-using-c-as-opposed-to-c) |
+| [Why using C++ (as opposed to C)?](#q-why-using-c-as-opposed-to-c) |
 | **Q&A: Integration** |
 | [How can I tell whether to dispatch mouse/keyboard to Dear ImGui or to my application?](#q-how-can-i-tell-whether-to-dispatch-mousekeyboard-to-dear-imgui-or-to-my-application) |
 | [How can I use this without a mouse, without a keyboard or without a screen? (gamepad, input share, remote display)](#q-how-can-i-use-this-without-a-mouse-without-a-keyboard-or-without-a-screen-gamepad-input-share-remote-display) |
@@ -73,7 +73,7 @@ The library started its life as "ImGui" due to the fact that I didn't give it a 
 - Businesses: convince your company to fund development via support contracts/sponsoring! This is among the most useful thing you can do for Dear ImGui. With increased funding we will be able to hire more people working on this project.
 - Individuals: you can also become a [Patron](http://www.patreon.com/imgui) or donate on PayPal! See README.
 - Disclose your usage of dear imgui via a dev blog post, a tweet, a screenshot, a mention somewhere etc.
-You may post screenshot or links in the [gallery threads](github.com/ocornut/imgui/issues/1902). Visuals are ideal as they inspire other programmers.
+You may post screenshot or links in the [gallery threads](github.com/ocornut/imgui/issues/2847). Visuals are ideal as they inspire other programmers.
 But even without visuals, disclosing your use of dear imgui help the library grow credibility, and help other teams and programmers with taking decisions.
 - If you have issues or if you need to hack into the library, even if you don't expect any support it is useful that you share your issues or sometimes incomplete pR.
 
@@ -87,7 +87,7 @@ You may take a look at:
 
 - [Quotes](https://github.com/ocornut/imgui/wiki/Quotes)
 - [Software using Dear ImGui](https://github.com/ocornut/imgui/wiki/Software-using-dear-imgui)
-- [Gallery](https://github.com/ocornut/imgui/issues/2529)
+- [Gallery](https://github.com/ocornut/imgui/issues/2847)
 
 ### Q: Can you create elaborate/serious tools with Dear ImGui?
 
@@ -101,7 +101,7 @@ Dear ImGui is built to be efficient and scalable toward the needs for AAA-qualit
 
 Somehow. You can alter the look of the interface to some degree: changing colors, sizes, padding, rounding, fonts. However, as Dear ImGui is designed and optimized to create debug tools, the amount of skinning you can apply is limited. There is only so much you can stray away from the default look and feel of the interface. Dear ImGui is NOT designed to create user interface for games, although with ingenious use of the low-level API you can do it. 
 
-A nicely skinned application may look like (screenshot from [https://github.com/ocornut/imgui/issues/2529#issuecomment-524281119](#2529)
+A reasonably skinned application may look like (screenshot from [#2529](https://github.com/ocornut/imgui/issues/2529#issuecomment-524281119))
 ![minipars](https://user-images.githubusercontent.com/314805/63589441-d9794f00-c5b1-11e9-8d96-cfc1b93702f7.png)
 
 ### Q: Why using C++ (as opposed to C)?
