@@ -73,7 +73,7 @@ The library started its life as "ImGui" due to the fact that I didn't give it a 
 - Businesses: convince your company to fund development via support contracts/sponsoring! This is among the most useful thing you can do for Dear ImGui. With increased funding we will be able to hire more people working on this project.
 - Individuals: you can also become a [Patron](http://www.patreon.com/imgui) or donate on PayPal! See README.
 - Disclose your usage of dear imgui via a dev blog post, a tweet, a screenshot, a mention somewhere etc.
-You may post screenshot or links in the [gallery threads](github.com/ocornut/imgui/issues/2847). Visuals are ideal as they inspire other programmers.
+You may post screenshot or links in the [gallery threads](https://github.com/ocornut/imgui/issues/2847). Visuals are ideal as they inspire other programmers.
 But even without visuals, disclosing your use of dear imgui help the library grow credibility, and help other teams and programmers with taking decisions.
 - If you have issues or if you need to hack into the library, even if you don't expect any support it is useful that you share your issues or sometimes incomplete pR.
 
