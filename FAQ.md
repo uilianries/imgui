@@ -1,6 +1,8 @@
+# Frequenty Asked Questions (FAQ)
+
 (work in progress)
 
-# Index
+## Index
 
 | **Q&A: Basics** |
 :---------------------------------------------------------- |
