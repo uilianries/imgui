@@ -1,4 +1,4 @@
-# Frequenty Asked Questions (FAQ)
+# FAQ (Frequenty Asked Questions)
 
 (work in progress)
 
