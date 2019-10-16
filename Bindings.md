@@ -18,8 +18,8 @@ _NB: those bindings may be more or less maintained, more or less close to the sp
 | Nim        | **nimgui**: cimgui bindings for Nim <br>https://github.com/zacharycarter/nimgui |
 | Odin       | **odin_dear_imgui**: Odin binding for Dear ImGui <br>https://github.com/ThisDrunkDane/odin-dear_imgui |
 | Pascal     | **imgui-pas**: pascal bindings for imgui <br>https://github.com/dpethes/imgui-pas |
-| Python     | **pyimgui**: Cython-based Python bindings for dear imgui <br>https://github.com/swistakm/pyimgui <br> **Bimpy**: Bundled imgui for python <br>https://github.com/podgorskiy/bimpy <br> **CyImGui**: Python bindings for ImGui using Cython. (obsolete) <br>https://github.com/chromy/cyimgui <br> **Ogre-imgui**: <br> https://github.com/OGRECave/ogre-imgui |
 | PureBasic | **pb-cimgui**: PureBasic interface to CImGui Wrapper <br>https://github.com/hippyau/pb-cimgui  |
+| Python     | **pyimgui**: Cython-based Python bindings for dear imgui <br>https://github.com/swistakm/pyimgui <br> **Bimpy**: Bundled imgui for python <br>https://github.com/podgorskiy/bimpy <br> **CyImGui**: Python bindings for ImGui using Cython. (obsolete) <br>https://github.com/chromy/cyimgui <br> **Ogre-imgui**: <br> https://github.com/OGRECave/ogre-imgui |
 | Ruby | **ruby-imgui**: Yet another ImGui wrapper for Ruby <br>https://github.com/vaiorabbit/ruby-imgui |
 | Rust | **imgui-rs**: Rust bindings for ImGui <br>https://github.com/Gekkio/imgui-rs <br>**imgui-rust**: Alternative (personal) imgui rust bindings <br>https://github.com/nsf/imgui-rust <br> **ImStr** Patch by @bitshifter to use string-range more commonly instead of zero-terminated strings. <br>https://github.com/ocornut/imgui/pull/683 <br>**rust-imgui-opengl-renderer** <br>https://github.com/michaelfairley/rust-imgui-opengl-renderer|
 | Swift  | **Swift-imgui**: Dear ImGui Swift Wrapper API for macOS and iOS <br>https://github.com/mnmly/Swift-imgui |
