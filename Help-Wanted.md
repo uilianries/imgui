@@ -19,7 +19,6 @@ Currently looking for help with those things.
 
 **Platform/Renderer Bindings**
 - Mac: imgui_impl_osx.mm need some love ([#1873](https://github.com/ocornut/imgui/issues/1873))
-- SDL: Added game controller support for navigation in imgui_impl_sdl.cpp (model it on gamepad code from imgui_impl_glfw.cpp)
 - Mobile, Web: Wanted: Make sure the existing OpenGL renderers are compatible with whatever WebGL / GL ES versions those platform needs, or write separate renderers if needed.
 - Mobile: Wanted imgui_impl_ios.cpp Platform Binding+Example for iOS (+ use existing renderer).
 - Mobile: Wanted imgui_impl_android.cpp Platform Binding+Example for Android (+ use existing renderer).
