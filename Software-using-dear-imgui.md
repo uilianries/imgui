@@ -140,6 +140,7 @@ Help us complete this list!
 | App | Oculus Monitor | @rajetic | [post](https://forums.oculusvr.com/community/discussion/69471/oculus-monitor) / [github](https://github.com/rajetic/OculusMonitor)
 | App | OdinVR | OdinVR | [homepage](http://odenvr.com)
 | Game | Onrush | Codemasters | [homepage](http://www.codemasters.com/game/onrush/) / [video](https://www.youtube.com/watch?v=rC9wmXDzAX0&feature=youtu.be&t=18m42s)
+| Game | Openblack | | [github](https://github.com/openblack/openblack) / [shot](https://user-images.githubusercontent.com/1013356/67159752-54a87880-f349-11e9-9df5-628594b3a745.gif)
 | App | OpenBoardView | | [homepage](http://openboardview.org)
 | App | OpenPlanet | | [homepage](https://openplanet.nl/) / [shots](https://github.com/ocornut/imgui/issues/1269#issuecomment-359883857)
 | App | OpenSpace | | [homepage](https://www.openspaceproject.com) / [github](https://github.com/OpenSpace/OpenSpace)
