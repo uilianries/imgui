@@ -61,6 +61,7 @@ Feel free to edit and contribute!
 ### Plotting, Graph
 
 - imgui-plot (@soulthreads): https://github.com/soulthreads/imgui-plot and [#2747](https://github.com/ocornut/imgui/issues/2747)
+- Flame graph widget: https://github.com/ocornut/imgui/issues/2859
 - Plot var helper: [[plot_var_example]]
 
 ### Misc
