@@ -152,7 +152,8 @@ Feel free to edit and contribute!
 
 ### Related/Suggested Libraries
 
-- stb (stb single-file public domain libraries for C/C++) https://github.com/nothings/stb/
+- stb (stb single-file public domain libraries for C/C++) https://github.com/nothings/stb
+- str (lightweight C++ string type with an optional local buffer) https://github.com/ocornut/Str
 - nuklear (A single-header ANSI C gui library) https://github.com/vurtun/nuklear
 - im3d (Immediate mode rendering and 3d gizmos) https://github.com/john-chapman/im3d/projects
 - small libraries with minimal dependencies https://github.com/nothings/single_file_libs
