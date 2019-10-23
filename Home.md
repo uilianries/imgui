@@ -14,6 +14,7 @@ Feel free to edit and contribute!
 ## Wiki Pages
 
 - [[FAQ (Frequently Asked Questions)|https://github.com/ocornut/imgui/blob/master/docs/FAQ.md]]
+- [[Glossary|Glossary]]
 - [[Language bindings, Framework/Engine bindings|Bindings]]
 - [[Software using dear imgui|Software-using-dear-imgui]]
 - [[User quotes|Quotes]]
