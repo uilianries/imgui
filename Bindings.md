@@ -15,7 +15,7 @@ _NB: those bindings may be more or less maintained, more or less close to the sp
 | JavaScript | **imgui-js**: JavaScript bindings for Dear ImGui using Emscripten and TypeScript <br>https://github.com/flyover/imgui-js + also see [web demo](https://flyover.github.io/imgui-js/example/) |
 | Julia      | **CImGui.jl**: Julia wrapper for cimgui <br>https://github.com/Gnimuc/CImGui.jL |
 | Lua        | **LuaJIT-ImGui**: LuaJIT ffi binding for imgui and implementations <br>https://github.com/sonoro1234/LuaJIT-ImGui <br>**imgui_lua_bindings**: imgui bindings for lua (also see LÖVE binding) <br>https://github.com/patrickriordan/imgui_lua_bindings <br> **lua-ffi-bindings**: FFI bindings for LuaJIT <br>https://github.com/thenumbernine/lua-ffi-bindings |
-| Nim        | **nimgui**: cimgui bindings for Nim <br>https://github.com/zacharycarter/nimgui |
+| Nim        | **nim-imgui**: cimgui bindings for Nim <br>https://github.com/nimgl/imgui |
 | Odin       | **odin_dear_imgui**: Odin binding for Dear ImGui <br>https://github.com/ThisDrunkDane/odin-dear_imgui |
 | Pascal     | **imgui-pas**: pascal bindings for imgui <br>https://github.com/dpethes/imgui-pas |
 | PureBasic | **pb-cimgui**: PureBasic interface to CImGui Wrapper <br>https://github.com/hippyau/pb-cimgui  |
@@ -48,7 +48,7 @@ Main repository include examples for DirectX9, DirectX10, DirectX11, DirectX12, 
 | LÖVE+LUA | **love-imgui**: https://github.com/slages/love-imgui |
 | Magnum | **magnum-integration**: https://github.com/mosra/magnum-integration, [doc](https://doc.magnum.graphics/magnum/namespaceMagnum_1_1ImGuiIntegration.html), [example](https://doc.magnum.graphics/magnum/examples-imgui.html) |
 | NanoRT | https://github.com/syoyo/imgui/tree/nanort/examples/raytrace_example |
-| Nim Game Lib | https://github.com/lmariscal/nimgl |
+| Nim Game Lib | https://github.com/nimgl/nimgl |
 | px_render | **px_render_imgui.h**: https://github.com/pplux/px/blob/master/px_render_imgui.h (was [#1935](https://github.com/ocornut/imgui/pull/1935)) |
 | Qt | **imgui-qt3d**: https://github.com/alpqr/imgui-qt3d <br>**QOpenGLWindow (qtimgui)**: [#1910](https://github.com/ocornut/imgui/issues/1910), **QtDirect3D**: https://github.com/giladreich/QtDirect3D, qt6: https://github.com/alpqr/qvk6/tree/imgui/examples/rhi/imguidemo |
 | SFML | **imgui-sfml**: https://github.com/eliasdaler/imgui-sfml |
