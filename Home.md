@@ -8,8 +8,9 @@ Feel free to edit and contribute!
 
 ## Forums
 
-- [Github issues](https://github.com/ocornut/imgui/issues/) - for feature requests, bug reports, feedback, code snippets, etc. If you are experienced with Dear ImGui, please consider helping people and answering questions there!
-- [Discourse Forum](https://discourse.dearimgui.org/) - if you have issues compiling, linking, running or displaying Dear ImGui (render or inputs, portability issues, using the examples, adding fonts). If you are experienced with Dear ImGui, please consider helping people and answering questions there!
+- [Github Forum](https://github.com/ocornut/imgui/issues/) - for feature requests, bug reports, feedback, code snippets, etc. If you are experienced with Dear ImGui, please consider helping people and answering questions there!
+- [Discord Forum](https://discord.gg/NgJ4SEP) - if you have issues compiling, linking, running or displaying Dear ImGui (render or inputs, portability issues, using the examples, adding fonts). If you are experienced with Dear ImGui, please consider helping people and answering questions there! 
+- [@ocornut says: In my opinion, it is much better and more useful to communicate on GitHub. Questions and answers will be available to others and you can search for old questions. On Discord: it is less likely you'll receive correct answers, less likely for someone to be wanting to provide a detailed answer as it will be lost in the noise, less likely that your Q&A will help others people, less likely that your problems will steer and help Dear ImGui improve because useful questions are not resurfaced. As you can infer, I am not a big fan of Discord for technical support.. But people like it!]
 
 ## Wiki Pages
 
