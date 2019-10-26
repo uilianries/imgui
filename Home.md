@@ -66,6 +66,12 @@ Feel free to edit and contribute!
 - Flame graph widget: https://github.com/ocornut/imgui/issues/2859
 - Plot var helper: [[plot_var_example]]
 
+### File Browsers
+
+- File browser: https://github.com/AirGuanZ/imgui-filebrowser
+- File browser: https://github.com/gallickgunner/ImGui-Addons
+- File browser: https://github.com/Flix01/imgui/wiki/ImGui-Addons-Branch-Home
+
 ### Misc
 
 - Memory Editor: [imgui_club/imgui_memory_editor/](https://github.com/ocornut/imgui_club/tree/master/imgui_memory_editor)
@@ -82,7 +88,7 @@ Feel free to edit and contribute!
 - Toggle Button: https://github.com/ocornut/imgui/issues/1537
 - ImGui::Auto(): leverage C++17 to serialize any structure into imgui interfaces https://github.com/Csabix/imgui/tree/master/auto
 - LayoutWidget #2779 https://github.com/xpenatan/jDear-imgui/tree/master/extensions/imgui-layout-widget
-- Issues Tag: https://github.com/ocornut/imgui/labels/useful%20widgets
+- Issues "useful widgets" Tag: https://github.com/ocornut/imgui/labels/useful%20widgets
 
 ### Third party repos
 
