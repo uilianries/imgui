@@ -1,4 +1,5 @@
 Examples: [OpenGL](#Example-for-OpenGL-users) - [DirectX9](#Example-for-DirectX9-users) - [DirectX11](#Example-for-DirectX11-users)
+<br>More: [About Texture Coordinates](#About-texture-coordinates)
 
 ## TL;DR;
 
@@ -258,3 +259,21 @@ MyEngineBindTexture2D(texture);
 Once you understand this design you will understand that loading image files and turning them into displayable textures is not within the scope of Dear ImGui. This is by design and is actually a good thing, because it means your code has full control over your data types and how you display them. If you want to display an image file (e.g. PNG file) into the screen, please refer to documentation and tutorials for the graphics API you are using.
 
 Finally, you may call `ImGui::ShowMetricsWindow()` to explore/visualize/understand how the ImDrawList are generated.
+
+## About Texture Coordinates
+
+See e.g. http://wiki.polycount.com/wiki/Texture_Coordinates
+
+The `ImGui::Image()` and `ImDrawList::AddImage()` functions allow you to pass "UV coordinates" corresponding to the upper-left and bottom-right portion of the texture you want to display. Using respectively `(0.0f, 0.0f)` and `(1.0f, 1.0f)` for those coordinates allow you to display the entire underlying texture. UV coordinates are traditionally normalized coordinates, meaning that for each axis, instead of counting a number of pixels in each axis, we address a location in the texture using a number from 0.0f to 1.0f. So (0.0f, 0.0f) is generally adressing the upper-left section of the texture and (1.0f, 1.0f) is addressing the lower-right corner of the texture.
+
+If you want to display part of a texture, say display a 100x200 rectangle stored from pixel (10,10) to pixel (110,210) out of a 256x256 texture, you will need to calculate the normalized coordinates of those pixels:
+
+```cpp
+// Normalized coordinates of pixel (10,10) in a 256x256 texture.
+ImVec2 uv0 = ImVec2(10.0f/256.0f, 10.0f/256.0f);
+
+// Normalized coordinates of pixel (110,210) in a 256x256 texture.
+ImVec2 uv1 = ImVec2((10.0f+100.0f)/256.0f, (10.0f+200.0f)/256.0f);
+```
+
+You can look up "texture coordinates" from other resources such as your favorite search engine, or graphics tutorials.
