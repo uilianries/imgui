@@ -10,7 +10,7 @@ _NB: those bindings may be more or less maintained, more or less close to the sp
 | CovScript  | **covscript-imgui**: ImGui Extension for CovScript (Covariant) <br>https://github.com/covscript/covscript-imgui |
 | D          | **DerelictImgui**: Dynamic bindings to cimgui for the D programming language <br>https://github.com/Extrawurst/DerelictImgui |
 | Go         | **imgui-go**: Go wrapper library for "Dear ImGui" <br> https://github.com/inkyblackness/imgui-go <br>**go-imgui**: Go bindings for the dear imgui immediate mode GUI library <br>https://github.com/Armored-Dragon/go-imgui |
-| Have/hxcpp | **linc_imgui**: binding for imgui <br>https://github.com/Aidan63/linc_imgui |
+| Haxe/hxcpp | **linc_imgui**: binding for imgui <br>https://github.com/Aidan63/linc_imgui |
 | Java       | **jimgui**: Pure Java binding for dear imgui <br>https://github.com/ice1000/jimgui |
 | JavaScript | **imgui-js**: JavaScript bindings for Dear ImGui using Emscripten and TypeScript <br>https://github.com/flyover/imgui-js + also see [web demo](https://flyover.github.io/imgui-js/example/) |
 | Julia      | **CImGui.jl**: Julia wrapper for cimgui <br>https://github.com/Gnimuc/CImGui.jL |
