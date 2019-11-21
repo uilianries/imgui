@@ -190,7 +190,7 @@ Help us complete this list!
 | Game | Squarium | | [homepage](https://bartveldstra.com/game/squarium/) / [play store](https://play.google.com/store/apps/details?id=nl.ghostweb.Squarium)
 | App | Stagemaster | | [homepage](http://cityboundsim.com/devblog/introducing-stagemaster) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-299647845)
 | Game | Star Citizen | Cloud Imperium Games | [blog](https://starcitizenprivateer.tumblr.com/post/184141580116/star-citizen-monthly-report-march-2019)
-| Game | Streets of Rage 4 | Guard Crush | [homepage](https://www.streets4rage.com/)
+| Game | Streets of Rage 4 | Guard Crush | [homepage](https://www.streets4rage.com/) / [shot](https://user-images.githubusercontent.com/8225057/68775486-d7fa7880-062e-11ea-8448-9aab3ca4837e.jpg)
 | Game | Super Crush KO | Vertex Pop | [homepage](http://www.vertexpop.com/supercrushko/)
 | Game | Swords of Calengal | United Lines Studio | [homepage](https://www.unitedlinesstudio.com/)
 | Game | Tearaway | Media Molecule | [homepage](http://tearaway.mediamolecule.com/)
