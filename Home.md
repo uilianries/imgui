@@ -9,7 +9,7 @@ Feel free to edit and contribute!
 ## Forums
 
 - [Github Forum](https://github.com/ocornut/imgui/issues/) - for feature requests, bug reports, feedback, code snippets, etc. If you are experienced with Dear ImGui, please consider helping people and answering questions there!
-- [Discord Forum](https://discord.gg/NgJ4SEP) - if you have issues compiling, linking, running or displaying Dear ImGui (render or inputs, portability issues, using the examples, adding fonts). If you are experienced with Dear ImGui, please consider helping people and answering questions there! 
+- [Discord Forum](https://discordapp.com/channels/613733622192668672/613733622721019908) / [Discord Invite](https://discord.gg/NgJ4SEP) - if you have issues compiling, linking, running or displaying Dear ImGui (render or inputs, portability issues, using the examples, adding fonts). If you are experienced with Dear ImGui, please consider helping people and answering questions there! 
 - It is better to use GitHub: questions and answers will be available to others and you can search for old questions. It is more likely you will receive a correct and detailed answer on GitHub. However, please read the guidelines thoroughly before opening a new thread.
 
 ## Wiki Pages
