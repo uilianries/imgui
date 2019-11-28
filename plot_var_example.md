@@ -1,7 +1,7 @@
 Helper to store values so they can be plotted over time.
 
 Usage
-```
+```cpp
 // Call once a frame with current value
 ImGui::PlotVar("Speed", current_speed);
 ```
@@ -9,7 +9,7 @@ ImGui::PlotVar("Speed", current_speed);
 ![capture](https://cloud.githubusercontent.com/assets/8225057/13555359/e73f840c-e3be-11e5-8362-2b390e496513.PNG)
 
 .h
-```
+```cpp
 // Plot value over time
 // Pass FLT_MAX value to draw without adding a new value
 void	PlotVar(const char* label, float value, float scale_min = FLT_MAX, float scale_max = FLT_MAX, size_t buffer_size = 120);
@@ -19,7 +19,7 @@ void	PlotVarFlushOldEntries();
 ```
 
 .cpp
-```
+```cpp
 #include <map>
 struct PlotVarData
 {
