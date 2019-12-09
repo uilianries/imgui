@@ -210,7 +210,7 @@ bool ret = LoadTextureFromFile("../../MyImage01.jpg", &my_texture, &my_image_wid
 IM_ASSERT(ret);
 ```
 
-Now that we have an DirectX9 texture and its dimensions, we can display it in our main loop:
+Now that we have an DirectX11 texture and its dimensions, we can display it in our main loop:
 ```
 ImGui::Begin("DirectX11 Texture Test");
 ImGui::Text("pointer = %p", my_texture);
