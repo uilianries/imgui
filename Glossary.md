@@ -12,7 +12,7 @@
 
 **Demo**: the demo code in `imgui_demo.cpp`, which main entry point is the `ImGui::ShowDemoWindow()` function.
 
-**Docking**: refer to the feature (currently available in the `docking` branch) where multiple windows can be combined with each others, creating tab bars, or layed out next to each others.
+**Docking**: refer to the feature (currently available in the `docking` branch) where multiple windows can be combined with each others, creating tab bars, or layed out next to each others. 
 
 **Draw command, ImDrawCmd**: refer to one item within an `ImDrawList`. One draw command generally map to one draw call in the underlying graphics API. Some draw commands hold callbacks or special functions that don't necessarily map to an actual draw call in the graphics API.
 
@@ -36,15 +36,15 @@
 
 **Docking** (noun): refer to the Docking subsystem as a whole.
 
-**Docking** (verb): refer to the action of merging one Window or Dock Node into another Window or Dock Node.
+**Docking** (verb): refer to the action of combining one Window or Dock Node into another Window or Dock Node. A docking operation can be a "Split" (split the target window/node into two sections) or an "Merge" (add into the existing target window/node). 
 
 **Docking Decorations**: Tab Bar and Close Buttons (when managed by a dock node), Resizing Separators.
 
 **Dock Node**: carry a Tab Bar + zero or more Windows _or_ child dock nodes. A Dock Node can be either Floating Dock Node or a Dockspace. 
 
-**Dockspace**: a dock node whose Host Window has been created by the user. This imply that the position and size of the dock node is not controlled by the Docking system. This also imply that the lifetime of the dock node is not controlled by the Docking system.
-
 **Dock Node Hierarchy**: a dock node and all its child dock nodes.
+
+**Dockspace**: a dock node whose Host Window has been created by the user. This imply that the position and size of the dock node is not controlled by the Docking system. This also imply that the lifetime of the dock node is not controlled by the Docking system.
 
 **Floating Dock Node**: a dock node whose Host Window is automatically created and managed by the Docking system. They are generally freely moveable.
 
