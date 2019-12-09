@@ -3,7 +3,7 @@
 ## Index
 
 - [General Terms](#general-terms)
-- [Multi-Viewports](#multi-viewports)
+- [Multi-Viewports Terms](#multi-viewports Terms)
 
 ## General Terms
 
@@ -31,7 +31,7 @@
 
 **Widgets**: (same as Item): a single ImGui element (e.g. a `ImGui::Button()` or `ImGui::Text()` call).
 
-## Multi-Viewports Feature
+## Multi-Viewports Terms
 
 Note: when talking about issues related to the multi-viewports feature, always try to remove ambiguity by specifying e.g. "_Dear ImGui Window_" vs "_Platform Window_".
 
