@@ -3,7 +3,7 @@
 ## Index
 
 - [General Terms](#general-terms)
-- [Multi-Viewports Terms](#multi-viewports-Terms)
+- [Multi-Viewports Terms](#multi-viewports-terms)
 
 ## General Terms
 
