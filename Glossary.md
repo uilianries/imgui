@@ -1,6 +1,11 @@
 (work in progress)
 
-## General
+## Index
+
+- [General Terms](#general-terms)
+- [Multi-Viewports](#multi-viewports)
+
+## General Terms
 
 **Backends/Bindings**: a piece of code that connects your OS/platform/windowing system, graphics API or programming language to Dear ImGui. In the `examples/` folder we provide a bunch of `imgui_impl_xxxx` files which are backends for variety of platforms and graphics API. Many other [third-party bindings](https://github.com/ocornut/imgui/wiki/Bindings) exists.
 
@@ -26,7 +31,7 @@
 
 **Widgets**: (same as Item): a single ImGui element (e.g. a `ImGui::Button()` or `ImGui::Text()` call).
 
-## Multi-viewports Feature
+## Multi-Viewports Feature
 
 Note: when talking about issues related to the multi-viewports feature, always try to remove ambiguity by specifying e.g. "_Dear ImGui Window_" vs "_Platform Window_".
 
