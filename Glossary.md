@@ -34,9 +34,13 @@
 
 ## Docking Terms
 
-**Docking**: refer to the Docking subsystem as a whole, or to the action of Docking one Window or Dock Node into another Window or Dock Node.
+**Docking** (noun): refer to the Docking subsystem as a whole.
 
-**Dock Node**: carry a Tab Bar + zero or more Windows _or_ child dock nodes. A Dock Node can be either Floating Dock Node or a Dockspace. Dock Node are hosted by their Host Window.
+**Docking** (verb): refer to the action of merging one Window or Dock Node into another Window or Dock Node.
+
+**Docking Decorations**: Tab Bar and Close Buttons (when managed by a dock node), Resizing Separators.
+
+**Dock Node**: carry a Tab Bar + zero or more Windows _or_ child dock nodes. A Dock Node can be either Floating Dock Node or a Dockspace. 
 
 **Dockspace**: a dock node whose Host Window has been created by the user. This imply that the position and size of the dock node is not controlled by the Docking system. This also imply that the lifetime of the dock node is not controlled by the Docking system.
 
@@ -48,7 +52,7 @@
 
 **Leaf Dock Node**: a dock node that that no child dock nodes.
 
-**Host Window**: the Window used to display docking decorations (Tab Bar, Close Button). In a Dock Node Hierarchy sitting over a Dockspace, the Host Window is always the window where the Dockspace was submitted. In a Dock Node Hierarchy sitting over a Floating Window, the Host Window is created thee Docking system.
+**Host Window**: the Window used to display _Docking Decorations_. In a Dock Node Hierarchy sitting over a Dockspace, the Host Window is always the window where the Dockspace was submitted. In a Dock Node Hierarchy sitting over a Floating Window, the Host Window is created by the Docking system.
 
 ## Multi-Viewports Terms
 
