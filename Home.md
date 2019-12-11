@@ -71,6 +71,7 @@ Feel free to edit and contribute!
 - File browser: https://github.com/AirGuanZ/imgui-filebrowser
 - File browser: https://github.com/gallickgunner/ImGui-Addons
 - File browser: https://github.com/Flix01/imgui/wiki/ImGui-Addons-Branch-Home
+- File browser: https://github.com/aiekick/ImGuiFileDialog
 
 ### Misc
 
