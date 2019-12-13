@@ -69,5 +69,5 @@ Main repository include examples for DirectX9, DirectX10, DirectX11, DirectX12, 
 
 | Language | Project |
 |------------|---|
-| Java      | **dear jvm imgui**: full JVM port/rewrite, written in Kotlin <br>https://github.com/kotlin-graphics/imgui |
+| Kotlin     | **dear jvm imgui**: full JVM port/rewrite <br>https://github.com/kotlin-graphics/imgui |
 
