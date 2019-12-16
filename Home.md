@@ -126,13 +126,16 @@ Feel free to edit and contribute!
 - imgui-ws: ImGui over WebSockets https://github.com/ggerganov/imgui-ws
 - Android GLES3 stub with RemoteImGui: https://github.com/CedricGuillemet/AndroidAppViewer
 
+### Terminal / Text mode
+- ImTui: Immediate Mode Text-based User Interface https://github.com/ggerganov/imtui
+- tear imgui: Experiment for a terminal-based renderer for imgui https://github.com/jonvaldes/tear_imgui
+
 ### Other
 
 - imgui_freetype renderer: [imgui/misc/freetype/](https://github.com/ocornut/imgui/tree/master/misc/freetype) (in main repo)
 - ImDuino (ESP32+TFT+ImSoft+ImGui example): https://github.com/LAK132/ImDuino
 - Input / IO queue for very low framerate applications: https://gist.github.com/ocornut/8417344f3506790304742b07887adf9f
 - [[Screenshot Tool|screenshot_tool]]
-- tear imgui: Experiment for a terminal-based renderer for imgui https://github.com/jonvaldes/tear_imgui
 
 ### Building / Packaging Cruft
 
