@@ -73,10 +73,14 @@ Feel free to edit and contribute!
 - File browser: https://github.com/Flix01/imgui/wiki/ImGui-Addons-Branch-Home
 - File browser: https://github.com/aiekick/ImGuiFileDialog
 
+### Rich text
+
+- Markdown: https://github.com/juliettef/imgui_markdown
+- URL/Links: https://gist.github.com/dougbinks/ef0962ef6ebe2cadae76c4e9f0586c69#file-imguiutils-h-L228-L262
+
 ### Misc
 
 - Memory Editor: [imgui_club/imgui_memory_editor/](https://github.com/ocornut/imgui_club/tree/master/imgui_memory_editor)
-- Markdown: https://github.com/juliettef/imgui_markdown
 - ImGuizmo (3d translation/rotation Gizmo) https://github.com/CedricGuillemet/ImGuizmo
 - imGuiZMO.quat (3d translation/rotation Gizmo) https://github.com/BrutPitt/imGuIZMO.quat
 - Splitters: https://github.com/ocornut/imgui/issues/319
@@ -85,7 +89,6 @@ Feel free to edit and contribute!
 - IP Entry Box (@adam4813) https://github.com/ocornut/imgui/issues/388
 - Pie menu test: https://github.com/ocornut/imgui/issues/434
 - Knobs: https://github.com/ocornut/imgui/issues/942#issuecomment-268369298
-- URL/Links: https://gist.github.com/dougbinks/ef0962ef6ebe2cadae76c4e9f0586c69#file-imguiutils-h-L228-L262
 - Toggle Button: https://github.com/ocornut/imgui/issues/1537
 - ImGui::Auto(): leverage C++17 to serialize any structure into imgui interfaces https://github.com/Csabix/imgui/tree/master/auto
 - LayoutWidget #2779 https://github.com/xpenatan/jDear-imgui/tree/master/extensions/imgui-layout-widget
