@@ -1,12 +1,12 @@
 | Index |
 :----------------------------------------------------------: |
-| [Forums](#Forums) - [Wiki Pages](#Wiki-pages) - [Tutorials](#Tutorials) - [Useful Widgets & References](#Useful-widgets--references) - [Articles, Videos, etc.](#articles-videos-blog-posts) |
+| [Discussions](#discussions) - [Wiki Pages](#Wiki-pages) - [Tutorials](#Tutorials) - [Useful Widgets & References](#Useful-widgets--references) - [Articles, Videos, etc.](#articles-videos-blog-posts) |
 
 Welcome to the Dear ImGui wiki!
 This wiki is in construction.
 Feel free to edit and contribute!
 
-## Forums
+## Discussions
 
 - [Github Forum](https://github.com/ocornut/imgui/issues/) - for feature requests, bug reports, feedback, code snippets, etc. If you are experienced with Dear ImGui, please consider helping people and answering questions there!
 - [Discord Forum](https://discordapp.com/channels/613733622192668672/613733622721019908) / [Discord Invite](https://discord.gg/NgJ4SEP) - if you have issues compiling, linking, running or displaying Dear ImGui (render or inputs, portability issues, using the examples, adding fonts). If you are experienced with Dear ImGui, please consider helping people and answering questions there! 
