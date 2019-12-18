@@ -156,6 +156,10 @@ Feel free to edit and contribute!
 - Bimpy: bundled imgui for python: https://github.com/podgorskiy/bimpy
 - imgui_dojo: an easy setup example for imgui https://github.com/LiuZHolmes/imgui_dojo
 
+### Rust
+
+- imgui-inspect: An inspector UI using imgui in Rust https://github.com/aclysma/imgui-inspect
+
 ### Notable forks
 
 - https://github.com/adobe/imgui
