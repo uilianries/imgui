@@ -1,8 +1,9 @@
-Ongoing dear imgui development is financially supported by users and private entities, recently:
+Ongoing dear imgui development is financially supported by users and private entities, past and present:
 
 **Platinum-chocolate sponsors**
 - [Blizzard Entertainment](https://careers.blizzard.com/en-us/openings/engineering/all/all/all/1)
 - [Google](https://www.google.com)
+- [Ubisoft](https://montreal.ubisoft.com/fr/ubisoft-commandite-la-bibliotheque-dinterface-utilisateur-pour-c-dear-imgui/)
 
 **Double-chocolate sponsors**
 - [Media Molecule](http://www.mediamolecule.com), [Mobigame](http://www.mobigame.net), [Aras Pranckevičius](https://aras-p.info), [Greggman](http://www.greggman.com), [DotEmu](http://www.dotemu.com), [Nadeo](https://www.nadeo.com), [Supercell](http://www.supercell.com), Runner, Aiden Koss, [Kylotonn](https://www.kylotonn.com).
