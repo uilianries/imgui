@@ -17,6 +17,8 @@ Help us complete this list!
 | Game | Agents of Mayhem | Volition | [homepage](https://www.aomthegame.com/)
 | App | Apple2Emu | @allender | [github](https://github.com/allender/apple2emu) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-280105757)
 | Game | Arcane Worlds | Ranmantaru Games | [steam](http://steamcommunity.com/app/269610) / [patch note](http://steamcommunity.com/app/269610/discussions/0/357288572127498771)
+| Game | Assassin's Creed Odyssey| Ubisoft | [blog](https://montreal.ubisoft.com/en/ubisoft-sponsors-user-interface-library-for-c-dear-imgui/)
+| Game | Assassin's Creed Origins | Ubisoft | [blog](https://montreal.ubisoft.com/en/ubisoft-sponsors-user-interface-library-for-c-dear-imgui/)
 | Game | Astro Bot Rescue Mission | Sony/SIE | [homepage](https://www.playstation.com/en-us/games/astro-bot-rescue-mission-ps4/) / [shot](https://user-images.githubusercontent.com/8225057/56029150-0f601a00-5d1a-11e9-9615-f4fd04a1d734.JPG)
 | App | AVETO.vis | B-plus | [homepage](https://www.b-plus.com/en/products/automotive/measurement-logging/avetorec/avetovis.html)
 | Game | Avoyd | Enki Software | [homepage](https://www.enkisoftware.com) / [shot](https://github.com/ocornut/imgui/issues/707#issuecomment-226993714)
@@ -74,7 +76,8 @@ Help us complete this list!
 | Engine | GeeXLab | | [homepage](http://www.geeks3d.com/geexlab/)
 | App | Geocod/Geogram | Loria | [homepage](http://homepages.loria.fr/BLevy/GEOGRAM) / [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-249678740) / [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-270942101) |
 | App | Geo::Math | brbl | [homepage](https://brbl.itch.io/geomath)
-| Game | Ghost Recon Breakpoint | Ubisoft | [homepage](https://ghost-recon.ubisoft.com/game/en-us/breakpoint)
+| Game | Tom Clancy's Rainbow Six Siege | Ubisoft | [blog](https://montreal.ubisoft.com/en/ubisoft-sponsors-user-interface-library-for-c-dear-imgui/) / [shots](https://github.com/ocornut/imgui/issues/2847#issuecomment-567692465)
+| Game | Tom Clancy's Ghost Recon Breakpoint | Ubisoft | [homepage](https://ghost-recon.ubisoft.com/game/en-us/breakpoint)
 | App | glChAoS.P | @BrutPitt | [homepage](https://www.michelemorrone.eu/glchaosp/) / [shots](https://www.michelemorrone.eu/glchaosp/screenshots.html)  
 | App | Glimpse | | [github](https://github.com/glimpse-project/glimpse) / [shot](https://raw.githubusercontent.com/wiki/glimpse-project/glimpse/images/screenshot-2017-12-07.png)
 | App | GL-Z | | [homepage](https://www.geeks3d.com/glz/)
