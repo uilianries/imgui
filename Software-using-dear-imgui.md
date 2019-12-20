@@ -71,6 +71,7 @@ Help us complete this list!
 | Engine | FishEngine | @yushroom | [github](https://github.com/yushroom/FishEngine) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-282622054)
 | Game | Fisherboy | | [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-315665148) |
 | App | FlexBV | pldaniels | [homepage](https://pldaniels.com/flexbv/)
+| Game | For Honor | Ubisoft | [blog](https://montreal.ubisoft.com/en/ubisoft-sponsors-user-interface-library-for-c-dear-imgui/)
 | Game | Fugl | Team Fugl | [steam](https://store.steampowered.com/app/643810/Fugl/) / [homepage](http://fuglgame.com) |
 | Game | Future Unfolding | Spaces of Play| [credits](https://www.mobygames.com/game/playstation-4/future-unfolding/credits)
 | Engine | GeeXLab | | [homepage](http://www.geeks3d.com/geexlab/)
