@@ -62,9 +62,9 @@ Main repository include examples for DirectX9, DirectX10, DirectX11, DirectX12, 
 
 | Purpose | Project |
 |------------|---|
-| Software renderer | **imgui_software_renderer**: https://github.com/emilk/imgui_software_renderer |
-| Software renderer | **ImFastRast**: https://github.com/malamanteau/ImFastRast |
-| Software renderer | **ImSoft**: https://github.com/LAK132/ImSoft |
+| Software renderer | **imgui_software_renderer** <br>https://github.com/emilk/imgui_software_renderer |
+| Software renderer | **ImFastRast** <br>https://github.com/malamanteau/ImFastRast |
+| Software renderer | **ImSoft** <br>https://github.com/LAK132/ImSoft |
 
 ## Port/rewrites
 
