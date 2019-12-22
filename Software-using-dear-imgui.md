@@ -62,6 +62,7 @@ Help us complete this list!
 | App | Effekseer | | [homepage](https://twitter.com/Effekseer)
 | App | Electric Eye | Netflix | [video](https://www.youtube.com/watch?v=uEQ3be0ss2A) / [shot](https://cloud.githubusercontent.com/assets/8225057/22478523/9062f8fe-e7ea-11e6-8761-f29cb317bf1a.jpg)
 | Engine | Enjon | | [shot](https://user-images.githubusercontent.com/7358367/39782964-3dc7eb6c-52d9-11e8-8029-723ea5fa5546.png) / [video](https://www.youtube.com/watch?v=fHUdVhmsi6s&t=855s)
+| Game | Erica | Flavourworks | [ps store](https://store.playstation.com/fr-fr/product/EP9000-CUSA11882_00-ERICA00000000000) / [credits](https://www.mobygames.com/game/playstation-4/erica/credits)
 | Engine | EtherealEngine | | [github](https://github.com/volcoma/EtherealEngine) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-276082731)
 | Tech | Euclideon Vault | Euclideon | [homepage](https://www.euclideon.com/vaultinfo/) / [shot](https://user-images.githubusercontent.com/8225057/53256670-b6381a80-36c8-11e9-9c3e-f0a73af84e0d.JPG)
 | Game | Euro Truck Simulator 2 | SCS Software | [video](https://www.youtube.com/watch?v=rx43bLMZmxU)
