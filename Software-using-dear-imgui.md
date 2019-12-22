@@ -175,6 +175,7 @@ Help us complete this list!
 | Engine | RCRL (Read-Compile-Run-Loop) | @onqtam | [github](https://github.com/onqtam/rcrl)
 | Misc | RealSense SDK | Intel | [homepage](https://realsense.intel.com/sdk/) / [gif](https://github.com/ocornut/imgui/issues/1269#issuecomment-358929119)
 | Game | Re:creation | @eliasdaler | [blog](https://eliasdaler.github.io/) |
+| Game | Red Dead Redemption 2 | Rockstar Games | [homepage](https://www.rockstargames.com/reddeadredemption2) / [credits](https://github.com/ocornut/imgui/issues/2847#issuecomment-568252670)
 | App | Redream | @inolen | [gitlab](https://gitlab.com/inolen/redream/)
 | App | RemedyBG | | [homepage](https://remedybg.itch.io/remedybg)
 | App | ReShade | | [homepage](http://reshade.me) / [github](https://github.com/crosire/reshade)
