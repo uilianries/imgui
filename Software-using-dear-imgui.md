@@ -55,6 +55,7 @@ Help us complete this list!
 | App | Dolphin Emulator | | [homepage](https://dolphin-emu.org) / [patch note](https://dolphin-emu.org/blog/2019/02/01/dolphin-progress-report-dec-2018-and-jan-2019/)
 | App | Downhole Imaging Technology | | [homepage](https://darkvisiontech.com/)
 | Game | Dreams | Media Molecule | [homepage](http://dreams.mediamolecule.com) |
+| Game | Druidstone: The Secret of the Menhir Forest | Ctrl Alt Ninja | [credits](https://www.mobygames.com/game/windows/druidstone-the-secret-of-the-menhir-forest/credits)
 | Game | Dual Universe | Novaquark | [homepage](https://www.dualthegame.com) / [video](https://www.youtube.com/watch?v=WTvT4BAg7RI) |
 | Game | Dungeons of Everchange | Dark Gnosis | [homepage](http://www.darkgnosis.com/game/dungeons-of-everchange/) / [shots](https://github.com/ocornut/imgui/issues/1607#issuecomment-387039874) |
 | Game | Endless Fables 3: Dark Moor | Sunward Games | [steam](https://store.steampowered.com/app/867050/Endless_Fables_3_Dark_Moor/)
