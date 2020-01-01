@@ -21,4 +21,4 @@ Result:
 
 ### More
 
-Read [misc/fonts/README.txt](https://github.com/ocornut/imgui/blob/master/misc/fonts/README.txt) for more details.
+Read [docs/FONTS.txt](https://github.com/ocornut/imgui/blob/master/docs/FONTS.txt) for more details.
