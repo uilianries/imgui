@@ -12,7 +12,7 @@ _NB: those bindings may be more or less maintained, more or less close to the sp
 | Go         | **imgui-go**: Go wrapper library for "Dear ImGui" <br> https://github.com/inkyblackness/imgui-go <br>**go-imgui**: Go bindings for the dear imgui immediate mode GUI library <br>https://github.com/Armored-Dragon/go-imgui |
 | Haskell    | **imgui-haskell**: Haskell bindings for Dear ImGui <br>https://github.com/dbousamra/imgui-haskell
 | Haxe/hxcpp | **linc_imgui**: binding for imgui <br>https://github.com/Aidan63/linc_imgui |
-| Java       | **jimgui**: Pure Java binding for dear imgui <br>https://github.com/ice1000/jimgui |
+| Java       | **jimgui**: Pure Java binding for dear imgui <br>https://github.com/ice1000/jimgui <br>**imgui-java**: A handcrafted/generated Java binding for the Dear ImGui<br>https://github.com/SpaiR/imgui-java |
 | JavaScript | **imgui-js**: JavaScript bindings for Dear ImGui using Emscripten and TypeScript <br>https://github.com/flyover/imgui-js + also see [web demo](https://flyover.github.io/imgui-js/example/) |
 | Julia      | **CImGui.jl**: Julia wrapper for cimgui <br>https://github.com/Gnimuc/CImGui.jL |
 | Lua        | **LuaJIT-ImGui**: LuaJIT ffi binding for imgui and implementations <br>https://github.com/sonoro1234/LuaJIT-ImGui <br>**imgui_lua_bindings**: imgui bindings for lua (also see LÖVE binding) <br>https://github.com/patrickriordan/imgui_lua_bindings <br> **lua-ffi-bindings**: FFI bindings for LuaJIT <br>https://github.com/thenumbernine/lua-ffi-bindings |
