@@ -46,7 +46,7 @@ Main repository include examples for DirectX9, DirectX10, DirectX11, DirectX12, 
 | OpenSceneGraph/OSG | **imgui-osg**: https://github.com/Tordan/imgui-osg<br>older gist: https://gist.github.com/fulezi/d2442ca7626bf270226014501357042c |
 | openFrameworks | **ofxImGui**: https://github.com/jvcleave/ofxImGui
 | Orx | **ImGuiOrx**: https://github.com/thegwydd/ImGuiOrx (was [#1843](https://github.com/ocornut/imgui/pull/1843)) |
-| LÖVE+LUA | **love-imgui**: https://github.com/slages/love-imgui |
+| LÖVE+LUA | **love-imgui**: https://github.com/slages/love-imgui<br>**love-imgui (fork)**: https://github.com/MikuAuahDark/love-imgui |
 | Magnum | **magnum-integration**: https://github.com/mosra/magnum-integration, [doc](https://doc.magnum.graphics/magnum/namespaceMagnum_1_1ImGuiIntegration.html), [example](https://doc.magnum.graphics/magnum/examples-imgui.html) |
 | NanoRT | https://github.com/syoyo/imgui/tree/nanort/examples/raytrace_example |
 | Nim Game Lib | https://github.com/nimgl/nimgl |
