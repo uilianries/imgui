@@ -202,6 +202,7 @@ Help us complete this list!
 | Game | Streets of Rage 4 | Guard Crush | [homepage](https://www.streets4rage.com/) / [shot](https://user-images.githubusercontent.com/8225057/68775486-d7fa7880-062e-11ea-8448-9aab3ca4837e.jpg)
 | Game | Super Crush KO | Vertex Pop | [homepage](http://www.vertexpop.com/supercrushko/)
 | Game | Swords of Calengal | United Lines Studio | [homepage](https://www.unitedlinesstudio.com/)
+| App | tacit-texview | @bluescan | [github](https://github.com/bluescan/tacit-texview) / [shots](https://github.com/ocornut/imgui/issues/2847#issuecomment-570201599)
 | Game | Tearaway | Media Molecule | [homepage](http://tearaway.mediamolecule.com/)
 | Game | Tearaway Unfolded | Media Molecule | [homepage](http://tearaway.mediamolecule.com/) / [shots](https://github.com/ocornut/imgui/issues/539#issuecomment-193710713)
 | App | TexGraph | @galloscript | [web](https://galloscript.itch.io/texgraph)
