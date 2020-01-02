@@ -4,7 +4,7 @@ _NB: those bindings may be more or less maintained, more or less close to the sp
 
 | Language | Project |
 |------------|---|
-| C          | **cimgui**: auto-generated c-api wrapper for Dear ImGui <br>\*\***Output json/lua data which can be used to automatically generate other bindings**\*\*<br>https://github.com/cimgui/cimgui |
+| C          | **cimgui**: auto-generated c-api wrapper for Dear ImGui <br>\*\***(json/lua output can be used to automatically generate other bindings**)\*\*<br>https://github.com/cimgui/cimgui |
 | C#/.Net    | **ImGui.NET**: An ImGui wrapper for .NET Core <br>https://github.com/mellinoe/ImGui.NET |
 | ChaiScript | **imgui-chaiscript**: ChaiScript bindings for ImGui <br>https://github.com/JuJuBoSc/imgui-chaiscript |
 | CovScript  | **covscript-imgui**: ImGui Extension for CovScript (Covariant) <br>https://github.com/covscript/covscript-imgui |
@@ -33,29 +33,29 @@ Main repository include examples for DirectX9, DirectX10, DirectX11, DirectX12, 
 | Framework | Project |
 |------------|---|
 | Android | Unmerged PR: [#421](https://github.com/ocornut/imgui/pull/421) (old example design, should not be needed) |
-| Amethyst | **amethyst-imgui**: https://github.com/amethyst/amethyst-imgui
-| bsf | **bsfimgui**: https://github.com/pgruenbacher/bsfImgui | 
-| Cinder | **Cinder-ImGui**: https://github.com/simongeilfus/Cinder-ImGui
-| Cocos2d-x | **imguix**: https://github.com/c0i/imguix <br>**cocos2dx-imgui**: https://github.com/Mjarkiew/cocos2dx-imgui <br> and [#551](https://github.com/ocornut/imgui/issues/551)
+| Amethyst | **amethyst-imgui**:<br>https://github.com/amethyst/amethyst-imgui
+| bsf | **bsfimgui**:<br>https://github.com/pgruenbacher/bsfImgui | 
+| Cinder | **Cinder-ImGui**:<br>https://github.com/simongeilfus/Cinder-ImGui
+| Cocos2d-x | **imguix**:<br>https://github.com/c0i/imguix <br>**cocos2dx-imgui**:<br>https://github.com/Mjarkiew/cocos2dx-imgui and [#551](https://github.com/ocornut/imgui/issues/551)
 | Diligent Engine | [DiligentTools](https://github.com/DiligentGraphics/DiligentTools/blob/master/Imgui/src/ImGuiImplDiligent.cpp), [example](https://github.com/DiligentGraphics/DiligentSamples/tree/master/Samples/ImguiDemo) |
-| Flexium | **FlexGUI**: https://github.com/DXsmiley/FlexGUI |
-| GML / GameMaker Studio 2 | **ImGuiGML**: https://marketplace.yoyogames.com/assets/6221/imguigml |
-| GTK3 + OpenGL3 | Unmerged PR: [#2032](https://github.com/ocornut/imgui/pull/2032) |
-| Irrlicht Engine | **IrrIMGUI**: https://github.com/ZahlGraf/IrrIMGUI |
-| Ogre | **ogre-imgui**: https://github.com/OGRECave/ogre-imgui |
-| OpenSceneGraph/OSG | **imgui-osg**: https://github.com/Tordan/imgui-osg<br>older gist: https://gist.github.com/fulezi/d2442ca7626bf270226014501357042c |
-| openFrameworks | **ofxImGui**: https://github.com/jvcleave/ofxImGui
-| Orx | **ImGuiOrx**: https://github.com/thegwydd/ImGuiOrx (was [#1843](https://github.com/ocornut/imgui/pull/1843)) |
-| LÖVE+LUA | **love-imgui**: https://github.com/slages/love-imgui<br>**love-imgui (fork)**: https://github.com/MikuAuahDark/love-imgui |
-| Magnum | **magnum-integration**: https://github.com/mosra/magnum-integration, [doc](https://doc.magnum.graphics/magnum/namespaceMagnum_1_1ImGuiIntegration.html), [example](https://doc.magnum.graphics/magnum/examples-imgui.html) |
-| NanoRT | https://github.com/syoyo/imgui/tree/nanort/examples/raytrace_example |
-| Nim Game Lib | https://github.com/nimgl/nimgl |
+| Flexium | **FlexGUI**:<br>https://github.com/DXsmiley/FlexGUI |
+| GML / GameMaker Studio 2 | **ImGuiGML**:<br>https://marketplace.yoyogames.com/assets/6221/imguigml |
+| GTK3 + OpenGL3 | **imgui_impl_gtk3**:<br>Unmerged PR: [#2032](https://github.com/ocornut/imgui/pull/2032) |
+| Irrlicht Engine | **IrrIMGUI**:<br>https://github.com/ZahlGraf/IrrIMGUI |
+| Ogre | **ogre-imgui**:<br>https://github.com/OGRECave/ogre-imgui |
+| OpenSceneGraph/OSG | **imgui-osg**:<br>https://github.com/Tordan/imgui-osg and older gist: https://gist.github.com/fulezi/d2442ca7626bf270226014501357042c |
+| openFrameworks | **ofxImGui**:<br>https://github.com/jvcleave/ofxImGui
+| Orx | **ImGuiOrx**:<br>https://github.com/thegwydd/ImGuiOrx (was [#1843](https://github.com/ocornut/imgui/pull/1843)) |
+| LÖVE+LUA | **love-imgui**:<br>https://github.com/slages/love-imgui<br>**love-imgui (fork)**:<br>https://github.com/MikuAuahDark/love-imgui |
+| Magnum | **magnum-integration**:<br>https://github.com/mosra/magnum-integration, [doc](https://doc.magnum.graphics/magnum/namespaceMagnum_1_1ImGuiIntegration.html), [example](https://doc.magnum.graphics/magnum/examples-imgui.html) |
+| NanoRT | **imgui_impl_raytrace**: <br>https://github.com/syoyo/imgui/tree/nanort/examples/raytrace_example |
+| Nim Game Lib | **NimGL**: https://github.com/nimgl/nimgl |
 | px_render | **px_render_imgui.h**: https://github.com/pplux/px/blob/master/px_render_imgui.h (was [#1935](https://github.com/ocornut/imgui/pull/1935)) |
-| Qt | **imgui-qt3d**: https://github.com/alpqr/imgui-qt3d <br>**QOpenGLWindow (qtimgui)**: [#1910](https://github.com/ocornut/imgui/issues/1910), **QtDirect3D**: https://github.com/giladreich/QtDirect3D, qt6: https://github.com/alpqr/qvk6/tree/imgui/examples/rhi/imguidemo |
-| SFML | **imgui-sfml**: https://github.com/eliasdaler/imgui-sfml |
-| Sokol | https://github.com/floooh/sokol-samples/blob/master/glfw/imgui-glfw.cc |
-| Unreal Engine 4 | **UnrealImGui**: https://github.com/segross/UnrealImGui <br>**UnrealEngine_ImGui**: https://github.com/sronsse/UnrealEngine_ImGui
-| vtk | **imgui-vtk**: https://github.com/trlsmax/imgui-vtk
+| Qt | **imgui-qt3d**:<br>https://github.com/alpqr/imgui-qt3d <br>**QOpenGLWindow (qtimgui)**:<br>[#1910](https://github.com/ocornut/imgui/issues/1910) <br> **QtDirect3D**:<br>https://github.com/giladreich/QtDirect3D, qt6: https://github.com/alpqr/qvk6/tree/imgui/examples/rhi/imguidemo |
+| SFML | **imgui-sfml**:<br>https://github.com/eliasdaler/imgui-sfml |
+| Sokol | **sokol-samples**:<br>https://github.com/floooh/sokol-samples/blob/master/glfw/imgui-glfw.cc |
+| Unreal Engine 4 | **UnrealImGui**:<br>https://github.com/segross/UnrealImGui <br>**UnrealEngine_ImGui**:<br>https://github.com/sronsse/UnrealEngine_ImGui
+| vtk | **imgui-vtk**:<br>https://github.com/trlsmax/imgui-vtk
 | Win32 (native) example | Unmerged PR: [#2772](https://github.com/ocornut/imgui/pull/2772), [#281](https://github.com/ocornut/imgui/pull/281) (old example design) |
 
 ## Miscellaneous
