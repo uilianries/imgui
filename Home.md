@@ -159,7 +159,6 @@ Feel free to edit and contribute!
 ### Rust
 
 - imgui-inspect: An inspector UI using imgui in Rust https://github.com/aclysma/imgui-inspect
-- imgui-rs: Rust bindings for dear imgui https://github.com/Gekkio/imgui-rs
 
 ### Notable forks
 
