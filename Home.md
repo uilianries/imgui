@@ -32,10 +32,11 @@ Feel free to edit and contribute!
 
 ## Issues: Some Important Topics
 
+- [#2957](https://github.com/ocornut/imgui/issues/2957) Tables branch available for testing
 - [#2109](https://github.com/ocornut/imgui/issues/2109) Docking branch available for testing
-- [#1542](https://github.com/ocornut/imgui/issues/1542) Multi-viewports / virtual viewports Branch
+- [#1542](https://github.com/ocornut/imgui/issues/1542) Multi-viewports / virtual-viewports feature (in Docking branch)
 - [#2117](https://github.com/ocornut/imgui/issues/2117) Linux/Mac compatibility of the multi-viewport branch
-- [#2265](https://github.com/ocornut/imgui/issues/2529) Gallery
+- [#2265](https://github.com/ocornut/imgui/issues/2847) Gallery
 - [#1713](https://github.com/ocornut/imgui/pull/1713) CMake project to build Examples (PR) by @podsvirov
 - Also see https://github.com/ocornut/imgui/labels for categorized issues.
 
