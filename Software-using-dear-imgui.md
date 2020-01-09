@@ -193,7 +193,7 @@ Help us complete this list!
 | App | SoShade | @aiekick | [shot](https://twitter.com/aiekick/status/915133246157008896)
 | App | SpecialK Modding System | | [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-295128588)
 | App | Speljongen | | [github](https://github.com/fallahn/speljongen) / [video](https://twitter.com/TrederiaGames/status/1010566791062605824)
-| Game | Spider-Man (2018) | Insomniac Games | [homepage](https://insomniac.games/game/spider-man-ps4/)
+| Game | Spider-Man (2018) | Insomniac Games | [homepage](https://insomniac.games/game/spider-man-ps4/) / [shot](https://user-images.githubusercontent.com/8225057/72074984-2a84a800-32f3-11ea-9380-e43dc599a356.jpg)
 | App | SpiritCalc | | [github](https://github.com/ShrewdSpirit/SpiritCalc)
 | App | Splash | | [homepage](https://github.com/paperManu/splash/wiki) / [shot](https://github.com/ocornut/imgui/issues/539#issuecomment-192671061)
 | Game | Squarium | | [homepage](https://bartveldstra.com/game/squarium/) / [play store](https://play.google.com/store/apps/details?id=nl.ghostweb.Squarium)
