@@ -79,6 +79,10 @@ Feel free to edit and contribute!
 - Markdown: https://github.com/juliettef/imgui_markdown
 - URL/Links: https://gist.github.com/dougbinks/ef0962ef6ebe2cadae76c4e9f0586c69#file-imguiutils-h-L228-L262
 
+### Input Method Editor
+
+- DearImGui-with-IMM32: Microsoft IME Overlay using Dear ImGui: https://github.com/maildrop/DearImGui-with-IMM32
+
 ### Misc
 
 - Memory Editor: [imgui_club/imgui_memory_editor/](https://github.com/ocornut/imgui_club/tree/master/imgui_memory_editor)
