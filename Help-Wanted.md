@@ -8,14 +8,15 @@ Currently looking for help with those things.
 
 **Third-party Software**
 <br>If you are familiar or interested in GLFW, designing/developing/submitting those changes to GLFW would be extremely helpful to imgui:
-- **GLFW: implement/solve https://github.com/glfw/glfw/issues/1236 in GLFW (transparent inputs) to allow for portable multi-viewport support. OR implement per-OS workaround in imgui_impl_glfw.cpp.**
-- **Linux/Mac: implement per-OS workarounds for other GLFW/SDL issues**, see https://github.com/ocornut/imgui/issues/2117#issuecomment-465185644
-- GLFW: implement/solve https://github.com/glfw/glfw/issues/427 in GLFW (add missing diagonal resize mouse cursors).
+- [ ] **Linux/Mac: implement per-OS workarounds for other GLFW/SDL issues**, see https://github.com/ocornut/imgui/issues/2117#issuecomment-465185644
+- [ ] GLFW: Solve https://github.com/glfw/glfw/issues/1236 in GLFW (transparent inputs) for portable multi-viewport support. OR implement per-OS workaround in imgui_impl_glfw.cpp. Done PR: https://github.com/glfw/glfw/pull/1568, Waiting for GLFW merge.
+- [X] GLFW: implement/solve https://github.com/glfw/glfw/issues/427 in GLFW (add missing diagonal resize mouse cursors).
 
 **Features**
 - Viewport: The multi-viewport feature needs users/testers to move forward! (see [#1542](https://github.com/ocornut/imgui/issues/1542), available in `docking` branch`). 
 - Viewport: In particular, Linux/OSX have issues and need some work from volunteers. See [#2117](https://github.com/ocornut/imgui/issues/2117).
-- Docking: See [#2109](https://github.com/ocornut/imgui/issues/2109).
+- Tables: Feedback wanted! See [#2957](https://github.com/ocornut/imgui/issues/2957).
+- Docking: Feedback wanted! See [#2109](https://github.com/ocornut/imgui/issues/2109).
 
 **Platform/Renderer Bindings**
 - Mac: imgui_impl_osx.mm need some love ([#1873](https://github.com/ocornut/imgui/issues/1873))
