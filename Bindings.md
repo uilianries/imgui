@@ -57,6 +57,8 @@ Main repository include examples for DirectX9, DirectX10, DirectX11, DirectX12, 
 | Unreal Engine 4 | **UnrealImGui**:<br>https://github.com/segross/UnrealImGui <br>**UnrealEngine_ImGui**:<br>https://github.com/sronsse/UnrealEngine_ImGui
 | vtk | **imgui-vtk**:<br>https://github.com/trlsmax/imgui-vtk
 | Win32 (native) example | Unmerged PR: [#2772](https://github.com/ocornut/imgui/pull/2772), [#281](https://github.com/ocornut/imgui/pull/281) (old example design) |
+| Win32 GDI renderer | Unmerged PR: [#2724](https://github.com/ocornut/imgui/pull/2724)
+
 
 ## Miscellaneous
 
