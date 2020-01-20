@@ -34,6 +34,7 @@ Main repository include examples for DirectX9, DirectX10, DirectX11, DirectX12, 
 |------------|---|
 | Android | Unmerged PR: [#421](https://github.com/ocornut/imgui/pull/421) (old example design, should not be needed) |
 | Amethyst | **amethyst-imgui**:<br>https://github.com/amethyst/amethyst-imgui
+| AGS / Adventure Game Studio | **agsimgui**:<br>https://github.com/ericoporto/agsimgui
 | bsf | **bsfimgui**:<br>https://github.com/pgruenbacher/bsfImgui | 
 | Cinder | **Cinder-ImGui**:<br>https://github.com/simongeilfus/Cinder-ImGui
 | Cocos2d-x | **imguix**:<br>https://github.com/c0i/imguix <br>**cocos2dx-imgui**:<br>https://github.com/Mjarkiew/cocos2dx-imgui and [#551](https://github.com/ocornut/imgui/issues/551)
