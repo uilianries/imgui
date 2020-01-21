@@ -69,6 +69,7 @@ Help us complete this list!
 | Misc | Falcor | Nvidia | [github](https://github.com/NVIDIAGameWorks/Falcor)
 | Game | Fallout 76 | Bethesda | [homepage](https://fallout.bethesda.net) / [shot](https://user-images.githubusercontent.com/4228359/41322748-b9756e6e-6e78-11e8-8dfc-9a3437c1fd1a.png) 
 | App | F.E.I.S.: Jubeat chart editor | @Stepland | [github](https://github.com/Stepland/F.E.I.S.)
+| Game | FIA European Truck Racing Championship | Kylotonn | 
 | Engine | Filament | Google | [github](https://github.com/google/filament)
 | Engine | FishEngine | @yushroom | [github](https://github.com/yushroom/FishEngine) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-282622054)
 | Game | Fisherboy | | [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-315665148) |
@@ -232,6 +233,7 @@ Help us complete this list!
 | App | Virtual Reality Neuron Tracer | Visus | [steam](https://store.steampowered.com/app/791040/Virtual_Reality_Neuron_Tracer/)
 | App | Visual Designer 3D | | [video](https://www.youtube.com/watch?v=211NzYhNSFQ)
 | App | VK Pipeline Layout Editor | | [shot](https://github.com/ocornut/imgui/issues/539#issuecomment-236273659)
+| Game | V-Rally 4 | Kylotonn | 
 | Game | VRMONLINE-NX | | [homepage](https://vrmcloud.net/nx/beta)
 | Game | Warfork | | [steam](https://store.steampowered.com/app/671610/Warfork/)
 | Game | Warhammer: Chaosbane | Eko Software | [steam](https://store.steampowered.com/app/774241/Warhammer_Chaosbane/) / [shots](https://github.com/ocornut/imgui/issues/2847#issuecomment-560856396)
@@ -242,6 +244,8 @@ Help us complete this list!
 | Game | WiLD | Wild Sheep Studio | [homepage](http://www.wildsheepstudio.com) / [shots](https://github.com/ocornut/imgui/issues/539#issuecomment-193720307) |
 | Game | Wonder Boy: The Dragon's Trap | Lizardcube | [homepage](http://www.TheDragonsTrap.com) / [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-262975159) |
 | Game | World of Tanks Blitz | Wargaming | [homepage](https://wotblitz.com/)
+| Game | WRC 7 | Kylotonn | 
+| Game | WRC 8 | Kylotonn | 
 | Plugin | XSquawkBox 2.0 | | [homepage](http://xsb.xsquawkbox.net/) / [shot](http://xsb.xsquawkbox.net/wp-content/uploads/sites/6/2018/03/XSB-NewUI-WIP.png) / [github](https://github.com/kuroneko/xsb_public/) |
 | Engine | XT | | [github](https://github.com/invghost/XT) |
 | Misc | Zep | | [github](https://github.com/cmaughan/zep) |
