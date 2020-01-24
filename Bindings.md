@@ -34,8 +34,8 @@ Main repository include examples for DirectX9, DirectX10, DirectX11, DirectX12, 
 | Framework | Project |
 |------------|---|
 | Android | Unmerged PR: [#421](https://github.com/ocornut/imgui/pull/421) (old example design, should not be needed) |
-| Amethyst | **amethyst-imgui**:<br>https://github.com/amethyst/amethyst-imgui
 | AGS / Adventure Game Studio | **agsimgui**:<br>https://github.com/ericoporto/agsimgui
+| Amethyst | **amethyst-imgui**:<br>https://github.com/amethyst/amethyst-imgui
 | bsf | **bsfimgui**:<br>https://github.com/pgruenbacher/bsfImgui | 
 | Cinder | **Cinder-ImGui**:<br>https://github.com/simongeilfus/Cinder-ImGui
 | Cocos2d-x | **imguix**:<br>https://github.com/c0i/imguix <br>**cocos2dx-imgui**:<br>https://github.com/Mjarkiew/cocos2dx-imgui and [#551](https://github.com/ocornut/imgui/issues/551)
@@ -44,14 +44,14 @@ Main repository include examples for DirectX9, DirectX10, DirectX11, DirectX12, 
 | GML / GameMaker Studio 2 | **ImGuiGML**:<br>https://marketplace.yoyogames.com/assets/6221/imguigml |
 | GTK3 + OpenGL3 | **imgui_impl_gtk3**:<br>Unmerged PR: [#2032](https://github.com/ocornut/imgui/pull/2032) |
 | Irrlicht Engine | **IrrIMGUI**:<br>https://github.com/ZahlGraf/IrrIMGUI |
-| Ogre | **ogre-imgui**:<br>https://github.com/OGRECave/ogre-imgui |
-| OpenSceneGraph/OSG | **imgui-osg**:<br>https://github.com/Tordan/imgui-osg and older gist: https://gist.github.com/fulezi/d2442ca7626bf270226014501357042c |
-| openFrameworks | **ofxImGui**:<br>https://github.com/jvcleave/ofxImGui
-| Orx | **ImGuiOrx**:<br>https://github.com/thegwydd/ImGuiOrx (was [#1843](https://github.com/ocornut/imgui/pull/1843)) |
 | LÖVE+LUA | **love-imgui**:<br>https://github.com/slages/love-imgui<br>**love-imgui (fork)**:<br>https://github.com/MikuAuahDark/love-imgui |
 | Magnum | **magnum-integration**:<br>https://github.com/mosra/magnum-integration, [doc](https://doc.magnum.graphics/magnum/namespaceMagnum_1_1ImGuiIntegration.html), [example](https://doc.magnum.graphics/magnum/examples-imgui.html) |
 | NanoRT | **imgui_impl_raytrace**: <br>https://github.com/syoyo/imgui/tree/nanort/examples/raytrace_example |
 | Nim Game Lib | **NimGL**: https://github.com/nimgl/nimgl |
+| Ogre | **ogre-imgui**:<br>https://github.com/OGRECave/ogre-imgui |
+| openFrameworks | **ofxImGui**:<br>https://github.com/jvcleave/ofxImGui
+| OpenSceneGraph/OSG | **imgui-osg**:<br>https://github.com/Tordan/imgui-osg and older gist: https://gist.github.com/fulezi/d2442ca7626bf270226014501357042c |
+| Orx | **ImGuiOrx**:<br>https://github.com/thegwydd/ImGuiOrx (was [#1843](https://github.com/ocornut/imgui/pull/1843)) |
 | px_render | **px_render_imgui.h**: https://github.com/pplux/px/blob/master/px_render_imgui.h (was [#1935](https://github.com/ocornut/imgui/pull/1935)) |
 | Qt | **imgui-qt3d**:<br>https://github.com/alpqr/imgui-qt3d <br>**QOpenGLWindow (qtimgui)**:<br>[#1910](https://github.com/ocornut/imgui/issues/1910) <br> **QtDirect3D**:<br>https://github.com/giladreich/QtDirect3D, qt6: https://github.com/alpqr/qvk6/tree/imgui/examples/rhi/imguidemo |
 | SFML | **imgui-sfml**:<br>https://github.com/eliasdaler/imgui-sfml |
