@@ -196,7 +196,9 @@ Dear ImGui is one possible implementation of an idea generally described as the 
 
 Another notable uses of IMGUI paradigm include [Unity's own IMGUI widget library](https://docs.unity3d.com/Manual/GUIScriptingGuide.html), often informally referred to as `OnGUI()`, which is used to power the Unity editor and its extensions. This library is unrelated from Dear ImGui (different codebase, design, features and team). The IMGUI library used by Unity has in the past received mixed feedback from its users, presumably because it may have been perceived as a potential candidate for game-facing UI solutions, which it doesn't excel at. However Unity has since provided separate librairies to tackle that case, and their IMGUI library is still very much in use for the Unity Editor and has been its UI backbone for the past 12+ years.
 
-### About Dear ImGui (English)
+### About Dear ImGui
+
+#### English
 
 - 2020-02: Runtime Compiled C++ Dear ImGui and DX11 Tutorial: [blog](https://www.enkisoftware.com/devlogpost-20200202-1-Runtime-Compiled-C++-Dear-ImGui-and-DirectX11-Tutorial).
 - 2016-10: CppCon 2016: Nicolas Guillemot “Dear imgui,": [video](https://www.youtube.com/watch?v=LSRJ1jZq90k).
@@ -210,15 +212,18 @@ Another notable uses of IMGUI paradigm include [Unity's own IMGUI widget library
 - 2019-03: Rust: Making a basic game ui with imgui and ggez http://iolivia.me/posts/imgui-ggez/
 - 2019-05: Frictionless Debug UI In C++: [pdf](http://evanachahn.com/Frictionless%20Debug%20UI%20In%20C++.pdf)
 
-### About Dear ImGui (Other languages)
+#### Korean
+- 2018-01: GLFW 사용 방법 정리 (Windows 10, VS2017) https://3dshovel.blogspot.fr/2018/01/glfw-windows-10-visual-studio-2017.html
 
-- (Korean) 2018-01: GLFW 사용 방법 정리 (Windows 10, VS2017) https://3dshovel.blogspot.fr/2018/01/glfw-windows-10-visual-studio-2017.html
-- (Japanese) 2016-12: OpenGLやDirectXなGUIにimguiが最強すぎる https://qiita.com/Ushio/items/446d78c881334919e156
-- (Japanese) 2016-16: 最強すぎるGUIことImGuiの見た目もイイ感じにする https://qiita.com/izumin5210/items/26eaed69eea2c4318fcd
-- (Japanese) 2018-03: ImGuiでデバッグツール http://hikita12312.hatenablog.com/entry/2018/03/17/100535
-- (Japanese) 2018-02: OpenSiv3DでImGuiを使う https://qiita.com/RareAmayuki/items/ca802071b452b42ad630
-- (Japanese) 2018-12: ダッシュボードオーバーレイ（OpenVR overlay）を作りimguiとDirectXで描いてみる https://qiita.com/ondorela/items/bf4bebf747f90ebf52d8
-- (Japanese) 2019-07: imgui で GUI を作るときのメモ https://qiita.com/syoyo/items/85571b0697f1a9cbea71
-- (Japanese) 2019-12: Dear ImGuiの使い方まとめ https://qiita.com/mizuma/items/73218dab2f6b022b0227
-- (Japanese) 2020-01: imguiのwindowの中で3d cubeの描画をしてやった https://qiita.com/ssaattwworg/items/32ee9a6fdb0476833c02
-- (Polish) 2018-01: Szkolenie z biblioteki dear imgui [Video Part 1](https://www.youtube.com/watch?v=TOop9EGngKY) [2](https://www.youtube.com/watch?v=fh6uOdherYw) [3](https://www.youtube.com/watch?v=bF2eOvsX7kY) [4](https://www.youtube.com/watch?v=rcCReEX6h-M) [5](https://www.youtube.com/watch?v=N2Jan6IizbA) [6](https://www.youtube.com/watch?v=70A0YH9h3Ek) [7](https://www.youtube.com/watch?v=0JRaThBx9Ww) [8](https://www.youtube.com/watch?v=O7PVZ6OKDtI) [9](https://www.youtube.com/watch?v=uIp7tLqFzKo), [Slide](https://docs.google.com/presentation/d/1F3jkWkRGCNrCAKi34KXvrkZ9luhS_7RUwHwdYDTFEiY/preview#slide=id.p) 
+#### Japanese
+- 2016-12: OpenGLやDirectXなGUIにimguiが最強すぎる https://qiita.com/Ushio/items/446d78c881334919e156
+- 2016-16: 最強すぎるGUIことImGuiの見た目もイイ感じにする https://qiita.com/izumin5210/items/26eaed69eea2c4318fcd
+- 2018-03: ImGuiでデバッグツール http://hikita12312.hatenablog.com/entry/2018/03/17/100535
+- 2018-02: OpenSiv3DでImGuiを使う https://qiita.com/RareAmayuki/items/ca802071b452b42ad630
+- 2018-12: ダッシュボードオーバーレイ（OpenVR overlay）を作りimguiとDirectXで描いてみる https://qiita.com/ondorela/items/bf4bebf747f90ebf52d8
+- 2019-07: imgui で GUI を作るときのメモ https://qiita.com/syoyo/items/85571b0697f1a9cbea71
+- 2019-12: Dear ImGuiの使い方まとめ https://qiita.com/mizuma/items/73218dab2f6b022b0227
+- 2020-01: imguiのwindowの中で3d cubeの描画をしてやった https://qiita.com/ssaattwworg/items/32ee9a6fdb0476833c02
+
+#### Polish
+- 2018-01: Szkolenie z biblioteki dear imgui [Video Part 1](https://www.youtube.com/watch?v=TOop9EGngKY) [2](https://www.youtube.com/watch?v=fh6uOdherYw) [3](https://www.youtube.com/watch?v=bF2eOvsX7kY) [4](https://www.youtube.com/watch?v=rcCReEX6h-M) [5](https://www.youtube.com/watch?v=N2Jan6IizbA) [6](https://www.youtube.com/watch?v=70A0YH9h3Ek) [7](https://www.youtube.com/watch?v=0JRaThBx9Ww) [8](https://www.youtube.com/watch?v=O7PVZ6OKDtI) [9](https://www.youtube.com/watch?v=uIp7tLqFzKo), [Slide](https://docs.google.com/presentation/d/1F3jkWkRGCNrCAKi34KXvrkZ9luhS_7RUwHwdYDTFEiY/preview#slide=id.p) 
