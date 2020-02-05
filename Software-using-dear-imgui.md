@@ -130,6 +130,7 @@ Help us complete this list!
 | Misc | Magic Leap SDK | Magic Leap | [homepage](https://creator.magicleap.com/home)
 | App | MAME (alternate debugger) | | [homepage](http://mamedev.org/) / [shot](https://github.com/ocornut/imgui/issues/539#issuecomment-211326923)
 | App | Milton | | [homepage](https://www.miltonpaint.com/)
+| Game | Minecraft (Bedrock) | Mojang, Xbox Game Studios | [homepage](http://www.minecraft.net)
 | App | MiniDart | @ebachard| [homepage](https://framagit.org/ericb/miniDart) / [shot](https://framagit.org/ericb/miniDart/wikis/Pr%C3%A9sentation-du-logiciel-miniDart)
 | App | Mitsuba IM | | [homepage](http://alphanew.net/projects.php)
 | Game | Monster Boy and The Cursed Kingdom | Game Atelier | [homepage](http://www.monsterboy.com)
