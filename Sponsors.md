@@ -3,21 +3,22 @@ Ongoing dear imgui development is financially supported by users and private ent
 **Platinum-chocolate sponsors**
 - [Blizzard](https://careers.blizzard.com/en-us/openings/engineering/all/all/all/1)
 - [Google](https://github.com/google/filament)
-- [Ubisoft](https://montreal.ubisoft.com/fr/ubisoft-commandite-la-bibliotheque-dinterface-utilisateur-pour-c-dear-imgui/)
 - [Nvidia](https://developer.nvidia.com/nvidia-omniverse)
+- [Ubisoft](https://montreal.ubisoft.com/fr/ubisoft-commandite-la-bibliotheque-dinterface-utilisateur-pour-c-dear-imgui/)
 
 **Double-chocolate and Salty Caramel sponsors**
-- [Media Molecule](http://www.mediamolecule.com)
-- [Mobigame](http://www.mobigame.net)
 - [DotEmu](http://www.dotemu.com)
+- [Framefield](http://framefield.com)
+- [Hexagon](https://hexagonxalt.com/the-technology/xalt-visualization)
+- [Kylotonn](https://www.kylotonn.com)
+- [Media Molecule](http://www.mediamolecule.com)
+- [Mesh Consultants](https://www.meshconsultants.ca/)
+- [Mobigame](http://www.mobigame.net)
 - [Nadeo](https://www.nadeo.com)
 - [Supercell](http://www.supercell.com)
-- [Kylotonn](https://www.kylotonn.com)
-- [Remedy Entertainment](https://www.remedygames.com/)
 - [Recognition Robotics](https://recognitionrobotics.com/)
-- [Mesh Consultants](https://www.meshconsultants.ca/)
+- [Remedy Entertainment](https://www.remedygames.com/)
 - [Unit 2 Games](https://unit2games.com/)
-- [Hexagon](https://hexagonxalt.com/the-technology/xalt-visualization)
 
 **Patreon supporters (2015-2019) <3**
 
