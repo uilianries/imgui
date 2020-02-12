@@ -21,7 +21,7 @@ Ongoing dear imgui development is financially supported by users and private ent
 
 **Patreon supporters (2015-2019) <3**
 
-(roughly ordered by the date of first joining the Patreon)
+From November 2014 to December 2019, the development of Dear ImGui has been financially supported by generous users on Patreon. Here's a list of those supporters, roughly ordered by joining date (some people opted out of this list, please reach out to be added/removed). 
 
 _Double Chocolate_
 - Greggman, Aras Pranckevičius, Runner, Aiden Koss.
