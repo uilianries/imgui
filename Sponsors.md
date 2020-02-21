@@ -7,6 +7,7 @@ Ongoing dear imgui development is financially supported by users and private ent
 - [Ubisoft](https://montreal.ubisoft.com/fr/ubisoft-commandite-la-bibliotheque-dinterface-utilisateur-pour-c-dear-imgui/)
 
 **Double-chocolate and Salty Caramel sponsors**
+- [Activision](https://careers.activision.com/c/programmingsoftware-engineering-jobs)
 - [DotEmu](http://www.dotemu.com)
 - [Framefield](http://framefield.com)
 - [Hexagon](https://hexagonxalt.com/the-technology/xalt-visualization)
