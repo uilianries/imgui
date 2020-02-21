@@ -2,9 +2,9 @@
 :----------------------------------------------------------: |
 | [Discussions](#discussions) - [Wiki Pages](#Wiki-pages) - [Tutorials](#Tutorials) - [Useful Widgets & References](#Useful-widgets--references) - [Articles, Videos, etc.](#articles-videos-blog-posts) |
 
-Welcome to the Dear ImGui wiki!
-This wiki is in construction.
-Feel free to edit and contribute!
+Welcome to the Dear ImGui wiki! Always in construction - feel free to edit and contribute!
+
+Thank you to every past and present [[Sponsors]] for making this project possible.
 
 ## Discussions
 
@@ -21,7 +21,6 @@ Feel free to edit and contribute!
 - [[User quotes|Quotes]]
 - [[Help wanted|Help-wanted]]
 - [[Incoming work|Incoming-work]]
-- [[Sponsors|Sponsors]]
 - [[Tips|Tips]] (for people working _with_ dear imgui)
 - [[Developer tips|Developer-Tips]] (for people working _on_ dear imgui)
 
