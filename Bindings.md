@@ -26,7 +26,7 @@ _NB: those bindings may be more or less maintained, more or less close to the sp
 | Rust | **imgui-rs**: Rust bindings for ImGui <br>https://github.com/Gekkio/imgui-rs <br>**imgui-rust**: Alternative (personal) imgui rust bindings <br>https://github.com/nsf/imgui-rust <br> **ImStr** Patch by @bitshifter to use string-range more commonly instead of zero-terminated strings. <br>https://github.com/ocornut/imgui/pull/683 <br>**rust-imgui-opengl-renderer** <br>https://github.com/michaelfairley/rust-imgui-opengl-renderer|
 | Swift  | **SwiftGui**: an experimental API inspired by SwiftUI declarative code, using Dear ImGui and running on OSX and iOS.<br>https://github.com/erickjung/SwiftGUI<br>**SwiftImGui**: Swift wrapper around Dear imgui for macOS, iOS and linux<br>https://github.com/ctreffs/SwiftImGui<br>**Swift-imgui**: Dear ImGui Swift Wrapper API for macOS and iOS <br>https://github.com/mnmly/Swift-imgui |
 
-## Framework/Engine Bindings
+## Framework/Engine Bindings/Backends
 
 Main repository include examples for DirectX9, DirectX10, DirectX11, DirectX12, Metal, OpenGL2/3, Vulkan, iOS, Allegro 5, and Marmalade, using frameworks such as Glfw, SDL2, Win32, Cocoa. 
 <br>https://github.com/ocornut/imgui/tree/master/examples
@@ -39,20 +39,21 @@ Main repository include examples for DirectX9, DirectX10, DirectX11, DirectX12, 
 | bsf | **bsfimgui**:<br>https://github.com/pgruenbacher/bsfImgui | 
 | Cinder | **Cinder-ImGui**:<br>https://github.com/simongeilfus/Cinder-ImGui
 | Cocos2d-x | **imguix**:<br>https://github.com/c0i/imguix <br>**cocos2dx-imgui**:<br>https://github.com/Mjarkiew/cocos2dx-imgui and [#551](https://github.com/ocornut/imgui/issues/551)
-| Diligent Engine | [DiligentTools](https://github.com/DiligentGraphics/DiligentTools/blob/master/Imgui/src/ImGuiImplDiligent.cpp), [example](https://github.com/DiligentGraphics/DiligentSamples/tree/master/Samples/ImguiDemo) |
+| Diligent Engine | **DiligentTools**:<br>[DiligentTools](https://github.com/DiligentGraphics/DiligentTools/blob/master/Imgui/src/ImGuiImplDiligent.cpp), [example](https://github.com/DiligentGraphics/DiligentSamples/tree/master/Samples/ImguiDemo) |
 | Flexium | **FlexGUI**:<br>https://github.com/DXsmiley/FlexGUI |
 | GML / GameMaker Studio 2 | **ImGuiGML**:<br>https://marketplace.yoyogames.com/assets/6221/imguigml |
+| GLEQ | Event processing:<br>[#3034](https://github.com/ocornut/imgui/issues/3034)
 | GTK3 + OpenGL3 | **imgui_impl_gtk3**:<br>Unmerged PR: [#2032](https://github.com/ocornut/imgui/pull/2032) |
 | Irrlicht Engine | **IrrIMGUI**:<br>https://github.com/ZahlGraf/IrrIMGUI |
 | LÖVE+LUA | **love-imgui**:<br>https://github.com/slages/love-imgui<br>**love-imgui (fork)**:<br>https://github.com/MikuAuahDark/love-imgui |
 | Magnum | **magnum-integration**:<br>https://github.com/mosra/magnum-integration, [doc](https://doc.magnum.graphics/magnum/namespaceMagnum_1_1ImGuiIntegration.html), [example](https://doc.magnum.graphics/magnum/examples-imgui.html) |
 | NanoRT | **imgui_impl_raytrace**: <br>https://github.com/syoyo/imgui/tree/nanort/examples/raytrace_example |
-| Nim Game Lib | **NimGL**: https://github.com/nimgl/nimgl |
+| Nim Game Lib | **NimGL**:<br>https://github.com/nimgl/nimgl |
 | Ogre | **ogre-imgui**:<br>https://github.com/OGRECave/ogre-imgui |
 | openFrameworks | **ofxImGui**:<br>https://github.com/jvcleave/ofxImGui
 | OpenSceneGraph/OSG | **imgui-osg**:<br>https://github.com/Tordan/imgui-osg and older gist: https://gist.github.com/fulezi/d2442ca7626bf270226014501357042c |
 | Orx | **ImGuiOrx**:<br>https://github.com/thegwydd/ImGuiOrx (was [#1843](https://github.com/ocornut/imgui/pull/1843)) |
-| px_render | **px_render_imgui.h**: https://github.com/pplux/px/blob/master/px_render_imgui.h (was [#1935](https://github.com/ocornut/imgui/pull/1935)) |
+| px_render | **px_render_imgui.h**:<br>https://github.com/pplux/px/blob/master/px_render_imgui.h (was [#1935](https://github.com/ocornut/imgui/pull/1935)) |
 | Qt | **imgui-qt3d**:<br>https://github.com/alpqr/imgui-qt3d <br>**QOpenGLWindow (qtimgui)**:<br>[#1910](https://github.com/ocornut/imgui/issues/1910) <br> **QtDirect3D**:<br>https://github.com/giladreich/QtDirect3D, qt6: https://github.com/alpqr/qvk6/tree/imgui/examples/rhi/imguidemo |
 | SFML | **imgui-sfml**:<br>https://github.com/eliasdaler/imgui-sfml |
 | Sokol | **sokol-samples**:<br>https://github.com/floooh/sokol-samples/blob/master/glfw/imgui-glfw.cc |
