@@ -14,7 +14,7 @@ Thank you to every past and present [[Sponsors]] for making this project possibl
 
 ## Wiki Pages
 
-- **[[Language bindings, Framework/Engine bindings|Bindings]]**
+- **[[Language bindings, Framework/Engine bindings/backends|Bindings]]**
 - [[FAQ (Frequently Asked Questions)|https://github.com/ocornut/imgui/blob/master/docs/FAQ.md]]
 - [[Glossary|Glossary]]
 - [[Software using dear imgui|Software-using-dear-imgui]]
