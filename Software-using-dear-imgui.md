@@ -202,6 +202,7 @@ Help us complete this list!
 | Game | Spider-Man (2018) | Insomniac Games | [homepage](https://insomniac.games/game/spider-man-ps4/) / [shot](https://user-images.githubusercontent.com/8225057/72074984-2a84a800-32f3-11ea-9380-e43dc599a356.jpg)
 | App | SpiritCalc | | [github](https://github.com/ShrewdSpirit/SpiritCalc)
 | App | Splash | | [homepage](https://github.com/paperManu/splash/wiki) / [shot](https://github.com/ocornut/imgui/issues/539#issuecomment-192671061)
+| App | SpokyGhost | @encelo | [homepage](https://encelo.itch.io/spookyghost) / [video](https://www.youtube.com/watch?v=04KZe4M_4Is)
 | Game | Squarium | | [homepage](https://bartveldstra.com/game/squarium/) / [play store](https://play.google.com/store/apps/details?id=nl.ghostweb.Squarium)
 | App | Stagemaster | | [homepage](http://cityboundsim.com/devblog/introducing-stagemaster) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-299647845)
 | Game | Star Citizen | Cloud Imperium Games | [blog](https://starcitizenprivateer.tumblr.com/post/184141580116/star-citizen-monthly-report-march-2019)
