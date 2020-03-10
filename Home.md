@@ -92,6 +92,7 @@ Thank you to every past and present [[Sponsors]] for making this project possibl
 - ImHotKey (Hotkey Editor): https://github.com/CedricGuillemet/ImHotKey
 - IP Entry Box (@adam4813) https://github.com/ocornut/imgui/issues/388
 - Pie menu test: https://github.com/ocornut/imgui/issues/434
+- nnview: a neural network viewer: https://github.com/lighttransport/nnview
 - Knobs: https://github.com/ocornut/imgui/issues/942#issuecomment-268369298
 - Toggle Button: https://github.com/ocornut/imgui/issues/1537
 - ImGui::Auto(): leverage C++17 to serialize any structure into imgui interfaces https://github.com/Csabix/imgui/tree/master/auto
