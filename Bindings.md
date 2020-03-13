@@ -54,7 +54,7 @@ Main repository include examples for DirectX9, DirectX10, DirectX11, DirectX12, 
 | OpenSceneGraph/OSG | **imgui-osg**:<br>https://github.com/Tordan/imgui-osg and older gist: https://gist.github.com/fulezi/d2442ca7626bf270226014501357042c |
 | Orx | **ImGuiOrx**:<br>https://github.com/thegwydd/ImGuiOrx (was [#1843](https://github.com/ocornut/imgui/pull/1843)) |
 | px_render | **px_render_imgui.h**:<br>https://github.com/pplux/px/blob/master/px_render_imgui.h (was [#1935](https://github.com/ocornut/imgui/pull/1935)) |
-| Qt | **imgui-qt3d**:<br>https://github.com/alpqr/imgui-qt3d <br>**QOpenGLWindow (qtimgui)**:<br>[#1910](https://github.com/ocornut/imgui/issues/1910) <br> **QtDirect3D**:<br>https://github.com/giladreich/QtDirect3D, qt6: https://github.com/alpqr/qvk6/tree/imgui/examples/rhi/imguidemo |
+| Qt | **imgui-qt3d**:<br>https://github.com/alpqr/imgui-qt3d <br>**QOpenGLWindow (qtimgui)**:<br>https://github.com/seanchas116/qtimgui<br> **QtDirect3D**:<br>https://github.com/giladreich/QtDirect3D, qt6: https://github.com/alpqr/qvk6/tree/imgui/examples/rhi/imguidemo |
 | SFML | **imgui-sfml**:<br>https://github.com/eliasdaler/imgui-sfml |
 | Sokol | **sokol-samples**:<br>https://github.com/floooh/sokol-samples/blob/master/glfw/imgui-glfw.cc |
 | Unreal Engine 4 | **UnrealImGui**:<br>https://github.com/segross/UnrealImGui <br>**UnrealEngine_ImGui**:<br>https://github.com/sronsse/UnrealEngine_ImGui
