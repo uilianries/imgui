@@ -63,6 +63,7 @@ Thank you to every past and present [[Sponsors]] for making this project possibl
 ### Plotting, Graph
 
 - imgui-plot (@soulthreads): https://github.com/soulthreads/imgui-plot and [#2747](https://github.com/ocornut/imgui/issues/2747)
+- Another plotting widget (@epezent): [#3067](https://github.com/ocornut/imgui/issues/3067)
 - Flame graph widget: https://github.com/ocornut/imgui/issues/2859
 - Plot var helper: [[plot_var_example]]
 
@@ -160,6 +161,7 @@ Thank you to every past and present [[Sponsors]] for making this project possibl
 - Starter dear-imgui GLFW/OpenGL 3 based CMake C++ project: https://github.com/urddru/imgui-glfw
 - Bimpy: bundled imgui for python: https://github.com/podgorskiy/bimpy
 - imgui_dojo: an easy setup example for imgui https://github.com/LiuZHolmes/imgui_dojo
+- mahi-gui: Dirt Simple C++ GUI Toolkit using GLFW, glad, and ImGui https://github.com/mahilab/mahi-gui
 
 ### Rust
 
