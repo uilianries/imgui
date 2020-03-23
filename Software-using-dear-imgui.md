@@ -52,6 +52,7 @@ Help us complete this list!
 | Game | Devil Daggers | Sorath | [homepage](http://devildaggers.com/) / [steam](https://store.steampowered.com/app/422970/Devil_Daggers/)
 | Engine | DiligentEngine | | [github](https://github.com/DiligentGraphics/DiligentEngine)
 | Engine | Directus3D | @PanosK92 | [github](https://github.com/PanosK92/Directus3D) / [shot](https://raw.githubusercontent.com/PanosK92/Directus3D/master/Assets/screenshot-v0.3_preview2.jpg)
+| Game | Doom Eternal | id Software | [shot](https://user-images.githubusercontent.com/8225057/77301209-93bf6900-6cef-11ea-9e89-9b4334ef6f53.jpg)
 | App | Dolphin Emulator | | [homepage](https://dolphin-emu.org) / [patch note](https://dolphin-emu.org/blog/2019/02/01/dolphin-progress-report-dec-2018-and-jan-2019/)
 | App | Downhole Imaging Technology | | [homepage](https://darkvisiontech.com/)
 | Game | Dreams | Media Molecule | [homepage](http://dreams.mediamolecule.com) |
@@ -205,7 +206,7 @@ Help us complete this list!
 | App | SpookyGhost | @encelo | [homepage](https://encelo.itch.io/spookyghost) / [video](https://www.youtube.com/watch?v=04KZe4M_4Is)
 | Game | Squarium | | [homepage](https://bartveldstra.com/game/squarium/) / [play store](https://play.google.com/store/apps/details?id=nl.ghostweb.Squarium)
 | App | Stagemaster | | [homepage](http://cityboundsim.com/devblog/introducing-stagemaster) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-299647845)
-| Game | Star Citizen | Cloud Imperium Games | [blog](https://starcitizenprivateer.tumblr.com/post/184141580116/star-citizen-monthly-report-march-2019)
+| Game | Star Citizen | Cloud Imperium Games | [blog](https://starcitizenprivateer.tumblr.com/post/184141580116/star-citizen-monthly-report-march-2019) / [shot](https://user-images.githubusercontent.com/600573/76033357-58c1e500-5f3c-11ea-8c78-6299cc0f280c.png)
 | Game | Streets of Rage 4 | Guard Crush | [homepage](https://www.streets4rage.com/) / [shot](https://user-images.githubusercontent.com/8225057/68775486-d7fa7880-062e-11ea-8448-9aab3ca4837e.jpg)
 | Game | Super Crush KO | Vertex Pop | [homepage](http://www.vertexpop.com/supercrushko/)
 | Game | Swords of Calengal | United Lines Studio | [homepage](https://www.unitedlinesstudio.com/)
