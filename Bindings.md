@@ -57,6 +57,7 @@ Main repository include examples for DirectX9, DirectX10, DirectX11, DirectX12, 
 | Qt | **imgui-qt3d**:<br>https://github.com/alpqr/imgui-qt3d <br>**QOpenGLWindow (qtimgui)**:<br>https://github.com/seanchas116/qtimgui<br> **QtDirect3D**:<br>https://github.com/giladreich/QtDirect3D, qt6: https://github.com/alpqr/qvk6/tree/imgui/examples/rhi/imguidemo |
 | SFML | **imgui-sfml**:<br>https://github.com/eliasdaler/imgui-sfml |
 | Sokol | **sokol-samples**:<br>https://github.com/floooh/sokol-samples/blob/master/glfw/imgui-glfw.cc |
+| Unity | **dear-imgui-unity**:<br>https://github.com/realgamessoftware/dear-imgui-unity
 | Unreal Engine 4 | **UnrealImGui**:<br>https://github.com/segross/UnrealImGui <br>**UnrealEngine_ImGui**:<br>https://github.com/sronsse/UnrealEngine_ImGui
 | vtk | **imgui-vtk**:<br>https://github.com/trlsmax/imgui-vtk
 | Win32 (native) example | **example_win32_opengl3**:<br>Unmerged PR: [#2772](https://github.com/ocornut/imgui/pull/2772), [#281](https://github.com/ocornut/imgui/pull/281) (old example design) |
