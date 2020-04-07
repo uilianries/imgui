@@ -83,8 +83,6 @@ Help us complete this list!
 | Engine | GeeXLab | | [homepage](http://www.geeks3d.com/geexlab/)
 | App | Geocod/Geogram | Loria | [homepage](http://homepages.loria.fr/BLevy/GEOGRAM) / [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-249678740) / [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-270942101) |
 | App | Geo::Math | brbl | [homepage](https://brbl.itch.io/geomath)
-| Game | Tom Clancy's Rainbow Six Siege | Ubisoft | [blog](https://montreal.ubisoft.com/en/ubisoft-sponsors-user-interface-library-for-c-dear-imgui/) / [shots](https://github.com/ocornut/imgui/issues/2847#issuecomment-567692465)
-| Game | Tom Clancy's Ghost Recon Breakpoint | Ubisoft | [homepage](https://ghost-recon.ubisoft.com/game/en-us/breakpoint)
 | App | glChAoS.P | @BrutPitt | [homepage](https://www.michelemorrone.eu/glchaosp/) / [shots](https://www.michelemorrone.eu/glchaosp/screenshots.html)  
 | App | Glimpse | | [github](https://github.com/glimpse-project/glimpse) / [shot](https://raw.githubusercontent.com/wiki/glimpse-project/glimpse/images/screenshot-2017-12-07.png)
 | App | GL-Z | | [homepage](https://www.geeks3d.com/glz/)
@@ -222,6 +220,8 @@ Help us complete this list!
 | Engine | Thorium 3D | | [shots](https://github.com/ocornut/imgui/issues/772#issuecomment-268208362) / [shots](https://github.com/ocornut/imgui/issues/973#issuecomment-286752876)
 | App | Timelapse View for HG | @jschmidt42 | [github](https://github.com/jschmidt42/timelapse)
 | App | Tiny8bit | @floooh | [web](https://floooh.github.io/tiny8bit/) / [shot](https://user-images.githubusercontent.com/1699414/50175000-02976080-02fc-11e9-9e51-42369c8e5792.png)
+| Game | Tom Clancy's Ghost Recon Breakpoint | Ubisoft | [homepage](https://ghost-recon.ubisoft.com/game/en-us/breakpoint)
+| Game | Tom Clancy's Rainbow Six Siege | Ubisoft | [blog](https://montreal.ubisoft.com/en/ubisoft-sponsors-user-interface-library-for-c-dear-imgui/) / [shots](https://github.com/ocornut/imgui/issues/2847#issuecomment-567692465)
 | App | Tracy | | [bitbucket](https://bitbucket.org/wolfpld/tracy/src/master/) / [video](https://www.youtube.com/watch?v=fB5B46lbapc)
 | Engine | Tristeon | | [github](https://github.com/HyperionDH/Tristeon)
 | Game | TT Isle of Man: Ride of the Edge | Kylotonn | [shots](https://github.com/ocornut/imgui/issues/1269#issuecomment-322049726)
