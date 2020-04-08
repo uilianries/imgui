@@ -264,7 +264,7 @@ Finally, you may call `ImGui::ShowMetricsWindow()` to explore/visualize/understa
 
 See e.g. http://wiki.polycount.com/wiki/Texture_Coordinates
 
-The `ImGui::Image()` and `ImDrawList::AddImage()` functions allow you to pass "UV coordinates" corresponding to the upper-left and bottom-right portion of the texture you want to display. Using respectively `(0.0f, 0.0f)` and `(1.0f, 1.0f)` for those coordinates allow you to display the entire underlying texture. UV coordinates are traditionally normalized coordinates, meaning that for each axis, instead of counting a number of pixels in each axis, we address a location in the texture using a number from 0.0f to 1.0f. So (0.0f, 0.0f) is generally adressing the upper-left section of the texture and (1.0f, 1.0f) is addressing the lower-right corner of the texture.
+The `ImGui::Image()` and `ImDrawList::AddImage()` functions allow you to pass "UV coordinates" corresponding to the upper-left and bottom-right portion of the texture you want to display. Using the default values, respectively `(0.0f, 0.0f)` and `(1.0f, 1.0f)` for those coordinates allow you to display the entire underlying texture. UV coordinates are traditionally normalized coordinates, meaning that for each axis, instead of counting a number of pixels in each axis, we address a location in the texture using a number from 0.0f to 1.0f. So (0.0f, 0.0f) is generally adressing the upper-left section of the texture and (1.0f, 1.0f) is addressing the lower-right corner of the texture.
 
 If you want to display part of a texture, say display a 100x200 rectangle stored from pixel (10,10) to pixel (110,210) out of a 256x256 texture, you will need to calculate the normalized coordinates of those pixels:
 
@@ -274,6 +274,19 @@ ImVec2 uv0 = ImVec2(10.0f/256.0f, 10.0f/256.0f);
 
 // Normalized coordinates of pixel (110,210) in a 256x256 texture.
 ImVec2 uv1 = ImVec2((10.0f+100.0f)/256.0f, (10.0f+200.0f)/256.0f);
+
+// Display the 100x100 section starting at (10,10)
+ImGui::Image((void*)texture, ImVec2(100.0f, 100.0f), uv0, uv1);
 ```
 
 You can look up "texture coordinates" from other resources such as your favorite search engine, or graphics tutorials.
+
+If you want to display the same image but scaled, keep the same UV coordinates but alter the Size:
+
+```cpp
+// Normal size
+ImGui::Image((void*)texture, ImVec2(texture->Width, texture->Height), ImVec2(0.0f, 0.0f), ImVec2(1.0f, 1.0f));
+
+// Half size, same contents
+ImGui::Image((void*)texture, ImVec2(texture->Width*0.5f, texture->Height*0.5f), ImVec2(0.0f, 0.0f), ImVec2(1.0f, 1.0f));
+```
