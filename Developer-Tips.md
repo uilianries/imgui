@@ -3,6 +3,12 @@ If you are working on Dear ImGui codebase:
 ### Metrics
 The Metrics window exposes lots of information about the library state.
 
+### Item Picker
+The Item Picker will allow you to pick an item with the mouse and have Dear ImGui break within the call-stack of that item. This is useful if you have large UI / codebase and you would to easily find out where some UI item is emitted. 
+You can find it in _Metrics>Tools>Item Picker_. Also see [#2673](https://github.com/ocornut/imgui/issues/2673).
+
+![Item Picker](https://user-images.githubusercontent.com/8225057/61412736-7d2e5b80-a89e-11e9-9bb3-54c097025abe.png)
+
 ### Visual debugging
 You can use drawlist primitives on the foreground drawlist, e.g. `GetForegroundDrawList()->AddRectFilled(...)` to bypass clipping of the current window's drawlist.
 
