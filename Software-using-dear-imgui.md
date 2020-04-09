@@ -72,6 +72,7 @@ Help us complete this list!
 | Game | Fallout 76 | Bethesda | [homepage](https://fallout.bethesda.net) / [shot](https://user-images.githubusercontent.com/4228359/41322748-b9756e6e-6e78-11e8-8dfc-9a3437c1fd1a.png) 
 | App | F.E.I.S.: Jubeat chart editor | @Stepland | [github](https://github.com/Stepland/F.E.I.S.)
 | Game | FIA European Truck Racing Championship | Kylotonn | 
+| Game | Final Fantasy VII Remake | SquareEnix | [video](https://www.youtube.com/watch?time_continue=675&v=DliMpiemUy8)
 | Engine | Filament | Google | [github](https://github.com/google/filament)
 | Engine | FishEngine | @yushroom | [github](https://github.com/yushroom/FishEngine) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-282622054)
 | Game | Fisherboy | | [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-315665148) |
