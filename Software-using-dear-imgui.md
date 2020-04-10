@@ -216,6 +216,7 @@ Help us complete this list!
 | App | tacit-texview | @bluescan | [github](https://github.com/bluescan/tacit-texview) / [shots](https://github.com/ocornut/imgui/issues/2847#issuecomment-570201599)
 | Game | Tearaway | Media Molecule | [homepage](http://tearaway.mediamolecule.com/)
 | Game | Tearaway Unfolded | Media Molecule | [homepage](http://tearaway.mediamolecule.com/) / [shots](https://github.com/ocornut/imgui/issues/539#issuecomment-193710713)
+| Game | Teardown | [homepage](http://teardowngame.com) / [shot](https://user-images.githubusercontent.com/8225057/79001463-d3d77600-7b4e-11ea-9d7c-7469157f5feb.jpg)
 | App | TexGraph | @galloscript | [web](https://galloscript.itch.io/texgraph)
 | Game | The Surge 2 | Deck 13 | [web](http://thesurge-game.com) / [video](https://www.youtube.com/watch?v=WjPiJn9dkxs)
 | Engine | Thorium 3D | | [shots](https://github.com/ocornut/imgui/issues/772#issuecomment-268208362) / [shots](https://github.com/ocornut/imgui/issues/973#issuecomment-286752876)
