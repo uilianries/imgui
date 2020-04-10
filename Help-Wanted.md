@@ -1,6 +1,9 @@
 Currently looking for help with those things.
 <br>**This is absolutely not a complete list** (there a millions of other things to do, see [Issues](https://github.com/ocornut/imgui/issues) and [docs/TODO.txt](https://github.com/ocornut/imgui/blob/master/docs/TODO.txt)), those are merely some suggestions of things I am particularly struggling with before I may not have the hardware or expertise. If you are motivated and want to help this project and the community there is almost certainly a spot for you :)
 
+**Funding**
+- If your company uses Dear ImGui, please reach to contact@dearimgui.com.
+
 **Community**
 - If you have experience with Dear ImGui and programming, helping people out on the [Discourse forum](http://discourse.dearimgui.org/) would be very useful.
 - Helping to answer in the GitHub [issues/threads](https://github.com/ocornut/imgui/issues) is very helpful too! 
