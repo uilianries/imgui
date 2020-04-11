@@ -22,3 +22,4 @@ Result:
 ### More
 
 Read [docs/FONTS.txt](https://github.com/ocornut/imgui/blob/master/docs/FONTS.txt) for more details.
+But obviously, don't use a Japanese font, it doesn't look good!
