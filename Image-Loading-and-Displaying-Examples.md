@@ -279,7 +279,10 @@ ImVec2 uv1 = ImVec2((10.0f+100.0f)/256.0f, (10.0f+200.0f)/256.0f);
 ImGui::Image((void*)texture, ImVec2(100.0f, 100.0f), uv0, uv1);
 ```
 
+![Using UV](https://user-images.githubusercontent.com/8225057/79073825-f9988280-7ce8-11ea-8596-1fd495720ffa.png)
+
 You can look up "texture coordinates" from other resources such as your favorite search engine, or graphics tutorials.
+Tip: map your UV coordinates to widgets (using `SliderFloat2` or `DragFloat2`) so you can manipulate them in real-time and better understand the meaning of those values.
 
 If you want to display the same image but scaled, keep the same UV coordinates but alter the Size:
 
@@ -290,3 +293,5 @@ ImGui::Image((void*)texture, ImVec2(texture->Width, texture->Height), ImVec2(0.0
 // Half size, same contents
 ImGui::Image((void*)texture, ImVec2(texture->Width*0.5f, texture->Height*0.5f), ImVec2(0.0f, 0.0f), ImVec2(1.0f, 1.0f));
 ```
+
+![Scaled](https://user-images.githubusercontent.com/8225057/79073856-25b40380-7ce9-11ea-91e4-754c3232fb58.png)
