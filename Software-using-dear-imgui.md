@@ -249,6 +249,7 @@ Help us complete this list!
 | Game | V-Rally 4 | Kylotonn | 
 | Game | VRMONLINE-NX | | [homepage](https://vrmcloud.net/nx/beta)
 | Demo | VX2 | Spectrals | [homepage](http://www.pouet.net/prod.php?which=85304) / [shot](https://github.com/ocornut/imgui/issues/3075#issuecomment-613415534)
+| Game | Warcraft III: Reforged | Blizzard | [homepage](https://playwarcraft3.com)
 | Game | Warfork | | [steam](https://store.steampowered.com/app/671610/Warfork/)
 | Game | Warhammer: Chaosbane | Eko Software | [steam](https://store.steampowered.com/app/774241/Warhammer_Chaosbane/) / [shots](https://github.com/ocornut/imgui/issues/2847#issuecomment-560856396)
 | App | WaveEdit | | [homepage](http://synthtech.com/waveedit/) / [github](https://github.com/AndrewBelt/WaveEdit)
