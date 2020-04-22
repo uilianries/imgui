@@ -162,6 +162,7 @@ Help us complete this list!
 | App | OpenPlanet | | [homepage](https://openplanet.nl/) / [shots](https://github.com/ocornut/imgui/issues/1269#issuecomment-359883857)
 | App | OpenSpace | | [homepage](https://www.openspaceproject.com) / [github](https://github.com/OpenSpace/OpenSpace)
 | App | Orbital | @AlexAltea | [github](https://github.com/AlexAltea/orbital)
+| App | Old School Player | @notnotme | [github](https://github.com/notnotme/osp) / [shot](https://user-images.githubusercontent.com/3787595/79979969-abcb0980-84a2-11ea-8516-1f0be79badf6.png)
 | Game | Overgrowth | Wolfire Games | [homepage](http://www.wolfire.com/overgrowth) / [shots](https://github.com/ocornut/imgui/issues/973#issuecomment-277081512)
 | Engine | Overload | | [homepage](http://overloadengine.org/)
 | App | Panorama | @ronen25 | [github](https://github.com/ronen25/panorama)
