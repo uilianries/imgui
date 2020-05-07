@@ -8,7 +8,8 @@ Ongoing dear imgui development is financially supported by users and private ent
 
 **Double-chocolate and Salty Caramel sponsors**
 - [Activision](https://careers.activision.com/c/programmingsoftware-engineering-jobs)
-- [DotEmu](http://www.dotemu.com)
+- [Arkane Studios](https://www.arkane-studios.com)
+- [Dotemu](http://www.dotemu.com)
 - [Framefield](http://framefield.com)
 - [Hexagon](https://hexagonxalt.com/the-technology/xalt-visualization)
 - [Kylotonn](https://www.kylotonn.com)
