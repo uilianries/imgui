@@ -86,6 +86,7 @@ Help us complete this list!
 | App | Geo::Math | brbl | [homepage](https://brbl.itch.io/geomath)
 | App | glChAoS.P | @BrutPitt | [homepage](https://www.michelemorrone.eu/glchaosp/) / [shots](https://www.michelemorrone.eu/glchaosp/screenshots.html)  
 | App | Glimpse | | [github](https://github.com/glimpse-project/glimpse) / [shot](https://raw.githubusercontent.com/wiki/glimpse-project/glimpse/images/screenshot-2017-12-07.png)
+| App | GlslOptimizerV2 | @Aiekick | [github](https://github.com/aiekick/GlslOptimizerV2)
 | App | GL-Z | | [homepage](https://www.geeks3d.com/glz/)
 | App | GNOMIC | C.Potena B.Della Corte | [bitbucket](https://bitbucket.org/gnomicSolver/gnomic/src/master/)
 | Game | GOATi Traffic Simulation | GOATi | [video](https://www.youtube.com/watch?v=A0ZdyzekVBo)
