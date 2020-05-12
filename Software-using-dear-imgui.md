@@ -8,7 +8,7 @@ Help us complete this list!
 
 - The library is also used by many smaller personal, research or throwaway projects that are difficult to track and not listed here. 
 
-- In bold are companies who sponsored Dear ImGui.
+- Noted in bold teams/companies who sponsored Dear ImGui. Some sponsors choose to not disclose their titles and so are not listed here.
 
 ----
 
