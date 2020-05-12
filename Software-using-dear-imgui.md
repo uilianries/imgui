@@ -40,6 +40,7 @@ Help us complete this list!
 | App | Cheevos Hunter | @leiradel | [github](https://github.com/leiradel/CheevosHunter) / [shot](https://raw.githubusercontent.com/leiradel/CheevosHunter/master/ch.png)
 | Game | Chrono-Drive | | [video](https://www.youtube.com/watch?v=gFbh4wxZ6DE&feature=youtu.be&t=2m3s) |
 | Misc | Cinder-Experiments | @simongeilfus | [github](https://github.com/simongeilfus/Cinder-Experiments)
+| Game | Clash of Clans | Supercell | [homepage](https://supercell.com/en/games/clashofclans/) / [shot](https://user-images.githubusercontent.com/8225057/81696947-e3572100-9464-11ea-8f96-d88db7379420.PNG)
 | Game | Control | Remedy Entertainment | [homepage](https://www.remedygames.com)
 | App | CortexRecognition | Recognition Robotics | [homepage](http://www.recognitionrobotics.com) / [shots](https://github.com/ocornut/imgui/issues/123#issuecomment-114941904) / [photos](https://github.com/ocornut/imgui/issues/973#issuecomment-303784406)
 | Game | Crayta | Unit 2 Games | [web](https://crayta.com/) / [video](https://www.youtube.com/watch?v=yWArxAPI8Jg)
@@ -243,6 +244,7 @@ Help us complete this list!
 | App | Unknown animation tool | ArenaNet | [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-241142663)
 | App | Unknown sprite editor | @johanwendin | [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-294857022)
 | App | Unknown software | Airbus | [video](https://youtu.be/Te3qptOwTK4?t=20s) (at 00:20)
+| App | Unknown software | Boston Dynamics | [shot](https://user-images.githubusercontent.com/8225057/81697446-52347a00-9465-11ea-81be-6fa35ae73821.JPG)
 | App | Unknown software | Future Facilities | [licence](https://www.futurefacilities.com/license-agreement/third-party-next-release)
 | App | Unknown software | Rovio | [licence](https://www.rovio.com/oss/license/imgui)
 | Game | Unravel Two | Coldwood Interactive | [shot](https://user-images.githubusercontent.com/8225057/41195062-e06fcb4e-6c26-11e8-9ef3-0a00c9541029.jpg)
