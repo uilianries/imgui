@@ -17,6 +17,7 @@ Ongoing dear imgui development is financially supported by users and private ent
 - [Mesh Consultants](https://www.meshconsultants.ca/)
 - [Mobigame](http://www.mobigame.net)
 - [Nadeo](https://www.nadeo.com)
+- [Next Level Games](https://www.nextlevelgames.com/)
 - [Supercell](http://www.supercell.com)
 - [Recognition Robotics](https://recognitionrobotics.com/)
 - [Remedy Entertainment](https://www.remedygames.com/)
