@@ -8,6 +8,8 @@ Help us complete this list!
 
 - The library is also used by many smaller personal, research or throwaway projects that are difficult to track and not listed here. 
 
+- In bold are companies who sponsored Dear ImGui.
+
 ----
 
 | Type | Title | By | Links |
@@ -17,8 +19,8 @@ Help us complete this list!
 | Game | Agents of Mayhem | Volition | [homepage](https://www.aomthegame.com/)
 | App | Apple2Emu | @allender | [github](https://github.com/allender/apple2emu) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-280105757)
 | Game | Arcane Worlds | Ranmantaru Games | [steam](http://steamcommunity.com/app/269610) / [patch note](http://steamcommunity.com/app/269610/discussions/0/357288572127498771)
-| Game | Assassin's Creed Odyssey| Ubisoft | [blog](https://montreal.ubisoft.com/en/ubisoft-sponsors-user-interface-library-for-c-dear-imgui/)
-| Game | Assassin's Creed Origins | Ubisoft | [blog](https://montreal.ubisoft.com/en/ubisoft-sponsors-user-interface-library-for-c-dear-imgui/)
+| Game | Assassin's Creed Odyssey | **Ubisoft** | [blog](https://montreal.ubisoft.com/en/ubisoft-sponsors-user-interface-library-for-c-dear-imgui/)
+| Game | Assassin's Creed Origins | **Ubisoft** | [blog](https://montreal.ubisoft.com/en/ubisoft-sponsors-user-interface-library-for-c-dear-imgui/)
 | Game | Astro Bot Rescue Mission | Sony/SIE | [homepage](https://www.playstation.com/en-us/games/astro-bot-rescue-mission-ps4/) / [shot](https://user-images.githubusercontent.com/8225057/56029150-0f601a00-5d1a-11e9-9615-f4fd04a1d734.JPG)
 | App | AVETO.vis | B-plus | [homepage](https://www.b-plus.com/en/products/automotive/measurement-logging/avetorec/avetovis.html)
 | Game | Avoyd | Enki Software | [homepage](https://www.enkisoftware.com) / [shot](https://github.com/ocornut/imgui/issues/707#issuecomment-226993714)
@@ -40,10 +42,10 @@ Help us complete this list!
 | App | Cheevos Hunter | @leiradel | [github](https://github.com/leiradel/CheevosHunter) / [shot](https://raw.githubusercontent.com/leiradel/CheevosHunter/master/ch.png)
 | Game | Chrono-Drive | | [video](https://www.youtube.com/watch?v=gFbh4wxZ6DE&feature=youtu.be&t=2m3s) |
 | Misc | Cinder-Experiments | @simongeilfus | [github](https://github.com/simongeilfus/Cinder-Experiments)
-| Game | Clash of Clans | Supercell | [homepage](https://supercell.com/en/games/clashofclans/) / [shot](https://user-images.githubusercontent.com/8225057/81696947-e3572100-9464-11ea-8f96-d88db7379420.PNG)
-| Game | Control | Remedy Entertainment | [homepage](https://www.remedygames.com)
+| Game | Clash of Clans | **Supercell** | [homepage](https://supercell.com/en/games/clashofclans/) / [shot](https://user-images.githubusercontent.com/8225057/81696947-e3572100-9464-11ea-8f96-d88db7379420.PNG)
+| Game | Control | **Remedy Entertainment** | [homepage](https://www.remedygames.com)
 | App | CortexRecognition | Recognition Robotics | [homepage](http://www.recognitionrobotics.com) / [shots](https://github.com/ocornut/imgui/issues/123#issuecomment-114941904) / [photos](https://github.com/ocornut/imgui/issues/973#issuecomment-303784406)
-| Game | Crayta | Unit 2 Games | [web](https://crayta.com/) / [video](https://www.youtube.com/watch?v=yWArxAPI8Jg)
+| Game | Crayta | **Unit 2 Games** | [web](https://crayta.com/) / [video](https://www.youtube.com/watch?v=yWArxAPI8Jg)
 | Game | Crossout | Targem Games | [web](https://crossout.net) / [shot](https://user-images.githubusercontent.com/8225057/51042368-65f37600-15bc-11e9-99cf-36e9f9822610.jpg)
 | Game | Cyberpunk 2077 | CD Projekt Red | [homepage](https://www.cyberpunk.net/)
 | Game | DCS World | Eagle Dynamics | [homepage](https://www.digitalcombatsimulator.com/)
@@ -57,7 +59,7 @@ Help us complete this list!
 | Game | Door Kickers 2 | KillHouse | [video](https://twitter.com/inthekillhouse/status/1243610799979089921)
 | App | Dolphin Emulator | | [homepage](https://dolphin-emu.org) / [patch note](https://dolphin-emu.org/blog/2019/02/01/dolphin-progress-report-dec-2018-and-jan-2019/)
 | App | Downhole Imaging Technology | | [homepage](https://darkvisiontech.com/)
-| Game | Dreams | Media Molecule | [homepage](http://dreams.mediamolecule.com) |
+| Game | Dreams | **Media Molecule** | [homepage](http://dreams.mediamolecule.com) |
 | Game | Druidstone: The Secret of the Menhir Forest | Ctrl Alt Ninja | [credits](https://www.mobygames.com/game/windows/druidstone-the-secret-of-the-menhir-forest/credits)
 | Game | Dual Universe | Novaquark | [homepage](https://www.dualthegame.com) / [video](https://www.youtube.com/watch?v=WTvT4BAg7RI) |
 | Game | Dungeons of Everchange | Dark Gnosis | [homepage](http://www.darkgnosis.com/game/dungeons-of-everchange/) / [shots](https://github.com/ocornut/imgui/issues/1607#issuecomment-387039874) |
@@ -69,17 +71,17 @@ Help us complete this list!
 | Engine | EtherealEngine | | [github](https://github.com/volcoma/EtherealEngine) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-276082731)
 | Tech | Euclideon Vault | Euclideon | [homepage](https://www.euclideon.com/vaultinfo/) / [shot](https://user-images.githubusercontent.com/8225057/53256670-b6381a80-36c8-11e9-9c3e-f0a73af84e0d.JPG)
 | Game | Euro Truck Simulator 2 | SCS Software | [video](https://www.youtube.com/watch?v=rx43bLMZmxU)
-| Misc | Falcor | Nvidia | [github](https://github.com/NVIDIAGameWorks/Falcor)
+| Misc | Falcor | **Nvidia** | [github](https://github.com/NVIDIAGameWorks/Falcor)
 | Game | Fallout 76 | Bethesda | [homepage](https://fallout.bethesda.net) / [shot](https://user-images.githubusercontent.com/4228359/41322748-b9756e6e-6e78-11e8-8dfc-9a3437c1fd1a.png) 
 | App | F.E.I.S.: Jubeat chart editor | @Stepland | [github](https://github.com/Stepland/F.E.I.S.)
-| Game | FIA European Truck Racing Championship | Kylotonn | 
+| Game | FIA European Truck Racing Championship | **Kylotonn** | 
 | Game | Final Fantasy VII Remake | SquareEnix | [video](https://www.youtube.com/watch?time_continue=675&v=DliMpiemUy8)
-| Engine | Filament | Google | [github](https://github.com/google/filament)
+| Engine | Filament | **Google** | [github](https://github.com/google/filament)
 | Engine | FishEngine | @yushroom | [github](https://github.com/yushroom/FishEngine) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-282622054)
 | Game | Fisherboy | | [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-315665148) |
 | App | FlexBV | pldaniels | [homepage](https://pldaniels.com/flexbv/)
 | Game | Flight Simulator | Microsoft | [homepage](https://www.flightsimulator.com/) / [video](https://youtu.be/10P21oFOxAU?t=481)
-| Game | For Honor | Ubisoft | [blog](https://montreal.ubisoft.com/en/ubisoft-sponsors-user-interface-library-for-c-dear-imgui/)
+| Game | For Honor | **Ubisoft** | [blog](https://montreal.ubisoft.com/en/ubisoft-sponsors-user-interface-library-for-c-dear-imgui/)
 | Game | Fugl | Team Fugl | [steam](https://store.steampowered.com/app/643810/Fugl/) / [homepage](http://fuglgame.com) |
 | Game | Future Unfolding | Spaces of Play| [credits](https://www.mobygames.com/game/playstation-4/future-unfolding/credits)
 | Engine | GeeXLab | | [homepage](http://www.geeks3d.com/geexlab/)
@@ -130,7 +132,7 @@ Help us complete this list!
 | Game | Limit Theory | Procedural Reality | [homepage](http://ltheory.com/) / [blog](http://forums.ltheory.com/viewtopic.php?f=30&t=6459#p160975) / [shots](https://github.com/ocornut/imgui/issues/1607#issuecomment-372018336)
 | Misc | Linear algebra and collision detection | @gszauer| [github](https://github.com/gszauer/GamePhysicsCookbook)
 | Lib | LIONant Property System | @TomasArce | [gitlab](https://gitlab.com/LIONant/properties) / [shot](https://user-images.githubusercontent.com/7424060/56275269-ffd63c00-6132-11e9-8562-8aea040caac1.png)
-| Misc | Lullaby | Google | [github](https://github.com/google/lullaby)
+| Misc | Lullaby | **Google** | [github](https://github.com/google/lullaby)
 | Engine | Lumix Engine | @nem0 | [github](https://github.com/nem0/LumixEngine) / [shots](https://github.com/ocornut/imgui/issues/1269#issuecomment-322048463)
 | Game | Lumote | Luminawesome Games | [homepage](http://www.luminawesome.com) / [shot](https://github.com/ocornut/imgui/issues/539#issuecomment-199952613)
 | App | LuxCoreUI | | [github](https://github.com/LuxCoreRender/LuxCore) / [shots](https://github.com/ocornut/imgui/issues/123#issuecomment-163197372)
@@ -150,10 +152,10 @@ Help us complete this list!
 | App | nnview | @syoyo | [github](https://github.com/lighttransport/nnview) / [shot](https://user-images.githubusercontent.com/8225057/61595449-37c6a280-abac-11e9-991a-1c4246c9ccc3.jpg)
 | App | Nodable | @berdal84 | [github](https://github.com/berdal84/Nodable) / [video](https://www.youtube.com/watch?v=_9_wzS7Hme8)
 | App | NoodlesPlate | @aiekick | [github](https://github.com/aiekick/NoodlesPlate) / [videos](https://twitter.com/search?src=typd&q=noodlesplate)
-| Engine | Northlight | Remedy Entertainment | [homepage](https://www.remedygames.com/northlight)
+| Engine | Northlight | **Remedy Entertainment** | [homepage](https://www.remedygames.com/northlight)
 | App | npp-trener | | [homepage](http://npp-trener.ru/) / [shot](https://user-images.githubusercontent.com/8225057/61595512-03071b00-abad-11e9-8a64-a7f59f2cdf3b.jpg)
-| App | NVIDIA Omniverse viewer | Nvidia | [homepage](https://developer.nvidia.com/nvidia-omniverse) / [video](https://github.com/ocornut/imgui/issues/2529#issuecomment-495553527)
-| App | NVIDIA Texture Tools Exporter | Nvidia | [homepage](https://developer.nvidia.com/nvidia-texture-tools-exporter) / [shot](https://user-images.githubusercontent.com/8225057/78002103-f8ee0c80-7336-11ea-9fe6-660e22f3e3f0.jpg)
+| App | NVIDIA Omniverse viewer | **Nvidia** | [homepage](https://developer.nvidia.com/nvidia-omniverse) / [video](https://github.com/ocornut/imgui/issues/2529#issuecomment-495553527)
+| App | NVIDIA Texture Tools Exporter | **Nvidia** | [homepage](https://developer.nvidia.com/nvidia-texture-tools-exporter) / [shot](https://user-images.githubusercontent.com/8225057/78002103-f8ee0c80-7336-11ea-9fe6-660e22f3e3f0.jpg)
 | App | Oculus Home | Oculus |  
 | App | Oculus Medium | Oculus | [homepage](https://www.oculus.com/medium/)
 | App | Oculus Monitor | @rajetic | [post](https://forums.oculusvr.com/community/discussion/69471/oculus-monitor) / [github](https://github.com/rajetic/OculusMonitor)
@@ -219,8 +221,8 @@ Help us complete this list!
 | Game | Super Crush KO | Vertex Pop | [homepage](http://www.vertexpop.com/supercrushko/)
 | Game | Swords of Calengal | United Lines Studio | [homepage](https://www.unitedlinesstudio.com/)
 | App | tacit-texview | @bluescan | [github](https://github.com/bluescan/tacit-texview) / [shots](https://github.com/ocornut/imgui/issues/2847#issuecomment-570201599)
-| Game | Tearaway | Media Molecule | [homepage](http://tearaway.mediamolecule.com/)
-| Game | Tearaway Unfolded | Media Molecule | [homepage](http://tearaway.mediamolecule.com/) / [shots](https://github.com/ocornut/imgui/issues/539#issuecomment-193710713)
+| Game | Tearaway | **Media Molecule** | [homepage](http://tearaway.mediamolecule.com/)
+| Game | Tearaway Unfolded | **Media Molecule** | [homepage](http://tearaway.mediamolecule.com/) / [shots](https://github.com/ocornut/imgui/issues/539#issuecomment-193710713)
 | Game | Teardown | [homepage](http://teardowngame.com) / [shot](https://user-images.githubusercontent.com/8225057/79001463-d3d77600-7b4e-11ea-9d7c-7469157f5feb.jpg)
 | App | Texeled | @thennequin | [github](https://github.com/thennequin/Texeled)
 | App | TexGraph | @galloscript | [web](https://galloscript.itch.io/texgraph)
@@ -228,14 +230,14 @@ Help us complete this list!
 | Engine | Thorium 3D | | [shots](https://github.com/ocornut/imgui/issues/772#issuecomment-268208362) / [shots](https://github.com/ocornut/imgui/issues/973#issuecomment-286752876)
 | App | Timelapse View for HG | @jschmidt42 | [github](https://github.com/jschmidt42/timelapse)
 | App | Tiny8bit | @floooh | [web](https://floooh.github.io/tiny8bit/) / [shot](https://user-images.githubusercontent.com/1699414/50175000-02976080-02fc-11e9-9e51-42369c8e5792.png)
-| Game | Tom Clancy's Ghost Recon Breakpoint | Ubisoft | [homepage](https://ghost-recon.ubisoft.com/game/en-us/breakpoint)
-| Game | Tom Clancy's Rainbow Six Siege | Ubisoft | [blog](https://montreal.ubisoft.com/en/ubisoft-sponsors-user-interface-library-for-c-dear-imgui/) / [shots](https://github.com/ocornut/imgui/issues/2847#issuecomment-567692465)
+| Game | Tom Clancy's Ghost Recon Breakpoint | **Ubisoft** | [homepage](https://ghost-recon.ubisoft.com/game/en-us/breakpoint)
+| Game | Tom Clancy's Rainbow Six Siege | **Ubisoft** | [blog](https://montreal.ubisoft.com/en/ubisoft-sponsors-user-interface-library-for-c-dear-imgui/) / [shots](https://github.com/ocornut/imgui/issues/2847#issuecomment-567692465)
 | App | Tracy | | [bitbucket](https://bitbucket.org/wolfpld/tracy/src/master/) / [video](https://www.youtube.com/watch?v=fB5B46lbapc)
 | Engine | Tristeon | | [github](https://github.com/HyperionDH/Tristeon)
-| Game | TT Isle of Man: Ride of the Edge | Kylotonn | [shots](https://github.com/ocornut/imgui/issues/1269#issuecomment-322049726)
+| Game | TT Isle of Man: Ride of the Edge | **Kylotonn** | [shots](https://github.com/ocornut/imgui/issues/1269#issuecomment-322049726)
 | App | TwoTriangles | @fabioarnold | [github](https://github.com/fabioarnold/TwoTriangles)
 | Engine | Unknown engine | @antoniozero | [shot](https://github.com/ocornut/imgui/issues/1269#issuecomment-320994182)
-| Game | Unknown project | Blizzard | [ref](https://careers.blizzard.com/en-gb/openings/oehNafwc)
+| Game | Unknown project | **Blizzard** | [ref](https://careers.blizzard.com/en-gb/openings/oehNafwc)
 | App | Unknown tool | @thedmd | [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-244512595)
 | App | Unknown tool | @r-lyeh | [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-239956235)
 | App | Unknown tool | @invghost | [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-257132835)
@@ -253,23 +255,23 @@ Help us complete this list!
 | App | Virtual Reality Neuron Tracer | Visus | [steam](https://store.steampowered.com/app/791040/Virtual_Reality_Neuron_Tracer/)
 | App | Visual Designer 3D | | [video](https://www.youtube.com/watch?v=211NzYhNSFQ)
 | App | VK Pipeline Layout Editor | | [shot](https://github.com/ocornut/imgui/issues/539#issuecomment-236273659)
-| Game | V-Rally 4 | Kylotonn | 
+| Game | V-Rally 4 | **Kylotonn** | 
 | Game | VRMONLINE-NX | | [homepage](https://vrmcloud.net/nx/beta)
 | Demo | VX2 | Spectrals | [homepage](http://www.pouet.net/prod.php?which=85304) / [shot](https://github.com/ocornut/imgui/issues/3075#issuecomment-613415534)
-| Game | Warcraft III: Reforged | Blizzard | [homepage](https://playwarcraft3.com)
+| Game | Warcraft III: Reforged | **Blizzard** | [homepage](https://playwarcraft3.com)
 | Game | Warfork | | [steam](https://store.steampowered.com/app/671610/Warfork/)
 | Game | Warhammer: Chaosbane | Eko Software | [steam](https://store.steampowered.com/app/774241/Warhammer_Chaosbane/) / [shots](https://github.com/ocornut/imgui/issues/2847#issuecomment-560856396)
 | App | WaveEdit | | [homepage](http://synthtech.com/waveedit/) / [github](https://github.com/AndrewBelt/WaveEdit)
 | App | wave-gui | | [github](https://github.com/ggerganov/wave-gui)
 | App | What The Loop | | [homepage](https://whattheloop.net/) / [shot](https://github.com/ocornut/imgui/issues/1269#issuecomment-332807951)
-| Game | Windjammers 2 | Dotemu | [homepage](http://www.dotemu.com/game/windjammers-2/)
+| Game | Windjammers 2 | **Dotemu** | [homepage](http://www.dotemu.com/game/windjammers-2/)
 | Game | WiLD | Wild Sheep Studio | [homepage](http://www.wildsheepstudio.com) / [shots](https://github.com/ocornut/imgui/issues/539#issuecomment-193720307) |
 | Game | Wonder Boy: The Dragon's Trap | Lizardcube | [homepage](http://www.TheDragonsTrap.com) / [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-262975159) |
 | Engine | Wonderland Engine | Vhite Rabbit | [web](https://www.wonderlandengine.com) / [shot](https://user-images.githubusercontent.com/8225057/76844857-3bdfb880-683e-11ea-979a-29e36e9e3d74.png)
 | Game | World of Tanks Blitz | Wargaming | [homepage](https://wotblitz.com/)
-| Game | WRC 7 | Kylotonn | 
-| Game | WRC 8 | Kylotonn | 
+| Game | WRC 7 | **Kylotonn** | 
+| Game | WRC 8 | **Kylotonn** | 
 | Plugin | XSquawkBox 2.0 | | [homepage](http://xsb.xsquawkbox.net/) / [shot](http://xsb.xsquawkbox.net/wp-content/uploads/sites/6/2018/03/XSB-NewUI-WIP.png) / [github](https://github.com/kuroneko/xsb_public/) |
 | Engine | XT | | [github](https://github.com/invghost/XT) |
 | Misc | Zep | | [github](https://github.com/cmaughan/zep) |
-| Game | Zombie Tsunami | Mobigame | [appstore](https://itunes.apple.com/us/app/zombie-tsunami/id529652920?mt=8)
+| Game | Zombie Tsunami | **Mobigame** | [appstore](https://itunes.apple.com/us/app/zombie-tsunami/id529652920?mt=8)
