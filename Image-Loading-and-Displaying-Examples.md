@@ -16,6 +16,8 @@ This is generally done in two steps:
 
 Once you have an image in GPU texture memory, you can use functions such as `ImGui::Image()` to request Dear ImGui to create a draw command that your Dear ImGui rendering back-end will turn into a draw call.
 
+(Note: Large games and applications are likely to be using texture formats that are compressed on the GPU or more advanced techniques that are outside of the scope of this article. Generally, if you are reading this you shouldn't need to worry or care about that.)
+
 ## About filenames
 
 **Please note that many new C/C++ users have issues their files _because the filename they provide is wrong_.**
@@ -256,7 +258,7 @@ The renderer function called after ImGui::Render() will receive that same value 
 MyTexture* texture = (MyTexture*)pcmd->TextureId;
 MyEngineBindTexture2D(texture);
 ```
-Once you understand this design you will understand that loading image files and turning them into displayable textures is not within the scope of Dear ImGui. This is by design and is actually a good thing, because it means your code has full control over your data types and how you display them. If you want to display an image file (e.g. PNG file) into the screen, please refer to documentation and tutorials for the graphics API you are using.
+Once you understand this design you can begin understand that loading image files and turning them into displayable textures is not within the scope of Dear ImGui. This is by design and is actually a good thing, because it means your code has full control over your data types and how you display them. In reality, the concept of what constitute a "texture" is largely open-ended, and Dear ImGui doesn't want to narrow that concept. If you want to display an image file (e.g. PNG file) into the screen, please refer to tutorials above.
 
 Finally, you may call `ImGui::ShowMetricsWindow()` to explore/visualize/understand how the ImDrawList are generated.
 
@@ -264,7 +266,9 @@ Finally, you may call `ImGui::ShowMetricsWindow()` to explore/visualize/understa
 
 See e.g. http://wiki.polycount.com/wiki/Texture_Coordinates
 
-The `ImGui::Image()` and `ImDrawList::AddImage()` functions allow you to pass "UV coordinates" corresponding to the upper-left and bottom-right portion of the texture you want to display. Using the default values, respectively `(0.0f, 0.0f)` and `(1.0f, 1.0f)` for those coordinates allow you to display the entire underlying texture. UV coordinates are traditionally normalized coordinates, meaning that for each axis, instead of counting a number of pixels in each axis, we address a location in the texture using a number from 0.0f to 1.0f. So (0.0f, 0.0f) is generally adressing the upper-left section of the texture and (1.0f, 1.0f) is addressing the lower-right corner of the texture.
+For the purpose of this section we use "Texture Coordinates" and "UV Coordinates" interchangeably.
+
+The `ImGui::Image()` and `ImDrawList::AddImage()` functions allow you to pass "UV coordinates" corresponding to the upper-left and bottom-right portion of the texture you want to display. Using the default values, respectively `(0.0f, 0.0f)` and `(1.0f, 1.0f)` for those coordinates allow you to display the entire underlying texture. UV coordinates are traditionally normalized coordinates, meaning that for each axis, instead of counting a number of texels, we address a location in the texture using a number from 0.0f to 1.0f. So (0.0f, 0.0f) is generally addressing the upper-left section of the texture and (1.0f, 1.0f) is addressing the lower-right corner of the texture.
 
 If you want to display part of a texture, say display a 100x200 rectangle stored from pixel (10,10) to pixel (110,210) out of a 256x256 texture, you will need to calculate the normalized coordinates of those pixels:
 
