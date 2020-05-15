@@ -55,7 +55,7 @@ Help us complete this list!
 | Game | Devil Daggers | Sorath | [homepage](http://devildaggers.com/) / [steam](https://store.steampowered.com/app/422970/Devil_Daggers/)
 | Engine | DiligentEngine | | [github](https://github.com/DiligentGraphics/DiligentEngine)
 | Engine | Directus3D | @PanosK92 | [github](https://github.com/PanosK92/Directus3D) / [shot](https://raw.githubusercontent.com/PanosK92/Directus3D/master/Assets/screenshot-v0.3_preview2.jpg)
-| Game | Doom Eternal | id Software | [shot](https://user-images.githubusercontent.com/8225057/77301209-93bf6900-6cef-11ea-9e89-9b4334ef6f53.jpg)
+| Game | Doom Eternal | id Software | [shot](https://user-images.githubusercontent.com/8225057/77301209-93bf6900-6cef-11ea-9e89-9b4334ef6f53.jpg) / [credits](https://www.mobygames.com/game/windows/doom-eternal/credits)
 | Game | Door Kickers 2 | KillHouse | [video](https://twitter.com/inthekillhouse/status/1243610799979089921)
 | App | Dolphin Emulator | | [homepage](https://dolphin-emu.org) / [patch note](https://dolphin-emu.org/blog/2019/02/01/dolphin-progress-report-dec-2018-and-jan-2019/)
 | App | Downhole Imaging Technology | | [homepage](https://darkvisiontech.com/)
