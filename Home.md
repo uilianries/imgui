@@ -1,6 +1,6 @@
 | Index |
 :----------------------------------------------------------: |
-| [Discussions](#discussions) - [Wiki Pages](#Wiki-pages) - [Tutorials](#Tutorials) - [Useful Widgets & References](#Useful-widgets--references) - [Articles, Videos, etc.](#articles-videos-blog-posts) |
+| [Discussions](#discussions) - [Wiki Pages](#Wiki-pages) - [Tutorials](#Tutorials) - [Useful Widgets & References](#Useful-widgets--references) - [External Articles, Videos, etc.](#external-articles-videos-blog-posts) |
 
 Welcome to the Dear ImGui wiki! Always in construction - feel free to edit and contribute!
 
@@ -185,7 +185,7 @@ Thank you to every past and present [[Sponsors]] for making this project possibl
 - im3d (Immediate mode rendering and 3d gizmos) https://github.com/john-chapman/im3d/projects
 - small libraries with minimal dependencies https://github.com/nothings/single_file_libs
 
-## Articles, Videos, Blog Posts
+## External Articles, Videos, Blog Posts
 
 ### About the IMGUI paradigm
 
