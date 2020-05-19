@@ -44,6 +44,8 @@ Also see our [[Glossary]] about Docking terminology.
 - Explain dockspace (~~ node positioned within an existing window)
 - Explain central node
 
+#### Dockbuider api
+
 #### Debugging
 
 - Metrics window.
