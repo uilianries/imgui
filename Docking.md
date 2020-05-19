@@ -1,4 +1,4 @@
-## About Docking
+## Preamble
 
 #### Where to find it?
 
@@ -22,3 +22,17 @@ However, you can benefit from a lot of docking features without being impacted b
 In addition, Docking will only move forward with feedback from users, so the more people using it, the closer we are to a reach mergeable version. TL;DR; is totally fine to use for most users.
 
 ## Usage Guide
+
+Also see our [[Glossary]] about Docking terminology.
+
+#### Docking
+
+- Merge into existing node
+- Split existing node
+
+#### Undocking
+
+- Undock a window from a node
+- Undock a node from a hierarchy
+
+#### Persistence model
