@@ -35,4 +35,16 @@ Also see our [[Glossary]] about Docking terminology.
 - Undock a window from a node
 - Undock a node from a hierarchy
 
-#### Persistence model
+#### Settings, Persistence model
+
+- Explain how/why the data persist
+
+#### Dockspace
+
+- Explain dockspace (~~ node positioned within an existing window)
+- Explain central node
+
+#### Debugging
+
+- Metrics window.
+- Enable `IMGUI_DEBUG_LOG_DOCKING()`
