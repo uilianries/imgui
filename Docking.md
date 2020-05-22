@@ -31,11 +31,14 @@ Also see our [[Glossary]] about Docking terminology.
 
 - Merge into existing node
 - Split existing node
+  ![capture_docking_wiki_gif_0000](https://user-images.githubusercontent.com/19151258/82666639-fde88180-9c3e-11ea-8e61-d241195f76a0.gif)
 
 #### Undocking
 
 - Undock a window from a node
+  ![capture_docking_wiki_gif_0001](https://user-images.githubusercontent.com/19151258/82666642-ff19ae80-9c3e-11ea-858b-fb00e3d43482.gif)
 - Undock a node from a hierarchy
+  ![capture_docking_wiki_gif_0002](https://user-images.githubusercontent.com/19151258/82666644-ff19ae80-9c3e-11ea-9ca5-fac0193eb4ff.gif)
 
 #### Settings, Persistence model
 
