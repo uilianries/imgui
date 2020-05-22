@@ -163,6 +163,7 @@ Thank you to every past and present [[Sponsors]] for making this project possibl
 - Bimpy: bundled imgui for python: https://github.com/podgorskiy/bimpy
 - imgui_dojo: an easy setup example for imgui https://github.com/LiuZHolmes/imgui_dojo
 - mahi-gui: Dirt Simple C++ GUI Toolkit using GLFW, glad, and ImGui https://github.com/mahilab/mahi-gui
+- sdl-bgfx-imgui-starter: A starter project for graphics applications https://github.com/pr0g/sdl-bgfx-imgui-starter
 
 ### Rust
 
