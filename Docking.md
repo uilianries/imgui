@@ -30,15 +30,20 @@ Also see our [[Glossary]] about Docking terminology.
 #### Docking
 
 - Merge into existing node
+
+  ![capture_docking_wiki_gifs_0001](https://user-images.githubusercontent.com/19151258/82671137-ffb64300-9c46-11ea-8e98-1a78a128882d.gif)
 - Split existing node
-  ![capture_docking_wiki_gif_0000](https://user-images.githubusercontent.com/19151258/82666639-fde88180-9c3e-11ea-8e61-d241195f76a0.gif)
+
+  ![capture_docking_wiki_gifs_0000](https://user-images.githubusercontent.com/19151258/82671136-ff1dac80-9c46-11ea-8794-6220d5bad078.gif)
 
 #### Undocking
 
 - Undock a window from a node
-  ![capture_docking_wiki_gif_0001](https://user-images.githubusercontent.com/19151258/82666642-ff19ae80-9c3e-11ea-858b-fb00e3d43482.gif)
+
+  ![capture_docking_wiki_gifs_0002](https://user-images.githubusercontent.com/19151258/82671170-0d6bc880-9c47-11ea-88fb-5761d163439a.gif)
 - Undock a node from a hierarchy
-  ![capture_docking_wiki_gif_0002](https://user-images.githubusercontent.com/19151258/82666644-ff19ae80-9c3e-11ea-9ca5-fac0193eb4ff.gif)
+
+  ![capture_docking_wiki_gifs_0003](https://user-images.githubusercontent.com/19151258/82671172-0e045f00-9c47-11ea-88b2-d84e18be2b6b.gif)
 
 #### Settings, Persistence model
 
