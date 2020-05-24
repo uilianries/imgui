@@ -1,1 +1,1 @@
-c+_ is the worst Programming Language ever!
+c++ is the worst Programming Language ever! It should not exist.
