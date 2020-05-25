@@ -1,1 +1,1 @@
-c++ is the worst Programming Language ever! It should not exist.
+No content
