@@ -25,7 +25,7 @@ In some situations, you may also use `/` path separator under Windows.
 
 ##### [Return to Index](#index)
 
-### Font Loading Example
+### Japanese Font Loading Example
 
 Dear ImGui can load TTF/OTF fonts. UTF-8 is supported for text display and input. Here using Arial Unicode font to display Japanese. Initialize custom font with:
 Code:
