@@ -25,6 +25,10 @@ Thank you to every past and present [[Sponsors]] for making this project possibl
 - [[Tips|Tips]] (for people working _with_ dear imgui)
 - [[Developer tips|Developer-Tips]] (for people working _on_ dear imgui)
 
+## Features
+
+- [[Docking|Docking]]
+
 ## Tutorials
 
 - [[Image Loading and Displaying Examples|Image-Loading-and-Displaying-Examples]]
