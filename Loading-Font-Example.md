@@ -1,7 +1,7 @@
 ## Index
 
 - [About filenames](#about-filenames)
-- [Font Loading Example](#font-loading-example)
+- [Japanese Font Loading Example](#japanese-font-loading-example)
 
 ## About filenames
 
