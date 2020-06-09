@@ -26,8 +26,8 @@ Thank you to every past and present [[Sponsors]] for making this project possibl
 
 ## Tutorials
 
+- [[Font Loading Examples|Loading-Font-Examples]]
 - [[Image Loading and Displaying Examples|Image-Loading-and-Displaying-Examples]]
-- [[Font Loading Example|Loading-Font-Example]]
 
 ## Issues: Some Important Topics
 
