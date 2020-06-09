@@ -16,6 +16,7 @@ Thank you to every past and present [[Sponsors]] for making this project possibl
 
 - **[[Language bindings, Framework/Engine bindings/backends|Bindings]]**
 - [[FAQ (Frequently Asked Questions)|https://github.com/ocornut/imgui/blob/master/docs/FAQ.md]]
+- [[Fonts Documentation|https://github.com/ocornut/imgui/blob/master/docs/FONTS.md]]
 - [[Glossary|Glossary]]
 - [[Software using dear imgui|Software-using-dear-imgui]]
 - [[User quotes|Quotes]]
@@ -26,7 +27,6 @@ Thank you to every past and present [[Sponsors]] for making this project possibl
 
 ## Tutorials
 
-- [[Font Loading Examples|Loading-Font-Examples]]
 - [[Image Loading and Displaying Examples|Image-Loading-and-Displaying-Examples]]
 
 ## Issues: Some Important Topics
