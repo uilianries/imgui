@@ -275,3 +275,4 @@ Help us complete this list!
 | Engine | XT | | [github](https://github.com/invghost/XT) |
 | Misc | Zep | | [github](https://github.com/cmaughan/zep) |
 | Game | Zombie Tsunami | **Mobigame** | [appstore](https://itunes.apple.com/us/app/zombie-tsunami/id529652920?mt=8)
+| Engine | Hazel | | [github](https://github.com/theCherno/hazel) / [shot]
