@@ -4,6 +4,7 @@ _NB: those bindings may be more or less maintained, more or less close to the sp
 
 | Language | Project |
 |------------|---|
+| Beef       |https://github.com/qzole/imgui-beef
 | C          | **cimgui**: auto-generated c-api wrapper for Dear ImGui <br>\*\***(json/lua output can be used to automatically generate other bindings**)\*\*<br>https://github.com/cimgui/cimgui |
 | C#/.Net    | **ImGui.NET**: An ImGui wrapper for .NET Core <br>https://github.com/mellinoe/ImGui.NET |
 | ChaiScript | **imgui-chaiscript**: ChaiScript bindings for ImGui <br>https://github.com/JuJuBoSc/imgui-chaiscript |
