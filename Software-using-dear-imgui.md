@@ -52,6 +52,7 @@ Help us complete this list!
 | App | Decaf | | [github](https://github.com/decaf-emu/decaf-emu)
 | App | DefleMask | Leonardo Demartino | [homepage](http://www.deflemask.com/) / [appstore](https://itunes.apple.com/app/deflemask/id1390797126) / [playstore](https://play.google.com/store/apps/details?id=com.deflemask.mobile)
 | Game | Deformers | Ready at Dawn | [homepage](https://www.deformers.com/)
+| App | Desktop+ OpenVR Overlay | @elvissteinjr | [github](https://github.com/elvissteinjr/DesktopPlus) / [shot](https://raw.githubusercontent.com/elvissteinjr/DesktopPlus/master/docs/screenshot.jpg)
 | Game | Devil Daggers | Sorath | [homepage](http://devildaggers.com/) / [steam](https://store.steampowered.com/app/422970/Devil_Daggers/)
 | Engine | DiligentEngine | | [github](https://github.com/DiligentGraphics/DiligentEngine)
 | Engine | Directus3D | @PanosK92 | [github](https://github.com/PanosK92/Directus3D) / [shot](https://raw.githubusercontent.com/PanosK92/Directus3D/master/Assets/screenshot-v0.3_preview2.jpg)
