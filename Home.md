@@ -144,6 +144,10 @@ Thank you to every past and present [[Sponsors]] for making this project possibl
 - ImTui: Immediate Mode Text-based User Interface https://github.com/ggerganov/imtui
 - tear imgui: Experiment for a terminal-based renderer for imgui https://github.com/jonvaldes/tear_imgui
 
+### Midi/OSC interfacing
+- midi2osc: midi to opensoundcontrol bridge https://github.com/mmalex/midi2osc
+- devmidi: A simple MIDI input library that also dovetails into Dear ImGui https://github.com/antonthefirst/devmidi
+
 ### Other
 
 - imgui_freetype renderer: [imgui/misc/freetype/](https://github.com/ocornut/imgui/tree/master/misc/freetype) (in main repo)
