@@ -137,7 +137,8 @@ Thank you to every past and present [[Sponsors]] for making this project possibl
 ### Remoting
 
 - RemoteImGui: send vertices over the network https://github.com/JordiRos/remoteimgui
-- imgui-ws: ImGui over WebSockets https://github.com/ggerganov/imgui-ws
+- imgui-ws: Dear ImGui over WebSockets https://github.com/ggerganov/imgui-ws
+- netImGui: Dear ImGui remote access library and application https://github.com/sammyfreg/netImgui
 - Android GLES3 stub with RemoteImGui: https://github.com/CedricGuillemet/AndroidAppViewer
 
 ### Terminal / Text mode
