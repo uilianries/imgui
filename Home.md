@@ -170,6 +170,7 @@ Thank you to every past and present [[Sponsors]] for making this project possibl
 - Starter project for portable app with optional GUI (GLFW/ImGui) https://github.com/abdes/asap
 - Starter dear-imgui GLFW/OpenGL 3 based CMake C++ project: https://github.com/urddru/imgui-glfw
 - Bimpy: bundled imgui for python: https://github.com/podgorskiy/bimpy
+- giu: Cross platform rapid GUI framework for golang based on Dear ImGui. https://github.com/AllenDang/giu
 - imgui_dojo: an easy setup example for imgui https://github.com/LiuZHolmes/imgui_dojo
 - mahi-gui: Dirt Simple C++ GUI Toolkit using GLFW, glad, and ImGui https://github.com/mahilab/mahi-gui
 - sdl-bgfx-imgui-starter: A starter project for graphics applications https://github.com/pr0g/sdl-bgfx-imgui-starter
