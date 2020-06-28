@@ -19,6 +19,7 @@ Ongoing dear imgui development is financially supported by users and private ent
 - [Nadeo](https://www.nadeo.com)
 - [Next Level Games](https://www.nextlevelgames.com/)
 - [Supercell](http://www.supercell.com)
+- [RAD Game Tools](http://www.radgametools.com)
 - [Recognition Robotics](https://recognitionrobotics.com/)
 - [Remedy Entertainment](https://www.remedygames.com/)
 - [Unit 2 Games](https://unit2games.com/)
