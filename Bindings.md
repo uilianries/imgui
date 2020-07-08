@@ -17,7 +17,7 @@ _NB: those bindings may be more or less maintained, more or less close to the sp
 | JavaScript | **imgui-js**: JavaScript bindings for Dear ImGui using Emscripten and TypeScript <br>https://github.com/flyover/imgui-js + also see [web demo](https://flyover.github.io/imgui-js/example/) |
 | Julia      | **CImGui.jl**: Julia wrapper for cimgui <br>https://github.com/Gnimuc/CImGui.jL |
 | Kotlin     | **kotlin-imgui**: Kotlin bindings for Dear ImGui<br>https://github.com/Dominaezzz/kotlin-imgui
-| Lua        | **LuaJIT-ImGui**: LuaJIT ffi binding for imgui and implementations <br>https://github.com/sonoro1234/LuaJIT-ImGui <br>**imgui_lua_bindings**: imgui bindings for lua (also see LÖVE binding) <br>https://github.com/patrickriordan/imgui_lua_bindings <br> **lua-ffi-bindings**: FFI bindings for LuaJIT <br>https://github.com/thenumbernine/lua-ffi-bindings |
+| Lua        | **LuaJIT-ImGui**: LuaJIT ffi binding for imgui and implementations <br>https://github.com/sonoro1234/LuaJIT-ImGui <br>**imgui_lua_bindings**: imgui bindings for lua (also see LÖVE binding) <br>https://github.com/patrickriordan/imgui_lua_bindings <br> **lua-ffi-bindings**: FFI bindings for LuaJIT <br>https://github.com/thenumbernine/lua-ffi-bindings <br>**sol2_imgui_bindings**: ImGui bindings for Sol2 <br>https://github.com/MSeys/sol2_ImGui_Bindings |
 | Nim        | **nim-imgui**: cimgui bindings for Nim <br>https://github.com/nimgl/imgui |
 | Odin       | **odin-imgui**: Odin binding for Dear ImGui <br>https://github.com/ThisDrunkDane/odin-imgui |
 | Pascal     | **imgui-pas**: pascal bindings for imgui <br>https://github.com/dpethes/imgui-pas |
