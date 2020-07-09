@@ -41,6 +41,7 @@ Main repository include examples for DirectX9, DirectX10, DirectX11, DirectX12, 
 | Cinder | **Cinder-ImGui**:<br>https://github.com/simongeilfus/Cinder-ImGui
 | Cocos2d-x | **imguix**:<br>https://github.com/c0i/imguix <br>**cocos2dx-imgui**:<br>https://github.com/Mjarkiew/cocos2dx-imgui and [#551](https://github.com/ocornut/imgui/issues/551)
 | Diligent Engine | **DiligentTools**:<br>[DiligentTools](https://github.com/DiligentGraphics/DiligentTools/blob/master/Imgui/src/ImGuiImplDiligent.cpp), [example](https://github.com/DiligentGraphics/DiligentSamples/tree/master/Samples/ImguiDemo) |
+| Ebiten | **ebiten-imgui**:<br>https://github.com/gabstv/ebiten-imgui |
 | Flexium | **FlexGUI**:<br>https://github.com/DXsmiley/FlexGUI |
 | GML / GameMaker Studio 2 | **ImGuiGML**:<br>https://marketplace.yoyogames.com/assets/6221/imguigml |
 | GLEQ | Event processing:<br>[#3034](https://github.com/ocornut/imgui/issues/3034)
