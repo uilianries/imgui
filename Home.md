@@ -105,6 +105,13 @@ Thank you to every past and present [[Sponsors]] for making this project possibl
 - LayoutWidget #2779 https://github.com/xpenatan/jDear-imgui/tree/master/extensions/imgui-layout-widget
 - Issues "useful widgets" Tag: https://github.com/ocornut/imgui/labels/useful%20widgets
 
+### Virtual Reality (VR) / Reprojected UI plane
+
+- ImGuiVR: Demo code for using Imgui with OpenVR [[github](https://github.com/temcgraw/ImguiVR)] [[video](https://www.youtube.com/watch?v=nlwfn4HJw5E)]
+- Desktop+ https://github.com/elvissteinjr/DesktopPlus
+- BIMXplorer https://www.bimxplorer.com/
+- mpFluid CAVE Front End https://github.com/sariug/mpfluid_cave_frontend
+
 ### Third party repos
 
 - @flix01's addons: [ImGui-Addons-Branch-Home](https://github.com/Flix01/imgui/wiki/ImGui-Addons-Branch-Home) for instructions and [github repo](https://github.com/Flix01/imgui) for code.
@@ -113,7 +120,6 @@ Thank you to every past and present [[Sponsors]] for making this project possibl
 - @nem0's snippets (in imgui_user.* files) https://github.com/nem0/LumixEngine/tree/master/external/imgui
 - @aoterodelaroza's snippets [[github](https://github.com/aoterodelaroza/imgui-goodies)]
 - MetricsGui: controls for displaying performance metrics [[github](https://github.com/GameTechDev/MetricsGui)]
-- ImGuiVR: Demo code for using Imgui with OpenVR [[github](https://github.com/temcgraw/ImguiVR)] [[video](https://www.youtube.com/watch?v=nlwfn4HJw5E)]
 
 ### Software Renderer/Rasterizer
 
