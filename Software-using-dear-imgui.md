@@ -209,6 +209,7 @@ Help us complete this list!
 | Game | Shenmue I & II (2018) | Sega, d3t | [homepage](https://shenmue.sega.com)
 | App | Slic3r Prusa Edition | Prusa Research | [github](https://github.com/prusa3d/Slic3r)
 | Game | SNES Classic Mini | Nintendo | [shot](https://user-images.githubusercontent.com/8225057/31039823-4aef87e2-a581-11e7-8329-077f5ded258d.jpg)
+| App | SmartPeak2 | | [github](https://github.com/dmccloskey/SmartPeak2)
 | App | SoShade | @aiekick | [shot](https://twitter.com/aiekick/status/915133246157008896)
 | App | SpecialK Modding System | | [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-295128588)
 | App | Speljongen | | [github](https://github.com/fallahn/speljongen) / [video](https://twitter.com/TrederiaGames/status/1010566791062605824)
