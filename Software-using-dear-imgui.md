@@ -60,6 +60,7 @@ Help us complete this list!
 | Game | Door Kickers 2 | KillHouse | [video](https://twitter.com/inthekillhouse/status/1243610799979089921)
 | App | Dolphin Emulator | | [homepage](https://dolphin-emu.org) / [patch note](https://dolphin-emu.org/blog/2019/02/01/dolphin-progress-report-dec-2018-and-jan-2019/)
 | App | Downhole Imaging Technology | | [homepage](https://darkvisiontech.com/)
+| Engine | Dreaded Portal Engine | @Bram_Ridder | [homepage](http://bramridder.com/conc8/index.php/hobby-projects/projects/dreaded-portal-engine) / [youtube](https://www.youtube.com/bramridder) / [shot](https://user-images.githubusercontent.com/8752240/88486655-38d89f80-cf77-11ea-973b-4269cebc31a0.png)
 | Game | Dreams | **Media Molecule** | [homepage](http://dreams.mediamolecule.com) |
 | Game | Druidstone: The Secret of the Menhir Forest | Ctrl Alt Ninja | [credits](https://www.mobygames.com/game/windows/druidstone-the-secret-of-the-menhir-forest/credits)
 | Game | Dual Universe | Novaquark | [homepage](https://www.dualthegame.com) / [video](https://www.youtube.com/watch?v=WTvT4BAg7RI) |
