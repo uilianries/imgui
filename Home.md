@@ -199,7 +199,7 @@ Thank you to every past and present [[Sponsors]] for making this project possibl
 
 - stb (stb single-file public domain libraries for C/C++) https://github.com/nothings/stb
 - str (lightweight C++ string type with an optional local buffer) https://github.com/ocornut/Str
-- nuklear (A single-header ANSI C gui library) https://github.com/vurtun/nuklear
+- nuklear (A single-header ANSI C gui library) https://github.com/Immediate-Mode-UI/Nuklear
 - im3d (Immediate mode rendering and 3d gizmos) https://github.com/john-chapman/im3d/projects
 - small libraries with minimal dependencies https://github.com/nothings/single_file_libs
 
