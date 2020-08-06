@@ -13,6 +13,7 @@ _NB: those bindings may be more or less maintained, more or less close to the sp
 | Go         | **imgui-go**: Go wrapper library for "Dear ImGui" <br> https://github.com/inkyblackness/imgui-go |
 | Haskell    | **imgui-haskell**: Haskell bindings for Dear ImGui <br>https://github.com/dbousamra/imgui-haskell
 | Haxe/hxcpp | **linc_imgui**: binding for imgui <br>https://github.com/Aidan63/linc_imgui |
+| Haxe/Heaps | **hlimgui**: [Heaps](https://heaps.io/) game engine binding for Dear ImGui <br>https://github.com/haddock7/hlimgui |
 | Java       | **jimgui**: Pure Java binding for dear imgui <br>https://github.com/ice1000/jimgui <br>**imgui-java**: A handcrafted/generated Java binding for Dear ImGui<br>https://github.com/SpaiR/imgui-java |
 | JavaScript | **imgui-js**: JavaScript bindings for Dear ImGui using Emscripten and TypeScript <br>https://github.com/flyover/imgui-js + also see [web demo](https://flyover.github.io/imgui-js/example/) |
 | Julia      | **CImGui.jl**: Julia wrapper for cimgui <br>https://github.com/Gnimuc/CImGui.jL |
