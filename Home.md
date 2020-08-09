@@ -78,6 +78,7 @@ Thank you to every past and present [[Sponsors]] for making this project possibl
 - File browser: https://github.com/gallickgunner/ImGui-Addons
 - File browser: https://github.com/Flix01/imgui/wiki/ImGui-Addons-Branch-Home
 - File browser: https://github.com/aiekick/ImGuiFileDialog
+- File browser: https://github.com/Limeoats/L2DFileDialog
 
 ### Rich text
 
