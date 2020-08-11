@@ -30,6 +30,8 @@
 
 **Multi-Viewports**: refers to the feature (currently available in the `docking` branch) where Dear ImGui windows can easily be moved outside the boundaries of your main application window. The multi-viewports feature provides an interface to interact with bindings in order to create its own application windows to host the floating Dear ImGui windows.
 
+**Root Window**: a top-level window created with `Begin()`. Child windows created with `BeginChild()` tend to share the same Root Window.
+
 **Widget**: (same as Item): a single ImGui element (e.g. a `ImGui::Button()` or `ImGui::Text()` call).
 
 ## Docking Terms
