@@ -72,7 +72,7 @@ Thank you to every past and present [[Sponsors]] for making this project possibl
 - Flame graph widget: https://github.com/ocornut/imgui/issues/2859
 - Plot var helper: [[plot_var_example]]
 
-### File Browsers
+### File Browsers / File Dialog
 
 - File browser: https://github.com/AirGuanZ/imgui-filebrowser
 - File browser: https://github.com/gallickgunner/ImGui-Addons
