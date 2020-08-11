@@ -72,7 +72,7 @@ Note: when talking about issues related to the multi-viewports feature, always t
 
 **Platform Window**: a window managed by the Operating System. This is typically associated with a framebuffer, a swap chain and the machinery to perform 3D rendering via some graphics API.
 
-**ImGui Decoration**: refers to the frame and title bar managed and displayed by _ImGui Windows_.
+**ImGui Decoration**: refers to the frame, title bar, collapse and close buttons managed and displayed by _ImGui Windows_.
 
 **ImGui Window**: a window managed by Dear ImGui. For the purposes of multi-viewports, we often use "ImGui Window" to refer to a top-level _ImGui Window_ only, not child or docked windows.
 
@@ -82,4 +82,4 @@ Note: when talking about issues related to the multi-viewports feature, always t
 
 **Main Viewport**: Due to common usage and backward compatibility reasons, the system currently enforces the creation of one _Main Viewport_ which is typically the main application window of the user application. The _Main Viewport_ is also a _Host Viewport_. In most traditional applications, the _Main Viewport_ has _Platform Decorations_ enabled when not maximized, and has _Platform Decorations_ disabled when fullscreen. In the future we would like to completely remove the concept of a "Main Viewport" and instead allow the application to freely create zero, one or more _Host Viewports_. Most games applications will create one of them, whereas most desktop applications are expected to create none. Under this scheme, an application creating no _Host Viewport_ would have every _ImGui Window_ using an individual _Platform Window_ with _Platform Decorations_ disabled. It would become the application's responsibility to shutdown when all the windows are closed.
 
-**Viewport**: The Dear ImGui representation of a _Platform Window_. When a _Viewport_ is active, Dear ImGui creates a _Platform Window_ for it. Whether the _Platform Window_ has _Platform Decorations_ enabled currently depends on the `io.ConfigViewportsNoDecoration` flag which gets turned into a `ImGuiViewportFlags_NoDecoration` for the _Platform Backend_ to honor.
+**Viewport**: The Dear ImGui representation of a _Platform Window_. When a _Viewport_ is active, the _Platform Backend_ creates a _Platform Window_ for it. Whether the _Platform Window_ has _Platform Decorations_ enabled currently depends on `io.ConfigViewportsNoDecoration` flag which gets turned into a `ImGuiViewportFlags_NoDecoration` for the _Platform Backend_ to honor.
