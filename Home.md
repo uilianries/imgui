@@ -174,7 +174,7 @@ Thank you to every past and present [[Sponsors]] for making this project possibl
 ### Example Apps, Framework
 (Please also check our [examples/](https://github.com/ocornut/imgui/tree/master/examples) folder in the repo)
 
-- Dear PyGui: A Simple Python GUI framework https://github.com/RaylockLLC/DearPyGui
+- Dear PyGui: A Simple Python GUI framework https://github.com/hoffstadt/DearPyGui
 - Starter project for portable app with optional GUI (GLFW/ImGui) https://github.com/abdes/asap
 - Starter dear-imgui GLFW/OpenGL 3 based CMake C++ project: https://github.com/urddru/imgui-glfw
 - Bimpy: bundled imgui for python: https://github.com/podgorskiy/bimpy
