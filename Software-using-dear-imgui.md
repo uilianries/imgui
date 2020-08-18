@@ -33,6 +33,7 @@ Help us complete this list!
 | Game | BeamNG.drive | BeamNG | [homepage](https://www.beamng.com) / [steam](https://store.steampowered.com/app/284160/BeamNGdrive/)
 | Game | Below | Capybara Games | [homepage](http://www.whatliesbelow.com) / [shots](https://github.com/ocornut/imgui/issues/973#issuecomment-301079827)
 | Engine | Bezel Engine | Nintendo
+| Game | Blightmare | | [steam](https://store.steampowered.com/app/859160/Blightmare/) / [blog](https://blightmare.com/2020/08/18/immediate-mode-user-interface/)
 | Game | Blood & Truth | SCEE Studio London | [homepage](https://www.playstation.com/en-us/games/blood-and-truth-ps4/) / [credits](https://www.mobygames.com/game/playstation-4/blood-truth/credits)
 | Game | Boundless | Wonderstruck Games | [homepage](http://playboundless.com) / [shots 1](https://github.com/ocornut/imgui/issues/539#issuecomment-234486231) [2](https://github.com/ocornut/imgui/issues/539#issuecomment-236357140) [3](https://github.com/ocornut/imgui/issues/973#issuecomment-276030982)
 | Game | Brigador | Stellar Jockeys | [steam](http://store.steampowered.com/app/274500/Brigador_UpArmored_Edition)
