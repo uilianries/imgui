@@ -111,6 +111,7 @@ Help us complete this list!
 | Game | Hexterminate | | [homepage](https://www.pedro-nunes.net/hexterminate/)
 | App | IceSL | Loria | [homepage](http://shapeforge.loria.fr/icesl/)
 | App | IFStile | | [homepage](https://ifstile.com)
+| App | ImChip8 | | [github](https://github.com/uafio/ImChip8)
 | App | ImGuiFontStudio | @aiekick | [github](https://github.com/aiekick/ImGuiFontStudio)
 | App | Imogen | @CedricGuillemet | [github](https://github.com/CedricGuillemet/Imogen)
 | Game | Indivisible | Lab Zero Games | [homepage](http://www.indivisiblegame.com/)
@@ -192,6 +193,7 @@ Help us complete this list!
 | Lib | Raisim | | [github](https://github.com/leggedrobotics/raisimLib) / [video](https://raw.githubusercontent.com/leggedrobotics/raisimOgre/master/img/laikago.gif)
 | App | RayTeak | | [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-248678671)
 | Engine | RCRL (Read-Compile-Run-Loop) | @onqtam | [github](https://github.com/onqtam/rcrl)
+| Game | Receiver 2 | Wolfire Games | [homepage](https://store.steampowered.com/app/1129310/Receiver_2/) / [shots](https://github.com/ocornut/imgui/issues/3075#issuecomment-675511275)
 | Misc | RealSense SDK | Intel | [homepage](https://realsense.intel.com/sdk/) / [gif](https://github.com/ocornut/imgui/issues/1269#issuecomment-358929119)
 | Game | Re:creation | @eliasdaler | [blog](https://eliasdaler.github.io/) |
 | Game | Red Dead Redemption 2 | Rockstar Games | [homepage](https://www.rockstargames.com/reddeadredemption2) / [credits](https://github.com/ocornut/imgui/issues/2847#issuecomment-568252670)
