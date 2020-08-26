@@ -109,6 +109,7 @@ Help us complete this list!
 | Game | V-Rally 4 | **Kylotonn** | 
 | Game | VRMONLINE-NX | | [homepage](https://vrmcloud.net/nx/beta)
 | Game | Warcraft III: Reforged | **Blizzard** | [homepage](https://playwarcraft3.com)
+| Game | World of Warcraft | **Blizzard** | [blog](https://worldofwarcraft.com/en-us/news/23507730/engineers-workshop-developing-for-mobile-and-pc)
 | Game | Warfork | | [steam](https://store.steampowered.com/app/671610/Warfork/)
 | Game | Warhammer: Chaosbane | Eko Software | [steam](https://store.steampowered.com/app/774241/Warhammer_Chaosbane/) / [shots](https://github.com/ocornut/imgui/issues/2847#issuecomment-560856396)
 | Game | Windjammers 2 | **Dotemu** | [homepage](http://www.dotemu.com/game/windjammers-2/)
