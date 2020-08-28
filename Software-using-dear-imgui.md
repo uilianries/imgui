@@ -289,3 +289,4 @@ Help us complete this list!
 | Plugin | XSquawkBox 2.0 | | [homepage](http://xsb.xsquawkbox.net/) / [shot](http://xsb.xsquawkbox.net/wp-content/uploads/sites/6/2018/03/XSB-NewUI-WIP.png) / [github](https://github.com/kuroneko/xsb_public/) |
 | Engine | XT | | [github](https://github.com/invghost/XT) |
 | Misc | Zep | | [github](https://github.com/cmaughan/zep) |
+| App | vvctre | @vvanelslande | [homepage](https://vvanelslande.github.io/vvctre/) / [shot](https://user-images.githubusercontent.com/62673824/91587899-02e35e00-e91d-11ea-8129-12b75616f3f9.png) / [github](https://github.com/vvanelslande/vvctre) |
