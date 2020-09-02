@@ -6,6 +6,7 @@ Currently looking for help with those things.
 
 **Documentation**
 - The wiki needs improvements.
+- How about creating visual gallery showcasing external widgets?
 - We need features overview pages describing Gamepad/Keyboard Navigation, Docking, Multi-Viewports, Tables etc. for users.
 - We need technical overview pages describing the same but from the point of view of programmers wanting to work on them.
 
