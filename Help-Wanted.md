@@ -4,13 +4,17 @@ Currently looking for help with those things.
 **Funding**
 - If your company uses Dear ImGui, please reach to contact@dearimgui.com.
 
+**Documentation**
+- The wiki needs improvements.
+- We need features overview pages describing Gamepad/Keyboard Navigation, Docking, Multi-Viewports, Tables etc. for users.
+- We need technical overview pages describing the same but from the point of view of programmers wanting to work on them.
+
 **Community**
-- If you have experience with Dear ImGui and programming, helping people out on the [Discourse forum](http://discourse.dearimgui.org/) would be very useful.
-- Helping to answer in the GitHub [issues/threads](https://github.com/ocornut/imgui/issues) is very helpful too! 
-- The wiki needs improvements!
+- Helping people out on the [Discord](https://discord.gg/NgJ4SEP) ?
+- Helping to answer some GitHub [issues/threads](https://github.com/ocornut/imgui/issues) ?
 
 **Third-party Software**
-<br>If you are familiar or interested in GLFW, designing/developing/submitting those changes to GLFW would be extremely helpful to imgui:
+<br>If you are familiar or interested in GLFW, designing/developing/submitting those changes to GLFW would be great
 - [ ] **Linux/Mac: implement per-OS workarounds for other GLFW/SDL issues**, see https://github.com/ocornut/imgui/issues/2117#issuecomment-465185644
 - [ ] GLFW: Solve https://github.com/glfw/glfw/issues/1236 in GLFW (transparent inputs) for portable multi-viewport support. OR implement per-OS workaround in imgui_impl_glfw.cpp. Done PR: https://github.com/glfw/glfw/pull/1568, Waiting for GLFW merge.
 - [X] GLFW: implement/solve https://github.com/glfw/glfw/issues/427 in GLFW (add missing diagonal resize mouse cursors).
@@ -24,7 +28,7 @@ Currently looking for help with those things.
 **Platform/Renderer Bindings**
 - Mac: imgui_impl_osx.mm need some love ([#1873](https://github.com/ocornut/imgui/issues/1873))
 - Mobile: Wanted imgui_impl_ios.cpp Platform Binding+Example for iOS (+ use existing renderer).
-- Mobile: Wanted imgui_impl_android.cpp Platform Binding+Example for Android (+ use existing renderer).
+- Mobile: Wanted imgui_impl_android.cpp Platform Binding+Example for Android (+ use existing renderer). ([#3446](https://github.com/ocornut/imgui/issues/3446))
 - Web: Wanted imgui_impl_emscripten.cpp Platform Binding+Example for Emscripten (+ use existing renderer to create a new example). ([#336](https://github.com/ocornut/imgui/pull/336))
 - Viewport: Vulkan bindings needs to fix multi-viewport support (see Viewport branch and [#1542](https://github.com/ocornut/imgui/issues/1542)): currently has Present issues.
 - Viewport: Metal bindings needs multi-viewport support (see Viewport branch and [#1542](https://github.com/ocornut/imgui/issues/1542)).
