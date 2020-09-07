@@ -40,7 +40,7 @@ Main repository include examples for DirectX9, DirectX10, DirectX11, DirectX12, 
 | Amethyst | **amethyst-imgui**:<br>https://github.com/amethyst/amethyst-imgui
 | bsf | **bsfimgui**:<br>https://github.com/pgruenbacher/bsfImgui | 
 | Cinder | **Cinder-ImGui**:<br>https://github.com/cinder/Cinder/blob/master/include/cinder/CinderImGui.h
-| Cocos2d-x | **imguix**:<br>https://github.com/c0i/imguix <br>**cocos2dx-imgui**:<br>https://github.com/Mjarkiew/cocos2dx-imgui and [#551](https://github.com/ocornut/imgui/issues/551)
+| Cocos2d-x | **imguix**:<br>https://github.com/c0i/imguix <br>**cocos2dx-imgui**:<br>https://github.com/Mjarkiew/cocos2dx-imgui, https://github.com/Xrysnow/cocos2d-x-imgui and [#551](https://github.com/ocornut/imgui/issues/551)<br>**ImGuiEXT for EGNX**:<br>https://github.com/c4games/engine-x/tree/master/extensions/ImGuiEXT
 | Diligent Engine | **DiligentTools**:<br>[DiligentTools](https://github.com/DiligentGraphics/DiligentTools/blob/master/Imgui/src/ImGuiImplDiligent.cpp), [example](https://github.com/DiligentGraphics/DiligentSamples/tree/master/Samples/ImguiDemo) |
 | Ebiten | **ebiten-imgui**:<br>https://github.com/gabstv/ebiten-imgui |
 | Flexium | **FlexGUI**:<br>https://github.com/DXsmiley/FlexGUI |
