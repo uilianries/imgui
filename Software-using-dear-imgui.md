@@ -51,7 +51,7 @@ Help us complete this list!
 | Game | Euro Truck Simulator 2 | SCS Software | [video](https://www.youtube.com/watch?v=rx43bLMZmxU)
 | Game | Fallout 76 | Bethesda | [homepage](https://fallout.bethesda.net) / [shot](https://user-images.githubusercontent.com/4228359/41322748-b9756e6e-6e78-11e8-8dfc-9a3437c1fd1a.png) 
 | Game | FIA European Truck Racing Championship | **Kylotonn** | 
-| Game | Final Fantasy VII Remake | SquareEnix | [video](https://www.youtube.com/watch?time_continue=675&v=DliMpiemUy8)
+| Game | Final Fantasy VII Remake | SquareEnix | [video](https://www.youtube.com/watch?time_continue=675&v=DliMpiemUy8) / [talk](https://news.yahoo.co.jp/articles/50a6994718d63d323f9efb6b90f55a39b21c6f9a)
 | Game | Fisherboy | | [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-315665148) |
 | Game | Flight Simulator | Microsoft | [homepage](https://www.flightsimulator.com/) / [video](https://youtu.be/10P21oFOxAU?t=481)
 | Game | For Honor | **Ubisoft** | [blog](https://montreal.ubisoft.com/en/ubisoft-sponsors-user-interface-library-for-c-dear-imgui/)
