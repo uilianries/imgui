@@ -45,6 +45,12 @@ Also see our [[Glossary]] about Docking terminology.
 
   ![capture_docking_wiki_gifs_0003](https://user-images.githubusercontent.com/19151258/82671172-0e045f00-9c47-11ea-88b2-d84e18be2b6b.gif)
 
+#### Other features
+
+- Tab bar may be hidden
+
+  ![capture_docking_wiki_gifs_0004](https://user-images.githubusercontent.com/19151258/92583366-e3dcb880-f29a-11ea-8a21-b503a2801c87.gif)
+
 #### Settings, Persistence model
 
 - Explain how/why the data persist
