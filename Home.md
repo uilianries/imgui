@@ -66,8 +66,8 @@ Thank you to every past and present [[Sponsors]] for making this project possibl
 
 ### Plotting, Graph
 
-- imgui-plot (@soulthreads): https://github.com/soulthreads/imgui-plot and [#2747](https://github.com/ocornut/imgui/issues/2747)
 - ImPlot (@epezent): https://github.com/epezent/implot and [#3173](https://github.com/ocornut/imgui/issues/3173), [#3067](https://github.com/ocornut/imgui/issues/3067)
+- imgui-plot (@soulthreads): https://github.com/soulthreads/imgui-plot and [#2747](https://github.com/ocornut/imgui/issues/2747)
 - Plotting widget for imgui (@mkalte666): https://github.com/mkalte666/imguiplot
 - Flame graph widget: https://github.com/ocornut/imgui/issues/2859
 - Plot var helper: [[plot_var_example]]
