@@ -95,6 +95,7 @@ Thank you to every past and present [[Sponsors]] for making this project possibl
 - ImGuizmo (3d translation/rotation Gizmo) https://github.com/CedricGuillemet/ImGuizmo
 - imGuiZMO.quat (3d translation/rotation Gizmo) https://github.com/BrutPitt/imGuIZMO.quat
 - Splitters: https://github.com/ocornut/imgui/issues/319
+- Slider 2D and Slider 3D: https://github.com/ocornut/imgui/issues/3484
 - Spinner + Loading Bar progress indicators: https://github.com/ocornut/imgui/issues/1901
 - ImHotKey (Hotkey Editor): https://github.com/CedricGuillemet/ImHotKey
 - IP Entry Box (@adam4813) https://github.com/ocornut/imgui/issues/388
