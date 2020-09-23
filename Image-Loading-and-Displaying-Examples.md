@@ -527,8 +527,11 @@ ImVec2 uv0 = ImVec2(10.0f/256.0f, 10.0f/256.0f);
 // Normalized coordinates of pixel (110,210) in a 256x256 texture.
 ImVec2 uv1 = ImVec2((10.0f+100.0f)/256.0f, (10.0f+200.0f)/256.0f);
 
-// Display the 100x100 section starting at (10,10)
-ImGui::Image((void*)texture, ImVec2(100.0f, 100.0f), uv0, uv1);
+ImGui::Text("uv0 = (%f, %f)", uv0.x, uv0.y);
+ImGui::Text("uv1 = (%f, %f)", uv1.x, uv1.y);
+
+// Display the 100x200 section starting at (10,10)
+ImGui::Image((void*)(intptr_t)my_image_texture, ImVec2(100.0f, 200.0f), uv0, uv1);
 ```
 
 ![Using UV](https://user-images.githubusercontent.com/8225057/79073825-f9988280-7ce8-11ea-8596-1fd495720ffa.png)
@@ -540,10 +543,10 @@ If you want to display the same image but scaled, keep the same UV coordinates b
 
 ```cpp
 // Normal size
-ImGui::Image((void*)texture, ImVec2(texture->Width, texture->Height), ImVec2(0.0f, 0.0f), ImVec2(1.0f, 1.0f));
+ImGui::Image((void*)(intptr_t)my_image_texture, ImVec2(my_image_width, my_image_height), ImVec2(0.0f, 0.0f), ImVec2(1.0f, 1.0f));
 
 // Half size, same contents
-ImGui::Image((void*)texture, ImVec2(texture->Width*0.5f, texture->Height*0.5f), ImVec2(0.0f, 0.0f), ImVec2(1.0f, 1.0f));
+ImGui::Image((void*)(intptr_t)my_image_texture, ImVec2(my_image_width*0.5f, my_image_height*0.5f), ImVec2(0.0f, 0.0f), ImVec2(1.0f, 1.0f));
 ```
 
 ![Scaled](https://user-images.githubusercontent.com/8225057/79073856-25b40380-7ce9-11ea-91e4-754c3232fb58.png)
