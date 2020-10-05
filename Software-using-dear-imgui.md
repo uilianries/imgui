@@ -189,6 +189,7 @@ Help us complete this list!
 | Engine | Kit Framework | | [shot](https://github.com/ocornut/imgui/issues/539#issuecomment-226131049)
 | App | ledSynthMaster | @olekristensen | [github](https://github.com/olekristensen/ledSynthMaster) / [shot](https://github.com/ocornut/imgui/issues/539#issuecomment-233914952)
 | Lib | Libigl | | [github](https://github.com/libigl/libigl)
+| App | LightAct Media Server | LightAct | [homepage](https://lightact.io)
 | App | Light Tracer | | [homepage](http://lighttracer.org/) / [shots](https://github.com/ocornut/imgui/issues/2529#issuecomment-503015800)
 | App | Linebaby | @winduptoy | [homepage](https://winduptoy.itch.io/linebaby)
 | Misc | Linear algebra and collision detection | @gszauer| [github](https://github.com/gszauer/GamePhysicsCookbook)
