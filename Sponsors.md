@@ -5,7 +5,7 @@ Thanks to our sponsors, in 2020, we are expecting ~2500 hours of work to be inve
 Businesses: support continued development and maintenance via invoiced technical support, maintenance, sponsoring contracts. If your company is using Dear ImGui, please consider reaching out today to say hi:
 <br>&nbsp;&nbsp;_E-mail: contact @ dearimgui dot com_
 
-Individuals: support continued development and maintenance with [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WGHNC6MBFLZ2S).
+Individuals: support continued development and maintenance [here](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WGHNC6MBFLZ2S).
 
 Ongoing development is financially supported by users and private entities, past and present:
 
