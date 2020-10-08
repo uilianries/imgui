@@ -1,4 +1,12 @@
-Ongoing dear imgui development is financially supported by users and private entities, past and present:
+This library is available under a free and permissive license, but needs financial support to sustain its continued improvements. In addition to maintenance and stability there are many desirable features yet to be added.
+
+Businesses: support continued development and maintenance via invoiced technical support, maintenance, sponsoring contracts. 
+<br> If your company is using Dear ImGui, please consider reaching out today to say hi:
+<br>&nbsp;&nbsp;_E-mail: contact @ dearimgui dot com_
+
+Individuals: support continued development and maintenance with [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WGHNC6MBFLZ2S).
+
+Ongoing development is financially supported by users and private entities, past and present:
 
 **Platinum-chocolate sponsors**
 - [Blizzard](https://careers.blizzard.com/en-us/openings/engineering/all/all/all/1)
@@ -38,7 +46,3 @@ _Caramel_
 - Michel Courtine, César Leblic, Dale Kim, Alex Evans, Rui Figueira, Paul Patrashcu, Jerome Lanquetot, Ctrl Alt Ninja, Paul Fleming, Neil Henning, Stephan Dilly, Neil Blakey-Milner, Aleksei, NeiloGD, Justin Paver, FiniteSol, Vincent Pancaldi, James Billot, Robin Hübner, furrtek, Eric, Simon Barratt, Game Atelier, Julian Bosch, Simon Lundmark, Vincent Hamm, Farhan Wali, Matt Reyer, Colin Riley, Victor Martins, Josh Simmons, Garrett Hoofman, Sergio Gonzales, Andrew Berridge, Roy Eltham, Game Preservation Society, Kit framework, Josh Faust, Martin Donlon, Quinton, Felix, Andrew Belt, Codecat, Claudio Canepa, Doug McNabb, Emmanuel Julien, Guillaume Chereau, Jeffrey Slutter, Jeremiah Deckard, r-lyeh, Roger Clark, Nekith, Joshua Fisher, Malte Hoffmann, Mustafa Karaalioglu, Merlyn Morgan-Graham, Per Vognsen, Fabian Giesen, Jan Staubach, Matt Hargett, John Shearer, Jesse Chounard, kingcoopa, Miloš Tošić, Jonas Bernemann, Johan Andersson, Nathan Hartman, Michael Labbe, Tomasz Golebiowski, Louis Schnellbach, Felipe Alfonso, Jimmy Andrews, Bojan Endrovski, Robin Berg Pettersen, Rachel Crawford, Edsel Malasig, Andrew Johnson, Sean Hunter, Jordan Mellow, Nefarius Software Solutions, Laura Wieme, Robert Nix, Mick Honey, Astrofra, Jonas Lehmann, Steven Kah Hien Wong, Bartosz Bielecki, Oscar Penas, A M, Liam Moynihan, Artometa, Mark Lee, Dimitri Diakopoulos, Pete Goodwin, Johnathan Roatch, nyu lea, Oswald Hurlem,  Semyon Smelyanskiy, Le Bach, Jeong MyeongSoo, Chris Matthews, Frederik De Bleser, Anticrisis, Matt Reyer.
 
 And all other past and present supporters; THANK YOU!
-
-Businesses: you can support continued maintenance and development time via e.g. invoiced technical support and maintenance contracts:
-
-&nbsp;&nbsp;_E-mail: contact at dearimgui.org_
