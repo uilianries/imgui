@@ -1,13 +1,16 @@
-This library is available under a free and permissive license, but needs financial support to sustain its continued improvements. In addition to maintenance and stability there are many desirable features yet to be added. 
+### Good software doesn't write itself
+
+Your contributions are keeping this project alive. The library is available under a free and permissive license, but continued maintenance and development are a full-time endeavor which we would like to sustain and grow. In addition to maintenance and stability there are many desirable features yet to be added.
 
 Thanks to our sponsors, in 2020, we are expecting ~2500 hours of work to be invested into Dear ImGui R&D.
 
 Businesses: support continued development and maintenance via invoiced technical support, maintenance, sponsoring contracts. If your company is using Dear ImGui, please consider reaching out today to say hi:
-<br>&nbsp;&nbsp;_E-mail: contact @ dearimgui dot com_
+
+&nbsp;&nbsp;_E-mail: contact @ dearimgui dot com_
 
 Individuals: support continued development and maintenance [here](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WGHNC6MBFLZ2S).
 
-Ongoing development is financially supported by users and private entities, past and present:
+### Past and present supporters
 
 **Platinum-chocolate sponsors**
 - [Blizzard](https://careers.blizzard.com/en-us/openings/engineering/all/all/all/1)
