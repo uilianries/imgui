@@ -1,7 +1,6 @@
 This library is available under a free and permissive license, but needs financial support to sustain its continued improvements. In addition to maintenance and stability there are many desirable features yet to be added.
 
-Businesses: support continued development and maintenance via invoiced technical support, maintenance, sponsoring contracts. 
-<br> If your company is using Dear ImGui, please consider reaching out today to say hi:
+Businesses: support continued development and maintenance via invoiced technical support, maintenance, sponsoring contracts. If your company is using Dear ImGui, please consider reaching out today to say hi:
 <br>&nbsp;&nbsp;_E-mail: contact @ dearimgui dot com_
 
 Individuals: support continued development and maintenance with [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WGHNC6MBFLZ2S).
