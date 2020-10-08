@@ -1,4 +1,6 @@
-This library is available under a free and permissive license, but needs financial support to sustain its continued improvements. In addition to maintenance and stability there are many desirable features yet to be added.
+This library is available under a free and permissive license, but needs financial support to sustain its continued improvements. In addition to maintenance and stability there are many desirable features yet to be added. 
+
+In 2020, we are expecting ~2500 hours of work invested into Dear ImGui R&D.
 
 Businesses: support continued development and maintenance via invoiced technical support, maintenance, sponsoring contracts. If your company is using Dear ImGui, please consider reaching out today to say hi:
 <br>&nbsp;&nbsp;_E-mail: contact @ dearimgui dot com_
