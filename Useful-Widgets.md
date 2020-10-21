@@ -16,44 +16,38 @@
 ## Curves, Animations, Gradients
 | Shot | Link |
 |------|------|
-| ![]() | <BR>[github]() |
-    Bezier widget (@r-lyeh) https://github.com/ocornut/imgui/issues/786
-    ImSequencer (animation sequencer) https://github.com/CedricGuillemet/ImGuizmo
-    Gradient color generator (@galloscript): https://gist.github.com/galloscript/8a5d179e432e062550972afcd1ecf112
+| ![]() | Bezier<BR>[github](https://github.com/ocornut/imgui/issues/786) |
+| ![]() | ImSequencer<BR>[github](https://github.com/CedricGuillemet/ImGuizmo) |
+| ![]() | Gradient Color Generator<BR>[gist](https://gist.github.com/galloscript/8a5d179e432e062550972afcd1ecf112) |
 
 ## Plotting, Graph
-
-    ImPlot (@epezent): https://github.com/epezent/implot and #3173, #3067
-    imgui-plot (@soulthreads): https://github.com/soulthreads/imgui-plot and #2747
-    Plotting widget for imgui (@mkalte666): https://github.com/mkalte666/imguiplot
-    Flame graph widget: https://github.com/ocornut/imgui/issues/2859
-    Plot var helper: plot_var_example
+| Shot | Link |
+|------|------|
+| ![]() | ImPlot <BR>[github](https://github.com/epezent/implot) |
+| ![]() | imgui-plot<BR>[github](https://github.com/soulthreads/imgui-plot) |
+| ![]() | Plotting Widget<BR>[github](https://github.com/mkalte666/imguiplot) |
+| ![]() | Flame Graph Widget<BR>[issues](https://github.com/ocornut/imgui/issues/2859) |
+| ![]() | Plot Var Helper<BR>[wiki](https://github.com/ocornut/imgui/wiki/plot_var_example) |
 
 ## File Browsers / File Dialog
 | Shot | Link |
 |------|------|
-| ![]() | <BR>[github]() |
-
-    File browser: https://github.com/AirGuanZ/imgui-filebrowser
-    File browser: https://github.com/gallickgunner/ImGui-Addons
-    File browser: https://github.com/Flix01/imgui/wiki/ImGui-Addons-Branch-Home
-    File browser: https://github.com/aiekick/ImGuiFileDialog
-    File browser: https://github.com/Limeoats/L2DFileDialog
+| ![]() | imgui-filebrowser<BR>[github](https://github.com/AirGuanZ/imgui-filebrowser) |
+| ![]() | ImGui-Addons<BR>[github](https://github.com/gallickgunner/ImGui-Addons) |
+| ![]() | ImGui-Addons-Branch-Home<BR>[github](https://github.com/Flix01/imgui/wiki/ImGui-Addons-Branch-Home) |
+| ![]() | ImGuiFileDialog<BR>[github](https://github.com/aiekick/ImGuiFileDialog) |
+| ![]() | L2DFileDialog<BR>[github](https://github.com/Limeoats/L2DFileDialog) |
 
 ## Rich text
 | Shot | Link |
 |------|------|
-| ![]() | <BR>[github]() |
-
-    Markdown: https://github.com/juliettef/imgui_markdown
-    URL/Links: https://gist.github.com/dougbinks/ef0962ef6ebe2cadae76c4e9f0586c69#file-imguiutils-h-L228-L262
+| ![]() | Markdown<BR>[github](https://github.com/juliettef/imgui_markdown) |
+| ![]() | URL/Links<BR>[gist](https://gist.github.com/dougbinks/ef0962ef6ebe2cadae76c4e9f0586c69#file-imguiutils-h-L228-L262) |
 
 ## Input Method Editor
 | Shot | Link |
 |------|------|
-| ![]() | <BR>[github]() |
-
-    DearImGui-with-IMM32: Microsoft IME Overlay using Dear ImGui: https://github.com/maildrop/DearImGui-with-IMM32
+| ![]() | DearImGui-with-IMM32<BR>[github](https://github.com/maildrop/DearImGui-with-IMM32) |
 
 ## Misc
 | Shot | Link |
