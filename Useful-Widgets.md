@@ -23,11 +23,10 @@
 ## Plotting, Graph
 | Shot | Link |
 |------|------|
-| ![]() | ImPlot <BR>[github](https://github.com/epezent/implot) |
-| ![]() | imgui-plot<BR>[github](https://github.com/soulthreads/imgui-plot) |
-| ![]() | Plotting Widget<BR>[github](https://github.com/mkalte666/imguiplot) |
-| ![]() | Flame Graph Widget<BR>[issues](https://github.com/ocornut/imgui/issues/2859) |
-| ![]() | Plot Var Helper<BR>[wiki](https://github.com/ocornut/imgui/wiki/plot_var_example) |
+| ![](https://user-images.githubusercontent.com/1193295/96738879-79ea1f80-13bf-11eb-8e96-97f4acc8b79d.png) | ImPlot <BR>[github](https://github.com/epezent/implot) |
+| ![](https://user-images.githubusercontent.com/1193295/96739012-9f772900-13bf-11eb-831b-e4b1ba82e152.png) | imgui-plot<BR>[github](https://github.com/soulthreads/imgui-plot) |
+| ![](https://user-images.githubusercontent.com/1193295/96739187-d0575e00-13bf-11eb-9afa-6f0c2bc4dd0f.png) | Flame Graph Widget<BR>[issues](https://github.com/ocornut/imgui/issues/2859) |
+| ![](https://user-images.githubusercontent.com/1193295/96739299-f0871d00-13bf-11eb-8a2b-fa670070477d.png) | Plot Var Helper<BR>[wiki](https://github.com/ocornut/imgui/wiki/plot_var_example) |
 
 ## File Browsers / File Dialog
 | Shot | Link |
