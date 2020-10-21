@@ -16,8 +16,8 @@
 ## Curves, Animations, Gradients
 | Shot | Link |
 |------|------|
-| ![]() | Bezier<BR>[github](https://github.com/ocornut/imgui/issues/786) |
-| ![]() | ImSequencer<BR>[github](https://github.com/CedricGuillemet/ImGuizmo) |
+| ![](https://user-images.githubusercontent.com/1193295/96737312-d1878b80-13bd-11eb-92ae-62dc191c6ee1.png) | Bezier<BR>[github](https://github.com/ocornut/imgui/issues/786) |
+| ![](https://user-images.githubusercontent.com/1193295/96737563-1ad7db00-13be-11eb-974d-956ba41b11de.png) | ImSequencer<BR>[github](https://github.com/CedricGuillemet/ImGuizmo) |
 | ![]() | Gradient Color Generator<BR>[gist](https://gist.github.com/galloscript/8a5d179e432e062550972afcd1ecf112) |
 
 ## Plotting, Graph
