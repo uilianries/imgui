@@ -1,8 +1,8 @@
 ## Text Editors
 | Shot | Link |
 |------|------|
-| ![](https://user-images.githubusercontent.com/1193295/96723401-cf6a0080-13ae-11eb-9b5e-9a1ff4e46ce9.png) | ImGuiColorTextEdit<BR>[github](https://github.com/BalazsJako/ImGuiColorTextEdit)|
-| ![](https://user-images.githubusercontent.com/1193295/96723929-7babe700-13af-11eb-8f8f-d273c6cd03ed.png) | Zep<BR>[github](https://github.com/Rezonality/zep) |
+| ![](https://user-images.githubusercontent.com/1193295/96733540-dba78b00-13b9-11eb-855e-d0aa98a322d1.png) | ImGuiColorTextEdit<BR>[github](https://github.com/BalazsJako/ImGuiColorTextEdit)|
+| ![](https://user-images.githubusercontent.com/1193295/96734078-72744780-13ba-11eb-9a1d-a39c1e5122fd.png) | Zep<BR>[github](https://github.com/Rezonality/zep) |
 | ![]() | Scintilla<BR>[thread]() |
 
 ## Node Editors
