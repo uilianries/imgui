@@ -3,14 +3,14 @@
 |------|------|
 | ![](https://user-images.githubusercontent.com/1193295/96733540-dba78b00-13b9-11eb-855e-d0aa98a322d1.png) | ImGuiColorTextEdit<BR>[github](https://github.com/BalazsJako/ImGuiColorTextEdit)|
 | ![](https://user-images.githubusercontent.com/1193295/96734078-72744780-13ba-11eb-9a1d-a39c1e5122fd.png) | Zep<BR>[github](https://github.com/Rezonality/zep) |
-| ![]() | Scintilla<BR>[thread]() |
+| ![](https://user-images.githubusercontent.com/1193295/96734863-42797400-13bb-11eb-948f-554044b7a67d.png) | Scintilla<BR>[thread]() |
 
 ## Node Editors
 | Shot | Link |
 |------|------|
-| ![]() | imgui-node-editor<BR>[github](https://github.com/thedmd/imgui-node-editor) |
-| ![]() | ImNodes<BR>[github](https://github.com/rokups/ImNodes) |
-| ![]() | imnodes<BR>[github](https://github.com/Nelarius/imnodes) |
+| ![](https://user-images.githubusercontent.com/1193295/96736564-06dfa980-13bd-11eb-8cf8-641962bb04df.png) | imgui-node-editor<BR>[github](https://github.com/thedmd/imgui-node-editor) |
+| ![](https://user-images.githubusercontent.com/1193295/96736823-49a18180-13bd-11eb-8891-95f481fe1765.png) | ImNodes<BR>[github](https://github.com/rokups/ImNodes) |
+| ![](https://user-images.githubusercontent.com/1193295/96736995-78b7f300-13bd-11eb-84a1-6b8f0e4ac064.png) | imnodes<BR>[github](https://github.com/Nelarius/imnodes) |
 | ![]() | Many more<BR>[thread](https://github.com/ocornut/imgui/issues/306) |
 
 ## Curves, Animations, Gradients
