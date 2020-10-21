@@ -71,7 +71,7 @@
 ## Virtual Reality (VR) / Reprojected UI plane
 | Shot | Link |
 |------|------|
-| ![]() | ImGuiVR: Demo code for using Imgui with OpenVR <BR>[github]() |
+| ![]() | ImGuiVR: Demo code for using Imgui with OpenVR <BR>[github](https://github.com/temcgraw/ImguiVR)<BR>[video](https://www.youtube.com/watch?v=nlwfn4HJw5E) |
 | ![]() | Desktop+<BR>[github](https://github.com/elvissteinjr/DesktopPlus) |
 | ![]() | BIMXplorer<BR>[bimxplorer](https://www.bimxplorer.com/) |
 | ![]() | mpFluid CAVE Front End<BR>[github](https://github.com/sariug/mpfluid_cave_frontend) |
@@ -79,22 +79,17 @@
 ## Third party repos
 | Shot | Link |
 |------|------|
-| ![]() | <BR>[github]() |
-
-    @flix01's addons: ImGui-Addons-Branch-Home for instructions and github repo for code. file dialog, date picker, listview, toolbar etc.
-    @leiradel's snippets: https://github.com/leiradel/ImGuiAl/
-    @nem0's snippets (in imgui_user.* files) https://github.com/nem0/LumixEngine/tree/master/external/imgui
-    @aoterodelaroza's snippets [github]
-    MetricsGui: controls for displaying performance metrics [github]
+| ![]() | ImGui-Addons-Branch-Home<BR>[github](https://github.com/Flix01/imgui/wiki/ImGui-Addons-Branch-Home) |
+| ![]() | @leiradel's snippets<BR>[github](https://github.com/leiradel/ImGuiAl/) |
+| ![]() | @nem0's snippets (in imgui_user.* files)<BR>[github]( https://github.com/nem0/LumixEngine/tree/master/external/imgui) |
+| ![]() | @aoterodelaroza's snippets<BR>[github](https://github.com/aoterodelaroza/imgui-goodies) |
+| ![]() | MetricsGui: controls for displaying performance metrics<BR>[github](https://github.com/GameTechDev/MetricsGui) |
 
 ## Software Renderer/Rasterizer
 | Shot | Link |
 |------|------|
-| ![]() | <BR>[github]() |
-
-    Software Renderer for Dear ImGui [github] by @emilk
-    Fast(er) Software Rasterizer for Dear ImGui [github] by @malamanteau
-    ImSoft (softraster for ImGui) [github] by @LAK132
+| ![]() | Software Renderer for Dear ImGui <BR>[repo](https://github.com/emilk/imgui_software_renderer) |
+| ![]() | ImSoft (softraster for ImGui)<BR>[repo](https://github.com/LAK132/ImSoft) |
 
 ## Remoting
 | Shot | Link |
@@ -122,11 +117,6 @@
 | ![]() | imgui_freetype renderer: imgui/misc/freetype/<BR>[github](https://github.com/ocornut/imgui) |
 | ![]() | ImDuino (ESP32+TFT+ImSoft+ImGui example)<BR>[github](https://github.com/LAK132/ImDuino) |
 | ![]() | Input / IO queue for very low framerate applications<BR>[gist](https://gist.github.com/ocornut/8417344f3506790304742b07887adf9f) |
-
-| Shot | Link |
-|------|------|
-| ![](https://user-images.githubusercontent.com/8225057/96700877-39bf7880-1390-11eb-90f7-3d0b56c08bab.png) |imgui_memory_editor<BR>[github](https://github.com/ocornut/imgui_club/tree/master/imgui_memory_editor) |
-| ![](https://user-images.githubusercontent.com/8225057/96697854-ac2e5980-138c-11eb-916f-3e2f579c9864.png) |ImGuizmo<BR>[github](https://github.com/CedricGuillemet/ImGuizmo) | 
-| ![](https://user-images.githubusercontent.com/8225057/96697854-ac2e5980-138c-11eb-916f-3e2f579c9864.png) |ImGuizmo<BR>[github](https://github.com/CedricGuillemet/ImGuizmo) | 
+| ![]() | Screenshot Tool<BR>[github](https://github.com/ocornut/imgui/wiki/screenshot_tool) |
 
 [![ALT_TEXT](THUMBNAIL)](TARGET_URL)
