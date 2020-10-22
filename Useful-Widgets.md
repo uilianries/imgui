@@ -72,9 +72,9 @@
 | Shot | Link |
 |------|------|
 | ![]() | ImGuiVR: Demo code for using Imgui with OpenVR <BR>[github/temcgraw/ImguiVR](https://github.com/temcgraw/ImguiVR)<BR>[video](https://www.youtube.com/watch?v=nlwfn4HJw5E) |
-| ![]() | Desktop+<BR>[github/elvissteinjr/DesktopPlus](https://github.com/elvissteinjr/DesktopPlus) |
-| ![]() | BIMXplorer<BR>[homepage](https://www.bimxplorer.com/) |
-| ![]() | mpFluid CAVE Front End<BR>[github/sariug/mpfluid_cave_frontend](https://github.com/sariug/mpfluid_cave_frontend) |
+| ![](https://user-images.githubusercontent.com/1193295/96884668-0eb55180-1482-11eb-95da-1f513a9f5a77.png) | Desktop+<BR>[github/elvissteinjr/DesktopPlus](https://github.com/elvissteinjr/DesktopPlus) |
+| ![](https://user-images.githubusercontent.com/1193295/96884752-25f43f00-1482-11eb-9dd9-9b302c5a2c05.png) | BIMXplorer<BR>[homepage](https://www.bimxplorer.com/) |
+| ![](https://user-images.githubusercontent.com/1193295/96884840-42907700-1482-11eb-9d50-8aef7e88c4a6.png) | mpFluid CAVE Front End<BR>[github/sariug/mpfluid_cave_frontend](https://github.com/sariug/mpfluid_cave_frontend) |
 
 ## Third party repos
 | Shot | Link |
