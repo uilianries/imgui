@@ -277,3 +277,7 @@ Also [Useful Widgets](https://github.com/ocornut/imgui/labels/useful%20widgets) 
 **MetricsGui: controls for displaying performance metrics**
 <BR>[github/GameTechDev/MetricsGui](https://github.com/GameTechDev/MetricsGui)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96885983-6e602c80-1483-11eb-9006-44b46d994730.png)
+
+----
+
+Also see [Gallery Threads](https://github.com/ocornut/imgui/labels/gallery) and [Software Using Dear ImGui](https://github.com/ocornut/imgui/wiki/Software-using-dear-imgui) for references of other software which may be open-sourced.
