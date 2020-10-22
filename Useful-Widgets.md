@@ -6,8 +6,12 @@
 - [Plotting, Graph](#plotting-graph)
 - [File Browsers / File Dialog](#file-browsers--file-dialog)
 - [Input Method Editors](#input-method-editors)
-- 
-- [Miscellaneous](#miscellaneous]
+- [Software Renderer/Rasterizer](#software-rendererrasterizer)
+- [Remoting](#remoting)
+- [Terminal / Text mode](#terminal--text-mode)
+- [Midi/OSC interfacing](#midiosc-interfacing)
+- [Virtual Reality (VR) / Reprojected UI plane](#virtual-reality-vr--reprojected-ui-plane)
+- [Miscellaneous](#miscellaneous)
 
 ## Text Editors
 
