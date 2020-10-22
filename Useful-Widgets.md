@@ -88,7 +88,7 @@
 ## Software Renderer/Rasterizer
 | Shot | Link |
 |------|------|
-| ![]() | Software Renderer for Dear ImGui <BR>[github/emilk/imgui_software_renderer](https://github.com/emilk/imgui_software_renderer) |
+| ![](https://user-images.githubusercontent.com/1193295/96886295-bc753000-1483-11eb-863e-81056c1bd801.png) | Software Renderer for Dear ImGui <BR>[github/emilk/imgui_software_renderer](https://github.com/emilk/imgui_software_renderer) |
 | ![]() | ImSoft (softraster for ImGui)<BR>[github/LAK132/ImSoft](https://github.com/LAK132/ImSoft) |
 
 ## Remoting
