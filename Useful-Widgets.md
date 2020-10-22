@@ -78,44 +78,44 @@
 ## Third party repos
 | Shot | Link |
 |------|------|
-| ![]() | ImGui-Addons-Branch-Home<BR>[github](https://github.com/Flix01/imgui/wiki/ImGui-Addons-Branch-Home) |
-| ![]() | @leiradel's snippets<BR>[github](https://github.com/leiradel/ImGuiAl/) |
-| ![]() | @nem0's snippets (in imgui_user.* files)<BR>[github]( https://github.com/nem0/LumixEngine/tree/master/external/imgui) |
-| ![]() | @aoterodelaroza's snippets<BR>[github](https://github.com/aoterodelaroza/imgui-goodies) |
-| ![]() | MetricsGui: controls for displaying performance metrics<BR>[github](https://github.com/GameTechDev/MetricsGui) |
+| ![]() | ImGui-Addons-Branch-Home<BR>[github/Flix01/imgui](https://github.com/Flix01/imgui/wiki/ImGui-Addons-Branch-Home) |
+| ![]() | @leiradel's snippets<BR>[github/leiradel/ImGuiAl](https://github.com/leiradel/ImGuiAl/) |
+| ![]() | @nem0's snippets (in imgui_user.* files)<BR>[github/nem0/LumixEngine]( https://github.com/nem0/LumixEngine/tree/master/external/imgui) |
+| ![]() | @aoterodelaroza's snippets<BR>[github/aoterodelaroza/imgui-goodies](https://github.com/aoterodelaroza/imgui-goodies) |
+| ![]() | MetricsGui: controls for displaying performance metrics<BR>[github/GameTechDev/MetricsGui](https://github.com/GameTechDev/MetricsGui) |
 
 ## Software Renderer/Rasterizer
 | Shot | Link |
 |------|------|
-| ![]() | Software Renderer for Dear ImGui <BR>[repo](https://github.com/emilk/imgui_software_renderer) |
-| ![]() | ImSoft (softraster for ImGui)<BR>[repo](https://github.com/LAK132/ImSoft) |
+| ![]() | Software Renderer for Dear ImGui <BR>[github/emilk/imgui_software_renderer](https://github.com/emilk/imgui_software_renderer) |
+| ![]() | ImSoft (softraster for ImGui)<BR>[github/LAK132/ImSoft](https://github.com/LAK132/ImSoft) |
 
 ## Remoting
 | Shot | Link |
 |------|------|
-| ![]() | RemoteImGui: send vertices over the network<BR>[github](https://github.com/JordiRos/remoteimgui) |
-| ![]() | imgui-ws: Dear ImGui over WebSockets<BR>[github](https://github.com/ggerganov/imgui-ws) |
-| ![]() | netImGui: Dear ImGui remote access library and application <BR>[github](https://github.com/sammyfreg/netImgui) |
-| ![]() | Android GLES3 stub with RemoteImGui<BR>[github](https://github.com/CedricGuillemet/AndroidAppViewer) |
+| ![]() | netImGui: Dear ImGui remote access library and application <BR>[github/sammyfreg/netImgui](https://github.com/sammyfreg/netImgui) |
+| ![]() | imgui-ws: Dear ImGui over WebSockets<BR>[github/ggerganov/imgui-ws](https://github.com/ggerganov/imgui-ws) |
+| ![]() | RemoteImGui: send vertices over the network<BR>[github/JordiRos/remoteimgui](https://github.com/JordiRos/remoteimgui) |
+| ![]() | Android GLES3 stub with RemoteImGui<BR>[github/CedricGuillemet/AndroidAppViewer](https://github.com/CedricGuillemet/AndroidAppViewer) |
 
 ## Terminal / Text mode
 | Shot | Link |
 |------|------|
-| ![]() | ImTui: Immediate Mode Text-based User Interface<BR>[github](https://github.com/ggerganov/imtui) |
-| ![]() | tear imgui: Experiment for a terminal-based renderer for imgui<BR>[github](https://github.com/jonvaldes/tear_imgui) |
+| ![]() | ImTui: Immediate Mode Text-based User Interface<BR>[github/ggerganov/imtui](https://github.com/ggerganov/imtui) |
+| ![]() | tear imgui: Experiment for a terminal-based renderer for imgui<BR>[github/jonvaldes/tear_imgui](https://github.com/jonvaldes/tear_imgui) |
 
 ## Midi/OSC interfacing
 | Shot | Link |
 |------|------|
-| ![]() | midi2osc: midi to opensoundcontrol bridge<BR>[github](https://github.com/mmalex/midi2osc) |
-| ![]() | devmidi: A simple MIDI input library that also dovetails into Dear ImGui<BR>[github](https://github.com/antonthefirst/devmidi) |
+| ![]() | midi2osc: midi to opensoundcontrol bridge<BR>[github/mmalex/midi2osc](https://github.com/mmalex/midi2osc) |
+| ![]() | devmidi: A simple MIDI input library that also dovetails into Dear ImGui<BR>[github/antonthefirst/devmidi](https://github.com/antonthefirst/devmidi) |
 
 ## Other
 | Shot | Link |
 |------|------|
-| ![]() | imgui_freetype renderer: imgui/misc/freetype/<BR>[github](https://github.com/ocornut/imgui) |
-| ![]() | ImDuino (ESP32+TFT+ImSoft+ImGui example)<BR>[github](https://github.com/LAK132/ImDuino) |
+| ![]() | imgui_freetype renderer: imgui/misc/freetype/<BR>[github/ocornut/imgui](https://github.com/ocornut/imgui) |
+| ![]() | ImDuino (ESP32+TFT+ImSoft+ImGui example)<BR>[github/LAK132/ImDuino](https://github.com/LAK132/ImDuino) |
 | ![]() | Input / IO queue for very low framerate applications<BR>[gist](https://gist.github.com/ocornut/8417344f3506790304742b07887adf9f) |
-| ![]() | Screenshot Tool<BR>[github](https://github.com/ocornut/imgui/wiki/screenshot_tool) |
+| ![]() | Screenshot Tool<BR>[wiki](https://github.com/ocornut/imgui/wiki/screenshot_tool) |
 
 [![ALT_TEXT](THUMBNAIL)](TARGET_URL)
