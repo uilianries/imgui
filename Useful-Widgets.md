@@ -1,52 +1,52 @@
 ## Text Editors
 | Shot | Link |
 |------|------|
-| ![](https://user-images.githubusercontent.com/1193295/96733540-dba78b00-13b9-11eb-855e-d0aa98a322d1.png) | ImGuiColorTextEdit<BR>[github](https://github.com/BalazsJako/ImGuiColorTextEdit)|
-| ![](https://user-images.githubusercontent.com/1193295/96734078-72744780-13ba-11eb-9a1d-a39c1e5122fd.png) | Zep<BR>[github](https://github.com/Rezonality/zep) |
+| ![](https://user-images.githubusercontent.com/1193295/96733540-dba78b00-13b9-11eb-855e-d0aa98a322d1.png) | ImGuiColorTextEdit<BR>[github/BalazsJako/ImGuiColorTextEdit](https://github.com/BalazsJako/ImGuiColorTextEdit)|
+| ![](https://user-images.githubusercontent.com/1193295/96734078-72744780-13ba-11eb-9a1d-a39c1e5122fd.png) | Zep<BR>[github/Rezonality/zep](https://github.com/Rezonality/zep) |
 | ![](https://user-images.githubusercontent.com/1193295/96734863-42797400-13bb-11eb-948f-554044b7a67d.png) | Scintilla<BR>[thread]() |
 
 ## Node Editors
 | Shot | Link |
 |------|------|
-| ![](https://user-images.githubusercontent.com/1193295/96736564-06dfa980-13bd-11eb-8cf8-641962bb04df.png) | imgui-node-editor<BR>[github](https://github.com/thedmd/imgui-node-editor) |
-| ![](https://user-images.githubusercontent.com/1193295/96736823-49a18180-13bd-11eb-8891-95f481fe1765.png) | ImNodes<BR>[github](https://github.com/rokups/ImNodes) |
-| ![](https://user-images.githubusercontent.com/1193295/96736995-78b7f300-13bd-11eb-84a1-6b8f0e4ac064.png) | imnodes<BR>[github](https://github.com/Nelarius/imnodes) |
+| ![](https://user-images.githubusercontent.com/1193295/96736564-06dfa980-13bd-11eb-8cf8-641962bb04df.png) | imgui-node-editor<BR>[github/thedmd/imgui-node-editor](https://github.com/thedmd/imgui-node-editor) |
+| ![](https://user-images.githubusercontent.com/1193295/96736823-49a18180-13bd-11eb-8891-95f481fe1765.png) | ImNodes<BR>[github/rokups/ImNodes](https://github.com/rokups/ImNodes) |
+| ![](https://user-images.githubusercontent.com/1193295/96736995-78b7f300-13bd-11eb-84a1-6b8f0e4ac064.png) | imnodes<BR>[github/Nelarius/imnodes](https://github.com/Nelarius/imnodes) |
 | ![]() | Many more<BR>[thread](https://github.com/ocornut/imgui/issues/306) |
 
 ## Curves, Animations, Gradients
 | Shot | Link |
 |------|------|
 | ![](https://user-images.githubusercontent.com/1193295/96737312-d1878b80-13bd-11eb-92ae-62dc191c6ee1.png) | Bezier<BR>[github](https://github.com/ocornut/imgui/issues/786) |
-| ![](https://user-images.githubusercontent.com/1193295/96737563-1ad7db00-13be-11eb-974d-956ba41b11de.png) | ImSequencer<BR>[github](https://github.com/CedricGuillemet/ImGuizmo) |
+| ![](https://user-images.githubusercontent.com/1193295/96737563-1ad7db00-13be-11eb-974d-956ba41b11de.png) | ImSequencer<BR>[github/CedricGuillemet/ImGuizmo](https://github.com/CedricGuillemet/ImGuizmo) |
 | ![]() | Gradient Color Generator<BR>[gist](https://gist.github.com/galloscript/8a5d179e432e062550972afcd1ecf112) |
 
 ## Plotting, Graph
 | Shot | Link |
 |------|------|
-| ![](https://user-images.githubusercontent.com/1193295/96738879-79ea1f80-13bf-11eb-8e96-97f4acc8b79d.png) | ImPlot <BR>[github](https://github.com/epezent/implot) |
-| ![](https://user-images.githubusercontent.com/1193295/96739012-9f772900-13bf-11eb-831b-e4b1ba82e152.png) | imgui-plot<BR>[github](https://github.com/soulthreads/imgui-plot) |
+| ![](https://user-images.githubusercontent.com/1193295/96738879-79ea1f80-13bf-11eb-8e96-97f4acc8b79d.png) | ImPlot <BR>[github/epezent/implot](https://github.com/epezent/implot) |
+| ![](https://user-images.githubusercontent.com/1193295/96739012-9f772900-13bf-11eb-831b-e4b1ba82e152.png) | imgui-plot<BR>[github/soulthreads/imgui-plot](https://github.com/soulthreads/imgui-plot) |
 | ![](https://user-images.githubusercontent.com/1193295/96739187-d0575e00-13bf-11eb-9afa-6f0c2bc4dd0f.png) | Flame Graph Widget<BR>[issues](https://github.com/ocornut/imgui/issues/2859) |
 | ![](https://user-images.githubusercontent.com/1193295/96739299-f0871d00-13bf-11eb-8a2b-fa670070477d.png) | Plot Var Helper<BR>[wiki](https://github.com/ocornut/imgui/wiki/plot_var_example) |
 
 ## File Browsers / File Dialog
 | Shot | Link |
 |------|------|
-| ![](https://user-images.githubusercontent.com/1193295/96841762-781a6d80-144c-11eb-9ef9-7f9c3bda37d1.png) | imgui-filebrowser<BR>[github](https://github.com/AirGuanZ/imgui-filebrowser) |
-| ![](https://user-images.githubusercontent.com/1193295/96842206-068eef00-144d-11eb-8342-7e82d37ab7a8.png) | ImGui-Addons<BR>[github](https://github.com/gallickgunner/ImGui-Addons) |
-| ![](https://user-images.githubusercontent.com/1193295/96842432-4e157b00-144d-11eb-9cbf-8e6b050e6f74.png) | ImGui-Addons-Branch-Home<BR>[github](https://github.com/Flix01/imgui/wiki/ImGui-Addons-Branch-Home) |
-| ![](https://user-images.githubusercontent.com/1193295/96842853-d85ddf00-144d-11eb-8c85-2c6e4ed4be76.png) | ImGuiFileDialog<BR>[github](https://github.com/aiekick/ImGuiFileDialog) |
-| ![](https://user-images.githubusercontent.com/1193295/96842995-11964f00-144e-11eb-82fc-4794e4abdecb.png) | L2DFileDialog<BR>[github](https://github.com/Limeoats/L2DFileDialog) |
+| ![](https://user-images.githubusercontent.com/1193295/96841762-781a6d80-144c-11eb-9ef9-7f9c3bda37d1.png) | imgui-filebrowser<BR>[github/AirGuanZ-imgui-filebrowser](https://github.com/AirGuanZ/imgui-filebrowser) |
+| ![](https://user-images.githubusercontent.com/1193295/96842206-068eef00-144d-11eb-8342-7e82d37ab7a8.png) | ImGui-Addons<BR>[github/gallickgunner/ImGui-Addons](https://github.com/gallickgunner/ImGui-Addons) |
+| ![](https://user-images.githubusercontent.com/1193295/96842432-4e157b00-144d-11eb-9cbf-8e6b050e6f74.png) | ImGui-Addons-Branch-Home<BR>[github/Flix01/imgui](https://github.com/Flix01/imgui/wiki/ImGui-Addons-Branch-Home) |
+| ![](https://user-images.githubusercontent.com/1193295/96842853-d85ddf00-144d-11eb-8c85-2c6e4ed4be76.png) | ImGuiFileDialog<BR>[github/aiekick/ImGuiFileDialog](https://github.com/aiekick/ImGuiFileDialog) |
+| ![](https://user-images.githubusercontent.com/1193295/96842995-11964f00-144e-11eb-82fc-4794e4abdecb.png) | L2DFileDialog<BR>[github/Limeoats/L2DFileDialog](https://github.com/Limeoats/L2DFileDialog) |
 
 ## Rich text
 | Shot | Link |
 |------|------|
-| ![](https://user-images.githubusercontent.com/1193295/96847652-bcf5d280-1453-11eb-912b-5673261fb072.png) | Markdown<BR>[github](https://github.com/juliettef/imgui_markdown) |
-| ![]() | URL/Links<BR>[gist](https://gist.github.com/dougbinks/ef0962ef6ebe2cadae76c4e9f0586c69#file-imguiutils-h-L228-L262) |
+| ![](https://user-images.githubusercontent.com/1193295/96847652-bcf5d280-1453-11eb-912b-5673261fb072.png) | Markdown<BR>[github/juliettef/imgui_markdown](https://github.com/juliettef/imgui_markdown) |
+| ![]() | URL/Links<BR>[gist/dougbinks](https://gist.github.com/dougbinks/ef0962ef6ebe2cadae76c4e9f0586c69#file-imguiutils-h-L228-L262) |
 
 ## Input Method Editor
 | Shot | Link |
 |------|------|
-| ![](https://user-images.githubusercontent.com/1193295/96848317-908e8600-1454-11eb-8ac1-ed6d7d895b2a.png) | DearImGui-with-IMM32<BR>[github](https://github.com/maildrop/DearImGui-with-IMM32) |
+| ![](https://user-images.githubusercontent.com/1193295/96848317-908e8600-1454-11eb-8ac1-ed6d7d895b2a.png) | DearImGui-with-IMM32<BR>[github/maildrop/DearImGui-with-IMM32](https://github.com/maildrop/DearImGui-with-IMM32) |
 
 ## Misc
 | Shot | Link |
