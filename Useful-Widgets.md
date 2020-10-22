@@ -140,42 +140,50 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 <BR> ![](https://user-images.githubusercontent.com/1193295/96886295-bc753000-1483-11eb-863e-81056c1bd801.png)
 
 **ImSoft (softraster for ImGui)**
-<BR> [github/LAK132/ImSoft](https://github.com/LAK132/ImSoft) |
+<BR> [github/LAK132/ImSoft](https://github.com/LAK132/ImSoft)
 
 ## Remoting
 
 **netImGui: Dear ImGui remote access library and application**
 <BR> [github/sammyfreg/netImgui](https://github.com/sammyfreg/netImgui)
+<BR> 2020
 <BR> ![](https://user-images.githubusercontent.com/1193295/96888198-a5374200-1485-11eb-9287-7842710de869.png)
 
 **imgui-ws: Dear ImGui over WebSockets**
 <BR> [github/ggerganov/imgui-ws](https://github.com/ggerganov/imgui-ws)
+<BR> 2019-2020
 <BR> ![](https://user-images.githubusercontent.com/1193295/96888493-f810f980-1485-11eb-89fb-eb75aa2cefa7.png)
 
 **RemoteImGui: send vertices over the network**
 <BR> [github/JordiRos/remoteimgui](https://github.com/JordiRos/remoteimgui)
+<BR> 2014-2019
 
-**Android GLES3 stub with RemoteImGui**
+**AndroidAppViewer**: Android GLES3 stub with RemoteImGui
 <BR> [github/CedricGuillemet/AndroidAppViewer](https://github.com/CedricGuillemet/AndroidAppViewer)
+<BR> 2018
 <BR> ![](https://user-images.githubusercontent.com/1193295/96888707-31e20000-1486-11eb-8c2d-05bfe12998a1.png)
 
 ## Terminal / Text mode
 
 **ImTui: Immediate Mode Text-based User Interface**
 <BR> [github/ggerganov/imtui](https://github.com/ggerganov/imtui)
+<BR> 2019-2020
 <BR> ![](https://user-images.githubusercontent.com/1193295/96889022-7b324f80-1486-11eb-9cf2-74d0caf37de7.png)
 
 **tear imgui: Experiment for a terminal-based renderer for imgui**
 <BR> [github/jonvaldes/tear_imgui](https://github.com/jonvaldes/tear_imgui)
+<BR> 2017
 
 ## Midi/OSC interfacing
 
 **midi2osc: midi to opensoundcontrol bridge**
 <BR> [github/mmalex/midi2osc](https://github.com/mmalex/midi2osc)
+<BR> 2018-2020
 <BR> ![](https://user-images.githubusercontent.com/1193295/96889160-9ef59580-1486-11eb-9938-ae98c52dd4f3.png)
 
 **devmidi: A simple MIDI input library** that also dovetails into Dear ImGui**
 <BR> [github/antonthefirst/devmidi](https://github.com/antonthefirst/devmidi)
+<BR> 2020
 
 ## Virtual Reality (VR) / Reprojected UI plane
 
