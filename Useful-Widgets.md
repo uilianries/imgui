@@ -101,11 +101,11 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 <BR> [github/AirGuanZ-imgui-filebrowser](https://github.com/AirGuanZ/imgui-filebrowser)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96841762-781a6d80-144c-11eb-9ef9-7f9c3bda37d1.png)
 
-**ImGui-Addons (gallickgunner's)**
+**gallickgunner's ImGui-Addons**
 <BR> [github/gallickgunner/ImGui-Addons](https://github.com/gallickgunner/ImGui-Addons)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96842206-068eef00-144d-11eb-8342-7e82d37ab7a8.png)
 
-**ImGui Addons (Flix01's)**
+**Flix01' ImGui-Addons**
 <BR> [github/Flix01/imgui](https://github.com/Flix01/imgui/wiki/ImGui-Addons-Branch-Home)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96842432-4e157b00-144d-11eb-9cbf-8e6b050e6f74.png)
 
