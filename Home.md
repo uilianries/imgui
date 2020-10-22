@@ -62,6 +62,8 @@ Thank you to every past and present [[Sponsors]] for making this project possibl
 
 - Bezier widget (@r-lyeh) https://github.com/ocornut/imgui/issues/786
 - ImSequencer (animation sequencer) https://github.com/CedricGuillemet/ImGuizmo
+- ImGradient (gradient editor) https://github.com/CedricGuillemet/ImGuizmo
+- ImCurveEdit (curve editor) https://github.com/CedricGuillemet/ImGuizmo
 - Gradient color generator (@galloscript): https://gist.github.com/galloscript/8a5d179e432e062550972afcd1ecf112
 
 ### Plotting, Graph
