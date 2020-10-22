@@ -102,11 +102,11 @@
 ## Terminal / Text mode
 | Shot | Link |
 |------|------|
-| ![]() | ImTui: Immediate Mode Text-based User Interface<BR>[github/ggerganov/imtui](https://github.com/ggerganov/imtui) |
+| ![](https://user-images.githubusercontent.com/1193295/96889022-7b324f80-1486-11eb-9cf2-74d0caf37de7.png) | ImTui: Immediate Mode Text-based User Interface<BR>[github/ggerganov/imtui](https://github.com/ggerganov/imtui) |
 | ![]() | tear imgui: Experiment for a terminal-based renderer for imgui<BR>[github/jonvaldes/tear_imgui](https://github.com/jonvaldes/tear_imgui) |
 
 ## Midi/OSC interfacing
 | Shot | Link |
 |------|------|
-| ![]() | midi2osc: midi to opensoundcontrol bridge<BR>[github/mmalex/midi2osc](https://github.com/mmalex/midi2osc) |
+| ![](https://user-images.githubusercontent.com/1193295/96889160-9ef59580-1486-11eb-9938-ae98c52dd4f3.png) | midi2osc: midi to opensoundcontrol bridge<BR>[github/mmalex/midi2osc](https://github.com/mmalex/midi2osc) |
 | ![]() | devmidi: A simple MIDI input library that also dovetails into Dear ImGui<BR>[github/antonthefirst/devmidi](https://github.com/antonthefirst/devmidi) |
