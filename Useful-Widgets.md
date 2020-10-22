@@ -51,21 +51,21 @@
 ## Misc
 | Shot | Link |
 |------|------|
-| ![]() | Memory Editor: <BR>[github](https://github.com/ocornut/imgui_club)
-| ![]() | ImGuizmo<BR>[github](https://github.com/CedricGuillemet/ImGuizmo)
-| ![]() | imGuiZMO.quat<BR>[github](https://github.com/BrutPitt/imGuIZMO.quat)
-| ![]() | Splitters<BR>[github](https://github.com/ocornut/imgui/issues/319)
-| ![]() | Slider 2D and Slider 3D<BR>[github](https://github.com/ocornut/imgui/issues/3484)
-| ![]() | Spinner + Loading Bar progress indicators<BR>[github](https://github.com/ocornut/imgui/issues/1901)
-| ![]() | ImHotKey (Hotkey Editor)<BR>[github](https://github.com/CedricGuillemet/ImHotKey)
-| ![]() | IP Entry Box<BR>[github](https://github.com/ocornut/imgui/issues/388)
-| ![]() | Pie menu test<BR>[github](https://github.com/ocornut/imgui/issues/434)
-| ![]() | nnview: a neural network viewer<BR>[github](https://github.com/lighttransport/nnview)
-| ![]() | Knobs<BR>[github](https://github.com/ocornut/imgui/issues/942#issuecomment-268369298)
-| ![]() | Toggle Button<BR>[github](https://github.com/ocornut/imgui/issues/1537)
-| ![]() | ImGui::Auto(): leverage C++17 to serialize any structure into imgui interfaces <BR>[github](https://github.com/Csabix/imgui/tree/master/auto)
-| ![]() | LayoutWidget<BR>[github](https://github.com/xpenatan/jDear-imgui/tree/master/extensions/imgui-layout-widget)
-| ![]() | Issues "useful widgets" Tag<BR>[issue](https://github.com/ocornut/imgui/labels/useful%20widgets)
+| ![](https://user-images.githubusercontent.com/1193295/96868227-081cdf00-146e-11eb-996b-35134ba8bd3c.png) | Memory Editor: <BR>[github](https://github.com/ocornut/imgui_club)
+| ![](https://user-images.githubusercontent.com/1193295/96868383-41554f00-146e-11eb-84b5-c4264c54532f.png) | ImGuizmo<BR>[github](https://github.com/CedricGuillemet/ImGuizmo)
+| ![](https://user-images.githubusercontent.com/1193295/96868553-86798100-146e-11eb-872a-44f51ee78117.png) | imGuiZMO.quat<BR>[github](https://github.com/BrutPitt/imGuIZMO.quat)
+| ![](https://user-images.githubusercontent.com/1193295/96868825-da846580-146e-11eb-9f2b-c4e5faf4581f.png) | Splitters<BR>[github](https://github.com/ocornut/imgui/issues/319)
+|  | Slider 2D and Slider 3D<BR>[github](https://github.com/ocornut/imgui/issues/3484)
+|  | Spinner + Loading Bar progress indicators<BR>[github](https://github.com/ocornut/imgui/issues/1901)
+|  | ImHotKey (Hotkey Editor)<BR>[github](https://github.com/CedricGuillemet/ImHotKey)
+|  | IP Entry Box<BR>[github](https://github.com/ocornut/imgui/issues/388)
+|  | Pie menu test<BR>[github](https://github.com/ocornut/imgui/issues/434)
+|  | nnview: a neural network viewer<BR>[github](https://github.com/lighttransport/nnview)
+|  | Knobs<BR>[github](https://github.com/ocornut/imgui/issues/942#issuecomment-268369298)
+|  | Toggle Button<BR>[github](https://github.com/ocornut/imgui/issues/1537)
+|  | ImGui::Auto(): leverage C++17 to serialize any structure into imgui interfaces <BR>[github](https://github.com/Csabix/imgui/tree/master/auto)
+|  | LayoutWidget<BR>[github](https://github.com/xpenatan/jDear-imgui/tree/master/extensions/imgui-layout-widget)
+|  | Issues "useful widgets" Tag<BR>[issue](https://github.com/ocornut/imgui/labels/useful%20widgets)
 
 ## Virtual Reality (VR) / Reprojected UI plane
 | Shot | Link |
