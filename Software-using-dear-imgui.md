@@ -22,14 +22,14 @@ Help us complete this list!
 | Game | Assassin's Creed Odyssey | **Ubisoft** | Sponsor | [blog](https://montreal.ubisoft.com/en/ubisoft-sponsors-user-interface-library-for-c-dear-imgui/)
 | Game | Assassin's Creed Origins | **Ubisoft** | Sponsor | [blog](https://montreal.ubisoft.com/en/ubisoft-sponsors-user-interface-library-for-c-dear-imgui/)
 | Game | Astro Bot Rescue Mission | Sony/SIE | | [homepage](https://www.playstation.com/en-us/games/astro-bot-rescue-mission-ps4/) / [shot](https://user-images.githubusercontent.com/8225057/56029150-0f601a00-5d1a-11e9-9615-f4fd04a1d734.JPG)
-| Game | Avoyd | Enki Software | Sponsor | [homepage](https://www.enkisoftware.com) / [shot](https://github.com/ocornut/imgui/issues/707#issuecomment-226993714)
+| Game | Avoyd | **Enki Software** | Sponsor | [homepage](https://www.enkisoftware.com) / [shot](https://github.com/ocornut/imgui/issues/707#issuecomment-226993714)
 | Game | Barbearian | Gimblll | | [homepage](http://www.gimblll.com/barbearian/) / [steam](https://store.steampowered.com/app/813450/Barbearian/) / [shot](https://user-images.githubusercontent.com/8225057/45208439-deeb6580-b28a-11e8-8e65-bcc93254e515.png)
 | Game | BeamNG.drive | BeamNG | | [homepage](https://www.beamng.com) / [steam](https://store.steampowered.com/app/284160/BeamNGdrive/)
 | Game | Below | Capybara Games | | [homepage](http://www.whatliesbelow.com) / [shots](https://github.com/ocornut/imgui/issues/973#issuecomment-301079827)
 | Game | Blightmare | | | [steam](https://store.steampowered.com/app/859160/Blightmare/) / [blog](https://blightmare.com/2020/08/18/immediate-mode-user-interface/)
 | Game | Blood & Truth | SCEE Studio London | | [homepage](https://www.playstation.com/en-us/games/blood-and-truth-ps4/) / [credits](https://www.mobygames.com/game/playstation-4/blood-truth/credits)
 | Game | Boundless | Wonderstruck Games | | [homepage](http://playboundless.com) / [shots 1](https://github.com/ocornut/imgui/issues/539#issuecomment-234486231) [2](https://github.com/ocornut/imgui/issues/539#issuecomment-236357140) [3](https://github.com/ocornut/imgui/issues/973#issuecomment-276030982)
-| Game | Brigador | Stellar Jockeys | Sponsor | [steam](http://store.steampowered.com/app/274500/Brigador_UpArmored_Edition)
+| Game | Brigador | **Stellar Jockeys** | Sponsor | [steam](http://store.steampowered.com/app/274500/Brigador_UpArmored_Edition)
 | Game | Burning Knight | Rexcellent Games | | [steam](https://store.steampowered.com/app/851150/Burning_Knight/)
 | Game | Chrono-Drive | | | [video](https://www.youtube.com/watch?v=gFbh4wxZ6DE&feature=youtu.be&t=2m3s) |
 | Game | Clash of Clans | **Supercell** | Sponsor | [homepage](https://supercell.com/en/games/clashofclans/) / [shot](https://user-images.githubusercontent.com/8225057/81696947-e3572100-9464-11ea-8f96-d88db7379420.PNG)
@@ -43,7 +43,7 @@ Help us complete this list!
 | Game | Doom Eternal | id Software | | [shot](https://user-images.githubusercontent.com/8225057/77301209-93bf6900-6cef-11ea-9e89-9b4334ef6f53.jpg) / [credits](https://www.mobygames.com/game/windows/doom-eternal/credits)
 | Game | Door Kickers 2 | KillHouse | | [video](https://twitter.com/inthekillhouse/status/1243610799979089921)
 | Game | Dreams | **Media Molecule** | Sponsor | [homepage](http://dreams.mediamolecule.com) |
-| Game | Druidstone: The Secret of the Menhir Forest | Ctrl Alt Ninja | Sponsor | [credits](https://www.mobygames.com/game/windows/druidstone-the-secret-of-the-menhir-forest/credits)
+| Game | Druidstone: The Secret of the Menhir Forest | **Ctrl Alt Ninja** | Sponsor | [credits](https://www.mobygames.com/game/windows/druidstone-the-secret-of-the-menhir-forest/credits)
 | Game | Dual Universe | Novaquark | | [homepage](https://www.dualthegame.com) / [video](https://www.youtube.com/watch?v=WTvT4BAg7RI) |
 | Game | Dungeons of Everchange | Dark Gnosis | | [homepage](http://www.darkgnosis.com/game/dungeons-of-everchange/) / [shots](https://github.com/ocornut/imgui/issues/1607#issuecomment-387039874) |
 | Game | Endless Fables 3: Dark Moor | Sunward Games | | [steam](https://store.steampowered.com/app/867050/Endless_Fables_3_Dark_Moor/)
@@ -79,9 +79,9 @@ Help us complete this list!
 | Game | Openblack | | | [github](https://github.com/openblack/openblack) / [shot](https://user-images.githubusercontent.com/1013356/67159752-54a87880-f349-11e9-9df5-628594b3a745.gif)
 | Game | Overgrowth | Wolfire Games | | [homepage](http://www.wolfire.com/overgrowth) / [shots](https://github.com/ocornut/imgui/issues/973#issuecomment-277081512)
 | Game | Particubes | | | [homepage](https://particubes.com/) / [shots](https://github.com/ocornut/imgui/issues/3075#issuecomment-604307758)
-| Game | Path of Exile Legion | Grinding Gear Games | Sponsor | [homepage](https://www.pathofexile.com/legion) / [video](https://github.com/ocornut/imgui/issues/2529#issuecomment-494933892)
+| Game | Path of Exile Legion | Grinding Gear Games | **Sponsor** | [homepage](https://www.pathofexile.com/legion) / [video](https://github.com/ocornut/imgui/issues/2529#issuecomment-494933892)
 | Game | Pioneer Space Sim | | | [homepage](https://pioneerspacesim.net/) / [github](https://github.com/pioneerspacesim/pioneer)
-| Game | Pirate Power | Godzilab | Sponsor | [app store](https://itunes.apple.com/us/app/pirate-power/id605057245) / [google play](https://play.google.com/store/apps/details?id=com.godzilab.happypirate&hl=en)
+| Game | Pirate Power | **Godzilab** | Sponsor | [app store](https://itunes.apple.com/us/app/pirate-power/id605057245) / [google play](https://play.google.com/store/apps/details?id=com.godzilab.happypirate&hl=en)
 | Game | Pokémon: Let's Go, Pikachu! / Eevee! | Game Freak | | [homepage](https://pokemonletsgo.pokemon.com/) / [shot 1](https://user-images.githubusercontent.com/8225057/51388476-d274f480-1b29-11e9-9573-f5986f3833dc.jpg) [2](https://user-images.githubusercontent.com/8225057/51388479-d4d74e80-1b29-11e9-8368-8ccbc09b6f25.jpg)
 | Game | Pokémon Sword and Shield | Game Freak | | [shots](https://github.com/ocornut/imgui/issues/3488#issuecomment-714048146)
 | Game | Puzzle Catcher | BlitWise Productions | | [homepage](https://www.puzzlecatcher.com)
@@ -114,8 +114,8 @@ Help us complete this list!
 | Game | Warfork | | | [steam](https://store.steampowered.com/app/671610/Warfork/)
 | Game | Warhammer: Chaosbane | Eko Software | | [steam](https://store.steampowered.com/app/774241/Warhammer_Chaosbane/) / [shots](https://github.com/ocornut/imgui/issues/2847#issuecomment-560856396)
 | Game | Windjammers 2 | **Dotemu** | Sponsor | [homepage](http://www.dotemu.com/game/windjammers-2/)
-| Game | WiLD | Wild Sheep Studio | Sponsor | [homepage](http://www.wildsheepstudio.com) / [shots](https://github.com/ocornut/imgui/issues/539#issuecomment-193720307) |
-| Game | Wonder Boy: The Dragon's Trap | Lizardcube | Sponsor | [homepage](http://www.TheDragonsTrap.com) / [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-262975159) |
+| Game | WiLD | **Wild Sheep Studio** | Sponsor | [homepage](http://www.wildsheepstudio.com) / [shots](https://github.com/ocornut/imgui/issues/539#issuecomment-193720307) |
+| Game | Wonder Boy: The Dragon's Trap | **Lizardcube** | Sponsor | [homepage](http://www.TheDragonsTrap.com) / [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-262975159) |
 | Game | World of Tanks Blitz | Wargaming | | [homepage](https://wotblitz.com/)
 | Game | WRC 7 | **Kylotonn** | Sponsor | |
 | Game | WRC 8 | **Kylotonn** | Sponsor | |
@@ -138,7 +138,7 @@ Help us complete this list!
 | App | CADRays | Open Cascade | | [homepage](https://www.opencascade.com/content/cadrays) / [video](https://www.youtube.com/watch?v=D6_uGxmhuVk) 
 | App | Cheevos Hunter | @leiradel | | [github](https://github.com/leiradel/CheevosHunter) / [shot](https://raw.githubusercontent.com/leiradel/CheevosHunter/master/ch.png)
 | Misc | Cinder-Experiments | @simongeilfus | | [github](https://github.com/simongeilfus/Cinder-Experiments)
-| App | CortexRecognition | Recognition Robotics | Sponsor | [homepage](http://www.recognitionrobotics.com) / [shots](https://github.com/ocornut/imgui/issues/123#issuecomment-114941904) / [photos](https://github.com/ocornut/imgui/issues/973#issuecomment-303784406)
+| App | CortexRecognition | **Recognition Robotics** | Sponsor | [homepage](http://www.recognitionrobotics.com) / [shots](https://github.com/ocornut/imgui/issues/123#issuecomment-114941904) / [photos](https://github.com/ocornut/imgui/issues/973#issuecomment-303784406)
 | App | Decaf | | | [github](https://github.com/decaf-emu/decaf-emu)
 | App | DefleMask | Leonardo Demartino | | [homepage](http://www.deflemask.com/) / [appstore](https://itunes.apple.com/app/deflemask/id1390797126) / [playstore](https://play.google.com/store/apps/details?id=com.deflemask.mobile)
 | App | Desktop+ OpenVR Overlay | @elvissteinjr | | [github](https://github.com/elvissteinjr/DesktopPlus) / [shot](https://raw.githubusercontent.com/elvissteinjr/DesktopPlus/master/docs/screenshot.jpg)
@@ -171,7 +171,7 @@ Help us complete this list!
 | App | graph based noise tool | | | [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-288334906)
 | App | Graphic Depictions | | | [github](https://github.com/blackhole89/graphicdepictions) / [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-254023884)
 | Demo | Guberniya | Macau Exports | | [homepage](http://www.pouet.net/prod.php?which=69652) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-298192944) / [blog](http://www.lofibucket.com/articles/64k_intro.html#the-tool)
-| Engine | Harfang 3d | Movida Production | Sponsor | [homepage](https://www.harfang3d.com) / [shot](https://user-images.githubusercontent.com/8225057/39697837-9e758aba-51f2-11e8-91a9-834d33b5351f.jpg)
+| Engine | Harfang 3d | **Movida Production** | Sponsor | [homepage](https://www.harfang3d.com) / [shot](https://user-images.githubusercontent.com/8225057/39697837-9e758aba-51f2-11e8-91a9-834d33b5351f.jpg)
 | Engine | Hazel | TheCherno | | [github](https://github.com/TheCherno/Hazel)
 | App | HCK_ | | | [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-274636854)
 | App | IceSL | Loria | | [homepage](http://shapeforge.loria.fr/icesl/)
