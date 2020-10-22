@@ -63,7 +63,7 @@
 |  | nnview: a neural network viewer<BR>[github](https://github.com/lighttransport/nnview)
 |  | Knobs<BR>[github](https://github.com/ocornut/imgui/issues/942#issuecomment-268369298)
 |  | Toggle Button<BR>[github](https://github.com/ocornut/imgui/issues/1537)
-|  | ImGui::Auto(): leverage C++17 to serialize any structure into imgui interfaces <BR>[github](https://github.com/Csabix/imgui/tree/master/auto)
+|  | ImGui::Auto()<BR>leverage C++17 to serialize any<BR> structure into imgui interfaces <BR>[github](https://github.com/Csabix/imgui/tree/master/auto)
 |  | LayoutWidget<BR>[github](https://github.com/xpenatan/jDear-imgui/tree/master/extensions/imgui-layout-widget)
 |  | Issues "useful widgets" Tag<BR>[issue](https://github.com/ocornut/imgui/labels/useful%20widgets)
 
