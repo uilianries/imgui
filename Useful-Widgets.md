@@ -63,7 +63,7 @@
 | ![](https://user-images.githubusercontent.com/1193295/96875257-4f5b9d80-1477-11eb-9789-dbc203d8a3f4.png) | IP Entry Box<BR>[issue #388](https://github.com/ocornut/imgui/issues/388)
 | ![](https://user-images.githubusercontent.com/1193295/96875448-82059600-1477-11eb-93be-db904ae920a8.png) | Pie menu test<BR>[issue #434](https://github.com/ocornut/imgui/issues/434)
 | ![](https://user-images.githubusercontent.com/1193295/96875679-ca24b880-1477-11eb-8d4c-022166c8a427.png) | nnview: a neural network viewer<BR>[github/lighttransport/nnview](https://github.com/lighttransport/nnview)
-| ![]() | Knobs<BR>[issue #942](https://github.com/ocornut/imgui/issues/942#issuecomment-268369298)
+| ![](https://user-images.githubusercontent.com/1193295/96877128-8cc12a80-1479-11eb-9d19-904ceaf8e469.png) | Knobs<BR>[issue #942](https://github.com/ocornut/imgui/issues/942#issuecomment-268369298)
 | ![]() | Toggle Button<BR>[issue #1537](https://github.com/ocornut/imgui/issues/1537)
 | ![]() | ImGui::Auto()<BR>leverage C++17 to serialize any<BR>structure into imgui interfaces<BR>[github/Csabix/imgui](https://github.com/Csabix/imgui/tree/master/auto)
 | ![]() | LayoutWidget<BR>[github/xpenatan/jDear-imgui/extensions](https://github.com/xpenatan/jDear-imgui/tree/master/extensions/imgui-layout-widget)
