@@ -94,10 +94,10 @@
 ## Remoting
 | Shot | Link |
 |------|------|
-| ![]() | netImGui: Dear ImGui remote access library and application <BR>[github/sammyfreg/netImgui](https://github.com/sammyfreg/netImgui) |
-| ![]() | imgui-ws: Dear ImGui over WebSockets<BR>[github/ggerganov/imgui-ws](https://github.com/ggerganov/imgui-ws) |
+| ![](https://user-images.githubusercontent.com/1193295/96888198-a5374200-1485-11eb-9287-7842710de869.png) | netImGui: Dear ImGui remote access library and application <BR>[github/sammyfreg/netImgui](https://github.com/sammyfreg/netImgui) |
+| ![](https://user-images.githubusercontent.com/1193295/96888493-f810f980-1485-11eb-89fb-eb75aa2cefa7.png) | imgui-ws: Dear ImGui over WebSockets<BR>[github/ggerganov/imgui-ws](https://github.com/ggerganov/imgui-ws) |
 | ![]() | RemoteImGui: send vertices over the network<BR>[github/JordiRos/remoteimgui](https://github.com/JordiRos/remoteimgui) |
-| ![]() | Android GLES3 stub with RemoteImGui<BR>[github/CedricGuillemet/AndroidAppViewer](https://github.com/CedricGuillemet/AndroidAppViewer) |
+| ![](https://user-images.githubusercontent.com/1193295/96888707-31e20000-1486-11eb-8c2d-05bfe12998a1.png) | Android GLES3 stub with RemoteImGui<BR>[github/CedricGuillemet/AndroidAppViewer](https://github.com/CedricGuillemet/AndroidAppViewer) |
 
 ## Terminal / Text mode
 | Shot | Link |
