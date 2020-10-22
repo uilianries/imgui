@@ -3,7 +3,7 @@
 |------|------|
 | ![](https://user-images.githubusercontent.com/1193295/96733540-dba78b00-13b9-11eb-855e-d0aa98a322d1.png) | ImGuiColorTextEdit<BR>[github/BalazsJako/ImGuiColorTextEdit](https://github.com/BalazsJako/ImGuiColorTextEdit)|
 | ![](https://user-images.githubusercontent.com/1193295/96734078-72744780-13ba-11eb-9a1d-a39c1e5122fd.png) | Zep<BR>[github/Rezonality/zep](https://github.com/Rezonality/zep) |
-| ![](https://user-images.githubusercontent.com/1193295/96734863-42797400-13bb-11eb-948f-554044b7a67d.png) | Scintilla<BR>[thread]() |
+| ![](https://user-images.githubusercontent.com/1193295/96734863-42797400-13bb-11eb-948f-554044b7a67d.png) | Scintilla<BR>[issue #108](https://github.com/ocornut/imgui/issues/108) |
 
 ## Node Editors
 | Shot | Link |
@@ -11,7 +11,7 @@
 | ![](https://user-images.githubusercontent.com/1193295/96736564-06dfa980-13bd-11eb-8cf8-641962bb04df.png) | imgui-node-editor<BR>[github/thedmd/imgui-node-editor](https://github.com/thedmd/imgui-node-editor) |
 | ![](https://user-images.githubusercontent.com/1193295/96736823-49a18180-13bd-11eb-8891-95f481fe1765.png) | ImNodes<BR>[github/rokups/ImNodes](https://github.com/rokups/ImNodes) |
 | ![](https://user-images.githubusercontent.com/1193295/96736995-78b7f300-13bd-11eb-84a1-6b8f0e4ac064.png) | imnodes<BR>[github/Nelarius/imnodes](https://github.com/Nelarius/imnodes) |
-| ![]() | Many more<BR>[thread](https://github.com/ocornut/imgui/issues/306) |
+| ![]() | Many more at [#306](https://github.com/ocornut/imgui/issues/306) |
 
 ## Curves, Animations, Gradients
 | Shot | Link |
@@ -25,7 +25,7 @@
 |------|------|
 | ![](https://user-images.githubusercontent.com/1193295/96738879-79ea1f80-13bf-11eb-8e96-97f4acc8b79d.png) | ImPlot <BR>[github/epezent/implot](https://github.com/epezent/implot) |
 | ![](https://user-images.githubusercontent.com/1193295/96739012-9f772900-13bf-11eb-831b-e4b1ba82e152.png) | imgui-plot<BR>[github/soulthreads/imgui-plot](https://github.com/soulthreads/imgui-plot) |
-| ![](https://user-images.githubusercontent.com/1193295/96739187-d0575e00-13bf-11eb-9afa-6f0c2bc4dd0f.png) | Flame Graph Widget<BR>[issues](https://github.com/ocornut/imgui/issues/2859) |
+| ![](https://user-images.githubusercontent.com/1193295/96739187-d0575e00-13bf-11eb-9afa-6f0c2bc4dd0f.png) | Flame Graph Widget <BR>[issue #2859](https://github.com/ocornut/imgui/issues/2859) |
 | ![](https://user-images.githubusercontent.com/1193295/96739299-f0871d00-13bf-11eb-8a2b-fa670070477d.png) | Plot Var Helper<BR>[wiki](https://github.com/ocornut/imgui/wiki/plot_var_example) |
 
 ## File Browsers / File Dialog
@@ -51,29 +51,29 @@
 ## Misc
 | Shot | Link |
 |------|------|
-| ![]() | Memory Editor: <BR>[github](https://github.com/ocornut/imgui_club)
-| ![]() | ImGuizmo<BR>[github](https://github.com/CedricGuillemet/ImGuizmo)
-| ![]() | imGuiZMO.quat<BR>[github](https://github.com/BrutPitt/imGuIZMO.quat)
-| ![]() | Splitters<BR>[github](https://github.com/ocornut/imgui/issues/319)
-| ![]() | Slider 2D and Slider 3D<BR>[github](https://github.com/ocornut/imgui/issues/3484)
-| ![]() | Spinner + Loading Bar progress indicators<BR>[github](https://github.com/ocornut/imgui/issues/1901)
-| ![]() | ImHotKey (Hotkey Editor)<BR>[github](https://github.com/CedricGuillemet/ImHotKey)
-| ![]() | IP Entry Box<BR>[github](https://github.com/ocornut/imgui/issues/388)
-| ![]() | Pie menu test<BR>[github](https://github.com/ocornut/imgui/issues/434)
-| ![]() | nnview: a neural network viewer<BR>[github](https://github.com/lighttransport/nnview)
-| ![]() | Knobs<BR>[github](https://github.com/ocornut/imgui/issues/942#issuecomment-268369298)
-| ![]() | Toggle Button<BR>[github](https://github.com/ocornut/imgui/issues/1537)
-| ![]() | ImGui::Auto(): leverage C++17 to serialize any structure into imgui interfaces <BR>[github](https://github.com/Csabix/imgui/tree/master/auto)
-| ![]() | LayoutWidget<BR>[github](https://github.com/xpenatan/jDear-imgui/tree/master/extensions/imgui-layout-widget)
-| ![]() | Issues "useful widgets" Tag<BR>[issue](https://github.com/ocornut/imgui/labels/useful%20widgets)
+| ![]() | Memory Editor: <BR>[github/ocornut/imgui_club](https://github.com/ocornut/imgui_club)
+| ![]() | ImGuizmo<BR>[github/CedricGuillemet/ImGuizmo](https://github.com/CedricGuillemet/ImGuizmo)
+| ![]() | imGuiZMO.quat<BR>[github/BrutPitt/imGuIZMO.quat](https://github.com/BrutPitt/imGuIZMO.quat)
+| ![]() | Splitters<BR>[issue #319](https://github.com/ocornut/imgui/issues/319)
+| ![]() | Slider 2D and Slider 3D<BR>[issue #3484](https://github.com/ocornut/imgui/issues/3484)
+| ![]() | Spinner + Loading Bar progress indicators<BR>[issue #1901](https://github.com/ocornut/imgui/issues/1901)
+| ![]() | ImHotKey (Hotkey Editor)<BR>[github/CedricGuillemet/ImHotKey](https://github.com/CedricGuillemet/ImHotKey)
+| ![]() | IP Entry Box<BR>[issue #388](https://github.com/ocornut/imgui/issues/388)
+| ![]() | Pie menu test<BR>[issue #434](https://github.com/ocornut/imgui/issues/434)
+| ![]() | nnview: a neural network viewer<BR>[github/lighttransport/nnview](https://github.com/lighttransport/nnview)
+| ![]() | Knobs<BR>[issue #942](https://github.com/ocornut/imgui/issues/942#issuecomment-268369298)
+| ![]() | Toggle Button<BR>[issue #1537](https://github.com/ocornut/imgui/issues/1537)
+| ![]() | ImGui::Auto(): leverage C++17 to serialize any structure into imgui interfaces <BR>[github/Csabix/imgui](https://github.com/Csabix/imgui/tree/master/auto)
+| ![]() | LayoutWidget<BR>[github/xpenatan/jDear-imgui/extensions](https://github.com/xpenatan/jDear-imgui/tree/master/extensions/imgui-layout-widget)
+| ![]() | Also see `useful widgets` tag in [issues](https://github.com/ocornut/imgui/labels/useful%20widgets)
 
 ## Virtual Reality (VR) / Reprojected UI plane
 | Shot | Link |
 |------|------|
-| ![]() | ImGuiVR: Demo code for using Imgui with OpenVR <BR>[github](https://github.com/temcgraw/ImguiVR)<BR>[video](https://www.youtube.com/watch?v=nlwfn4HJw5E) |
-| ![]() | Desktop+<BR>[github](https://github.com/elvissteinjr/DesktopPlus) |
-| ![]() | BIMXplorer<BR>[bimxplorer](https://www.bimxplorer.com/) |
-| ![]() | mpFluid CAVE Front End<BR>[github](https://github.com/sariug/mpfluid_cave_frontend) |
+| ![]() | ImGuiVR: Demo code for using Imgui with OpenVR <BR>[github/temcgraw/ImguiVR](https://github.com/temcgraw/ImguiVR)<BR>[video](https://www.youtube.com/watch?v=nlwfn4HJw5E) |
+| ![]() | Desktop+<BR>[github/elvissteinjr/DesktopPlus](https://github.com/elvissteinjr/DesktopPlus) |
+| ![]() | BIMXplorer<BR>[homepage](https://www.bimxplorer.com/) |
+| ![]() | mpFluid CAVE Front End<BR>[github/sariug/mpfluid_cave_frontend](https://github.com/sariug/mpfluid_cave_frontend) |
 
 ## Third party repos
 | Shot | Link |
