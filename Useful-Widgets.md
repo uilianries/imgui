@@ -1,3 +1,14 @@
+## Index
+
+- [Text Editors](#text-editors)
+- [Node Editors](#node-editors)
+- [Curves, Animations, Gradients](#curves-animations-gradients)
+- [Plotting, Graph](#plotting-graph)
+- [File Browsers / File Dialog](#file-browsers--file-dialog)
+- [Input Method Editors](#input-method-editors)
+- 
+- [Miscellaneous](#miscellaneous]
+
 ## Text Editors
 
 **ImGuiColorTextEdit**
@@ -41,7 +52,7 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 <BR> 2016-2019
 <BR> ![](https://user-images.githubusercontent.com/1193295/96737312-d1878b80-13bd-11eb-92ae-62dc191c6ee1.png)
 
-**ImSequencer*
+**ImSequencer**
 <BR> [github/CedricGuillemet/ImGuizmo](https://github.com/CedricGuillemet/ImGuizmo)
 <BR> 2018-2019
 <BR> ![](https://user-images.githubusercontent.com/1193295/96737563-1ad7db00-13be-11eb-974d-956ba41b11de.png)
@@ -111,13 +122,75 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 **url/links**
 <BR> [gist/dougbinks](https://gist.github.com/dougbinks/ef0962ef6ebe2cadae76c4e9f0586c69#file-imguiutils-h-L228-L262)
 
-## Input Method Editor
+## Input Method Editors
 
 **DearImGui-with-IMM32**
 <BR> [github/maildrop/DearImGui-with-IMM32](https://github.com/maildrop/DearImGui-with-IMM32)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96867731-64333380-146d-11eb-9aae-14abee458f93.png)
 
-## Misc
+
+## Software Renderer/Rasterizer
+
+**Software Renderer for Dear ImGui**
+<BR> [github/emilk/imgui_software_renderer](https://github.com/emilk/imgui_software_renderer)
+<BR> ![](https://user-images.githubusercontent.com/1193295/96886295-bc753000-1483-11eb-863e-81056c1bd801.png)
+
+**ImSoft (softraster for ImGui)**
+<BR> [github/LAK132/ImSoft](https://github.com/LAK132/ImSoft) |
+
+## Remoting
+
+**netImGui: Dear ImGui remote access library and application**
+<BR> [github/sammyfreg/netImgui](https://github.com/sammyfreg/netImgui)
+<BR> ![](https://user-images.githubusercontent.com/1193295/96888198-a5374200-1485-11eb-9287-7842710de869.png)
+
+**imgui-ws: Dear ImGui over WebSockets**
+<BR> [github/ggerganov/imgui-ws](https://github.com/ggerganov/imgui-ws)
+<BR> ![](https://user-images.githubusercontent.com/1193295/96888493-f810f980-1485-11eb-89fb-eb75aa2cefa7.png)
+
+**RemoteImGui: send vertices over the network**
+<BR> [github/JordiRos/remoteimgui](https://github.com/JordiRos/remoteimgui)
+
+**Android GLES3 stub with RemoteImGui**
+<BR> [github/CedricGuillemet/AndroidAppViewer](https://github.com/CedricGuillemet/AndroidAppViewer)
+<BR> ![](https://user-images.githubusercontent.com/1193295/96888707-31e20000-1486-11eb-8c2d-05bfe12998a1.png)
+
+## Terminal / Text mode
+
+**ImTui: Immediate Mode Text-based User Interface**
+<BR> [github/ggerganov/imtui](https://github.com/ggerganov/imtui)
+<BR> ![](https://user-images.githubusercontent.com/1193295/96889022-7b324f80-1486-11eb-9cf2-74d0caf37de7.png)
+
+**tear imgui: Experiment for a terminal-based renderer for imgui**
+<BR> [github/jonvaldes/tear_imgui](https://github.com/jonvaldes/tear_imgui)
+
+## Midi/OSC interfacing
+
+**midi2osc: midi to opensoundcontrol bridge**
+<BR> [github/mmalex/midi2osc](https://github.com/mmalex/midi2osc)
+<BR> ![](https://user-images.githubusercontent.com/1193295/96889160-9ef59580-1486-11eb-9938-ae98c52dd4f3.png)
+
+**devmidi: A simple MIDI input library** that also dovetails into Dear ImGui**
+<BR> [github/antonthefirst/devmidi](https://github.com/antonthefirst/devmidi)
+
+## Virtual Reality (VR) / Reprojected UI plane
+
+**ImGuiVR**: Demo code for using Imgui with OpenVR 
+<BR> [github/temcgraw/ImguiVR](https://github.com/temcgraw/ImguiVR)<BR>[video](https://www.youtube.com/watch?v=nlwfn4HJw5E)
+
+**Desktop+**
+<BR> [github/elvissteinjr/DesktopPlus](https://github.com/elvissteinjr/DesktopPlus)
+<BR> ![](https://user-images.githubusercontent.com/1193295/96884668-0eb55180-1482-11eb-95da-1f513a9f5a77.png)
+
+**BIMXplorer**
+<BR> [homepage](https://www.bimxplorer.com/) |
+<BR> ![](https://user-images.githubusercontent.com/1193295/96884752-25f43f00-1482-11eb-9dd9-9b302c5a2c05.png)
+
+**mpFluid CAVE Front End**
+<BR> [github/sariug/mpfluid_cave_frontend](https://github.com/sariug/mpfluid_cave_frontend)
+<BR> ![](https://user-images.githubusercontent.com/1193295/96884840-42907700-1482-11eb-9d50-8aef7e88c4a6.png) |  |
+
+## Miscellaneous
 
 **imgui_memory_editor**
 <BR> [github/ocornut/imgui_club](https://github.com/ocornut/imgui_club)
@@ -172,23 +245,6 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 
 Also [Useful Widgets](https://github.com/ocornut/imgui/labels/useful%20widgets) Tag in Issues.
 
-## Virtual Reality (VR) / Reprojected UI plane
-
-**ImGuiVR**: Demo code for using Imgui with OpenVR 
-<BR> [github/temcgraw/ImguiVR](https://github.com/temcgraw/ImguiVR)<BR>[video](https://www.youtube.com/watch?v=nlwfn4HJw5E)
-
-**Desktop+**
-<BR> [github/elvissteinjr/DesktopPlus](https://github.com/elvissteinjr/DesktopPlus)
-<BR> ![](https://user-images.githubusercontent.com/1193295/96884668-0eb55180-1482-11eb-95da-1f513a9f5a77.png)
-
-**BIMXplorer**
-<BR> [homepage](https://www.bimxplorer.com/) |
-<BR> ![](https://user-images.githubusercontent.com/1193295/96884752-25f43f00-1482-11eb-9dd9-9b302c5a2c05.png)
-
-**mpFluid CAVE Front End**
-<BR> [github/sariug/mpfluid_cave_frontend](https://github.com/sariug/mpfluid_cave_frontend)
-<BR> ![](https://user-images.githubusercontent.com/1193295/96884840-42907700-1482-11eb-9d50-8aef7e88c4a6.png) |  |
-
 ## Third party repos
 
 **Flix01's ImGui-Addons**
@@ -209,47 +265,3 @@ Also [Useful Widgets](https://github.com/ocornut/imgui/labels/useful%20widgets) 
 **MetricsGui: controls for displaying performance metrics**
 <BR>[github/GameTechDev/MetricsGui](https://github.com/GameTechDev/MetricsGui)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96885983-6e602c80-1483-11eb-9006-44b46d994730.png)
-
-## Software Renderer/Rasterizer
-
-**Software Renderer for Dear ImGui**
-<BR> [github/emilk/imgui_software_renderer](https://github.com/emilk/imgui_software_renderer)
-<BR> ![](https://user-images.githubusercontent.com/1193295/96886295-bc753000-1483-11eb-863e-81056c1bd801.png)
-
-**ImSoft (softraster for ImGui)**
-<BR> [github/LAK132/ImSoft](https://github.com/LAK132/ImSoft) |
-
-## Remoting
-
-**netImGui: Dear ImGui remote access library and application**
-<BR> [github/sammyfreg/netImgui](https://github.com/sammyfreg/netImgui)
-<BR> ![](https://user-images.githubusercontent.com/1193295/96888198-a5374200-1485-11eb-9287-7842710de869.png)
-
-**imgui-ws: Dear ImGui over WebSockets**
-<BR> [github/ggerganov/imgui-ws](https://github.com/ggerganov/imgui-ws)
-<BR> ![](https://user-images.githubusercontent.com/1193295/96888493-f810f980-1485-11eb-89fb-eb75aa2cefa7.png)
-
-**RemoteImGui: send vertices over the network**
-<BR> [github/JordiRos/remoteimgui](https://github.com/JordiRos/remoteimgui)
-
-**Android GLES3 stub with RemoteImGui**
-<BR> [github/CedricGuillemet/AndroidAppViewer](https://github.com/CedricGuillemet/AndroidAppViewer)
-<BR> ![](https://user-images.githubusercontent.com/1193295/96888707-31e20000-1486-11eb-8c2d-05bfe12998a1.png)
-
-## Terminal / Text mode
-
-**ImTui: Immediate Mode Text-based User Interface**
-<BR> [github/ggerganov/imtui](https://github.com/ggerganov/imtui)
-<BR> ![](https://user-images.githubusercontent.com/1193295/96889022-7b324f80-1486-11eb-9cf2-74d0caf37de7.png)
-
-**tear imgui: Experiment for a terminal-based renderer for imgui**
-<BR> [github/jonvaldes/tear_imgui](https://github.com/jonvaldes/tear_imgui)
-
-## Midi/OSC interfacing
-
-**midi2osc: midi to opensoundcontrol bridge**
-<BR> [github/mmalex/midi2osc](https://github.com/mmalex/midi2osc)
-<BR> ![](https://user-images.githubusercontent.com/1193295/96889160-9ef59580-1486-11eb-9938-ae98c52dd4f3.png)
-
-**devmidi: A simple MIDI input library** that also dovetails into Dear ImGui**
-<BR> [github/antonthefirst/devmidi](https://github.com/antonthefirst/devmidi)
