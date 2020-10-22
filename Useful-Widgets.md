@@ -40,13 +40,13 @@
 ## Rich text
 | Shot | Link |
 |------|------|
-| ![]() | Markdown<BR>[github](https://github.com/juliettef/imgui_markdown) |
+| ![](https://user-images.githubusercontent.com/1193295/96847652-bcf5d280-1453-11eb-912b-5673261fb072.png) | Markdown<BR>[github](https://github.com/juliettef/imgui_markdown) |
 | ![]() | URL/Links<BR>[gist](https://gist.github.com/dougbinks/ef0962ef6ebe2cadae76c4e9f0586c69#file-imguiutils-h-L228-L262) |
 
 ## Input Method Editor
 | Shot | Link |
 |------|------|
-| ![]() | DearImGui-with-IMM32<BR>[github](https://github.com/maildrop/DearImGui-with-IMM32) |
+| ![](https://user-images.githubusercontent.com/1193295/96848317-908e8600-1454-11eb-8ac1-ed6d7d895b2a.png) | DearImGui-with-IMM32<BR>[github](https://github.com/maildrop/DearImGui-with-IMM32) |
 
 ## Misc
 | Shot | Link |
