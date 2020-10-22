@@ -110,13 +110,3 @@
 |------|------|
 | ![]() | midi2osc: midi to opensoundcontrol bridge<BR>[github/mmalex/midi2osc](https://github.com/mmalex/midi2osc) |
 | ![]() | devmidi: A simple MIDI input library that also dovetails into Dear ImGui<BR>[github/antonthefirst/devmidi](https://github.com/antonthefirst/devmidi) |
-
-## Other
-| Shot | Link |
-|------|------|
-| ![]() | imgui_freetype renderer: imgui/misc/freetype/<BR>[github/ocornut/imgui](https://github.com/ocornut/imgui) |
-| ![]() | ImDuino (ESP32+TFT+ImSoft+ImGui example)<BR>[github/LAK132/ImDuino](https://github.com/LAK132/ImDuino) |
-| ![]() | Input / IO queue for very low framerate applications<BR>[gist](https://gist.github.com/ocornut/8417344f3506790304742b07887adf9f) |
-| ![]() | Screenshot Tool<BR>[wiki](https://github.com/ocornut/imgui/wiki/screenshot_tool) |
-
-[![ALT_TEXT](THUMBNAIL)](TARGET_URL)
