@@ -24,6 +24,7 @@ Individuals: support continued development and maintenance [here](https://www.pa
 - [Arkane Studios](https://www.arkane-studios.com)
 - [Dotemu](http://www.dotemu.com)
 - [Framefield](http://framefield.com)
+- [Grinding Gear Games](https://www.grindinggear.com/)
 - [Hexagon](https://hexagonxalt.com/the-technology/xalt-visualization)
 - [Kylotonn](https://www.kylotonn.com)
 - [Media Molecule](http://www.mediamolecule.com)
