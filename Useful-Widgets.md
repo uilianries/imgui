@@ -79,11 +79,11 @@
 ## Third party repos
 | Shot | Link |
 |------|------|
-| ![]() | ImGui-Addons-Branch-Home<BR>[github/Flix01/imgui](https://github.com/Flix01/imgui/wiki/ImGui-Addons-Branch-Home) |
+| ![](https://user-images.githubusercontent.com/1193295/96885173-a4e97780-1482-11eb-84f6-637b1f2bd274.png) | ImGui-Addons-Branch-Home<BR>[github/Flix01/imgui](https://github.com/Flix01/imgui/wiki/ImGui-Addons-Branch-Home) |
 | ![]() | @leiradel's snippets<BR>[github/leiradel/ImGuiAl](https://github.com/leiradel/ImGuiAl/) |
-| ![]() | @nem0's snippets (in imgui_user.* files)<BR>[github/nem0/LumixEngine]( https://github.com/nem0/LumixEngine/tree/master/external/imgui) |
-| ![]() | @aoterodelaroza's snippets<BR>[github/aoterodelaroza/imgui-goodies](https://github.com/aoterodelaroza/imgui-goodies) |
-| ![]() | MetricsGui: controls for displaying performance metrics<BR>[github/GameTechDev/MetricsGui](https://github.com/GameTechDev/MetricsGui) |
+| ![](https://user-images.githubusercontent.com/1193295/96885426-dd895100-1482-11eb-9f0f-f52a9f13eb18.png) | @nem0's snippets (in imgui_user.* files)<BR>[github/nem0/LumixEngine]( https://github.com/nem0/LumixEngine/tree/master/external/imgui) |
+| ![](https://user-images.githubusercontent.com/1193295/96885795-3a850700-1483-11eb-99b0-8d3416796968.png) | @aoterodelaroza's snippets<BR>[github/aoterodelaroza/imgui-goodies](https://github.com/aoterodelaroza/imgui-goodies) |
+| ![](https://user-images.githubusercontent.com/1193295/96885983-6e602c80-1483-11eb-9006-44b46d994730.png) | MetricsGui: controls for displaying performance metrics<BR>[github/GameTechDev/MetricsGui](https://github.com/GameTechDev/MetricsGui) |
 
 ## Software Renderer/Rasterizer
 | Shot | Link |
