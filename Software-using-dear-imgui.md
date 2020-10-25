@@ -119,6 +119,7 @@ Help us complete this list!
 | Game | World of Tanks Blitz | Wargaming | | [homepage](https://wotblitz.com/)
 | Game | WRC 7 | **Kylotonn** | Sponsor | |
 | Game | WRC 8 | **Kylotonn** | Sponsor | |
+| Game | Yo-Kai Watch 4 | Level-5 | | [shot](https://user-images.githubusercontent.com/8225057/97118313-a24c8380-1709-11eb-812d-c0bff0a3bc17.png)
 | Game | Zombie Tsunami | **Mobigame** | Sponsor | [appstore](https://itunes.apple.com/us/app/zombie-tsunami/id529652920?mt=8)
 
 ## Applications, Engines and others
