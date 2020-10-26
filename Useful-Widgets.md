@@ -15,12 +15,12 @@
 
 ## Text Editors
 
-**ImGuiColorTextEdit**
+**ImGuiColorTextEdit**: Colorizing text editor for Dear ImGui
 <BR> [github/BalazsJako/ImGuiColorTextEdit](https://github.com/BalazsJako/ImGuiColorTextEdit)
 <BR> 2017-2019
 <BR> ![](https://user-images.githubusercontent.com/1193295/96733540-dba78b00-13b9-11eb-855e-d0aa98a322d1.png)
 
-**Zep**
+**Zep**: An embeddable editor, with optional support for using vim keystrokes
 <BR> [github/Rezonality/zep](https://github.com/Rezonality/zep)
 <BR> 2018-2020
 <BR> ![](https://user-images.githubusercontent.com/1193295/96734078-72744780-13ba-11eb-9a1d-a39c1e5122fd.png)
@@ -56,21 +56,21 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 <BR> 2016-2019
 <BR> ![](https://user-images.githubusercontent.com/1193295/96737312-d1878b80-13bd-11eb-92ae-62dc191c6ee1.png)
 
-**ImSequencer**
+**ImSequencer**: animation sequencer
 <BR> [github/CedricGuillemet/ImGuizmo](https://github.com/CedricGuillemet/ImGuizmo)
 <BR> 2018-2019
 <BR> ![](https://user-images.githubusercontent.com/1193295/96737563-1ad7db00-13be-11eb-974d-956ba41b11de.png)
 
-**ImGradient**
+**ImGradient**: gradient editor
 <BR> [github/CedricGuillemet/ImGuizmo](https://github.com/CedricGuillemet/ImGuizmo)
 <BR> 2018
 
-**ImCurveEdit**
+**ImCurveEdit**: curve editor
 <BR> [github/CedricGuillemet/ImGuizmo](https://github.com/CedricGuillemet/ImGuizmo)
 <BR> 2018
 
 **Gradient Color Generator**
-<BR> [gist](https://gist.github.com/galloscript/8a5d179e432e062550972afcd1ecf112)
+<BR> [gist/galloscript](https://gist.github.com/galloscript/8a5d179e432e062550972afcd1ecf112)
 <BR> 2016
 
 ## Plotting, Graph
@@ -105,7 +105,7 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 <BR> [github/gallickgunner/ImGui-Addons](https://github.com/gallickgunner/ImGui-Addons)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96842206-068eef00-144d-11eb-8342-7e82d37ab7a8.png)
 
-**Flix01' ImGui-Addons**
+**Flix01's ImGui-Addons**: file dialog, date picker, listview, toolbar etc.
 <BR> [github/Flix01/imgui](https://github.com/Flix01/imgui/wiki/ImGui-Addons-Branch-Home)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96842432-4e157b00-144d-11eb-9cbf-8e6b050e6f74.png)
 
@@ -128,7 +128,7 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 
 ## Input Method Editors
 
-**DearImGui-with-IMM32**
+**DearImGui-with-IMM32**: Microsoft IME Overlay using Dear ImGui
 <BR> [github/maildrop/DearImGui-with-IMM32](https://github.com/maildrop/DearImGui-with-IMM32)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96867731-64333380-146d-11eb-9aae-14abee458f93.png)
 
@@ -165,23 +165,23 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 
 ## Terminal / Text mode
 
-**ImTui: Immediate Mode Text-based User Interface**
+**ImTui**: Immediate Mode Text-based User Interface
 <BR> [github/ggerganov/imtui](https://github.com/ggerganov/imtui)
 <BR> 2019-2020
 <BR> ![](https://user-images.githubusercontent.com/1193295/96889022-7b324f80-1486-11eb-9cf2-74d0caf37de7.png)
 
-**tear imgui: Experiment for a terminal-based renderer for imgui**
+**tear imgui**: Experiment for a terminal-based renderer for imgui
 <BR> [github/jonvaldes/tear_imgui](https://github.com/jonvaldes/tear_imgui)
 <BR> 2017
 
 ## Midi/OSC interfacing
 
-**midi2osc: midi to opensoundcontrol bridge**
+**midi2osc**: midi to opensoundcontrol bridge
 <BR> [github/mmalex/midi2osc](https://github.com/mmalex/midi2osc)
 <BR> 2018-2020
 <BR> ![](https://user-images.githubusercontent.com/1193295/96889160-9ef59580-1486-11eb-9938-ae98c52dd4f3.png)
 
-**devmidi: A simple MIDI input library** that also dovetails into Dear ImGui**
+**devmidi**: A simple MIDI input library** that also dovetails into Dear ImGui
 <BR> [github/antonthefirst/devmidi](https://github.com/antonthefirst/devmidi)
 <BR> 2020
 
@@ -208,11 +208,11 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 <BR> [github/ocornut/imgui_club](https://github.com/ocornut/imgui_club)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96868227-081cdf00-146e-11eb-996b-35134ba8bd3c.png)
 
-**ImGuizmo**
+**ImGuizmo**: 3d translation/rotation Gizmo
 <BR> [github/CedricGuillemet/ImGuizmo](https://github.com/CedricGuillemet/ImGuizmo)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96868383-41554f00-146e-11eb-84b5-c4264c54532f.png)
 
-**imGuiZMO.quat**
+**imGuiZMO.quat**: 3d translation/rotation Gizmo
 <BR> [github/BrutPitt/imGuIZMO.quat](https://github.com/BrutPitt/imGuIZMO.quat)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96868553-86798100-146e-11eb-872a-44f51ee78117.png)
 
@@ -227,7 +227,7 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 **Spinner/Loading progress indicators**
 <BR> [issue #1901](https://github.com/ocornut/imgui/issues/1901)
 
-**ImHotKey (Hotkey Editor)**
+**ImHotKey**: hotkey editor
 <BR> [github/CedricGuillemet/ImHotKey](https://github.com/CedricGuillemet/ImHotKey)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96875055-14596a00-1477-11eb-93bb-74d977fbf7e3.png)
 
@@ -239,7 +239,7 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 <BR> [issue #434](https://github.com/ocornut/imgui/issues/434)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96875448-82059600-1477-11eb-93be-db904ae920a8.png)
 
-**nnview: a neural network viewer**
+**nnview**: a neural network viewer
 <BR> [github/lighttransport/nnview](https://github.com/lighttransport/nnview)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96875679-ca24b880-1477-11eb-8d4c-022166c8a427.png)
 
