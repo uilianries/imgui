@@ -32,17 +32,17 @@
 
 ## Node Editors
 
-**imgui-node-editor**
+**imgui-node-editor**: node editor using Dear ImGui
 <BR> [github/thedmd/imgui-node-editor](https://github.com/thedmd/imgui-node-editor)
 <BR> 2016-2020
 <BR> ![](https://user-images.githubusercontent.com/1193295/96736564-06dfa980-13bd-11eb-8cf8-641962bb04df.png)
 
-**ImNodes**
+**ImNodes**: Node graph implementation for Dear ImGui
 <BR> [github/rokups/ImNodes](https://github.com/rokups/ImNodes)
 <BR> 2019
 <BR> ![](https://user-images.githubusercontent.com/1193295/96736823-49a18180-13bd-11eb-8891-95f481fe1765.png)
 
-**imnodes**
+**imnodes**: A small, dependency-free node editor for dear imgui 
 <BR> [github/Nelarius/imnodes](https://github.com/Nelarius/imnodes)
 <BR> 2019-2020
 <BR> ![](https://user-images.githubusercontent.com/1193295/96736995-78b7f300-13bd-11eb-84a1-6b8f0e4ac064.png)
@@ -75,7 +75,7 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 
 ## Plotting, Graph
 
-**ImPlot**
+**ImPlot**: Advanced 2D Plotting for Dear ImGui 
 <BR> [github/epezent/implot](https://github.com/epezent/implot)
 <BR> 2020
 <BR> ![](https://user-images.githubusercontent.com/1193295/96738879-79ea1f80-13bf-11eb-8e96-97f4acc8b79d.png)
@@ -105,7 +105,7 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 <BR> [github/gallickgunner/ImGui-Addons](https://github.com/gallickgunner/ImGui-Addons)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96842206-068eef00-144d-11eb-8342-7e82d37ab7a8.png)
 
-**Flix01's ImGui-Addons**: file dialog, date picker, listview, toolbar etc.
+**Flix01's ImGui-Addons**
 <BR> [github/Flix01/imgui](https://github.com/Flix01/imgui/wiki/ImGui-Addons-Branch-Home)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96842432-4e157b00-144d-11eb-9cbf-8e6b050e6f74.png)
 
@@ -119,7 +119,7 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 
 ## Rich text
 
-**imgui_markdown**
+**imgui_markdown**: Markdown for Dear ImGui 
 <BR> [github/juliettef/imgui_markdown](https://github.com/juliettef/imgui_markdown)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96847652-bcf5d280-1453-11eb-912b-5673261fb072.png)
 
@@ -139,6 +139,9 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 <BR> [github/emilk/imgui_software_renderer](https://github.com/emilk/imgui_software_renderer)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96886295-bc753000-1483-11eb-863e-81056c1bd801.png)
 
+**Fast(er) Software Rasterizer for Dear ImGui**
+<BR> [github/malamanteau](https://github.com/malamanteau/ImFastRast)
+
 **ImSoft (softraster for ImGui)**
 <BR> [github/LAK132/ImSoft](https://github.com/LAK132/ImSoft)
 
@@ -149,12 +152,12 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 <BR> 2020
 <BR> ![](https://user-images.githubusercontent.com/1193295/96888198-a5374200-1485-11eb-9287-7842710de869.png)
 
-**imgui-ws: Dear ImGui over WebSockets**
+**imgui-ws**: Dear ImGui over WebSockets
 <BR> [github/ggerganov/imgui-ws](https://github.com/ggerganov/imgui-ws)
 <BR> 2019-2020
 <BR> ![](https://user-images.githubusercontent.com/1193295/96888493-f810f980-1485-11eb-89fb-eb75aa2cefa7.png)
 
-**RemoteImGui: send vertices over the network**
+**RemoteImGui**: send vertices over the network
 <BR> [github/JordiRos/remoteimgui](https://github.com/JordiRos/remoteimgui)
 <BR> 2014-2019
 
@@ -259,7 +262,7 @@ Also [Useful Widgets](https://github.com/ocornut/imgui/labels/useful%20widgets) 
 
 ## Third party repos
 
-**Flix01's ImGui-Addons**
+**Flix01's ImGui-Addons**: file dialog, date picker, listview, toolbar etc.
 <BR> [github/Flix01/imgui](https://github.com/Flix01/imgui/wiki/ImGui-Addons-Branch-Home)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96885173-a4e97780-1482-11eb-84f6-637b1f2bd274.png)
 
@@ -274,7 +277,7 @@ Also [Useful Widgets](https://github.com/ocornut/imgui/labels/useful%20widgets) 
 <BR> [github/aoterodelaroza/imgui-goodies](https://github.com/aoterodelaroza/imgui-goodies)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96885795-3a850700-1483-11eb-99b0-8d3416796968.png)
 
-**MetricsGui: controls for displaying performance metrics**
+**MetricsGui**: controls for displaying performance metrics
 <BR>[github/GameTechDev/MetricsGui](https://github.com/GameTechDev/MetricsGui)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96885983-6e602c80-1483-11eb-9006-44b46d994730.png)
 
