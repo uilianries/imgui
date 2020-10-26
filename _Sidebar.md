@@ -1,6 +1,6 @@
 **Table of contents**
 
-- [[Bindings, Backends|Bindings]]**
+- [[Bindings, Backends|Bindings]]
 - [[FAQ|https://github.com/ocornut/imgui/blob/master/docs/FAQ.md]]
 - [[Useful widgets|Useful-widgets]]
 - [[Glossary|Glossary]]
