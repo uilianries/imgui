@@ -37,7 +37,7 @@ Thank you to every past and present [[Sponsors]] for making this project possibl
 - [#2109](https://github.com/ocornut/imgui/issues/2109) Docking branch available for testing
 - [#1542](https://github.com/ocornut/imgui/issues/1542) Multi-viewports / virtual-viewports feature (in Docking branch)
 - [#2117](https://github.com/ocornut/imgui/issues/2117) Linux/Mac compatibility of the multi-viewport branch
-- [#3075](https://github.com/ocornut/imgui/issues/3075) Gallery
+- [#3488](https://github.com/ocornut/imgui/issues/3488) Gallery
 - [#1713](https://github.com/ocornut/imgui/pull/1713) CMake project to build Examples (PR) by @podsvirov
 - Also see https://github.com/ocornut/imgui/labels for categorized issues.
 
@@ -45,12 +45,11 @@ Thank you to every past and present [[Sponsors]] for making this project possibl
 
 ### Useful Widgets
 
-See [[Useful widgets|Useful-widgets]] page.
+See [[Useful Widgets|Useful-widgets]] page.
 
 ### Miscellaneous
 
 - imgui_freetype renderer: [imgui/misc/freetype/](https://github.com/ocornut/imgui/tree/master/misc/freetype) (in main repo)
-- ImDuino (ESP32+TFT+ImSoft+ImGui example): https://github.com/LAK132/ImDuino
 - Input / IO queue for very low framerate applications: https://gist.github.com/ocornut/8417344f3506790304742b07887adf9f
 - Third-party Docking (prior to official docking branch [#2109](https://github.com/ocornut/imgui/issues/2109))
   - [old] @nem0's one (old LumixEngine docking), [github](https://github.com/nem0/LumixEngine/tree/v0.34/external/imgui)
@@ -82,6 +81,8 @@ See [[Useful widgets|Useful-widgets]] page.
 - sdl-bgfx-imgui-starter: A starter project for graphics applications https://github.com/pr0g/sdl-bgfx-imgui-starter
 - Starter dear-imgui GLFW/OpenGL 3 based CMake C++ project: https://github.com/urddru/imgui-glfw
 - Dear PyGui: A Simple Python GUI framework https://github.com/hoffstadt/DearPyGui
+- ImDuino (ESP32+TFT+ImSoft+ImGui example): https://github.com/LAK132/ImDuino
+
 
 ### Notable forks
 
