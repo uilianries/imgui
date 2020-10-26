@@ -161,20 +161,20 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 <BR> [github/mmalex/midi2osc](https://github.com/mmalex/midi2osc)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96889160-9ef59580-1486-11eb-9938-ae98c52dd4f3.png)
 
-**devmidi**: A simple MIDI input library** that also dovetails into Dear ImGui (2020)
+**devmidi**: A simple MIDI input library that also dovetails into Dear ImGui (2020)
 <BR> [github/antonthefirst/devmidi](https://github.com/antonthefirst/devmidi)
 
 ## Virtual Reality (VR) / Reprojected UI plane
 
 **ImGuiVR**: Demo code for using Imgui with OpenVR 
-<BR> [github/temcgraw/ImguiVR](https://github.com/temcgraw/ImguiVR)<BR>[video](https://www.youtube.com/watch?v=nlwfn4HJw5E)
+<BR> [github/temcgraw/ImguiVR](https://github.com/temcgraw/ImguiVR) / [video](https://www.youtube.com/watch?v=nlwfn4HJw5E)
 
-**Desktop+**
+**Desktop+**: Advanced desktop access for OpenVR
 <BR> [github/elvissteinjr/DesktopPlus](https://github.com/elvissteinjr/DesktopPlus)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96884668-0eb55180-1482-11eb-95da-1f513a9f5a77.png)
 
-**BIMXplorer**
-<BR> [homepage](https://www.bimxplorer.com/) |
+**BIMXplorer**: 
+<BR> [homepage](https://www.bimxplorer.com/)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96884752-25f43f00-1482-11eb-9dd9-9b302c5a2c05.png)
 
 **mpFluid CAVE Front End**
