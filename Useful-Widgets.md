@@ -21,7 +21,7 @@
 
 **Zep**: An embeddable editor, with optional support for using vim keystrokes (2018-2020)
 <BR> [github/Rezonality/zep](https://github.com/Rezonality/zep)
-<BR> ![](https://user-images.githubusercontent.com/1193295/96734078-72744780-13ba-11eb-9a1d-a39c1e5122fd.png)
+<BR> ![](https://user-images.githubusercontent.com/8225057/97189667-21db6080-17a5-11eb-9e3e-aa794fc45831.png)
 
 **Scintilla** integration (2015)
 <BR> [issue #108](https://github.com/ocornut/imgui/issues/108)
@@ -197,7 +197,7 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 
 **Splitters**
 <BR> [issue #319](https://github.com/ocornut/imgui/issues/319)
-<BR> ![](https://user-images.githubusercontent.com/1193295/96868825-da846580-146e-11eb-9f2b-c4e5faf4581f.png)
+<BR> ![](https://user-images.githubusercontent.com/8225057/97189595-0ff9bd80-17a5-11eb-871a-d423d1ecffb1.png)
 
 **Slider 2D and Slider 3D**
 <BR> [issue #3484](https://github.com/ocornut/imgui/issues/3484)
