@@ -15,84 +15,69 @@
 
 ## Text Editors
 
-**ImGuiColorTextEdit**: Colorizing text editor for Dear ImGui
+**ImGuiColorTextEdit**: Colorizing text editor for Dear ImGui (2017-2019)
 <BR> [github/BalazsJako/ImGuiColorTextEdit](https://github.com/BalazsJako/ImGuiColorTextEdit)
-<BR> 2017-2019
 <BR> ![](https://user-images.githubusercontent.com/1193295/96733540-dba78b00-13b9-11eb-855e-d0aa98a322d1.png)
 
-**Zep**: An embeddable editor, with optional support for using vim keystrokes
+**Zep**: An embeddable editor, with optional support for using vim keystrokes (2018-2020)
 <BR> [github/Rezonality/zep](https://github.com/Rezonality/zep)
-<BR> 2018-2020
 <BR> ![](https://user-images.githubusercontent.com/1193295/96734078-72744780-13ba-11eb-9a1d-a39c1e5122fd.png)
 
-**Scintilla**
+**Scintilla** integration (2015)
 <BR> [issue #108](https://github.com/ocornut/imgui/issues/108)
-<BR> 2015
 <BR> ![](https://user-images.githubusercontent.com/1193295/96734863-42797400-13bb-11eb-948f-554044b7a67d.png)
 
 ## Node Editors
 
-**imgui-node-editor**: node editor using Dear ImGui
+**imgui-node-editor**: node editor using Dear ImGui (2016-2020)
 <BR> [github/thedmd/imgui-node-editor](https://github.com/thedmd/imgui-node-editor)
-<BR> 2016-2020
 <BR> ![](https://user-images.githubusercontent.com/1193295/96736564-06dfa980-13bd-11eb-8cf8-641962bb04df.png)
 
-**ImNodes**: Node graph implementation for Dear ImGui
+**ImNodes**: Node graph implementation for Dear ImGui (2019)
 <BR> [github/rokups/ImNodes](https://github.com/rokups/ImNodes)
-<BR> 2019
 <BR> ![](https://user-images.githubusercontent.com/1193295/96736823-49a18180-13bd-11eb-8891-95f481fe1765.png)
 
-**imnodes**: A small, dependency-free node editor for dear imgui 
+**imnodes**: A small, dependency-free node editor for dear imgui (2019-2020)
 <BR> [github/Nelarius/imnodes](https://github.com/Nelarius/imnodes)
-<BR> 2019-2020
 <BR> ![](https://user-images.githubusercontent.com/1193295/96736995-78b7f300-13bd-11eb-84a1-6b8f0e4ac064.png)
 
 Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 
 ## Curves, Animations, Gradients
 
-**Cubic Bezier / Curve Editor**
+**Cubic Bezier / Curve Editor** (2016-2019)
 <BR> [github](https://github.com/ocornut/imgui/issues/786)
-<BR> 2016-2019
 <BR> ![](https://user-images.githubusercontent.com/1193295/96737312-d1878b80-13bd-11eb-92ae-62dc191c6ee1.png)
 
-**ImSequencer**: animation sequencer
+**ImSequencer**: animation sequencer (2018-2019)
 <BR> [github/CedricGuillemet/ImGuizmo](https://github.com/CedricGuillemet/ImGuizmo)
-<BR> 2018-2019
 <BR> ![](https://user-images.githubusercontent.com/1193295/96737563-1ad7db00-13be-11eb-974d-956ba41b11de.png)
 
-**ImGradient**: gradient editor
+**ImGradient**: gradient editor (2018)
 <BR> [github/CedricGuillemet/ImGuizmo](https://github.com/CedricGuillemet/ImGuizmo)
-<BR> 2018
 
-**ImCurveEdit**: curve editor
+**ImCurveEdit**: curve editor (2018)
 <BR> [github/CedricGuillemet/ImGuizmo](https://github.com/CedricGuillemet/ImGuizmo)
-<BR> 2018
 
-**Gradient Color Generator**
+**Gradient Color Generator** (2016)
 <BR> [gist/galloscript](https://gist.github.com/galloscript/8a5d179e432e062550972afcd1ecf112)
-<BR> 2016
 
 ## Plotting, Graph
 
-**ImPlot**: Advanced 2D Plotting for Dear ImGui 
+**ImPlot**: Advanced 2D Plotting for Dear ImGui (2020)
 <BR> [github/epezent/implot](https://github.com/epezent/implot)
-<BR> 2020
 <BR> ![](https://user-images.githubusercontent.com/1193295/96738879-79ea1f80-13bf-11eb-8e96-97f4acc8b79d.png)
 
-**imgui-plot**
+**imgui-plot** (2019)
 <BR> [github/soulthreads/imgui-plot](https://github.com/soulthreads/imgui-plot)
-<BR> 2019
 <BR> ![](https://user-images.githubusercontent.com/1193295/96739012-9f772900-13bf-11eb-831b-e4b1ba82e152.png)
 
-**Flame Graph Widget**
+**Flame Graph Widget** (2019)
 <BR> [issue #2859](https://github.com/ocornut/imgui/issues/2859)
-<BR> 2019
 <BR> ![](https://user-images.githubusercontent.com/1193295/96739187-d0575e00-13bf-11eb-9afa-6f0c2bc4dd0f.png)
 
-**Plot Var Helper**
+**Plot Var Helper** (2016)
 <BR> [wiki](https://github.com/ocornut/imgui/wiki/plot_var_example)
-<BR> 2016
 <BR> ![](https://user-images.githubusercontent.com/1193295/96739299-f0871d00-13bf-11eb-8a2b-fa670070477d.png)
 
 ## File Browsers / File Dialog
@@ -132,7 +117,6 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 <BR> [github/maildrop/DearImGui-with-IMM32](https://github.com/maildrop/DearImGui-with-IMM32)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96867731-64333380-146d-11eb-9aae-14abee458f93.png)
 
-
 ## Software Renderer/Rasterizer
 
 **Software Renderer for Dear ImGui**
@@ -147,46 +131,38 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 
 ## Remoting
 
-**netImGui: Dear ImGui remote access library and application**
+**netImGui: Dear ImGui remote access library and application** (2020)
 <BR> [github/sammyfreg/netImgui](https://github.com/sammyfreg/netImgui)
-<BR> 2020
 <BR> ![](https://user-images.githubusercontent.com/1193295/96888198-a5374200-1485-11eb-9287-7842710de869.png)
 
-**imgui-ws**: Dear ImGui over WebSockets
+**imgui-ws**: Dear ImGui over WebSockets (2019-2020)
 <BR> [github/ggerganov/imgui-ws](https://github.com/ggerganov/imgui-ws)
-<BR> 2019-2020
 <BR> ![](https://user-images.githubusercontent.com/1193295/96888493-f810f980-1485-11eb-89fb-eb75aa2cefa7.png)
 
-**RemoteImGui**: send vertices over the network
+**RemoteImGui**: send vertices over the network (2014-2019)
 <BR> [github/JordiRos/remoteimgui](https://github.com/JordiRos/remoteimgui)
-<BR> 2014-2019
 
-**AndroidAppViewer**: Android GLES3 stub with RemoteImGui
+**AndroidAppViewer**: Android GLES3 stub with RemoteImGui (2018)
 <BR> [github/CedricGuillemet/AndroidAppViewer](https://github.com/CedricGuillemet/AndroidAppViewer)
-<BR> 2018
 <BR> ![](https://user-images.githubusercontent.com/1193295/96888707-31e20000-1486-11eb-8c2d-05bfe12998a1.png)
 
 ## Terminal / Text mode
 
-**ImTui**: Immediate Mode Text-based User Interface
+**ImTui**: Immediate Mode Text-based User Interface (2019-2020)
 <BR> [github/ggerganov/imtui](https://github.com/ggerganov/imtui)
-<BR> 2019-2020
 <BR> ![](https://user-images.githubusercontent.com/1193295/96889022-7b324f80-1486-11eb-9cf2-74d0caf37de7.png)
 
-**tear imgui**: Experiment for a terminal-based renderer for imgui
+**tear imgui**: Experiment for a terminal-based renderer for imgui (2017)
 <BR> [github/jonvaldes/tear_imgui](https://github.com/jonvaldes/tear_imgui)
-<BR> 2017
 
 ## Midi/OSC interfacing
 
-**midi2osc**: midi to opensoundcontrol bridge
+**midi2osc**: midi to opensoundcontrol bridge (2018-2020)
 <BR> [github/mmalex/midi2osc](https://github.com/mmalex/midi2osc)
-<BR> 2018-2020
 <BR> ![](https://user-images.githubusercontent.com/1193295/96889160-9ef59580-1486-11eb-9938-ae98c52dd4f3.png)
 
-**devmidi**: A simple MIDI input library** that also dovetails into Dear ImGui
+**devmidi**: A simple MIDI input library** that also dovetails into Dear ImGui (2020)
 <BR> [github/antonthefirst/devmidi](https://github.com/antonthefirst/devmidi)
-<BR> 2020
 
 ## Virtual Reality (VR) / Reprojected UI plane
 
