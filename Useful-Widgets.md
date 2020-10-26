@@ -106,7 +106,7 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 
 **imgui_markdown**: Markdown for Dear ImGui 
 <BR> [github/juliettef/imgui_markdown](https://github.com/juliettef/imgui_markdown)
-<BR> ![](https://user-images.githubusercontent.com/1193295/96847652-bcf5d280-1453-11eb-912b-5673261fb072.png)
+<BR> ![](https://user-images.githubusercontent.com/8225057/97190844-89de7680-17a6-11eb-8add-5cab6be7f5f5.png)
 
 **url/links**
 <BR> [gist/dougbinks](https://gist.github.com/dougbinks/ef0962ef6ebe2cadae76c4e9f0586c69#file-imguiutils-h-L228-L262)
