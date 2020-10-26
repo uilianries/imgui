@@ -258,6 +258,9 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 <BR> [github/Csabix/imgui](https://github.com/Csabix/imgui/tree/master/auto)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96878992-c72bc700-147b-11eb-9796-b3c87b543856.png)
 
+**imgui-inspect** [Rust] An inspector UI using imgui in Rust 
+<BR> [github/aclysma/imgui-inspect](https://github.com/aclysma/imgui-inspect)
+
 Also [Useful Widgets](https://github.com/ocornut/imgui/labels/useful%20widgets) Tag in Issues.
 
 ## Third party repos
