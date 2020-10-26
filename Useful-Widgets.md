@@ -24,7 +24,7 @@
 <BR> ![](https://user-images.githubusercontent.com/8225057/97189667-21db6080-17a5-11eb-9e3e-aa794fc45831.png)
 
 **Scintilla** integration (2015)
-<BR> [issue #108](https://github.com/ocornut/imgui/issues/108)
+<BR> [issue #108](https://github.com/ocornut/imgui/issues/108) (likely obsolete)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96734863-42797400-13bb-11eb-948f-554044b7a67d.png)
 
 ## Node Editors
