@@ -82,7 +82,11 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 
 ## File Browsers / File Dialog
 
-**imgui-filebrowser**
+**L2DFileDialog**
+<BR> [github/Limeoats/L2DFileDialog](https://github.com/Limeoats/L2DFileDialog)
+<BR> ![](https://user-images.githubusercontent.com/1193295/96842995-11964f00-144e-11eb-82fc-4794e4abdecb.png)
+
+**AirGuanZ's imgui-filebrowser**
 <BR> [github/AirGuanZ-imgui-filebrowser](https://github.com/AirGuanZ/imgui-filebrowser)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96841762-781a6d80-144c-11eb-9ef9-7f9c3bda37d1.png)
 
@@ -97,10 +101,6 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 **ImGuiFileDialog**
 <BR> [github/aiekick/ImGuiFileDialog](https://github.com/aiekick/ImGuiFileDialog)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96842853-d85ddf00-144d-11eb-8c85-2c6e4ed4be76.png)
-
-**L2DFileDialog**
-<BR> [github/Limeoats/L2DFileDialog](https://github.com/Limeoats/L2DFileDialog)
-<BR> ![](https://user-images.githubusercontent.com/1193295/96842995-11964f00-144e-11eb-82fc-4794e4abdecb.png)
 
 ## Rich text
 
