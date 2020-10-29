@@ -36,6 +36,8 @@
 
 ## Docking Terms
 
+![Docking](https://user-images.githubusercontent.com/8225057/97541627-c0dea300-19c5-11eb-9416-8bb255e189a1.png)
+
 **Docking** (noun): refers to the Docking subsystem as a whole.
 
 **Docking** (verb): refers to the action of combining one Window or Dock Node into another Window or Dock Node. A docking operation can be a "Split" (split the target window/node into two sections) or an "Merge" (add into the existing target window/node). 
@@ -57,6 +59,8 @@
 **Host Window**: the Window used to display _Docking Decorations_. In a Dock Node Hierarchy sitting over a Dockspace, the Host Window is always the window where the Dockspace was submitted. In a Dock Node Hierarchy sitting over a Floating Window, the Host Window is created by the Docking system.
 
 ## Multi-Viewports Terms
+
+![MultiViewports](https://user-images.githubusercontent.com/8225057/97542423-fe8ffb80-19c6-11eb-9bf5-e26d86364e55.png)
 
 Note: when talking about issues related to the multi-viewports feature, always try to remove ambiguity by specifying if an item is controlled by Dear ImGui or the host system - e.g. "_Dear ImGui Window_" vs "_Platform Window_".
 
