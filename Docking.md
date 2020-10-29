@@ -1,5 +1,9 @@
 _this is a draft/skeleton article_
 
+- Main Thread: https://github.com/ocornut/imgui/issues/2109
+- Search Issues: https://github.com/ocornut/imgui/labels/docking
+- Also see: [Glossary -> Docking terms](Glossary#docking-terms).
+
 ![Docked windows](https://user-images.githubusercontent.com/8225057/97541627-c0dea300-19c5-11eb-9416-8bb255e189a1.png)
 <BR>_Docked windows_
 
