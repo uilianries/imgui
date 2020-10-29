@@ -1,5 +1,8 @@
 _this is a draft/skeleton article_
 
+![Docked windows](https://user-images.githubusercontent.com/8225057/97541627-c0dea300-19c5-11eb-9416-8bb255e189a1.png)
+<BR>_Docked windows_
+
 ## Preamble
 
 #### Where to find it?
