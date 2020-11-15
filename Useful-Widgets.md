@@ -195,6 +195,9 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 <BR> [github/BrutPitt/imGuIZMO.quat](https://github.com/BrutPitt/imGuIZMO.quat)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96868553-86798100-146e-11eb-872a-44f51ee78117.png)
 
+**ImZoomSlider**: Range/Zooming Slider
+<BR> [github/CedricGuillemet/ImGuizmo](https://github.com/CedricGuillemet/ImGuizmo)
+
 **Splitters**
 <BR> [issue #319](https://github.com/ocornut/imgui/issues/319)
 <BR> ![](https://user-images.githubusercontent.com/8225057/97189595-0ff9bd80-17a5-11eb-871a-d423d1ecffb1.png)
