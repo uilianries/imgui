@@ -25,7 +25,7 @@ If you are using platform and renderer back-ends from the `backends/` folder, th
 - Add to your configuration flags:
 
 ```cpp
-ImGui::GetIO().ConfigFlags |= ImGuiConfigFlags_ViewportsEnable;`
+ImGui::GetIO().ConfigFlags |= ImGuiConfigFlags_ViewportsEnable;
 ```
 
 - Add in your main loop, after rendering your main viewport:
