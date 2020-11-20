@@ -47,3 +47,6 @@ If you are using a custom back-end, refer to the `ImGuiPlatformIO` structure and
 
 - Q: What happens to the coordinate systems?
 - A: When enabling `ImGuiConfigFlags_ViewportsEnable`, the coordinate system used by Dear ImGui changes to match the coordinate system of your OS/desktop (e.g. (0,0) generally becomes the top-left corner of your primary monitor). This shouldn't affect most code, but if you have code using absolute coordinates you may want to change them to be relative to a window, relative to a monitor or relative to your main viewport (`GetMainViewport()->Pos`).
+
+- Q: How to handle varying DPI over multiple monitors?
+- A: See [this FAQ entry](https://github.com/ocornut/imgui/blob/master/docs/FAQ.md#q-how-should-i-handle-dpi-in-my-application).
