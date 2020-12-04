@@ -132,7 +132,7 @@ bool LoadTextureFromFile(const char* filename, GLuint* out_texture, int* out_wid
 }
 ```
 
-At initialization time, load our texture:
+Load our texture after initializing OpenGL loader (for example after `glewInit()`):
 ```cpp
 int my_image_width = 0;
 int my_image_height = 0;
