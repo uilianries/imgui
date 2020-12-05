@@ -120,7 +120,7 @@ Another notable uses of IMGUI paradigm include [Unity's own IMGUI widget library
 ### Articles About Dear ImGui
 
 **English**
-- 2016-07: Using imgui with STL types (std::vector) https://eliasdaler.github.io/using-imgui-with-sfml-pt2/#using-imgui-with-stl - Note that `BeginCombo()` api since 1.53 makes it more natural to use all sorts of containers, and since 1.63 you can use InputText() will resizing callbacks (see [imgui_stl.h #2035](https://github.com/ocornut/imgui/issues/2035) for an example with std::string), so most of that article is outdated.
+- 2016-07: Using imgui with STL types (std::vector) https://eliasdaler.github.io/using-imgui-with-sfml-pt2/#using-imgui-with-stl - Note that BeginCombo() api since 1.53 makes it more natural to use all sorts of containers, and since 1.63 you can use InputText() will resizing callbacks (see [imgui_stdlib.h #2035](https://github.com/ocornut/imgui/issues/2035) for an example with std::string), so most of that article is outdated.
 - 2016-10: CppCon 2016: Nicolas Guillemot “Dear imgui,": [video](https://www.youtube.com/watch?v=LSRJ1jZq90k).
 - 2017-03: Why I think Immediate Mode GUI is way to go for GameDev tools: [post](https://gist.github.com/bkaradzic/853fd21a15542e0ec96f7268150f1b62).
 - 2018-04: TheChernoProject: [ImGui in OpenGL](https://www.youtube.com/watch?v=nVaQuNXueFw) / [ImGui Game Engine series](https://www.youtube.com/watch?v=nVaQuNXueFw) / [ImGui Events](https://www.youtube.com/watch?v=yBP1gSbQPPM) / [Docking & Viewport](https://www.youtube.com/watch?v=lZuje-3iyVE)
