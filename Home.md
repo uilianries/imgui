@@ -150,6 +150,7 @@ Another notable uses of IMGUI paradigm include [Unity's own IMGUI widget library
 - 2020-01: imguiのwindowの中で3d cubeの描画をしてやった https://qiita.com/ssaattwworg/items/32ee9a6fdb0476833c02
 - 2020-02: imgui 使ってみた https://note.com/onswar/n/nf5bbe6e1e5b3
 - 2020-03: Dear ImGui で作成したウィンドウの中に OpenGL で描画するサンプルプログラム https://github.com/tokoik/DrawOpenGLinImGuiWindow
+- 2020-12:【UE4】GUIフレームワーク「Dear ImGui」を使ってデバッグ・ツール用UIを作ってみよう！https://pafuhana1213.hatenablog.com/entry/UnrealImGui-HowTo-Basic
 
 **Chinese (Trad)**
 - 2020-10: Day 17 ImGui 元件 https://ithelp.ithome.com.tw/articles/10246595
