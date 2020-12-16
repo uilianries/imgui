@@ -14,7 +14,7 @@ Help us complete this list!
 
 ## Games
 
-| Type | Title | By | Sponsor? | Links |
+| Type | Title | By | Sponsor | Links |
 | ---- | ------ | ----- | ------ | ----- |
 | Game | 22 Racing Series | GOATi | | [homepage](http://www.22series.com/)
 | Game | Agents of Mayhem | Volition | | [homepage](https://www.aomthegame.com/)
@@ -125,7 +125,7 @@ Help us complete this list!
 
 ## Applications, Engines and others
 
-| Type | Title | By | Sponsor? | Links |
+| Type | Title | By | Sponsor | Links |
 | ---- | ------ | ----- | ----- | ----- |
 | App | 3d Object Scatter | | | [homepage](https://cubebrush.co/3dobjectscatter?product_id=jyheqw)
 | App | Apple2Emu | @allender | | [github](https://github.com/allender/apple2emu) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-280105757)
