@@ -290,6 +290,7 @@ Help us complete this list!
 | Demo | VX2 | Spectrals | | [homepage](http://www.pouet.net/prod.php?which=85304) / [shot](https://github.com/ocornut/imgui/issues/3075#issuecomment-613415534)
 | App | WaveEdit | | | [homepage](http://synthtech.com/waveedit/) / [github](https://github.com/AndrewBelt/WaveEdit)
 | App | wave-gui | | | [github](https://github.com/ggerganov/wave-gui)
+| App | Waver: Data Over Sound | | | [appstore](https://apps.apple.com/us/app/waver-data-over-sound/id1543607865#?platform=iphone)
 | App | What The Loop | | | [homepage](https://whattheloop.net/) / [shot](https://github.com/ocornut/imgui/issues/1269#issuecomment-332807951)
 | Engine | Wonderland Engine | Vhite Rabbit | | [web](https://www.wonderlandengine.com) / [shot](https://user-images.githubusercontent.com/8225057/76844857-3bdfb880-683e-11ea-979a-29e36e9e3d74.png)
 | Plugin | XSquawkBox 2.0 | | | [homepage](http://xsb.xsquawkbox.net/) / [shot](http://xsb.xsquawkbox.net/wp-content/uploads/sites/6/2018/03/XSB-NewUI-WIP.png) / [github](https://github.com/kuroneko/xsb_public/) |
