@@ -1,4 +1,4 @@
-### Software doesn't write itself
+### Software doesn't maintains itself
 
 Your contributions are keeping this project alive. The library is available under a free and permissive license, but continued maintenance and development are a full-time endeavor which we would like to sustain and grow. In addition to maintenance and stability there are many desirable features yet to be added.
 
