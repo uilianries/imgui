@@ -48,6 +48,10 @@ Thank you to every past and present [[Sponsors]] for making this project possibl
 
 See [[Useful Widgets|Useful-widgets]] page.
 
+### Releases / Changelog
+
+See [Releases](https://github.com/ocornut/imgui/releases) page.
+
 ### Miscellaneous
 
 - imgui_freetype renderer: [imgui/misc/freetype/](https://github.com/ocornut/imgui/tree/master/misc/freetype) (in main repo)
