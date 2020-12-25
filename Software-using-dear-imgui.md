@@ -64,6 +64,7 @@ Help us complete this list!
 | Game | GunHero | Olli-Samuli Lehmus | | [steam](http://store.steampowered.com/app/568840/GunHero/)
 | Game | Hellbreaker | | | [homepage](https://enhex.itch.io/hellbreaker) / [shot](https://img.itch.zone/aW1hZ2UvMTY5MjQ4Lzg2MTI5NC5qcGc=/original/1InRJS.jpg)
 | Game | Hexterminate | | | [homepage](https://www.pedro-nunes.net/hexterminate/)
+| Game | Hyper Scape | **Ubisoft** | Sponsor | [blog](https://montreal.ubisoft.com/en/ubisoft-sponsors-user-interface-library-for-c-dear-imgui/)
 | Game | Indivisible | Lab Zero Games | | [homepage](http://www.indivisiblegame.com/)
 | Game | iRacing | iRacing.com<br>Motorsport Simulations | | [blog](https://www.iracing.com/road-new-damage/)
 | Game | Jurassic World Evolution | Frontier | | [homepage](http://www.jurassicworldevolutiongame.com)
