@@ -40,6 +40,7 @@ Main repository include examples for DirectX9, DirectX10, DirectX11, DirectX12, 
 | Android | Unmerged PR: [#421](https://github.com/ocornut/imgui/pull/421) (old example design, should not be needed) |
 | AGS / Adventure Game Studio | **agsimgui**:<br>https://github.com/ericoporto/agsimgui
 | Amethyst | **amethyst-imgui**:<br>https://github.com/amethyst/amethyst-imgui
+| Blender | **BlenderImgui**:<br>https://github.com/eliemichel/BlenderImgui
 | bsf | **bsfimgui**:<br>https://github.com/pgruenbacher/bsfImgui | 
 | Cinder | **Cinder-ImGui**:<br>https://github.com/cinder/Cinder/blob/master/include/cinder/CinderImGui.h
 | Cocos2d-x | **imguix**:<br>https://github.com/c0i/imguix <br>**cocos2dx-imgui**:<br>https://github.com/Mjarkiew/cocos2dx-imgui, https://github.com/Xrysnow/cocos2d-x-imgui and [#551](https://github.com/ocornut/imgui/issues/551)<br>**ImGuiEXT for EGNX**:<br>https://github.com/c4games/engine-x/tree/master/extensions/ImGuiEXT
