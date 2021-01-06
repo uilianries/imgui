@@ -84,7 +84,7 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 
 **L2DFileDialog**
 <BR> [github/Limeoats/L2DFileDialog](https://github.com/Limeoats/L2DFileDialog)
-<BR> ![](https://user-images.githubusercontent.com/1193295/96842995-11964f00-144e-11eb-82fc-4794e4abdecb.png)
+<BR> ![](https://user-images.githubusercontent.com/1193295/103759110-79067880-5013-11eb-9fc5-522f3bb9e5df.png)
 
 **AirGuanZ's imgui-filebrowser**
 <BR> [github/AirGuanZ-imgui-filebrowser](https://github.com/AirGuanZ/imgui-filebrowser)
@@ -92,7 +92,7 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 
 **gallickgunner's ImGui-Addons**
 <BR> [github/gallickgunner/ImGui-Addons](https://github.com/gallickgunner/ImGui-Addons)
-<BR> ![](https://user-images.githubusercontent.com/1193295/96842206-068eef00-144d-11eb-8342-7e82d37ab7a8.png)
+<BR> ![](https://user-images.githubusercontent.com/1193295/103759229-afdc8e80-5013-11eb-900b-117cde27157a.png)
 
 **Flix01's ImGui-Addons**
 <BR> [github/Flix01/imgui](https://github.com/Flix01/imgui/wiki/ImGui-Addons-Branch-Home)
@@ -100,7 +100,7 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 
 **ImGuiFileDialog**
 <BR> [github/aiekick/ImGuiFileDialog](https://github.com/aiekick/ImGuiFileDialog)
-<BR> ![](https://user-images.githubusercontent.com/1193295/96842853-d85ddf00-144d-11eb-8c85-2c6e4ed4be76.png)
+<BR> ![](https://user-images.githubusercontent.com/1193295/103759279-c387f500-5013-11eb-88e0-2a8d879fff36.png)
 
 ## Rich text
 
@@ -133,7 +133,7 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 
 **netImGui: Dear ImGui remote access library and application** (2020)
 <BR> [github/sammyfreg/netImgui](https://github.com/sammyfreg/netImgui)
-<BR> ![](https://user-images.githubusercontent.com/1193295/103754130-3b522180-500c-11eb-909a-3d44dfc8b0f4.png)
+<BR> ![](https://user-images.githubusercontent.com/1193295/103759358-e4e8e100-5013-11eb-8c36-d878cdf10946.png)
 
 **imgui-ws**: Dear ImGui over WebSockets (2019-2020)
 <BR> [github/ggerganov/imgui-ws](https://github.com/ggerganov/imgui-ws)
@@ -150,7 +150,7 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 
 **ImTui**: Immediate Mode Text-based User Interface (2019-2020)
 <BR> [github/ggerganov/imtui](https://github.com/ggerganov/imtui)
-<BR> ![](https://user-images.githubusercontent.com/1193295/103754433-a3a10300-500c-11eb-89e5-4980bb3509b2.png)
+<BR> ![](https://user-images.githubusercontent.com/1193295/103759425-ffbb5580-5013-11eb-8bca-203679ac3a45.png)
 
 **tear imgui**: Experiment for a terminal-based renderer for imgui (2017)
 <BR> [github/jonvaldes/tear_imgui](https://github.com/jonvaldes/tear_imgui)
