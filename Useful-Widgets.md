@@ -17,7 +17,7 @@
 
 **ImGuiColorTextEdit**: Colorizing text editor for Dear ImGui (2017-2019)
 <BR> [github/BalazsJako/ImGuiColorTextEdit](https://github.com/BalazsJako/ImGuiColorTextEdit)
-<BR> ![](https://user-images.githubusercontent.com/1193295/96733540-dba78b00-13b9-11eb-855e-d0aa98a322d1.png)
+<BR> ![](https://user-images.githubusercontent.com/1193295/103753270-1c06c480-500b-11eb-9654-c6f17871a07e.png)
 
 **Zep**: An embeddable editor, with optional support for using vim keystrokes (2018-2020)
 <BR> [github/Rezonality/zep](https://github.com/Rezonality/zep)
