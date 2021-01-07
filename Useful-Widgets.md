@@ -133,7 +133,7 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 
 **netImGui: Dear ImGui remote access library and application** (2020)
 <BR> [github/sammyfreg/netImgui](https://github.com/sammyfreg/netImgui)
-<BR> ![](https://user-images.githubusercontent.com/1193295/103759358-e4e8e100-5013-11eb-8c36-d878cdf10946.png)
+<BR> ![](https://user-images.githubusercontent.com/1193295/103900082-acbace80-50f7-11eb-824e-c28623b1d6c3.png)
 
 **imgui-ws**: Dear ImGui over WebSockets (2019-2020)
 <BR> [github/ggerganov/imgui-ws](https://github.com/ggerganov/imgui-ws)
