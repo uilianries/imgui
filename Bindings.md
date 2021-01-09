@@ -73,6 +73,7 @@ Main repository include examples for DirectX9, DirectX10, DirectX11, DirectX12, 
 | Unity | **dear-imgui-unity**:<br>https://github.com/realgamessoftware/dear-imgui-unity
 | Unreal Engine 4 | **UnrealImGui**:<br>https://github.com/segross/UnrealImGui <br>**UnrealEngine_ImGui**:<br>https://github.com/sronsse/UnrealEngine_ImGui
 | vtk | **imgui-vtk**:<br>https://github.com/trlsmax/imgui-vtk
+| VulkanSceneGraph | **vsgImGui**:<br>https://github.com/vsg-dev/vsgImGui
 | Win32 (native) example | **example_win32_opengl3**:<br>Unmerged PR: [#2772](https://github.com/ocornut/imgui/pull/2772), [#281](https://github.com/ocornut/imgui/pull/281) (old example design) |
 | Win32 GDI renderer | **imgui_impl_gdi**:<br>Unmerged PR: [#2724](https://github.com/ocornut/imgui/pull/2724)
 | WxWidgets | **wxImGuiCanvas.h**:<br>https://github.com/ocornut/imgui/issues/1029
