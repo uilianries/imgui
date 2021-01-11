@@ -90,7 +90,7 @@ See [Releases](https://github.com/ocornut/imgui/releases) page.
 
 ### Ports and Rewrites
 
-- See: [Bindings/Ports and Rewrites](https://github.com/ocornut/imgui/wiki/Bindings/_edit#port-rewrites)
+- See: Bindings/[Ports and Rewrites](https://github.com/ocornut/imgui/wiki/Bindings#ports-rewrites)
 
 ### Notable forks
 
