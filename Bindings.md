@@ -88,9 +88,10 @@ Main repository include examples for DirectX9, DirectX10, DirectX11, DirectX12, 
 | Software renderer | **ImSoft** <br>https://github.com/LAK132/ImSoft |
 | ImGui on Arduino example | **ImDuino** <br>https://github.com/LAK132/ImDuino |
 
-## Port/rewrites
+## Ports and Rewrites
 
 | Language | Project |
 |------------|---|
 | Kotlin     | **dear jvm imgui**: full JVM port/rewrite <br>https://github.com/kotlin-graphics/imgui |
-
+| Python     | **Dear PyGui**: A Simple Python GUI framework <br>https://github.com/hoffstadt/DearPyGui |
+| Javascript | **imgui-njs**: imgui-njs is a manual-port / partial-rewrite of dear imgui <br>https://github.com/cannerycoders/imgui-njs |
