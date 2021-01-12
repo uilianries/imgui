@@ -1,6 +1,10 @@
 ## Language Bindings
 
-_NB: those bindings may be more or less maintained, more or less close to the spirit of original API. People who create language bindings sometimes haven't used the C++ API themselves. ImGui was designed for C++ and some of the subtleties may be lost in translation with other languages. If your language supports it, I would suggest replicating the function overloading and default parameters used in the original, else the API may be harder to use. In doubt, always check the original C++ version first!_
+Note: The [cimgui](https://github.com/cimgui/cimgui) project is designed to output metadata (see generator/output/ folder) which can be used to automatically generate bindings.
+
+Note: those bindings may be more or less maintained, more or less close to the spirit of original API. People who create language bindings sometimes haven't used the C++ API themselves. ImGui was designed for C++ and some of the subtleties may be lost in translation with other languages. If your language supports it, I would suggest replicating the function overloading and default parameters used in the original, else the API may be harder to use. In doubt, always check the original C++ version first!
+
+Now on to the list...
 
 | Language | Project |
 |------------|---|
