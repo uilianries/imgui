@@ -92,7 +92,7 @@ Main repository include examples for DirectX9, DirectX10, DirectX11, DirectX12, 
 | Software renderer | **ImSoft** <br>https://github.com/LAK132/ImSoft |
 | ImGui on Arduino example | **ImDuino** <br>https://github.com/LAK132/ImDuino |
 
-## Ports, Rewrites
+## Ports, Rewrites, Clones
 (notable rewrites or clones, those are not supported on this repository)
 
 | Language | Project |
