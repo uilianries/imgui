@@ -46,11 +46,11 @@ Thank you to every past and present [[Sponsors]] for making this project possibl
 
 ### Useful Widgets
 
-See [[Useful Widgets|Useful-widgets]] page.
+See [[Useful Widgets|Useful-widgets]] page for a gallery of third-party widgets/extensions.
 
 ### Releases / Changelog
 
-See [Releases](https://github.com/ocornut/imgui/releases) page.
+See [Releases](https://github.com/ocornut/imgui/releases) page for annotated changelog with nice pictures.
 
 ### Miscellaneous
 
