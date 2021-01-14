@@ -100,7 +100,7 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 
 **ImGuiFileDialog**
 <BR> [github/aiekick/ImGuiFileDialog](https://github.com/aiekick/ImGuiFileDialog)
-<BR> ![](https://user-images.githubusercontent.com/1193295/103759279-c387f500-5013-11eb-88e0-2a8d879fff36.png)
+<BR> ![](https://user-images.githubusercontent.com/1434736/104605256-8b6d5b80-567e-11eb-998e-4e6e5ef29f37.png)
 
 ## Rich text
 
