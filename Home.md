@@ -34,7 +34,7 @@ Thank you to every past and present [[Sponsors]] for making this project possibl
 
 ## Issues: Some Important Topics
 
-- [#2957](https://github.com/ocornut/imgui/issues/2957) Tables branch
+- [#3740](https://github.com/ocornut/imgui/issues/3740) Tables
 - [#2109](https://github.com/ocornut/imgui/issues/2109) Docking branch available for testing
 - [#1542](https://github.com/ocornut/imgui/issues/1542) Multi-viewports / virtual-viewports feature (in Docking branch)
 - [#2117](https://github.com/ocornut/imgui/issues/2117) Linux/Mac compatibility of the multi-viewport branch
