@@ -144,7 +144,7 @@ Help us complete this list!
 | App | Cheevos Hunter | @leiradel | | [github](https://github.com/leiradel/CheevosHunter) / [shot](https://raw.githubusercontent.com/leiradel/CheevosHunter/master/ch.png)
 | Misc | Cinder-Experiments | @simongeilfus | | [github](https://github.com/simongeilfus/Cinder-Experiments)
 | App | CortexRecognition | **Recognition Robotics** | Sponsor | [homepage](http://www.recognitionrobotics.com) / [shots](https://github.com/ocornut/imgui/issues/123#issuecomment-114941904) / [photos](https://github.com/ocornut/imgui/issues/973#issuecomment-303784406)
-| App | Visible | Darisa LLC | | [github](https://github.com/DarisaLLC/dev) / [shot](https://github.com/DarisaLLC/dev/blob/tiff_input_rls_0/screenshot.jpg)
+| App | Cycloid | | | [github](https://github.com/a1k0n/cycloid/) / [blog](https://www.a1k0n.net/2021/01/22/indoor-localization.html)
 | App | Decaf | | | [github](https://github.com/decaf-emu/decaf-emu)
 | App | DefleMask | Leonardo Demartino | | [homepage](http://www.deflemask.com/) / [appstore](https://itunes.apple.com/app/deflemask/id1390797126) / [playstore](https://play.google.com/store/apps/details?id=com.deflemask.mobile)
 | App | Desktop+ OpenVR Overlay | @elvissteinjr | | [github](https://github.com/elvissteinjr/DesktopPlus) / [shot](https://raw.githubusercontent.com/elvissteinjr/DesktopPlus/master/docs/screenshot.jpg)
@@ -289,6 +289,7 @@ Help us complete this list!
 | App | vdb | | | [homepage](https://lightbits.github.io/vdb/) / [gallery](https://github.com/lightbits/vdb/blob/master/gallery.md)
 | App | virtualkc | | | [homepage](http://floooh.github.io/virtualkc) |
 | App | Virtual Reality Neuron Tracer | Visus | | [steam](https://store.steampowered.com/app/791040/Virtual_Reality_Neuron_Tracer/)
+| App | Visible | Darisa LLC | | [github](https://github.com/DarisaLLC/dev) / [shot](https://github.com/DarisaLLC/dev/blob/tiff_input_rls_0/screenshot.jpg)
 | App | Visual Designer 3D | | | [video](https://www.youtube.com/watch?v=211NzYhNSFQ)
 | App | VK Pipeline Layout Editor | | | [shot](https://github.com/ocornut/imgui/issues/539#issuecomment-236273659)
 | App | Volumetric Capture | | | [github](https://github.com/VCL3D/VolumetricCapture)
