@@ -130,6 +130,7 @@ Help us complete this list!
 | Type | Title | By | Sponsor | Links |
 | ---- | ------ | ----- | ----- | ----- |
 | App | 3d Object Scatter | | | [homepage](https://cubebrush.co/3dobjectscatter?product_id=jyheqw)
+| App | alphaTerm | | | [homepage](http://www.alphaticks.io) / [shot](https://user-images.githubusercontent.com/8225057/105607011-af2a5300-5d9c-11eb-9bc8-39d3310e2192.jpg)
 | App | Apple2Emu | @allender | | [github](https://github.com/allender/apple2emu) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-280105757)
 | App | AVETO.vis | B-plus | | [homepage](https://www.b-plus.com/en/products/automotive/measurement-logging/avetorec/avetovis.html)
 | App | AXIOM Remote | | | [github](https://github.com/apertus-open-source-cinema/AXIOM-Remote)
@@ -137,13 +138,13 @@ Help us complete this list!
 | App | b2 | | | [homepage](https://github.com/tom-seddon/b2) / [shot](https://github.com/ocornut/imgui/issues/1269#issuecomment-340313270)
 | Engine | BabylonCpp | @samdauwe | | [github](https://github.com/samdauwe/BabylonCpp) / [video](https://www.youtube.com/watch?v=o05_5Wyzv54)
 | App | BASIC8 | Tony Wang | | [homepage](https://paladin-t.github.io/b8/) / [steam](https://store.steampowered.com/app/767240/)
-| Engine | Bezel Engine | | | Nintendo
+| Engine | Bezel Engine | Nintendo | | [shot](https://user-images.githubusercontent.com/8225057/105606992-9621a200-5d9c-11eb-8b60-fea1e71f43a7.jpg)
 | App | Cacu Studio | | | [video](https://v.qq.com/x/page/i0181kqlx02.html)
 | App | CADRays | Open Cascade | | [homepage](https://www.opencascade.com/content/cadrays) / [video](https://www.youtube.com/watch?v=D6_uGxmhuVk) 
 | App | Cheevos Hunter | @leiradel | | [github](https://github.com/leiradel/CheevosHunter) / [shot](https://raw.githubusercontent.com/leiradel/CheevosHunter/master/ch.png)
 | Misc | Cinder-Experiments | @simongeilfus | | [github](https://github.com/simongeilfus/Cinder-Experiments)
 | App | CortexRecognition | **Recognition Robotics** | Sponsor | [homepage](http://www.recognitionrobotics.com) / [shots](https://github.com/ocornut/imgui/issues/123#issuecomment-114941904) / [photos](https://github.com/ocornut/imgui/issues/973#issuecomment-303784406)
-| App | Visible | **Darisa LLC** | | [github](https://github.com/DarisaLLC/dev) / [shot](https://github.com/DarisaLLC/dev/blob/tiff_input_rls_0/screenshot.jpg)
+| App | Visible | Darisa LLC | | [github](https://github.com/DarisaLLC/dev) / [shot](https://github.com/DarisaLLC/dev/blob/tiff_input_rls_0/screenshot.jpg)
 | App | Decaf | | | [github](https://github.com/decaf-emu/decaf-emu)
 | App | DefleMask | Leonardo Demartino | | [homepage](http://www.deflemask.com/) / [appstore](https://itunes.apple.com/app/deflemask/id1390797126) / [playstore](https://play.google.com/store/apps/details?id=com.deflemask.mobile)
 | App | Desktop+ OpenVR Overlay | @elvissteinjr | | [github](https://github.com/elvissteinjr/DesktopPlus) / [shot](https://raw.githubusercontent.com/elvissteinjr/DesktopPlus/master/docs/screenshot.jpg)
