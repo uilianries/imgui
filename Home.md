@@ -142,6 +142,7 @@ Another notable uses of IMGUI paradigm include [Unity's own IMGUI widget library
 - 2020-03: C++ Weekly - Ep 210: Getting Started With SFML & Dear ImGui [youtube](https://www.youtube.com/watch?v=av0SYeUxVMU)
 - 2020-03: C++ desktop application with Dear Imgui: [blog](https://ruurdsdevlog.wordpress.com/2020/03/07/c-desktop-application-with-dear-imgui)
 - 2020-09: A Vulkan + Dear ImGui Sandbox: [blog](https://tstullich.github.io/posts/vulkan-sandbox/)
+- 2021-01: Gamefromscratch: Dear ImGui C++ GUI Framework For AAA Games and Game Engines [youtube](https://www.youtube.com/watch?v=Du--cH01ZWI)
 
 **Korean**
 - 2018-01: GLFW 사용 방법 정리 (Windows 10, VS2017) https://3dshovel.blogspot.fr/2018/01/glfw-windows-10-visual-studio-2017.html
