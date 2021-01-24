@@ -231,6 +231,7 @@ Help us complete this list!
 | App | OpenPlanet | | | [homepage](https://openplanet.nl/) / [shots](https://github.com/ocornut/imgui/issues/1269#issuecomment-359883857)
 | App | OpenSpace | | | [homepage](https://www.openspaceproject.com) / [github](https://github.com/OpenSpace/OpenSpace)
 | App | Orbital | @AlexAltea | | [github](https://github.com/AlexAltea/orbital)
+| Engine | OverEngine | @OverShifted | | [github](http://github.com/OverShifted/OverEngine)
 | Engine | Overload | Overload Tech | | [github](https://github.com/adriengivry/Overload) / [homepage](http://overloadengine.org/) / [video](https://youtu.be/ARXSJh-ZMHM)
 | App | Panorama | @ronen25 | | [github](https://github.com/ronen25/panorama)
 | App | Parsec | | | [homepage](https://parsecgaming.com)
