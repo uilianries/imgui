@@ -16,7 +16,7 @@ Now on to the list...
 | Crystal    | **crystal-imgui**: Crystal bindings to Dear ImGui<br>https://github.com/oprypin/crystal-imgui
 | D          | **DerelictImgui**: Dynamic bindings to cimgui for the D programming language <br>https://github.com/Extrawurst/DerelictImgui |
 | Go         | **imgui-go**: Go wrapper library for "Dear ImGui" <br> https://github.com/inkyblackness/imgui-go |
-| Haskell    | **imgui-haskell**: Haskell bindings for Dear ImGui <br>https://github.com/dbousamra/imgui-haskell
+| Haskell    | **dear-imgui.hs**: Haskell bindings to Dear ImGui,<br>https://github.com/haskell-game/dear-imgui.hs<br>**imgui-haskell**: Haskell bindings for Dear ImGui <br>https://github.com/dbousamra/imgui-haskell
 | Haxe/hxcpp | **linc_imgui**: binding for imgui <br>https://github.com/Aidan63/linc_imgui |
 | Haxe/Heaps | **hlimgui**: [Heaps](https://heaps.io/) game engine binding for Dear ImGui <br>https://github.com/haddock7/hlimgui |
 | Java       | **jimgui**: Pure Java binding for dear imgui <br>https://github.com/ice1000/jimgui <br>**imgui-java**: JNI based binding for Dear ImGui<br>https://github.com/SpaiR/imgui-java |
