@@ -75,7 +75,7 @@ Main repository include examples for DirectX9, DirectX10, DirectX11, DirectX12, 
 | SFML | **imgui-sfml**:<br>https://github.com/eliasdaler/imgui-sfml |
 | Sokol | **sokol-samples**:<br>https://github.com/floooh/sokol-samples/blob/master/glfw/imgui-glfw.cc |
 | Unity | **dear-imgui-unity**:<br>https://github.com/realgamessoftware/dear-imgui-unity
-| Unreal Engine 4 | **UnrealImGui**:<br>https://github.com/segross/UnrealImGui <br>**UnrealEngine_ImGui**:<br>https://github.com/sronsse/UnrealEngine_ImGui
+| Unreal Engine 4 | **UnrealImGui**:<br>https://github.com/segross/UnrealImGui <br>**UnrealEngine_ImGui**:<br>https://github.com/sronsse/UnrealEngine_ImGui<br>**UnrealNetImgui** (plugin for NetImgui):<br>https://github.com/sammyfreg/UnrealNetImgui
 | vtk | **imgui-vtk**:<br>https://github.com/trlsmax/imgui-vtk
 | VulkanHpp | **ImGui-VulkanHpp**:<br>https://github.com/takiyu/ImGui-VulkanHpp
 | VulkanSceneGraph | **vsgImGui**:<br>https://github.com/vsg-dev/vsgImGui
