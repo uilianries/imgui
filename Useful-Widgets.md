@@ -82,6 +82,10 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 
 ## File Browsers / File Dialog
 
+**ImFileDialog**: A simple file dialog library [... ] supports favorites, actual Windows icons, image previews, zooming in, etc...
+<BR> [github/dfranx/ImFileDialog](https://github.com/dfranx/ImFileDialog)
+<BR> ![ImFileDialog](https://user-images.githubusercontent.com/8225057/107156759-88654280-6980-11eb-88ea-774b3119d4d3.png)
+
 **L2DFileDialog**
 <BR> [github/Limeoats/L2DFileDialog](https://github.com/Limeoats/L2DFileDialog)
 <BR> ![](https://user-images.githubusercontent.com/1193295/103759110-79067880-5013-11eb-9fc5-522f3bb9e5df.png)
