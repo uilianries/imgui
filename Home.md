@@ -78,7 +78,8 @@ See [Releases](https://github.com/ocornut/imgui/releases) page for annotated cha
 ### Example Apps, Framework
 (Please also check our [examples/](https://github.com/ocornut/imgui/tree/master/examples) folder in the repo, they work fine as started apps!)
 
-- Starter project for portable app with optional GUI (GLFW/ImGui) https://github.com/abdes/asap
+- asap: Starter project for portable app with optional GUI (GLFW/ImGui) https://github.com/abdes/asap
+- imgui-app: amalgamation of Dear ImGui and Sokol into two files https://github.com/pplux/imgui-app/
 - Bimpy: bundled imgui for python: https://github.com/podgorskiy/bimpy
 - giu: Cross platform rapid GUI framework for golang based on Dear ImGui. https://github.com/AllenDang/giu
 - Dear PyGui: A Simple Python GUI framework https://github.com/hoffstadt/DearPyGui
