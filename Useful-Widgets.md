@@ -166,6 +166,10 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 **devmidi**: A simple MIDI input library that also dovetails into Dear ImGui (2020)
 <BR> [github/antonthefirst/devmidi](https://github.com/antonthefirst/devmidi)
 
+**shric/midi**: A C++ program to read midi input and display things with Dear ImGui 
+<BR> [github/shric/midi](https://github.com/shric/midi)
+<BR> ![shric/midi](https://user-images.githubusercontent.com/8225057/107155358-3cae9b00-6978-11eb-981a-2d4bd935bf4b.png)
+
 ## Virtual Reality (VR) / Reprojected UI plane
 
 **ImGuiVR**: Demo code for using Imgui with OpenVR 
