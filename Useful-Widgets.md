@@ -64,7 +64,7 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 
 ## Plotting, Graph
 
-**ImPlot**: Advanced 2D Plotting for Dear ImGui (2020)
+**ImPlot**: Advanced 2D Plotting for Dear ImGui (2020-2021)
 <BR> [github/epezent/implot](https://github.com/epezent/implot)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96738879-79ea1f80-13bf-11eb-8e96-97f4acc8b79d.png)
 
@@ -82,13 +82,17 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 
 ## File Browsers / File Dialog
 
-**ImFileDialog**: A simple file dialog library [... ] supports favorites, actual Windows icons, image previews, zooming in, etc...
+**ImFileDialog**: A simple file dialog library [... ] supports favorites, actual Windows icons, image previews, zooming in, (2021)
 <BR> [github/dfranx/ImFileDialog](https://github.com/dfranx/ImFileDialog)
 <BR> ![ImFileDialog](https://user-images.githubusercontent.com/8225057/107156759-88654280-6980-11eb-88ea-774b3119d4d3.png)
 
-**L2DFileDialog**
+**L2DFileDialog** (2020)
 <BR> [github/Limeoats/L2DFileDialog](https://github.com/Limeoats/L2DFileDialog)
 <BR> ![](https://user-images.githubusercontent.com/1193295/103759110-79067880-5013-11eb-9fc5-522f3bb9e5df.png)
+
+**aiekick/ImGuiFileDialog** (2019-2020)
+<BR> [github/aiekick/ImGuiFileDialog](https://github.com/aiekick/ImGuiFileDialog)
+<BR> ![](https://user-images.githubusercontent.com/1434736/104605256-8b6d5b80-567e-11eb-998e-4e6e5ef29f37.png)
 
 **AirGuanZ's imgui-filebrowser**
 <BR> [github/AirGuanZ-imgui-filebrowser](https://github.com/AirGuanZ/imgui-filebrowser)
@@ -102,13 +106,9 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 <BR> [github/Flix01/imgui](https://github.com/Flix01/imgui/wiki/ImGui-Addons-Branch-Home)
 <BR> ![](https://user-images.githubusercontent.com/1193295/103753755-b8c96200-500b-11eb-95c0-3ff6ff19e78e.png)
 
-**ImGuiFileDialog**
-<BR> [github/aiekick/ImGuiFileDialog](https://github.com/aiekick/ImGuiFileDialog)
-<BR> ![](https://user-images.githubusercontent.com/1434736/104605256-8b6d5b80-567e-11eb-998e-4e6e5ef29f37.png)
-
 ## Rich text
 
-**imgui_markdown**: Markdown for Dear ImGui 
+**imgui_markdown**: Markdown for Dear ImGui (2019-2021)
 <BR> [github/juliettef/imgui_markdown](https://github.com/juliettef/imgui_markdown)
 <BR> ![](https://user-images.githubusercontent.com/8225057/97190844-89de7680-17a6-11eb-8add-5cab6be7f5f5.png)
 
@@ -117,21 +117,21 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 
 ## Input Method Editors
 
-**DearImGui-with-IMM32**: Microsoft IME Overlay using Dear ImGui
+**DearImGui-with-IMM32**: Microsoft IME Overlay using Dear ImGui (2020)
 <BR> [github/maildrop/DearImGui-with-IMM32](https://github.com/maildrop/DearImGui-with-IMM32)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96867731-64333380-146d-11eb-9aae-14abee458f93.png)
 
 ## Software Renderer/Rasterizer
 
-**Software Renderer for Dear ImGui**
+**Software Renderer for Dear ImGui** (2018)
 <BR> [github/emilk/imgui_software_renderer](https://github.com/emilk/imgui_software_renderer)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96886295-bc753000-1483-11eb-863e-81056c1bd801.png)
 
-**Fast(er) Software Rasterizer for Dear ImGui**
-<BR> [github/malamanteau](https://github.com/malamanteau/ImFastRast)
+**ImSoft (softraster for ImGui)** (2019)
+<BR> [github/LAK132/ImSoft](https://github.com/LAK132/ImSoft/blob/master/examples/imgui_impl_softraster.cpp)
 
-**ImSoft (softraster for ImGui)**
-<BR> [github/LAK132/ImSoft](https://github.com/LAK132/ImSoft)
+**Fast(er) Software Rasterizer for Dear ImGui**
+<BR> [github/malamanteau](https://github.com/malamanteau/ImFastRast) [down]
 
 ## Remoting
 
@@ -170,7 +170,7 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 **devmidi**: A simple MIDI input library that also dovetails into Dear ImGui (2020)
 <BR> [github/antonthefirst/devmidi](https://github.com/antonthefirst/devmidi)
 
-**shric/midi**: A C++ program to read midi input and display things with Dear ImGui 
+**shric/midi**: A C++ program to read midi input and display things with Dear ImGui (2020)
 <BR> [github/shric/midi](https://github.com/shric/midi)
 <BR> ![shric/midi](https://user-images.githubusercontent.com/8225057/107155358-3cae9b00-6978-11eb-981a-2d4bd935bf4b.png)
 
