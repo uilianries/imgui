@@ -21,6 +21,7 @@ Individuals: support continued development and maintenance [here](https://www.pa
 
 **Double-chocolate and Salty Caramel sponsors**
 - [Activision](https://careers.activision.com/c/programmingsoftware-engineering-jobs)
+- [Aras Pranckevičius](https://aras-p.info)
 - [Arkane Studios](https://www.arkane-studios.com)
 - [Dotemu](http://www.dotemu.com)
 - [Framefield](http://framefield.com)
