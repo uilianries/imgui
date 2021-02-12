@@ -43,6 +43,11 @@ There are a few additional multi-viewports related configuration flags in the io
 
 If you are using a custom back-end, refer to the `ImGuiPlatformIO` structure and existing `backends/` + `examples/` to implement support for multi-viewports in your engine. This is not particularly easy to add. 
 
+#### Issues
+
+- The feature tends to be broken on Linux/X11 with many window managers. It's been endlessly reported and will only likely ever be fixed if a Linux user wants to commit the time to investigate this seriously. See [#2117](https://github.com/ocornut/imgui/issues/2117).
+- The feature doesn't work in Wayland. Wayland doesn't let application read or write windows positions.
+
 #### FAQ
 
 - Q: What happens to the coordinate systems?
