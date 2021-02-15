@@ -49,8 +49,8 @@ What we care about:
 
 This is in comparison with typical RMGUI ("retained-mode UI"):
 
-- RMGUI APIs often have the application retain more artifacts from the UI system (e.g. create objects, maintain references).
-- RMGUI APIs often require more synchronization mechanisms because the UI system retain more application data.
+- RMGUI APIs often have the application retain artifacts from the UI system (e.g. maintain references to UI objects).
+- RMGUI APIs often require synchronization mechanisms because the UI system retain more application data.
 
 What it doesn't stands for:
 
