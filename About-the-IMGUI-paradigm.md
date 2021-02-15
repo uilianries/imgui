@@ -4,13 +4,15 @@ THIS IS WIP/DRAFT
 
 **This is an attempt at explaining what the IMGUI paradigm stands for, and what it could be**.
 
-Proponent of the IMGUI paradigm have noticed that it was widely misunderstood, over and.
+Proponent of the IMGUI paradigm have noticed that it was widely misunderstood, over and over.
 As of Feb 2021, even the [IMGUI Wikipedia page](https://en.wikipedia.org/wiki/Immediate_mode_GUI) is completely off the mark. There are reasons for that:
 - the acronym may be misleading?
 - people didn't do a good job enough explaining or documentation what IMGUI means?
 - they are different interpretation of what IMGUI means?
 - many popular IMGUI implementation have made similar design choices, making it more confusing what is actually the soul and backbone of the IMGUI paradigm vs a set of implementation choices. In other words, many things haven't been thoroughly explored.
 - the naming and success of "Dear ImGui" blurred the line a little bit further (should have used another name).
+
+The second purpose of this page should be to make it clear that there is a large space to explore in UI programming.
 
 ### History
 
@@ -35,21 +37,22 @@ The existence of those two terms effectively has hindered both discussions and r
 - The interface tries to minimize the app/programmer having to retain data from the UI library.
 - The interface tries to minimize the UI library having to retain data from the app/programmer.
 
-This is in comparison with typical RMGUI which:
+This is in comparison with typical RMGUI ("retained-mode UI") which:
+
 - Often have the app/programmer to retain lots of artifacts from the UI library (e.g. create objects, maintain references).
 - Often have the UI library retain app/programmer data in widgets, requiring synchronization mechanisms.
 
 What it doesn't stands for:
 
-- IMGUI does not means that stuff are drawn immediately.
 - IMGUI does not means that the library doesn't retain data.
+- IMGUI does not means that stuff are drawn immediately.
 - IMGUI does not means it needs a continuous loop nor need to refresh continuously.
 - IMGUI does not means it needs to refresh all-or-nothing.
-- IMGUI does not means state are polled.
+- IMGUI does not means that states are polled.
 - IMGUI does not means the UI doesn't look "native".
 - IMGUI does not means it needs a GPU to render.
-- IMGUI does not means limited layout feature.
-- IMGUI does not means single pass flow.
+- IMGUI does not means that layout features are limited.
+- IMGUI does not means that there is a single pass flow.
 
 TODO: Each of those points should be explained with a paragraph. We could also describe how common UI libraries (of all types) stand on a given axis.
 
