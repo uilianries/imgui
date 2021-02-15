@@ -2,12 +2,12 @@
 
 **This is an attempt at explaining what the IMGUI paradigm stands for, and what it could be**.
 
-Proponent of the IMGUI paradigm have noticed it was that over and over widely misunderstood. 
+Proponent of the IMGUI paradigm have noticed that it was widely misunderstood, over and.
 As of Feb 2021, even the [IMGUI Wikipedia page](https://en.wikipedia.org/wiki/Immediate_mode_GUI) is completely off the mark. There are reasons for that:
-- the acronym may be misleading in the first place?
+- the acronym may be misleading?
 - people didn't do a good job enough explaining or documentation what IMGUI means?
 - they are different interpretation of what IMGUI means?
-- many popular IMGUI implementation have made similar design choices, making it more confusing what is actually the soul and backbone of the IMGUI paradigm vs a set of implementation choices.
+- many popular IMGUI implementation have made similar design choices, making it more confusing what is actually the soul and backbone of the IMGUI paradigm vs a set of implementation choices. In other words, many things haven't been thoroughly explored.
 - the naming and success of "Dear ImGui" blurred the line a little bit further (should have used another name).
 
 ### History
@@ -19,13 +19,11 @@ The acronym IMGUI was coined by Casey Muratori in this video in 2005:
 
 ### Do we need a definition?
 
-Nowadays I am starting to believe that the term has caused more harm than benefit, 
-because it suggests there are two camps "IMGUI" vs "RMGUI". 
-The reality is there is a continuum of possibilities over multiple orthogonal axises. 
-
-The term effectively has dumbed down the discourse. The fact that we are even trying to put an official definition to a label is dumbing down the discourse and hindering people's imagination about the many possible areas of researches to be done in UI.
-
 _"I kind of wish there was more radical experimentation in this space"_ [tweet](https://twitter.com/pervognsen/status/1361241939593416705)
+
+Nowadays I am starting to believe that the term has caused more harm than benefits, because it suggests there are two camps "IMGUI" vs "RMGUI". The reality is there is a continuum of possibilities over multiple unrelated axises. Many of them haven't been explored enough, as popular IMGUI libraries have been designed for certain needs and not others.
+
+The existence of those two terms effectively has hindered both discussions and researchs. The fact that we are even trying to put an official definition to a label is hindering people's imagination about the many possible areas of researches to be done in UI space.
 
 ### Half of a definition
 
@@ -36,8 +34,8 @@ _"I kind of wish there was more radical experimentation in this space"_ [tweet](
 - The interface tries to minimize the UI library having to retain data from the app/programmer.
 
 This is in comparison with typical RMGUI which:
-- Often have the app/programmer to retain lots of artifacts from the UI library (references/objects)
-- Often have the UI library retain app/programmer data in widgets, requiring synchronization mechanism.
+- Often have the app/programmer to retain lots of artifacts from the UI library (e.g. create objects, maintain references).
+- Often have the UI library retain app/programmer data in widgets, requiring synchronization mechanisms.
 
 What it doesn't stands for:
 
@@ -51,7 +49,7 @@ What it doesn't stands for:
 - IMGUI does not means limited layout feature.
 - IMGUI does not means single pass flow.
 
-TODO: Each of those points could be explained with a paragraph. We could also describe how common UI libraries (of all types) stand on a given axis.
+TODO: Each of those points should be explained with a paragraph. We could also describe how common UI libraries (of all types) stand on a given axis.
 
 ### Vurtun's writeup
 
