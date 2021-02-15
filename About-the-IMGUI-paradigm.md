@@ -1,4 +1,4 @@
-THIS IS WIP/DRAFT
+THIS IS WIP/DRAFT / [Discuss this article](https://github.com/ocornut/imgui/issues/3815)
 
 ### Why
 
