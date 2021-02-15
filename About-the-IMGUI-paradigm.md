@@ -34,9 +34,10 @@ The existence of those two terms effectively has hindered both discussions and r
 
 @ocornut's attempt for a definition (WIP, 2021)
 
-- IMGUI refers to the api: literally the interface between the application and the UI system.
-- The api tries to minimize the application having to retain data related to the UI system.
-- The api tries to minimize the UI system having to retain data related to the application.
+- IMGUI refers to the API: literally the interface between the application and the UI system.
+- The API tries to minimize the application having to retain data related to the UI system.
+- The API tries to minimize the UI system having to retain data related to the application.
+- API != Implementation. Whatever happens within the UI system stays within the UI system and isn't part of the definition.
 
 This is in comparison with typical RMGUI ("retained-mode UI") which:
 
