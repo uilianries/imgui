@@ -39,8 +39,8 @@ The existence of those two terms effectively has hindered both discussions and r
 
 This is in comparison with typical RMGUI ("retained-mode UI") which:
 
-- Often have the app/programmer to retain lots of artifacts from the UI library (e.g. create objects, maintain references).
-- Often have the UI library retain app/programmer data in widgets, requiring synchronization mechanisms.
+- Often have the app/programmer retain artifacts from the UI library (e.g. create objects, maintain references).
+- Often have the UI library retain app/programmer data in UI widgets, requiring synchronization mechanisms.
 
 What it doesn't stands for:
 
@@ -54,7 +54,7 @@ What it doesn't stands for:
 - IMGUI does not means that layout features are limited.
 - IMGUI does not means that there is a single pass flow.
 
-TODO: Each of those points should be explained with a paragraph. We could also describe how common UI libraries (of all types) stand on a given axis.
+TODO: Each of those points should be explained with a paragraph. We could also describe how common UI libraries (of all types) stand on a given axis. We could also described less explored paths and envision what new UI libraries could do.
 
 ### Vurtun's writeup
 
