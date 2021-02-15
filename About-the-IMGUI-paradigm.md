@@ -9,7 +9,7 @@ As of Feb 2021, even the [IMGUI Wikipedia page](https://en.wikipedia.org/wiki/Im
 - the acronym may be misleading?
 - people didn't do a good job enough explaining or documentation what IMGUI means?
 - they are different interpretation of what IMGUI means?
-- many popular IMGUI implementation have made similar design choices, making it more confusing what is actually the soul and backbone of the IMGUI paradigm vs a set of implementation choices. In other words, many things haven't been thoroughly explored.
+- many popular IMGUI implementation have made similar design choices, making it more confusing what is actually the soul and backbone of the IMGUI paradigm vs a set of implementation choices. 
 - the naming and success of "Dear ImGui" blurred the line a little bit further (should have used another name).
 
 The second purpose of this page should be to make it clear that there is a large space to explore in UI programming.
