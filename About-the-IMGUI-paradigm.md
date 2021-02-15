@@ -54,8 +54,7 @@ What it doesn't stands for:
 - IMGUI does not mean the UI doesn't look "native" or looks a certain way.
 - IMGUI does not mean it cannot animate.
 - IMGUI does not mean it needs a GPU to render.
-- IMGUI does not mean that layout features are limited.
-- IMGUI does not mean that there is a single pass flow.
+- IMGUI does not mean that the library can or cannot support feature x or y.
 - IMGUI does not mean that the library is more or less portable.
 
 TODO: Each of those points should be explained with a paragraph. We could also describe how common UI libraries (of all types) stand on a given axis. We could also describe less explored paths and envision what new UI libraries could do.
