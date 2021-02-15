@@ -1,3 +1,5 @@
+THIS IS WIP/DRAFT
+
 ### Why
 
 **This is an attempt at explaining what the IMGUI paradigm stands for, and what it could be**.
