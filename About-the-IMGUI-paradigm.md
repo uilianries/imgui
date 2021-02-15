@@ -12,6 +12,10 @@ As of Feb 2021, even the [IMGUI Wikipedia page](https://en.wikipedia.org/wiki/Im
 - many popular IMGUI implementation have made similar design choices, making it more confusing what is actually the soul and backbone of the IMGUI paradigm vs a set of implementation choices. 
 - the naming and success of "Dear ImGui" blurred the line a little bit further (should have used another name).
 
+The acronym is very misleading because "immediate-mode" was initially coined as a reference to obsolete graphics API which made it very easy to render contents. The choice of that word got us into years, maybe decades of misunderstanding.
+
+From now on, IMGUI will stand for "Incredibly Magic Graphics User Interface" ;)
+
 The second purpose of this page should be to make it clear that there is a large space to explore in UI programming.
 
 ### History
