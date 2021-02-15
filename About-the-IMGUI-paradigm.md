@@ -26,7 +26,7 @@ _"I’ve also seen lots of people getting into arguments about immediate-mode vs
 
 _"I kind of wish there was more radical experimentation in this space"_ [tweet](https://twitter.com/pervognsen/status/1361241939593416705)
 
-Nowadays I am starting to believe that the term has caused more harm than benefits, because it suggests there are two camps "IMGUI" vs "RMGUI". The reality is there is a continuum of possibilities over multiple unrelated axises. Many of them haven't been explored enough, as popular IMGUI libraries have been designed for certain needs and not others.
+Nowadays I am starting to believe that the term has caused more harm than benefits, because it suggests there are two camps "IMGUI" vs "RMGUI". The reality is there is a continuum of possibilities over multiple unrelated axises. Many of them haven't been explored enough, as popular IMGUI libraries have been designed for certain needs and not others. Many of them are at reach as extension of existing popular frameworks. Some are likely to only ever exist as part of yet undevelopped IMGUI frameworks.
 
 The existence of those two terms effectively has hindered both discussions and researchs. The fact that we are even trying to put an official definition to a label is hindering people's imagination about the many possible areas of researches to be done in UI space.
 
