@@ -18,7 +18,8 @@ The second purpose of this page should be to make it clear that there is a large
 
 The acronym IMGUI was coined by Casey Muratori in this video in 2005:
 <BR>  https://www.youtube.com/watch?v=Z1qyvQsjK5Y (see also [blog](https://caseymuratori.com/blog_0001))
-<BR> _"I’ve also seen lots of people getting into arguments about immediate-mode vs. retained-mode GUI APIs. I think this has something to do with how simple the IMGUI concept is, as it leads people to think they understand it, and then they proceed to get into heated arguments as if they actually know what they’re talking about. I rarely see this problem when I’m talking about anything even mildly complicated, like quaternions."_
+
+_"I’ve also seen lots of people getting into arguments about immediate-mode vs. retained-mode GUI APIs. I think this has something to do with how simple the IMGUI concept is, as it leads people to think they understand it, and then they proceed to get into heated arguments as if they actually know what they’re talking about. I rarely see this problem when I’m talking about anything even mildly complicated, like quaternions."_
 <BR> It has been privately researched before and after.
 
 ### Do we need a definition?
@@ -78,3 +79,14 @@ _Personally for me tool and game ui are two completley different use cases. Inte
 _Finally state handling. For games this is easier since most state is known beforehand and can be reserved/preallocated. For tool ui it is a bit more complicated. First of it is possible to have state per widget. That is what we currently do at keen core. The state itself is lifetime tracked and freed if not used anymore. However what is actually possible as well is having a concept of an window/view and managing state outside the library. By that I mean a tabbed window with content. Like for example a log view or scene view storing all needed state for the UI and the actually data needed (log entries for the log view). Instead of trying to do state handling on the widget level it makes a lot more sense to have state management inside the view itself, since unlike the actually widgets the view itself has an easy to track lifetime. Just to clarify the view in the library API would just an handle while the actual view implementation would store the state._
 
 _A lot in ui depends on the problem on hand so I feel there is no silver bullet. But what is actually great about UI is that it is possible to write a version fitting the problem. I hope if anything is taken from this rant is that "imgui" currently entangles a lot of concepts that however don't define it. So everytime it does not work out immediate mode as a grand concept itself is tossed aside instead of reevaluating the parts that did not work out."_
+
+### Links
+
+- [Johannes 'johno' Norneby's article](http://www.johno.se/book/imgui.html), 2007.
+- [A presentation by Rickard Gustafsson and Johannes Algelind](http://www.cse.chalmers.se/edu/year/2011/course/TDA361/Advanced%20Computer%20Graphics/IMGUI.pdf), 2011.
+- [Jari Komppa's tutorial on building an IMGUI library](http://iki.fi/sol/imgui/), @jarikomppa, 2006.
+- [Casey Muratori's original video that popularized the concept](https://mollyrocket.com/861), 2005.
+- [Writing an IMGUI](https://www.youtube.com/watch?v=wsJ8Y1HO250), @heroseh, 2021
+- [Nicolas Guillemot's CppCon'16 flash-talk about Dear ImGui](https://www.youtube.com/watch?v=LSRJ1jZq90k), 2016.
+- [Thierry Excoffier's ZMV (Zero Memory Widget)](http://perso.univ-lyon1.fr/thierry.excoffier/ZMW/), 2004.
+- [Unity's IMGUI](https://docs.unity3d.com/Manual/GUIScriptingGuide.html)
