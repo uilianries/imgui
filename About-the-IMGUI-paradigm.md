@@ -6,7 +6,7 @@ THIS IS WIP/DRAFT
 
 Proponent of the IMGUI paradigm have noticed that it was widely misunderstood, over and over.
 As of Feb 2021, even the [IMGUI Wikipedia page](https://en.wikipedia.org/wiki/Immediate_mode_GUI) is completely off the mark. There are reasons for that:
-- the acronym may be misleading?
+- the acronym is very misleading.
 - people didn't do a good job enough explaining or documentation what IMGUI means?
 - they are different interpretation of what IMGUI means?
 - many popular IMGUI implementation have made similar design choices, making it more confusing what is actually the soul and backbone of the IMGUI paradigm vs a set of implementation choices. 
@@ -20,7 +20,9 @@ The acronym IMGUI was coined by Casey Muratori in this video in 2005:
 <BR>  https://www.youtube.com/watch?v=Z1qyvQsjK5Y (see also [blog](https://caseymuratori.com/blog_0001))
 
 _"I’ve also seen lots of people getting into arguments about immediate-mode vs. retained-mode GUI APIs. I think this has something to do with how simple the IMGUI concept is, as it leads people to think they understand it, and then they proceed to get into heated arguments as if they actually know what they’re talking about. I rarely see this problem when I’m talking about anything even mildly complicated, like quaternions."_
-<BR> It has been privately researched before and after.
+
+It has been privately researched before and after.
+Casey's work on formulating and popularizing research on this topic has been invaluable. I however believe that picking the word "immediate-mode" was a mistake which a decade later we are still paying for in term of misunderstanding what IMGUI are.
 
 ### Do we need a definition?
 
