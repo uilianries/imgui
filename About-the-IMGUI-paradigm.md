@@ -33,14 +33,14 @@ The existence of those two terms effectively has hindered both discussions and r
 
 @ocornut's attempt for a definition (WIP, 2021)
 
-- IMGUI refers to the **interface** between the app/programmer and the UI library.
-- The interface tries to minimize the app/programmer having to retain data from the UI library.
-- The interface tries to minimize the UI library having to retain data from the app/programmer.
+- IMGUI refers to the api: literally the interface between the application and the UI system.
+- The api tries to minimize the application having to retain data from the UI system.
+- The api tries to minimize the UI system having to retain data from the application.
 
 This is in comparison with typical RMGUI ("retained-mode UI") which:
 
-- Often have the app/programmer retain artifacts from the UI library (e.g. create objects, maintain references).
-- Often have the UI library retain app/programmer data in UI widgets, requiring synchronization mechanisms.
+- Often have the application retain artifacts from the UI system (e.g. create objects, maintain references).
+- Often have the UI system retain appplication data in UI widgets, requiring more synchronization mechanisms.
 
 What it doesn't stands for:
 
