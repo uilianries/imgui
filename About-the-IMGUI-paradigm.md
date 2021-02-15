@@ -34,13 +34,13 @@ The existence of those two terms effectively has hindered both discussions and r
 @ocornut's attempt for a definition (WIP, 2021)
 
 - IMGUI refers to the api: literally the interface between the application and the UI system.
-- The api tries to minimize the application having to retain data from the UI system.
-- The api tries to minimize the UI system having to retain data from the application.
+- The api tries to minimize the application having to retain data related to the UI system.
+- The api tries to minimize the UI system having to retain data related to the application.
 
 This is in comparison with typical RMGUI ("retained-mode UI") which:
 
-- Often have the application retain artifacts from the UI system (e.g. create objects, maintain references).
-- Often have the UI system retain appplication data in UI widgets, requiring more synchronization mechanisms.
+- Often have the application retain more artifacts from the UI system (e.g. create objects, maintain references).
+- Often have the UI system retain application data in UI widgets, requiring more synchronization mechanisms.
 
 What it doesn't stands for:
 
@@ -53,6 +53,7 @@ What it doesn't stands for:
 - IMGUI does not means it needs a GPU to render.
 - IMGUI does not means that layout features are limited.
 - IMGUI does not means that there is a single pass flow.
+- IMGUI does not means that the library is more or less portable.
 
 TODO: Each of those points should be explained with a paragraph. We could also describe how common UI libraries (of all types) stand on a given axis. We could also described less explored paths and envision what new UI libraries could do.
 
