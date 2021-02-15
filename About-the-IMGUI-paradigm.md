@@ -26,9 +26,9 @@ _"I’ve also seen lots of people getting into arguments about immediate-mode vs
 
 _"I kind of wish there was more radical experimentation in this space"_ [tweet](https://twitter.com/pervognsen/status/1361241939593416705)
 
-Nowadays I am starting to believe that the term has caused more harm than benefits, because it suggests there are two camps "IMGUI" vs "RMGUI". The reality is there is a continuum of possibilities over multiple unrelated axises. Many of them haven't been explored enough, as popular IMGUI libraries have been designed for certain needs and not others. Many of them are at reach as extension of existing popular frameworks. Some are likely to only ever exist as part of yet undevelopped IMGUI frameworks.
+Nowadays I am starting to believe that the term has caused more harm than benefits, because it suggests there are two camps "IMGUI" vs "RMGUI". The reality is there is a continuum of possibilities over multiple unrelated axises. Many of them haven't been explored enough, as popular IMGUI libraries have been designed for certain needs and not others. Many of them are at reach as extension of existing popular frameworks. Some are likely to only ever exist as part of yet undeveloped IMGUI frameworks.
 
-The existence of those two terms effectively has hindered both discussions and researchs. The fact that we are even trying to put an official definition to a label is hindering people's imagination about the many possible areas of researches to be done in UI space.
+The existence of those two terms effectively has hindered both discussions and research. The fact that we are even trying to put an official definition to a label is hindering people's imagination about the many possible areas of researches to be done in UI space.
 
 ### Half of a definition
 
@@ -37,7 +37,7 @@ The existence of those two terms effectively has hindered both discussions and r
 - IMGUI refers to the API: literally the interface between the application and the UI system.
 - The API tries to minimize the application having to retain data related to the UI system.
 - The API tries to minimize the UI system having to retain data related to the application.
-- API != Implementation. Whatever happens within the UI system stays within the UI system and isn't part of the definition.
+- API != Implementation. Whatever happens inside the UI system stays inside the UI system and isn't part of the definition.
 
 This is in comparison with typical RMGUI ("retained-mode UI") which:
 
@@ -60,7 +60,7 @@ What it doesn't stands for:
 
 TODO: Each of those points should be explained with a paragraph. We could also describe how common UI libraries (of all types) stand on a given axis. We could also describe less explored paths and envision what new UI libraries could do.
 
-It's particularly important we develop this section to dissociate the promise (sometimes unfulfilled) vs current implementation. The full -feature bell-and-whistle promise is more likely to be ever full-filled by a UI libary if people understand that it can.
+It's particularly important we develop this section to dissociate the promise (sometimes unfulfilled) vs current implementation. The full-feature bell-and-whistle promise is more likely to be ever fulfilled by a UI library if people understand that it is possible.
 
 ### Vurtun's write-up
 
