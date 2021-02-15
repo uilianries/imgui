@@ -44,16 +44,16 @@ This is in comparison with typical RMGUI ("retained-mode UI") which:
 
 What it doesn't stands for:
 
-- IMGUI does not means that the library doesn't retain data.
-- IMGUI does not means that stuff are drawn immediately.
-- IMGUI does not means it needs a continuous loop nor need to refresh continuously.
-- IMGUI does not means it needs to refresh all-or-nothing.
-- IMGUI does not means that states are polled.
-- IMGUI does not means the UI doesn't look "native".
-- IMGUI does not means it needs a GPU to render.
-- IMGUI does not means that layout features are limited.
-- IMGUI does not means that there is a single pass flow.
-- IMGUI does not means that the library is more or less portable.
+- IMGUI does not mean that the library doesn't retain data.
+- IMGUI does not mean that stuff are drawn immediately.
+- IMGUI does not mean it needs a continuous loop nor need to refresh continuously.
+- IMGUI does not mean it needs to refresh all-or-nothing.
+- IMGUI does not mean that states are polled.
+- IMGUI does not mean the UI doesn't look "native".
+- IMGUI does not mean it needs a GPU to render.
+- IMGUI does not mean that layout features are limited.
+- IMGUI does not mean that there is a single pass flow.
+- IMGUI does not mean that the library is more or less portable.
 
 TODO: Each of those points should be explained with a paragraph. We could also describe how common UI libraries (of all types) stand on a given axis. We could also described less explored paths and envision what new UI libraries could do.
 
