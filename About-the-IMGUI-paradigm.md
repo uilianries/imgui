@@ -41,7 +41,7 @@ What we care about:
 - IMGUI refers to the API: literally the interface between the application and the UI system.
   - The API tries to minimize the application having to retain data related to the UI system.
   - The API tries to minimize the UI system having to retain data related to the application.
-- IMGUI does NOT refer to the implementation. Whatever happens inside the UI system stays inside the UI system.
+- IMGUI does NOT refer to the implementation. Whatever happens inside the UI system doesn't matter.
 
 This is in comparison with typical RMGUI ("retained-mode UI"):
 
