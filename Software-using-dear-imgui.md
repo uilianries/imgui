@@ -145,6 +145,7 @@ Help us complete this list!
 | Misc | Cinder-Experiments | @simongeilfus | | [github](https://github.com/simongeilfus/Cinder-Experiments)
 | App | CortexRecognition | **Recognition Robotics** | Sponsor | [homepage](http://www.recognitionrobotics.com) / [shots](https://github.com/ocornut/imgui/issues/123#issuecomment-114941904) / [photos](https://github.com/ocornut/imgui/issues/973#issuecomment-303784406)
 | App | Cycloid | | | [github](https://github.com/a1k0n/cycloid/) / [blog](https://www.a1k0n.net/2021/01/22/indoor-localization.html)
+| App | Datoviz | | | [homepage](https://datoviz.org) / [shot](https://user-images.githubusercontent.com/8225057/108081248-04424780-7071-11eb-86dd-f6c4deef12c3.png)
 | App | Decaf | | | [github](https://github.com/decaf-emu/decaf-emu)
 | App | DefleMask | Leonardo Demartino | | [homepage](http://www.deflemask.com/) / [appstore](https://itunes.apple.com/app/deflemask/id1390797126) / [playstore](https://play.google.com/store/apps/details?id=com.deflemask.mobile)
 | App | Desktop+ OpenVR Overlay | @elvissteinjr | | [github](https://github.com/elvissteinjr/DesktopPlus) / [shot](https://raw.githubusercontent.com/elvissteinjr/DesktopPlus/master/docs/screenshot.jpg)
