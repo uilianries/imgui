@@ -136,7 +136,7 @@ Help us complete this list!
 | App | AXIOM Remote | | | [github](https://github.com/apertus-open-source-cinema/AXIOM-Remote)
 | App | Azure Kinect Viewer | Microsoft | | [homepage](https://docs.microsoft.com/en-us/azure/kinect-dk/azure-kinect-viewer)
 | App | b2 | | | [homepage](https://github.com/tom-seddon/b2) / [shot](https://github.com/ocornut/imgui/issues/1269#issuecomment-340313270)
-| Engine | AlgeSDK | | | [github](http://github.com/Acnodelabs/AlgeSDK.git) / [shot](https://raw.githubusercontent.com/AcnodeLabs/AlgeSDK/develop/_acnode_/icon.png)
+| Engine | AlgeSDK | Acnodelabs | | [github](http://github.com/Acnodelabs/AlgeSDK.git) / [shot](https://raw.githubusercontent.com/AcnodeLabs/AlgeSDK/develop/_acnode_/icon.png)
 | Engine | BabylonCpp | @samdauwe | | [github](https://github.com/samdauwe/BabylonCpp) / [video](https://www.youtube.com/watch?v=o05_5Wyzv54)
 | App | BASIC8 | Tony Wang | | [homepage](https://paladin-t.github.io/b8/) / [steam](https://store.steampowered.com/app/767240/)
 | Engine | Bezel Engine | Nintendo | | [shot](https://user-images.githubusercontent.com/8225057/105606992-9621a200-5d9c-11eb-8b60-fea1e71f43a7.jpg)
