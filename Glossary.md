@@ -36,6 +36,8 @@
 
 ## Docking Terms
 
+([Read about Docking](https://github.com/ocornut/imgui/wiki/Docking))
+
 ![Docking](https://user-images.githubusercontent.com/8225057/97541627-c0dea300-19c5-11eb-9416-8bb255e189a1.png)
 
 **Docking** (noun): refers to the Docking subsystem as a whole.
@@ -59,6 +61,8 @@
 **Host Window**: the Window used to display _Docking Decorations_. In a Dock Node Hierarchy sitting over a Dockspace, the Host Window is always the window where the Dockspace was submitted. In a Dock Node Hierarchy sitting over a Floating Window, the Host Window is created by the Docking system.
 
 ## Multi-Viewports Terms
+
+([Read about Docking](https://github.com/ocornut/imgui/wiki/Multi-Viewports))
 
 ![MultiViewports](https://user-images.githubusercontent.com/8225057/97542423-fe8ffb80-19c6-11eb-9bf5-e26d86364e55.png)
 
