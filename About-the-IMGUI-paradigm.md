@@ -69,6 +69,10 @@ TODO: Each of those points should be explained with a paragraph. We could also d
 
 It's particularly important we develop this section to dissociate the promise (sometimes unfulfilled) vs current implementation. The full-feature bell-and-whistle promise is more likely to be ever fulfilled by a UI library if people understand that it is possible.
 
+### Examples
+
+_TODO_
+
 ### Vurtun's write-up
 
 [@vurtun](https://github.com/vurtun) said very eloquently around April 2019:
