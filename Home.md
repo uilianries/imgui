@@ -20,7 +20,6 @@ Thank you to every past and present [[Sponsors]] for making this project possibl
 - [[Glossary|Glossary]]
 - [[Software using dear imgui|Software-using-dear-imgui]]
 - [[User quotes|Quotes]]
-- [[Help wanted|Help-wanted]]
 - [[Incoming work|Incoming-work]]
 - [[Tips|Tips]] (for people working _with_ dear imgui)
 - [[Developer tips|Developer-Tips]] (for people working _on_ dear imgui)
@@ -62,14 +61,7 @@ See [Releases](https://github.com/ocornut/imgui/releases) page for annotated cha
 
 - imgui_freetype renderer: [imgui/misc/freetype/](https://github.com/ocornut/imgui/tree/master/misc/freetype) (in main repo)
 - Input / IO queue for very low framerate applications: https://gist.github.com/ocornut/8417344f3506790304742b07887adf9f
-- Third-party Docking (prior to official docking branch [#2109](https://github.com/ocornut/imgui/issues/2109))
-  - [old] @nem0's one (old LumixEngine docking), [github](https://github.com/nem0/LumixEngine/tree/v0.34/external/imgui)
-  - [old] @paniq's one (based on @nem0's), [github](https://github.com/ocornut/imgui/issues/351#issuecomment-219775521)
-  - [old] @BentleyBlanks's one (based on @paniq's), [github](https://github.com/BentleyBlanks/imguiDock)
-  - [old] @thennequin's ImWindow, with OS window managing, [github](https://github.com/thennequin/ImWindow), refactored in bgfx's imgui_wm [github](https://github.com/bkaradzic/bgfx/tree/master/3rdparty/ocornut-imgui)
-  - [old] @edin-purkovic's one, [github](https://github.com/edin-purkovic/ImGuiDock)
-  - [old] @flix01's one, [github](https://github.com/Flix01/imgui/tree/2015-10-Addons/addons/imguidock)
-  - [old] @aoterodelaroza's one, [github](https://github.com/aoterodelaroza/imgui-goodies)
+- [List of legacy third-party Docking extensions](https://github.com/ocornut/imgui/wiki/Docking#legacy-third-party-docking-extensions) (LumixEngine, imguiDock, ImWindow, imgui_wm, etc. all prior to official docking branch [#2109](https://github.com/ocornut/imgui/issues/2109))
 
 ### Building / Packaging Cruft
 
