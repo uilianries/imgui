@@ -46,15 +46,16 @@ If you are experienced with Dear ImGui, please consider helping people and answe
 
 ## Third-party extensions
 
-- **[[Useful widgets gallery|Useful-widgets]]**
+- [[List of useful third-party widgets and extensions|Useful-widgets]]**
 
 ## Images
 
-- [[Image Loading and Displaying Examples|Image-Loading-and-Displaying-Examples]]
+- Tutorial: [[Image Loading and Displaying Examples|Image-Loading-and-Displaying-Examples]]
 
 ## Fonts/Text
 
 - Read: [Using Fonts](https://github.com/ocornut/imgui/blob/master/docs/FONTS.md) (docs/FONTS.md)
+- Search in Issues: [font/text](https://github.com/ocornut/imgui/issues?q=label%3Afont%2Ftext+)
 - Freetype renderer: [imgui_freetype](https://github.com/ocornut/imgui/tree/master/misc/freetype) (misc/freetype)
 
 ## Tables
