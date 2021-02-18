@@ -46,7 +46,7 @@ If you are experienced with Dear ImGui, please consider helping people and answe
 
 ## Third-party extensions
 
-- [[List of useful third-party widgets and extensions|Useful-widgets]]**
+- [[List of useful third-party widgets and extensions|Useful-widgets]]
 
 ## Images
 
@@ -77,19 +77,20 @@ If you are experienced with Dear ImGui, please consider helping people and answe
 - [#1542](https://github.com/ocornut/imgui/issues/1542) Main multi-viewports topic
 - [#2117](https://github.com/ocornut/imgui/issues/2117) Linux/Mac compatibility of multi-viewports
 
+## Inputs
+
+- Search in Issues: [inputs](https://github.com/ocornut/imgui/issues?q=label%3Ainputs)
+- Input / IO queue for very low framerate applications: [gist](https://gist.github.com/ocornut/8417344f3506790304742b07887adf9f)
+
 ## Building
 
-- [#1713](https://github.com/ocornut/imgui/pull/1713) CMake project to build Examples (PR) by @podsvirov (unmerged, please send feedback)
-- [#3027](https://github.com/ocornut/imgui/pull/3027) Add CMake configuration (PR) by @Qix- (unmerged, please send feedback)
+- [#1713](https://github.com/ocornut/imgui/pull/1713) CMake project to build Examples (PR) by @podsvirov (need feedback)
+- [#3027](https://github.com/ocornut/imgui/pull/3027) Add CMake configuration (PR) by @Qix- (need feedback)
 - [rokups' cmake](https://github.com/rokups/imgui/blob/rk/cmake/CMakeLists.txt) Self-contained single-file cmake build script
 - Premake5 https://github.com/ocornut/imgui/tree/features/premake5 (unmerged branch)
 - Conan https://github.com/bincrafters/conan-imgui, https://bintray.com/bincrafters/public-conan/imgui%3Abincrafters
 - Fips (fips-imgui): fipsified imgui for fips build system https://github.com/fungos/fips-imgui
 - GN (Chromium, ninja) BUILD.gn file: https://github.com/ndsol/VolcanoSamples/blob/master/src/BUILD.gn
-
-## Inputs
-
-- Input / IO queue for very low framerate applications: [gist](https://gist.github.com/ocornut/8417344f3506790304742b07887adf9f)
 
 ## Third-party Frameworks
 
