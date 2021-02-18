@@ -62,7 +62,7 @@
 
 ## Multi-Viewports Terms
 
-([Read about Docking](https://github.com/ocornut/imgui/wiki/Multi-Viewports))
+([Read about Multi-Viewports](https://github.com/ocornut/imgui/wiki/Multi-Viewports))
 
 ![MultiViewports](https://user-images.githubusercontent.com/8225057/97542423-fe8ffb80-19c6-11eb-9bf5-e26d86364e55.png)
 
