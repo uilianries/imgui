@@ -2,7 +2,7 @@
 :----------------------------------------------------------: |
 | [Discussions](#discussions) - [Wiki Pages](#Wiki-pages) - [Tutorials](#Tutorials) - [References](#References) - [Articles, Videos, etc.](#articles-videos-blog-posts) |
 
-Welcome to the Dear ImGui wiki! Always in construction - feel free to edit and contribute!
+Welcome to the Dear ImGui wiki! Feel free to edit and contribute!
 
 Thank you to every past and present [[Sponsors]] for making this project possible.
 
