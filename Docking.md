@@ -73,3 +73,16 @@ Also see our [[Glossary]] about Docking terminology.
 
 - Metrics window.
 - Enable `IMGUI_DEBUG_LOG_DOCKING()`
+
+----
+
+### Legacy Third-Party Docking Extensions
+
+Prior to the official adoption of the Docking branch, various third-party versions existed:
+- @nem0's one [github](https://github.com/nem0/LumixEngine/tree/v0.34/external/imgui)
+- @paniq's one (based on @nem0's), [github](https://github.com/ocornut/imgui/issues/351#issuecomment-219775521)
+- @BentleyBlanks's one (based on @paniq's), [github](https://github.com/BentleyBlanks/imguiDock)
+- @thennequin's ImWindow, with OS window managing, [github](https://github.com/thennequin/ImWindow), refactored in bgfx's imgui_wm [github](https://github.com/bkaradzic/bgfx/tree/master/3rdparty/ocornut-imgui)
+- @edin-purkovic's one, [github](https://github.com/edin-purkovic/ImGuiDock)
+- @flix01's one, [github](https://github.com/Flix01/imgui/tree/2015-10-Addons/addons/imguidock)
+- @aoterodelaroza's one, [github](https://github.com/aoterodelaroza/imgui-goodies)
