@@ -25,12 +25,18 @@ Thank you to every past and present [[Sponsors]] for making this project possibl
 - [[Tips|Tips]] (for people working _with_ dear imgui)
 - [[Developer tips|Developer-Tips]] (for people working _on_ dear imgui)
 
-## Tutorials
+## Documentation
 
-- [[Fonts Documentation|https://github.com/ocornut/imgui/blob/master/docs/FONTS.md]]
-- [[Image Loading and Displaying Examples|Image-Loading-and-Displaying-Examples]]
-- [[Docking|Docking]]
-- [[Multi-Viewports|Multi-Viewports]]
+- Repo: [docs/FAQ.md](https://github.com/ocornut/imgui/blob/master/docs/FAQ.md): FAQ (Frequently Asked Questions
+- Repo: [docs/BACKENDS.md](https://github.com/ocornut/imgui/blob/master/docs/BACKENDS.md): About Backends
+- Repo: [docs/EXAMPLES.md](https://github.com/ocornut/imgui/blob/master/docs/EXAMPLES.md): About Examples app
+- Repo: [docs/README.md](https://github.com/ocornut/imgui/blob/master/docs/README.md): Main Readme
+- Repo: [docs/FONTS.md](https://github.com/ocornut/imgui/blob/master/docs/FONTS.md): Using Fonts
+- Repo: [docs/](https://github.com/ocornut/imgui/tree/master/docs): Other files: Changelog, Todo
+- Wiki: [[Image Loading and Displaying Examples|Image-Loading-and-Displaying-Examples]]
+- Wiki: [[Docking|Docking]]
+- Wiki: [[Multi-Viewports|Multi-Viewports]]
+- Third-party: @pthom's [imgui_manual](https://pthom.github.io/imgui_manual_online/manual/imgui_manual.html): imgui_demo.cpp with interactive browsing of sources
 
 ## Issues: Some Important Topics
 
@@ -116,6 +122,7 @@ See [Releases](https://github.com/ocornut/imgui/releases) page for annotated cha
 ### About the IMGUI paradigm
 
 Dear ImGui is one possible implementation of an idea generally described as the IMGUI (Immediate Mode GUI) paradigm. The Immediate Mode GUI paradigm may at first appear unusual to some users. This is mainly because "Retained Mode" GUIs have been so widespread and predominant. The following links can give you a better understanding about how Immediate Mode GUIs works.
+- [[Wiki page About the IMGUI paradigm|About-the-IMGUI-paradigm]]
 - [Johannes 'johno' Norneby's article](http://www.johno.se/book/imgui.html), 2007.
 - [A presentation by Rickard Gustafsson and Johannes Algelind](http://www.cse.chalmers.se/edu/year/2011/course/TDA361/Advanced%20Computer%20Graphics/IMGUI.pdf), 2011.
 - [Jari Komppa's tutorial on building an IMGUI library](http://iki.fi/sol/imgui/), @jarikomppa, 2006.
