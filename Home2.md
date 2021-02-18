@@ -4,7 +4,7 @@ If you are experienced with Dear ImGui, please consider helping people and answe
 
 - [Github Issues](https://github.com/ocornut/imgui/issues/): for feature requests, bug reports, feedback, code snippets, etc. 
 - [Discord Chat](https://discordapp.com/channels/613733622192668672/613733622721019908) / [Invite](https://discord.gg/NgJ4SEP): general chat room. prefer if you have issues getting started.
-- Prefer using GitHub Issues: questions and answers will be available to others and you can search for old questions. It is more likely you will receive a correct and detailed answer on GitHub. 
+- Prefer using GitHub Issues: questions and answers will be available to others and searchable. It is more likely you will receive a correct and detailed answer on GitHub. 
 - [#2261](https://github.com/ocornut/imgui/issues/2261) How to open an Issue or Pull Request
 - [[Help wanted|Help-wanted]]
 
