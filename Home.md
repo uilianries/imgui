@@ -1,7 +1,3 @@
-| Index |
-:----------------------------------------------------------: |
-| [Discussions](#discussions) - [Wiki Pages](#Wiki-pages) - [Tutorials](#Tutorials) - [References](#References) - [Articles, Videos, etc.](#articles-videos-blog-posts) |
-
 Welcome to the Dear ImGui wiki! Feel free to edit and contribute!
 
 Thank you to every past and present [[Sponsors]] for making this project possible.
@@ -17,7 +13,21 @@ Thank you to every past and present [[Sponsors]] for making this project possibl
   - [Backends, Bindings](#backends-bindings)
   - [Third Party Extensions](#third-party-extensions)
 - [Features](#features)
+  - [Images](#images)
+  - [Fonts/Text](#font-text]
+  - [Tables](#tables)
+  - [Docking](#docking)
+  - [Multi-viewports](#multi-viewports)
+  - [Inputs](#inputs)
 - [Miscellaneous](#Miscellaneous)
+  - [Building / Packaging Cruft](#building--packaging-cruft)
+  - [Third-party Frameworks](#third-party-frameworks)
+  - [Notable forks](#notable-forks)
+  - [Ports, Rewrites, Clones](#ports-rewrites-clones)
+  - [Related/Suggested Libraries](#relatedsuggested-libraries)
+- [Articles, Videos](#articles-videos)
+  - [About the IMGUI paradigm](#about-the-imgui-paradigm)
+  - [Articles About Dear ImGui](#articles-about-dear-imgui)
 
 ----
 
