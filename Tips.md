@@ -2,7 +2,7 @@ This section is old and lacking...
 
 ----
 
-### Use the Metrics window!
+### Metrics/Debugger window
 
 Many internal state and tools are exposed in the Metrics window. To access the Metrics window:
 - Call `ShowMetricsWindow()`.
@@ -11,7 +11,7 @@ They will help you understand how Dear ImGui works, and can help you diagnose pr
 
 ----
 
-### Use the Item Picker!
+### Item Picker
 
 The Item Picker will allow you to pick an item with the mouse and have Dear ImGui break within the call-stack of that item. This is useful if you have large UI / codebase and you would to easily find out where some UI item is emitted. 
 You can find it in _Metrics>Tools>Item Picker_. Also see [#2673](https://github.com/ocornut/imgui/issues/2673).
@@ -20,12 +20,19 @@ You can find it in _Metrics>Tools>Item Picker_. Also see [#2673](https://github.
 
 ----
 
+### Visual debugging
+
+You can use ImDrawList primitives on the foreground drawlist, e.g. `GetForegroundDrawList()->AddRectFilled(...)` to bypass clipping of the current window. Whenever you are working with coordinates, consider displaying it on screen using `AddRect()`, `AddCircle()`, etc.
+
+----
+
 ### Using Begin/BeginChild
 
 - You can omit `Begin()`/`End()`, widgets will be created into an implicit "Debug" window.
 - You can call `Begin()` multiple times to append to a same window from different place.
 - Use `Begin()`/`BeginChild()` to put yourself back into the context of another window (see [#270](https://github.com/ocornut/imgui/issues/270)
-An interesting trick that isn't obvious is that you can use Begin() just to put yourself into the context of that window. So here I want to react to the user inputting an address to scroll to, I use BeginChild() again on the child that I've already drawn so I can use SetScrollFromPosY() on it.
+- Similarly, functions like `BeginMenuBar()` or `BeginTabBar()` allow appending into a menu or tab-bar.
+- An interesting trick that isn't obvious is that you can use Begin() just to put yourself into the context of that window. So here I want to react to the user inputting an address to scroll to, I use BeginChild() again on the child that I've already drawn so I can use SetScrollFromPosY() on it.
 
 ```cpp
 ImGui::BeginChild("##scrolling", ImVec2(0, -ImGui::GetFrameHeightWithSpacing()));
