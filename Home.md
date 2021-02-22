@@ -98,8 +98,8 @@ If you are experienced with Dear ImGui, please consider helping people and answe
 
 ### Tables
 
-- [#3740](https://github.com/ocornut/imgui/issues/3740) Main Tables Topic
 - Search in Issues: [tables/columns](https://github.com/ocornut/imgui/issues?q=label%3Atables%2Fcolumns+)
+- [#3740](https://github.com/ocornut/imgui/issues/3740) Main Tables Topic
 
 ### Docking
 
@@ -110,7 +110,7 @@ If you are experienced with Dear ImGui, please consider helping people and answe
 
 ### Multi-viewports
 
-- [[Multi-Viewports|Multi-Viewports]]
+- [[About Multi-Viewports|Multi-Viewports]]
 - Search in Issues: [multi-viewports](https://github.com/ocornut/imgui/issues?q=label%3Amulti-viewports+)
 - [#1542](https://github.com/ocornut/imgui/issues/1542) Main Multi-viewports topic
 - [#2117](https://github.com/ocornut/imgui/issues/2117) Linux/Mac compatibility of multi-viewports
