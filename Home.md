@@ -67,7 +67,7 @@ See [Releases](https://github.com/ocornut/imgui/releases) page for annotated cha
 
 - CMake https://github.com/ocornut/imgui/pull/1713 (unmerged PR, please send feedback)
 - CMake https://github.com/ocornut/imgui/pull/3027  (unmerged PR, please send feedback)
-- CMake https://github.com/rokups/imgui/blob/rk/cmake/CMakeLists.txt (self-contained single-file build script)
+- CMake https://gist.github.com/rokups/f771217b2d530d170db5cb1e08e9a8f4 (self-contained single-file build script)
 - Premake5 https://github.com/ocornut/imgui/tree/features/premake5 (unmerged branch)
 - Conan https://github.com/bincrafters/conan-imgui, https://bintray.com/bincrafters/public-conan/imgui%3Abincrafters
 - Fips (fips-imgui): fipsified imgui for fips build system https://github.com/fungos/fips-imgui
