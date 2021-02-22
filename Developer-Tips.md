@@ -1,10 +1,8 @@
 If you are working on Dear ImGui codebase:
+Also see [Tips](https://github.com/ocornut/imgui/wiki/Tips)
 
 ### Metrics
 The Metrics window exposes lots of information about the library state.
-
-### Visual debugging
-You can use drawlist primitives on the foreground drawlist, e.g. `GetForegroundDrawList()->AddRectFilled(...)` to bypass clipping of the current window's drawlist.
 
 ### Logging
 You can use the `IMGUI_DEBUG_LOG` macro (declared in `imgui_internal.h`) to easily print text to the console while including the current frame counter, which is very often useful in log.
