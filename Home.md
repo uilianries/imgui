@@ -12,12 +12,14 @@ Thank you to every past and present [[Sponsors]] for making this project possibl
   - [General documentation](#general-documentation)
   - [Community](#community)
   - [Gallery](#gallery)
-  - [Notable branches)(#notable-branches)
+  - [Notable branches](#notable-branches)
   - [Demo, Examples](#demo-examples)
   - [Backends, Bindings](#backends-bindings)
   - [Third Party Extensions](#third-party-extensions)
 - [Features](#features)
 - [Miscellaneous](#Miscellaneous)
+
+----
 
 # General
 
