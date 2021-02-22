@@ -173,13 +173,13 @@ Another notable uses of IMGUI paradigm include [Unity's own IMGUI widget library
 - 2016-10: CppCon 2016: Nicolas Guillemot “Dear imgui,": [video](https://www.youtube.com/watch?v=LSRJ1jZq90k).
 - 2017-03: Why I think Immediate Mode GUI is way to go for GameDev tools: [post](https://gist.github.com/bkaradzic/853fd21a15542e0ec96f7268150f1b62).
 - 2018-04: TheChernoProject: [ImGui in OpenGL](https://www.youtube.com/watch?v=nVaQuNXueFw) / [ImGui Game Engine series](https://www.youtube.com/watch?v=st4lgNI6_F4) / [ImGui Events](https://www.youtube.com/watch?v=yBP1gSbQPPM) / [Docking & Viewport](https://www.youtube.com/watch?v=lZuje-3iyVE)
-- 2018-08: Mana Engine: Thread safety of APIs https://medium.com/@tloch14/mana-engine-thread-safety-of-apis-7e73d482a5c6
+- 2018-08: Mana Engine: Thread safety of APIs [medium/tloch34](https://medium.com/@tloch14/mana-engine-thread-safety-of-apis-7e73d482a5c6)
 - 2018-10: C++ DirectX 11 Engine Tutorial 35/36: Set up ImGui: [Part 35](https://www.youtube.com/watch?v=Btx_tujnyB4), [Part 36](https://www.youtube.com/watch?v=o5sJClp0HDY)
-- 2019-01: Could ImGUI be the future of GUIs? https://games.greggman.com/game/imgui-future/
-- 2019-03: Rust: Making a basic game ui with imgui and ggez http://iolivia.me/posts/imgui-ggez/
+- 2019-01: Could ImGUI be the future of GUIs? [games.greggman.com](https://games.greggman.com/game/imgui-future/)
+- 2019-03: Rust: Making a basic game ui with imgui and ggez [blog](http://iolivia.me/posts/imgui-ggez)
 - 2019-05: Frictionless Debug UI In C++: [pdf](http://evanachahn.com/Frictionless%20Debug%20UI%20In%20C++.pdf)
 - 2019-06: An introduction to the Dear ImGui library: [blog](https://blog.conan.io/2019/06/26/An-introduction-to-the-Dear-ImGui-library.html).
-- 2019-08: Integrating Dear ImGui in a custom Vulkan renderer, https://frguthmann.github.io/posts/vulkan_imgui/
+- 2019-08: Integrating Dear ImGui in a custom Vulkan renderer [blog](https://frguthmann.github.io/posts/vulkan_imgui/)
 - 2020-02: Runtime Compiled C++ Dear ImGui and DX11 Tutorial: [blog](https://www.enkisoftware.com/devlogpost-20200202-1-Runtime-Compiled-C++-Dear-ImGui-and-DirectX11-Tutorial).
 - 2020-03: C++ Weekly - Ep 210: Getting Started With SFML & Dear ImGui [youtube](https://www.youtube.com/watch?v=av0SYeUxVMU)
 - 2020-03: C++ desktop application with Dear Imgui: [blog](https://ruurdsdevlog.wordpress.com/2020/03/07/c-desktop-application-with-dear-imgui)
@@ -187,28 +187,28 @@ Another notable uses of IMGUI paradigm include [Unity's own IMGUI widget library
 - 2021-01: Gamefromscratch: Dear ImGui C++ GUI Framework For AAA Games and Game Engines [youtube](https://www.youtube.com/watch?v=Du--cH01ZWI)
 
 **Korean**
-- 2018-01: GLFW 사용 방법 정리 (Windows 10, VS2017) https://3dshovel.blogspot.fr/2018/01/glfw-windows-10-visual-studio-2017.html
+- 2018-01: GLFW 사용 방법 정리 (Windows 10, VS2017) [3dshovel.blogspot.com](https://3dshovel.blogspot.com/2018/01/glfw-windows-10-visual-studio-2017.html)
 
 **Japanese**
-- 2016-12: OpenGLやDirectXなGUIにimguiが最強すぎる https://qiita.com/Ushio/items/446d78c881334919e156
-- 2016-16: 最強すぎるGUIことImGuiの見た目もイイ感じにする https://qiita.com/izumin5210/items/26eaed69eea2c4318fcd
-- 2018-03: ImGuiでデバッグツール http://hikita12312.hatenablog.com/entry/2018/03/17/100535
-- 2018-02: OpenSiv3DでImGuiを使う https://qiita.com/RareAmayuki/items/ca802071b452b42ad630
-- 2018-12: ダッシュボードオーバーレイ（OpenVR overlay）を作りimguiとDirectXで描いてみる https://qiita.com/ondorela/items/bf4bebf747f90ebf52d8
-- 2019-07: imgui で GUI を作るときのメモ https://qiita.com/syoyo/items/85571b0697f1a9cbea71
-- 2019-12: Dear ImGuiの使い方まとめ https://qiita.com/mizuma/items/73218dab2f6b022b0227
-- 2020-01: imguiのwindowの中で3d cubeの描画をしてやった https://qiita.com/ssaattwworg/items/32ee9a6fdb0476833c02
-- 2020-02: imgui 使ってみた https://note.com/onswar/n/nf5bbe6e1e5b3
-- 2020-03: Dear ImGui で作成したウィンドウの中に OpenGL で描画するサンプルプログラム https://github.com/tokoik/DrawOpenGLinImGuiWindow
-- 2020-12: OpenSiv3Dで自作したImGuiライクなGUIライブラリの紹介 https://qiita.com/sthairno/items/edfb969a4d8f51f57a2a
-- 2020-12:【UE4】GUIフレームワーク「Dear ImGui」を使ってデバッグ・ツール用UIを作ってみよう！https://pafuhana1213.hatenablog.com/entry/UnrealImGui-HowTo-Basic
-- 2020-12:【UE4】【C++】ImGuiを使ってみてハマった所、気付いた所 https://toofu0.hatenablog.com/entry/2020/12/18/014706
+- 2016-12: OpenGLやDirectXなGUIにimguiが最強すぎる [qiita.com/Ushio](https://qiita.com/Ushio/items/446d78c881334919e156)
+- 2016-16: 最強すぎるGUIことImGuiの見た目もイイ感じにする [qiita.com/izumin5210](https://qiita.com/izumin5210/items/26eaed69eea2c4318fcd)
+- 2018-03: ImGuiでデバッグツール [hikita12312.hatenablog.com](http://hikita12312.hatenablog.com/entry/2018/03/17/100535)
+- 2018-02: OpenSiv3DでImGuiを使う [qiita.com/RareAmayuki](https://qiita.com/RareAmayuki/items/ca802071b452b42ad630)
+- 2018-12: ダッシュボードオーバーレイ（OpenVR overlay）を作りimguiとDirectXで描いてみる [qiita.com/ondorela](https://qiita.com/ondorela/items/bf4bebf747f90ebf52d8)
+- 2019-07: imgui で GUI を作るときのメモ [qiita.com/syoyo](https://qiita.com/syoyo/items/85571b0697f1a9cbea71)
+- 2019-12: Dear ImGuiの使い方まとめ [qiita.com/mizuma](https://qiita.com/mizuma/items/73218dab2f6b022b0227)
+- 2020-01: imguiのwindowの中で3d cubeの描画をしてやった [qiita.com/ssaattwworg](https://qiita.com/ssaattwworg/items/32ee9a6fdb0476833c02)
+- 2020-02: imgui 使ってみた [note.com/onswar](https://note.com/onswar/n/nf5bbe6e1e5b3)
+- 2020-03: Dear ImGui で作成したウィンドウの中に OpenGL で描画するサンプルプログラム [github/tokoik](https://github.com/tokoik/DrawOpenGLinImGuiWindow)
+- 2020-12: OpenSiv3Dで自作したImGuiライクなGUIライブラリの紹介 [qiita.com/sthairno](https://qiita.com/sthairno/items/edfb969a4d8f51f57a2a)
+- 2020-12:【UE4】GUIフレームワーク「Dear ImGui」を使ってデバッグ・ツール用UIを作ってみよう！[pafuhana1213.hatenablog.com](https://pafuhana1213.hatenablog.com/entry/UnrealImGui-HowTo-Basic)
+- 2020-12:【UE4】【C++】ImGuiを使ってみてハマった所、気付いた所 [toofu0.hatenablog.com](https://toofu0.hatenablog.com/entry/2020/12/18/014706)
 
 **Chinese (Trad)**
-- 2020-10: Day 17 ImGui 元件 https://ithelp.ithome.com.tw/articles/10246595
+- 2020-10: Day 17 ImGui 元件 [ithelp.ithome.com.tw](https://ithelp.ithome.com.tw/articles/10246595)
 
 **French**
-- 2020-11: Dear ImGui : une bibliothèque d'interface utilisateur graphique "bloat-free" pour C++ https://cpp.developpez.com/actu/310179
+- 2020-11: Dear ImGui : une bibliothèque d'interface utilisateur graphique "bloat-free" pour C++ [cpp.developpez.com](https://cpp.developpez.com/actu/310179)
 
 **Polish**
 - 2018-01: Szkolenie z biblioteki dear imgui [Video Part 1](https://www.youtube.com/watch?v=TOop9EGngKY) [2](https://www.youtube.com/watch?v=fh6uOdherYw) [3](https://www.youtube.com/watch?v=bF2eOvsX7kY) [4](https://www.youtube.com/watch?v=rcCReEX6h-M) [5](https://www.youtube.com/watch?v=N2Jan6IizbA) [6](https://www.youtube.com/watch?v=70A0YH9h3Ek) [7](https://www.youtube.com/watch?v=0JRaThBx9Ww) [8](https://www.youtube.com/watch?v=O7PVZ6OKDtI) [9](https://www.youtube.com/watch?v=uIp7tLqFzKo), [Slide](https://docs.google.com/presentation/d/1F3jkWkRGCNrCAKi34KXvrkZ9luhS_7RUwHwdYDTFEiY/preview#slide=id.p) 
