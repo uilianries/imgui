@@ -11,6 +11,15 @@ They will help you understand how Dear ImGui works, and can help you diagnose pr
 
 ----
 
+### Use the Item Picker!
+
+The Item Picker will allow you to pick an item with the mouse and have Dear ImGui break within the call-stack of that item. This is useful if you have large UI / codebase and you would to easily find out where some UI item is emitted. 
+You can find it in _Metrics>Tools>Item Picker_. Also see [#2673](https://github.com/ocornut/imgui/issues/2673).
+
+![Item Picker](https://user-images.githubusercontent.com/8225057/61412736-7d2e5b80-a89e-11e9-9bb3-54c097025abe.png)
+
+----
+
 ### Using Begin/BeginChild
 
 - You can omit `Begin()`/`End()`, widgets will be created into an implicit "Debug" window.
