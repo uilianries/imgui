@@ -84,6 +84,8 @@ If you are experienced with Dear ImGui, please consider helping people and answe
 
 - [[List of useful third-party widgets and extensions|Useful-widgets]]
 
+##### [Return to Index](#index)
+
 # Features
 
 ### Images
@@ -119,6 +121,8 @@ If you are experienced with Dear ImGui, please consider helping people and answe
 
 - Search in Issues: [inputs](https://github.com/ocornut/imgui/issues?q=label%3Ainputs)
 - Input / IO queue for very low framerate applications: [gist](https://gist.github.com/ocornut/8417344f3506790304742b07887adf9f)
+
+##### [Return to Index](#index)
 
 # Miscellaneous
 
@@ -168,6 +172,8 @@ If you are experienced with Dear ImGui, please consider helping people and answe
 - im3d (Immediate mode rendering and 3d gizmos) https://github.com/john-chapman/im3d/projects
 - An immediate mode 3D gizmo (translation, rotation, scale for scene editing) https://github.com/meshula/tinygizmo
 - small libraries with minimal dependencies https://github.com/nothings/single_file_libs
+
+##### [Return to Index](#index)
 
 # Articles, Videos
 
@@ -231,3 +237,5 @@ Another notable uses of IMGUI paradigm include [Unity's own IMGUI widget library
 
 **Polish**
 - 2018-01: Szkolenie z biblioteki dear imgui [Video Part 1](https://www.youtube.com/watch?v=TOop9EGngKY) [2](https://www.youtube.com/watch?v=fh6uOdherYw) [3](https://www.youtube.com/watch?v=bF2eOvsX7kY) [4](https://www.youtube.com/watch?v=rcCReEX6h-M) [5](https://www.youtube.com/watch?v=N2Jan6IizbA) [6](https://www.youtube.com/watch?v=70A0YH9h3Ek) [7](https://www.youtube.com/watch?v=0JRaThBx9Ww) [8](https://www.youtube.com/watch?v=O7PVZ6OKDtI) [9](https://www.youtube.com/watch?v=uIp7tLqFzKo), [Slide](https://docs.google.com/presentation/d/1F3jkWkRGCNrCAKi34KXvrkZ9luhS_7RUwHwdYDTFEiY/preview#slide=id.p) 
+
+##### [Return to Index](#index)
