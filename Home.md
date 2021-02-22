@@ -6,7 +6,9 @@ Welcome to the Dear ImGui wiki! Feel free to edit and contribute!
 
 Thank you to every past and present [[Sponsors]] for making this project possible.
 
-## General documentation
+## General
+
+### General documentation
 
 - [[FAQ (Frequently Asked Questions)|https://github.com/ocornut/imgui/blob/master/docs/FAQ.md]] (docs/FAQ.md)
 - [Homepage Readme](https://github.com/ocornut/imgui/blob/master/docs/README.md) (docs/README.md)
@@ -18,113 +20,113 @@ Thank you to every past and present [[Sponsors]] for making this project possibl
 - [[Developer tips|Developer-Tips]] (for people working _on_ dear imgui)
 - [Releases / Changelogs](https://github.com/ocornut/imgui/releases) with annotation and pictures.
 
-## Community
+### Community
 
-- [Github Issues](https://github.com/ocornut/imgui/issues/): for feature requests, bug reports, feedback, code snippets, etc. Searching there is recommended as many topics have been discussed and referenced already!
+- [Github Issues](https://github.com/ocornut/imgui/issues/): for feature requests, bug reports, feedback, code snippets, etc. Searching there is recommended as many topics have been discussed and referenced already! Also see [Labels](https://github.com/ocornut/imgui/labels) for categorized issues.
 - [Discord Chat](https://discordapp.com/channels/613733622192668672/613733622721019908) / [Invite](https://discord.gg/NgJ4SEP): general chat room. prefer if you have issues getting started.
-- [#2261](https://github.com/ocornut/imgui/issues/2261) How to open an Issue or Pull Request
+- [How to open an Issue or Pull Request #2261](https://github.com/ocornut/imgui/issues/2261)
 - [[Help wanted|Help-wanted]]
 
 Prefer using GitHub Issues: questions and answers will be available to others and searchable. It is more likely you will receive a correct and detailed answer on GitHub. 
 
 If you are experienced with Dear ImGui, please consider helping people and answering questions on Issues and Discord!
 
-## Gallery
+### Gallery
 
-- [#3793](https://github.com/ocornut/imgui/issues/3793) Gallery: Post your screenshots / code here
+- [Gallery #3793](https://github.com/ocornut/imgui/issues/3793) Post your screenshots / code here
 - [[Useful widgets gallery|Useful-widgets]]
 
-## Notable branches
+### Notable branches
 
 - [master](https://github.com/ocornut/imgui/tree/master) branch
 - [docking](https://github.com/ocornut/imgui/tree/docking) branch (fully maintained): include [Docking](https://github.com/ocornut/imgui/wiki/docking) + [Multi-Viewports](https://github.com/ocornut/imgui/wiki/multi-viewports) features.
 
-## Demo, Examples
+### Demo, Examples
 
 - [About Examples apps](https://github.com/ocornut/imgui/blob/master/docs/EXAMPLES.md) (docs/EXAMPLES.md)
 - The [examples/](https://github.com/ocornut/imgui/tree/master/examples) folder contains 21 standalone example application for varieties of platforms and frameworks.
 - The [imgui_demo.cpp](https://github.com/ocornut/imgui/tree/master/imgui_demo.cpp) file has a `ImGui::ShowDemoWindow()` function which you can call from any imgui-enabled application to showcase variety of features. The demo function is called from all examples/ apps.
 - Third-party: @pthom's [imgui_manual](https://pthom.github.io/imgui_manual_online/manual/imgui_manual.html): web version of imgui_demo with interactive browsing of sources.
 
-## Backends, Bindings
+### Backends, Bindings
 
 - [About Backends](https://github.com/ocornut/imgui/blob/master/docs/BACKENDS.md) (docs/BACKENDS.md)
 - The [backends/](https://github.com/ocornut/imgui/tree/master/backends) folder contains 16 reusable backends for varieties of platforms and frameworks.
 - [List of language bindings](https://github.com/ocornut/imgui/wiki/Bindings#language-bindings) (C, C#, D, Go,  JavaScript, Lua, Rust and many others)
 - [List of engine/framework backends](https://github.com/ocornut/imgui/wiki/Bindings#frameworkengine-bindingsbackends)
 
-## Third-party extensions
+### Third-party extensions
 
 - [[List of useful third-party widgets and extensions|Useful-widgets]]
 
-## Images
+## Specific Features
+
+### Images
 
 - Tutorial: [[Image Loading and Displaying Examples|Image-Loading-and-Displaying-Examples]]
 
-## Fonts/Text
+### Fonts/Text
 
 - Read: [Using Fonts](https://github.com/ocornut/imgui/blob/master/docs/FONTS.md) (docs/FONTS.md)
 - Search in Issues: [font/text](https://github.com/ocornut/imgui/issues?q=label%3Afont%2Ftext+)
-- Freetype renderer: [imgui_freetype](https://github.com/ocornut/imgui/tree/master/misc/freetype) (misc/freetype)
+- Freetype renderer: [imgui_freetype](https://github.com/ocornut/imgui/tree/master/misc/freetype) (misc/freetype/imgui_freetype)
 
-## Tables
+### Tables
 
-- [#3740](https://github.com/ocornut/imgui/issues/3740) Tables Topic (1.80+)
+- [#3740](https://github.com/ocornut/imgui/issues/3740) Main Tables Topic
 - Search in Issues: [tables/columns](https://github.com/ocornut/imgui/issues?q=label%3Atables%2Fcolumns+)
 
-## Docking
+### Docking
 
 - [[About Docking|Docking]]
 - Search in Issues: [docking](https://github.com/ocornut/imgui/issues?q=label%3Adocking+)
 - [#2109](https://github.com/ocornut/imgui/issues/2109) Main Docking topic
 - [List of legacy third-party Docking extensions](https://github.com/ocornut/imgui/wiki/Docking#legacy-third-party-docking-extensions) (prior to official docking: LumixEngine, imguiDock, ImWindow, imgui_wm, etc.)
 
-## Multi-viewports
+### Multi-viewports
 
 - [[Multi-Viewports|Multi-Viewports]]
 - Search in Issues: [multi-viewports](https://github.com/ocornut/imgui/issues?q=label%3Amulti-viewports+)
 - [#1542](https://github.com/ocornut/imgui/issues/1542) Main Multi-viewports topic
 - [#2117](https://github.com/ocornut/imgui/issues/2117) Linux/Mac compatibility of multi-viewports
 
-## Inputs
+### Inputs
 
 - Search in Issues: [inputs](https://github.com/ocornut/imgui/issues?q=label%3Ainputs)
 - Input / IO queue for very low framerate applications: [gist](https://gist.github.com/ocornut/8417344f3506790304742b07887adf9f)
+
+## Miscallaeneous
+
+### Building / Packaging Cruft
+
+- [#1713](https://github.com/ocornut/imgui/pull/1713) CMake project to build Examples (PR) by @podsvirov (need feedback)
+- [#3027](https://github.com/ocornut/imgui/pull/3027) Add CMake configuration (PR) by @Qix- (need feedback)
+- [rokups' cmake](https://gist.github.com/rokups/f771217b2d530d170db5cb1e08e9a8f4) Self-contained single-file cmake build script
+- Premake5 https://github.com/ocornut/imgui/tree/features/premake5 (unmerged branch)
+- Conan [github/bincrafters/conan-imgui](https://github.com/bincrafters/conan-imgui), [bintray/bincrafters/public-conan](https://bintray.com/bincrafters/public-conan/imgui%3Abincrafters)
+- Fips (fips-imgui): fipsified imgui for fips build system [github/fungos/fips-imgui](https://github.com/fungos/fips-imgui)
+- GN (Chromium, ninja) BUILD.gn file: [github/ndsol/VolcanoSamples](https://github.com/ndsol/VolcanoSamples/blob/master/src/BUILD.gn)
+
+### Third-party Frameworks
+
+(Please also check our [examples/](https://github.com/ocornut/imgui/tree/master/examples) folder in the repo, they work fine as starter apps!)
+
+- asap: Starter project for portable app with optional GUI (GLFW/ImGui) [github/abdes/asap](https://github.com/abdes/asap)
+- imgui-app: amalgamation of Dear ImGui and Sokol into two files [github/pplux/imgui-app](https://github.com/pplux/imgui-app)
+- Bimpy: bundled imgui for python: [github/podgorskiy/bimpy](https://github.com/podgorskiy/bimpy)
+- giu: Cross platform rapid GUI framework for golang based on Dear ImGui. [github/AllenDang/giu](https://github.com/AllenDang/giu)
+- Dear PyGui: A Simple Python GUI framework [github/hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui)
+- imgui_dojo: an easy setup example for imgui [github/LiuZHolmes/imgui_dojo](https://github.com/LiuZHolmes/imgui_dojo)
+- mahi-gui: Dirt Simple C++ GUI Toolkit using GLFW, glad, and ImGui [github/mahilab/mahi-gui](https://github.com/mahilab/mahi-gui)
+- sdl-bgfx-imgui-starter: A starter project for graphics applications [github/pr0g/sdl-bgfx-imgui-starter](https://github.com/pr0g/sdl-bgfx-imgui-starter)
+- Starter dear-imgui GLFW/OpenGL 3 based CMake C++ project: [github/urddru/imgui-glfw](https://github.com/urddru/imgui-glfw)
+- ImDuino (ESP32+TFT+ImSoft+ImGui example): [github/LAK132/ImDuino](https://github.com/LAK132/ImDuino)
 
 -----
 -----
 
 # References
 
-### Miscellaneous
-
-- Also see https://github.com/ocornut/imgui/labels for categorized issues.
-- imgui_freetype renderer: [imgui/misc/freetype/](https://github.com/ocornut/imgui/tree/master/misc/freetype) (in main repo)
-
-### Building / Packaging Cruft
-
-- [#1713](https://github.com/ocornut/imgui/pull/1713) CMake project to build Examples (PR) by @podsvirov
-- CMake https://github.com/ocornut/imgui/pull/1713 (unmerged PR, please send feedback)
-- CMake https://github.com/ocornut/imgui/pull/3027  (unmerged PR, please send feedback)
-- CMake https://gist.github.com/rokups/f771217b2d530d170db5cb1e08e9a8f4 (self-contained single-file build script)
-- Premake5 https://github.com/ocornut/imgui/tree/features/premake5 (unmerged branch)
-- Conan https://github.com/bincrafters/conan-imgui, https://bintray.com/bincrafters/public-conan/imgui%3Abincrafters
-- Fips (fips-imgui): fipsified imgui for fips build system https://github.com/fungos/fips-imgui
-- GN (Chromium, ninja) BUILD.gn file: https://github.com/ndsol/VolcanoSamples/blob/master/src/BUILD.gn
-
-### Example Apps, Framework
-(Please also check our [examples/](https://github.com/ocornut/imgui/tree/master/examples) folder in the repo, they work fine as started apps!)
-
-- asap: Starter project for portable app with optional GUI (GLFW/ImGui) https://github.com/abdes/asap
-- imgui-app: amalgamation of Dear ImGui and Sokol into two files https://github.com/pplux/imgui-app/
-- Bimpy: bundled imgui for python: https://github.com/podgorskiy/bimpy
-- giu: Cross platform rapid GUI framework for golang based on Dear ImGui. https://github.com/AllenDang/giu
-- Dear PyGui: A Simple Python GUI framework https://github.com/hoffstadt/DearPyGui
-- imgui_dojo: an easy setup example for imgui https://github.com/LiuZHolmes/imgui_dojo
-- mahi-gui: Dirt Simple C++ GUI Toolkit using GLFW, glad, and ImGui https://github.com/mahilab/mahi-gui
-- sdl-bgfx-imgui-starter: A starter project for graphics applications https://github.com/pr0g/sdl-bgfx-imgui-starter
-- Starter dear-imgui GLFW/OpenGL 3 based CMake C++ project: https://github.com/urddru/imgui-glfw
-- ImDuino (ESP32+TFT+ImSoft+ImGui example): https://github.com/LAK132/ImDuino
 
 ### Notable forks
 
