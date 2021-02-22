@@ -6,6 +6,19 @@ Welcome to the Dear ImGui wiki! Feel free to edit and contribute!
 
 Thank you to every past and present [[Sponsors]] for making this project possible.
 
+# Index
+
+- [General](#general)
+  - [General documentation](#general-documentation)
+  - [Community](#community)
+  - [Gallery](#gallery)
+  - [Notable branches)(#notable-branches)
+  - [Demo, Examples](#demo-examples)
+  - [Backends, Bindings](#backends-bindings)
+  - [Third Party Extensions](#third-party-extensions)
+- [Features](#features)
+- [Miscellaneous](#Miscellaneous)
+
 # General
 
 ### General documentation
@@ -59,7 +72,7 @@ If you are experienced with Dear ImGui, please consider helping people and answe
 
 - [[List of useful third-party widgets and extensions|Useful-widgets]]
 
-# Specific Features
+# Features
 
 ### Images
 
