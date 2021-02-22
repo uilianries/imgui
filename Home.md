@@ -6,7 +6,7 @@ Welcome to the Dear ImGui wiki! Feel free to edit and contribute!
 
 Thank you to every past and present [[Sponsors]] for making this project possible.
 
-## General
+# General
 
 ### General documentation
 
@@ -59,7 +59,7 @@ If you are experienced with Dear ImGui, please consider helping people and answe
 
 - [[List of useful third-party widgets and extensions|Useful-widgets]]
 
-## Specific Features
+# Specific Features
 
 ### Images
 
@@ -95,7 +95,7 @@ If you are experienced with Dear ImGui, please consider helping people and answe
 - Search in Issues: [inputs](https://github.com/ocornut/imgui/issues?q=label%3Ainputs)
 - Input / IO queue for very low framerate applications: [gist](https://gist.github.com/ocornut/8417344f3506790304742b07887adf9f)
 
-## Miscallaeneous
+# Miscellaneous
 
 ### Building / Packaging Cruft
 
@@ -122,12 +122,6 @@ If you are experienced with Dear ImGui, please consider helping people and answe
 - Starter dear-imgui GLFW/OpenGL 3 based CMake C++ project: [github/urddru/imgui-glfw](https://github.com/urddru/imgui-glfw)
 - ImDuino (ESP32+TFT+ImSoft+ImGui example): [github/LAK132/ImDuino](https://github.com/LAK132/ImDuino)
 
------
------
-
-# References
-
-
 ### Notable forks
 
 - https://github.com/adobe/imgui
@@ -150,7 +144,7 @@ If you are experienced with Dear ImGui, please consider helping people and answe
 - An immediate mode 3D gizmo (translation, rotation, scale for scene editing) https://github.com/meshula/tinygizmo
 - small libraries with minimal dependencies https://github.com/nothings/single_file_libs
 
-## Articles, Videos, Blog Posts
+# Articles, Videos
 
 ### About the IMGUI paradigm
 
