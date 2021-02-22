@@ -86,7 +86,7 @@ If you are experienced with Dear ImGui, please consider helping people and answe
 
 - [#1713](https://github.com/ocornut/imgui/pull/1713) CMake project to build Examples (PR) by @podsvirov (need feedback)
 - [#3027](https://github.com/ocornut/imgui/pull/3027) Add CMake configuration (PR) by @Qix- (need feedback)
-- [rokups' cmake](https://github.com/rokups/imgui/blob/rk/cmake/CMakeLists.txt) Self-contained single-file cmake build script
+- [rokups' cmake](https://gist.github.com/rokups/f771217b2d530d170db5cb1e08e9a8f4) Self-contained single-file cmake build script
 - Premake5 https://github.com/ocornut/imgui/tree/features/premake5 (unmerged branch)
 - Conan https://github.com/bincrafters/conan-imgui, https://bintray.com/bincrafters/public-conan/imgui%3Abincrafters
 - Fips (fips-imgui): fipsified imgui for fips build system https://github.com/fungos/fips-imgui
