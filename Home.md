@@ -48,13 +48,12 @@ Thank you to every past and present [[Sponsors]] for making this project possibl
 ### Community
 
 - [Github Issues](https://github.com/ocornut/imgui/issues/): for feature requests, bug reports, feedback, code snippets, etc. Searching there is recommended as many topics have been discussed and referenced already! Also see [Labels](https://github.com/ocornut/imgui/labels) for categorized issues.
-- [Discord Chat](https://discordapp.com/channels/613733622192668672/613733622721019908) / [Invite](https://discord.gg/NgJ4SEP): general chat room. prefer if you have issues getting started.
 - [How to open an Issue or Pull Request #2261](https://github.com/ocornut/imgui/issues/2261)
 - [[Help wanted|Help-wanted]]
 
 Prefer using GitHub Issues: questions and answers will be available to others and searchable. It is more likely you will receive a correct and detailed answer on GitHub. 
 
-If you are experienced with Dear ImGui, please consider helping people and answering questions on Issues and Discord!
+If you are experienced with Dear ImGui, please consider helping people and answering questions!
 
 ### Gallery
 
