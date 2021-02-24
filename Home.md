@@ -47,11 +47,10 @@ Thank you to every past and present [[Sponsors]] for making this project possibl
 
 ### Community
 
-- [Github Issues](https://github.com/ocornut/imgui/issues/): for feature requests, bug reports, feedback, code snippets, etc. Searching there is recommended as many topics have been discussed and referenced already! Also see [Labels](https://github.com/ocornut/imgui/labels) for categorized issues.
+- [Github Issues](https://github.com/ocornut/imgui/issues): for feature requests, bug reports, feedback, code snippets, etc. Searching there is recommended as many topics have been discussed and referenced already! Also see [Labels](https://github.com/ocornut/imgui/labels) for categorized issues.
+- [Github Discussions](https://github.com/ocornut/imgui/discussions): for questions and anything else.
 - [How to open an Issue or Pull Request #2261](https://github.com/ocornut/imgui/issues/2261)
 - [[Help wanted|Help-wanted]]
-
-Prefer using GitHub Issues: questions and answers will be available to others and searchable. It is more likely you will receive a correct and detailed answer on GitHub. 
 
 If you are experienced with Dear ImGui, please consider helping people and answering questions!
 
