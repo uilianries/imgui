@@ -11,8 +11,7 @@ Currently looking for help with those things.
 - We need technical overview pages describing the same but from the point of view of programmers wanting to work on them.
 
 **Community**
-- Helping people out on the [Discord](https://discord.gg/NgJ4SEP) ?
-- Helping to answer some GitHub [issues/threads](https://github.com/ocornut/imgui/issues) ?
+- Helping to answer some [GitHub issues/threads](https://github.com/ocornut/imgui/issues) or [Discussions](https://github.com/ocornut/imgui/discussions)?
 
 **Third-party Software**
 <br>If you are familiar or interested in GLFW, designing/developing/submitting those changes to GLFW would be great
