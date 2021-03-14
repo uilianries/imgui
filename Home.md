@@ -148,6 +148,7 @@ If you are experienced with Dear ImGui, please consider helping people and answe
 - sdl-bgfx-imgui-starter: A starter project for graphics applications [github/pr0g/sdl-bgfx-imgui-starter](https://github.com/pr0g/sdl-bgfx-imgui-starter)
 - Starter dear-imgui GLFW/OpenGL 3 based CMake C++ project: [github/urddru/imgui-glfw](https://github.com/urddru/imgui-glfw)
 - ImDuino (ESP32+TFT+ImSoft+ImGui example): [github/LAK132/ImDuino](https://github.com/LAK132/ImDuino)
+- ImFrame: Dear ImGui + GLFW C++ / CMake application framework: [github/JamesBoer/ImFrame](https://github.com/JamesBoer/ImFrame)
 
 ### Notable forks
 
