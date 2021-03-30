@@ -36,7 +36,9 @@ Also see our [[Glossary]] about Docking terminology.
 
 #### Docking
 
-- Merge into existing node
+Dock by dragging windows from their title tab or tab (hold SHIFT to disable docking)
+
+- Dock into an existing window or node
 
   ![capture_docking_wiki_gifs_0001](https://user-images.githubusercontent.com/19151258/82671137-ffb64300-9c46-11ea-8e98-1a78a128882d.gif)
 - Split existing node
@@ -48,7 +50,7 @@ Also see our [[Glossary]] about Docking terminology.
 - Undock a window from a node
 
   ![capture_docking_wiki_gifs_0002](https://user-images.githubusercontent.com/19151258/82671170-0d6bc880-9c47-11ea-88fb-5761d163439a.gif)
-- Undock a node from a hierarchy
+- Undock a node (all windows) from a hierarchy
 
   ![capture_docking_wiki_gifs_0003](https://user-images.githubusercontent.com/19151258/82671172-0e045f00-9c47-11ea-88b2-d84e18be2b6b.gif)
 
