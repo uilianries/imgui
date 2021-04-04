@@ -14,7 +14,7 @@ Thank you to every past and present [[Sponsors]] for making this project possibl
   - [Third Party Extensions](#third-party-extensions)
 - [Features](#features)
   - [Images](#images)
-  - [Fonts/Text](#fonts-text)
+  - [Fonts/Text](#fontstext)
   - [Tables](#tables)
   - [Docking](#docking)
   - [Multi-viewports](#multi-viewports)
