@@ -94,7 +94,7 @@ We will here use [stb_image.h](https://github.com/nothings/stb/blob/master/stb_i
 Add at the top of one of your source file:
 ```cpp
 #define STB_IMAGE_IMPLEMENTATION
-#include <stb_image.h>
+#include "stb_image.h"
 
 // Simple helper function to load an image into a OpenGL texture with common settings
 bool LoadTextureFromFile(const char* filename, GLuint* out_texture, int* out_width, int* out_height)
@@ -215,7 +215,7 @@ ImGui::End();
 Add at the top of one of your source file:
 ```cpp
 #define STB_IMAGE_IMPLEMENTATION
-#include <stb_image.h>
+#include "stb_image.h"
 
 // Simple helper function to load an image into a DX11 texture with common settings
 bool LoadTextureFromFile(const char* filename, ID3D11ShaderResourceView** out_srv, int* out_width, int* out_height)
