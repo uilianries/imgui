@@ -112,6 +112,10 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 <BR> [github/juliettef/imgui_markdown](https://github.com/juliettef/imgui_markdown)
 <BR> ![](https://user-images.githubusercontent.com/8225057/97190844-89de7680-17a6-11eb-8add-5cab6be7f5f5.png)
 
+**imgui_md**: Markdown renderer for Dear ImGui using MD4C parser (2021)
+<BR> [github/mekhontsev/imgui_md](https://github.com/mekhontsev/imgui_md)
+<BR> ![](https://user-images.githubusercontent.com/8225057/113867323-b0b9c380-97ae-11eb-9b8d-5a0583ccebed.png)
+
 **url/links**
 <BR> [gist/dougbinks](https://gist.github.com/dougbinks/ef0962ef6ebe2cadae76c4e9f0586c69#file-imguiutils-h-L228-L262)
 
