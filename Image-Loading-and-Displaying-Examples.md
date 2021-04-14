@@ -35,7 +35,8 @@ Once you have an image in GPU texture memory, you can use functions such as `ImG
 Two things to watch for:
 - Make sure your IDE/debugger settings starts your executable from the right working directory. In Visual Studio you can change your working directory in project `Properties > General > Debugging > Working Directory`. People assume that their execution will start from the root folder of the project, where by default it oftens start from the folder where object or executable files are stored.
 ```cpp
-filename = "MyImage01.jpg"    // Relative filename depends on your Working Directory when running your program!
+filename = "MyImage01.jpg";    // Relative filename depends on your Working Directory when running your program!
+filename = "../MyImage01.jpg"; // Load from parent folder
 ```
 - In C/C++ and most programming languages if you want to use a backslash `\` within a string literal, you need to write it double backslash `\\`. At it happens, Windows uses backslashes as a path separator, so be mindful.
 ```cpp
