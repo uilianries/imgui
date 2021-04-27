@@ -77,6 +77,7 @@ Help us complete this list!
 | Game | Moonman/MoonQuest | @eigenbom | | [kickstarter](https://www.kickstarter.com/projects/eigenbom/moonman) / [dev blog](http://discuss.moonman.io/t/june-12-2016/1478)
 | Game | Mount & Blade II Bannerlord | TaleWorlds | | [blog](https://www.taleworlds.com/en/Games/Bannerlord/Blog/25) / [shot](https://user-images.githubusercontent.com/8225057/30460822-b4e9cadc-99b9-11e7-97fd-377a615b1e4e.jpg)
 | Game | New World | Amazon Game Studios | | [homepage](https://newworld.com)
+| Game | NieR Replicant | Cavia/Square Enix | | [homepage](https://nier.square-enix-games.com/en-us/) / [shot](https://user-images.githubusercontent.com/8225057/116219511-fc2b1600-a74b-11eb-8f0b-d8cd8c9b8410.jpg)
 | Game | Onrush | Codemasters | | [homepage](http://www.codemasters.com/game/onrush/) / [video](https://www.youtube.com/watch?v=rC9wmXDzAX0&feature=youtu.be&t=18m42s)
 | Game | Openblack | | | [github](https://github.com/openblack/openblack) / [shot](https://user-images.githubusercontent.com/1013356/67159752-54a87880-f349-11e9-9df5-628594b3a745.gif)
 | Game | Overgrowth | Wolfire Games | | [homepage](http://www.wolfire.com/overgrowth) / [shots](https://github.com/ocornut/imgui/issues/973#issuecomment-277081512)
@@ -130,6 +131,7 @@ Help us complete this list!
 | Type | Title | By | Sponsor | Links |
 | ---- | ------ | ----- | ----- | ----- |
 | App | 3d Object Scatter | | | [homepage](https://cubebrush.co/3dobjectscatter?product_id=jyheqw)
+| App | 8th Wall's SLAM systems | | | [blog](https://www.8thwall.com/blog/post/45697581391/building-the-next-generation-of-slam-for-the-browser) / [shot](https://user-images.githubusercontent.com/8225057/116219141-950d6180-a74b-11eb-8af3-0bf78a84a344.jpg)
 | App | alphaTerm | | | [homepage](http://www.alphaticks.io) / [shot](https://user-images.githubusercontent.com/8225057/105607011-af2a5300-5d9c-11eb-9bc8-39d3310e2192.jpg)
 | App | Apple2Emu | @allender | | [github](https://github.com/allender/apple2emu) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-280105757)
 | App | AVETO.vis | B-plus | | [homepage](https://www.b-plus.com/en/products/automotive/measurement-logging/avetorec/avetovis.html)
