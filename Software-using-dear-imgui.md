@@ -301,7 +301,7 @@ Help us complete this list!
 | App | Visual Designer 3D | | | [video](https://www.youtube.com/watch?v=211NzYhNSFQ)
 | App | VK Pipeline Layout Editor | | | [shot](https://github.com/ocornut/imgui/issues/539#issuecomment-236273659)
 | App | Volumetric Capture | | | [github](https://github.com/VCL3D/VolumetricCapture)
-| App | vvctre | @vvanelslande | |  [github](https://github.com/vvanelslande/vvctre) / [shot](https://user-images.githubusercontent.com/62673824/91587899-02e35e00-e91d-11ea-8129-12b75616f3f9.png) |
+| App | vvctre | @vvanelslande | |  [github](https://github.com/vvanelslande/vvctre) |
 | Demo | VX2 | Spectrals | | [homepage](http://www.pouet.net/prod.php?which=85304) / [shot](https://github.com/ocornut/imgui/issues/3075#issuecomment-613415534)
 | App | WaveEdit | | | [homepage](http://synthtech.com/waveedit/) / [github](https://github.com/AndrewBelt/WaveEdit)
 | App | wave-gui | | | [github](https://github.com/ggerganov/wave-gui)
