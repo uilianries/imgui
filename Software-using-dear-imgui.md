@@ -97,6 +97,7 @@ Help us complete this list!
 | Game | Shenmue I & II (2018) | Sega, d3t | | [homepage](https://shenmue.sega.com)
 | Game | SNES Classic Mini | Nintendo | | [shot](https://user-images.githubusercontent.com/8225057/31039823-4aef87e2-a581-11e7-8329-077f5ded258d.jpg)
 | Game | Spider-Man (2018) | Insomniac Games | | [homepage](https://insomniac.games/game/spider-man-ps4/) / [shot](https://user-images.githubusercontent.com/8225057/72074984-2a84a800-32f3-11ea-9380-e43dc599a356.jpg)
+| Game | Spider-Man: Miles Morales | Insomniac Games | | [homepage](https://www.playstation.com/fr-fr/games/marvels-spider-man-miles-morales/)
 | Game | Squarium | | | [homepage](https://bartveldstra.com/game/squarium/) / [play store](https://play.google.com/store/apps/details?id=nl.ghostweb.Squarium)
 | Game | Star Citizen | Cloud Imperium Games | | [blog](https://starcitizenprivateer.tumblr.com/post/184141580116/star-citizen-monthly-report-march-2019) / [shot](https://user-images.githubusercontent.com/600573/76033357-58c1e500-5f3c-11ea-8c78-6299cc0f280c.png)
 | Game | Streets of Rage 4 | Guard Crush / Lizardcube | | [homepage](https://www.streets4rage.com/) / [shot](https://user-images.githubusercontent.com/8225057/68775486-d7fa7880-062e-11ea-8448-9aab3ca4837e.jpg)
