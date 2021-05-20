@@ -11,9 +11,14 @@
 - [Terminal / Text mode](#terminal--text-mode)
 - [Midi/OSC interfacing](#midiosc-interfacing)
 - [Virtual Reality (VR) / Reprojected UI plane](#virtual-reality-vr--reprojected-ui-plane)
+- [3D manipulation Gizmos](#3d-manipulation-gizmos)
+- [Inspectors, Serialization](#inspectors-serialization)
 - [Miscellaneous](#miscellaneous)
+- [Third Party Repos](#third-party-repos)
 
-## Text Editors
+_(wiki editors: if you add new images, please make them 500x250)_
+
+# Text Editors
 
 **ImGuiColorTextEdit**: Colorizing text editor for Dear ImGui (2017-2019)
 <BR> [github/BalazsJako/ImGuiColorTextEdit](https://github.com/BalazsJako/ImGuiColorTextEdit)
@@ -27,7 +32,7 @@
 <BR> [issue #108](https://github.com/ocornut/imgui/issues/108) (likely obsolete)
 <BR> ![](https://user-images.githubusercontent.com/1193295/103753586-80298880-500b-11eb-97ca-d6674bc22d35.png)
 
-## Node Editors
+# Node Editors
 
 **imgui-node-editor**: node editor using Dear ImGui (2016-2020)
 <BR> [github/thedmd/imgui-node-editor](https://github.com/thedmd/imgui-node-editor)
@@ -43,7 +48,7 @@
 
 Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 
-## Curves, Animations, Gradients
+# Curves, Animations, Gradients
 
 **Cubic Bezier / Curve Editor** (2016-2019)
 <BR> [github](https://github.com/ocornut/imgui/issues/786)
@@ -62,7 +67,7 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 **Gradient Color Generator** (2016)
 <BR> [gist/galloscript](https://gist.github.com/galloscript/8a5d179e432e062550972afcd1ecf112)
 
-## Plotting, Graph
+# Plotting, Graph
 
 **ImPlot**: Advanced 2D Plotting for Dear ImGui (2020-2021)
 <BR> [github/epezent/implot](https://github.com/epezent/implot)
@@ -80,7 +85,7 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 <BR> [wiki](https://github.com/ocornut/imgui/wiki/plot_var_example)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96739299-f0871d00-13bf-11eb-8a2b-fa670070477d.png)
 
-## File Browsers / File Dialog
+# File Browsers / File Dialog
 
 **ImFileDialog**: A simple file dialog library [... ] supports favorites, actual Windows icons, image previews, zooming in, (2021)
 <BR> [github/dfranx/ImFileDialog](https://github.com/dfranx/ImFileDialog)
@@ -106,7 +111,7 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 <BR> [github/Flix01/imgui](https://github.com/Flix01/imgui/wiki/ImGui-Addons-Branch-Home)
 <BR> ![](https://user-images.githubusercontent.com/1193295/103753755-b8c96200-500b-11eb-95c0-3ff6ff19e78e.png)
 
-## Rich text
+# Rich text
 
 **imgui_markdown**: Markdown for Dear ImGui (2019-2021)
 <BR> [github/juliettef/imgui_markdown](https://github.com/juliettef/imgui_markdown)
@@ -119,13 +124,13 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 **url/links**
 <BR> [gist/dougbinks](https://gist.github.com/dougbinks/ef0962ef6ebe2cadae76c4e9f0586c69#file-imguiutils-h-L228-L262)
 
-## Input Method Editors
+# Input Method Editors
 
 **DearImGui-with-IMM32**: Microsoft IME Overlay using Dear ImGui (2020)
 <BR> [github/maildrop/DearImGui-with-IMM32](https://github.com/maildrop/DearImGui-with-IMM32)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96867731-64333380-146d-11eb-9aae-14abee458f93.png)
 
-## Software Renderer/Rasterizer
+# Software Renderer/Rasterizer
 
 **Software Renderer for Dear ImGui** (2018)
 <BR> [github/emilk/imgui_software_renderer](https://github.com/emilk/imgui_software_renderer)
@@ -137,7 +142,7 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 **Fast(er) Software Rasterizer for Dear ImGui**
 <BR> [github/malamanteau](https://github.com/malamanteau/ImFastRast) [down]
 
-## Remoting
+# Remoting
 
 **netImGui: Dear ImGui remote access library and application** (2020-2021)
 <BR> [github/sammyfreg/netImgui](https://github.com/sammyfreg/netImgui)
@@ -156,7 +161,7 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 <BR> [github/CedricGuillemet/AndroidAppViewer](https://github.com/CedricGuillemet/AndroidAppViewer)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96888707-31e20000-1486-11eb-8c2d-05bfe12998a1.png)
 
-## Terminal / Text mode
+# Terminal / Text mode
 
 **ImTui**: Immediate Mode Text-based User Interface (2019-2020)
 <BR> [github/ggerganov/imtui](https://github.com/ggerganov/imtui)
@@ -165,7 +170,7 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 **tear imgui**: Experiment for a terminal-based renderer for imgui (2017)
 <BR> [github/jonvaldes/tear_imgui](https://github.com/jonvaldes/tear_imgui)
 
-## Midi/OSC interfacing
+# Midi/OSC interfacing
 
 **midi2osc**: midi to opensoundcontrol bridge (2018-2020)
 <BR> [github/mmalex/midi2osc](https://github.com/mmalex/midi2osc)
@@ -178,7 +183,7 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 <BR> [github/shric/midi](https://github.com/shric/midi)
 <BR> ![shric/midi](https://user-images.githubusercontent.com/8225057/107155358-3cae9b00-6978-11eb-981a-2d4bd935bf4b.png)
 
-## Virtual Reality (VR) / Reprojected UI plane
+# Virtual Reality (VR) / Reprojected UI plane
 
 **ImGuiVR**: Demo code for using Imgui with OpenVR 
 <BR> [github/temcgraw/ImguiVR](https://github.com/temcgraw/ImguiVR) / [video](https://www.youtube.com/watch?v=nlwfn4HJw5E)
@@ -195,11 +200,7 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 <BR> [github/sariug/mpfluid_cave_frontend](https://github.com/sariug/mpfluid_cave_frontend)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96884840-42907700-1482-11eb-9d50-8aef7e88c4a6.png) |  |
 
-## Miscellaneous
-
-**imgui_memory_editor**
-<BR> [github/ocornut/imgui_club](https://github.com/ocornut/imgui_club)
-<BR> ![](https://user-images.githubusercontent.com/1193295/96868227-081cdf00-146e-11eb-996b-35134ba8bd3c.png)
+# 3D manipulation Gizmos
 
 **ImGuizmo**: 3d translation/rotation Gizmo
 <BR> [github/CedricGuillemet/ImGuizmo](https://github.com/CedricGuillemet/ImGuizmo)
@@ -208,6 +209,24 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 **imGuiZMO.quat**: 3d translation/rotation Gizmo
 <BR> [github/BrutPitt/imGuIZMO.quat](https://github.com/BrutPitt/imGuIZMO.quat)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96868553-86798100-146e-11eb-872a-44f51ee78117.png)
+
+# Inspectors, Serialization
+
+**ImGui::Auto()** (auto serialize into UI using C++17)
+<BR> [github/Csabix/imgui](https://github.com/Csabix/imgui/tree/master/auto)
+<BR> ![](https://user-images.githubusercontent.com/1193295/96878992-c72bc700-147b-11eb-9796-b3c87b543856.png)
+
+**ImQuick** 
+<BR> [github/martinpetkovski/ImQuick](https://github.com/martinpetkovski/ImQuick)
+
+**imgui-inspect** [Rust] An inspector UI using imgui in Rust 
+<BR> [github/aclysma/imgui-inspect](https://github.com/aclysma/imgui-inspect)
+
+# Miscellaneous
+
+**imgui_memory_editor**
+<BR> [github/ocornut/imgui_club](https://github.com/ocornut/imgui_club)
+<BR> ![](https://user-images.githubusercontent.com/1193295/96868227-081cdf00-146e-11eb-996b-35134ba8bd3c.png)
 
 **ImZoomSlider**: Range/Zooming Slider
 <BR> [github/CedricGuillemet/ImGuizmo](https://github.com/CedricGuillemet/ImGuizmo)
@@ -247,19 +266,9 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 <BR> [issue #1537](https://github.com/ocornut/imgui/issues/1537)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96878596-51bff680-147b-11eb-8ded-f0bc241fa984.png)
 
-**ImGui::Auto()** (auto serialize into UI using C++17)
-<BR> [github/Csabix/imgui](https://github.com/Csabix/imgui/tree/master/auto)
-<BR> ![](https://user-images.githubusercontent.com/1193295/96878992-c72bc700-147b-11eb-9796-b3c87b543856.png)
-
-**ImQuick** 
-<BR> [github/martinpetkovski/ImQuick](https://github.com/martinpetkovski/ImQuick)
-
-**imgui-inspect** [Rust] An inspector UI using imgui in Rust 
-<BR> [github/aclysma/imgui-inspect](https://github.com/aclysma/imgui-inspect)
-
 Also [Useful Widgets](https://github.com/ocornut/imgui/labels/useful%20widgets) Tag in Issues.
 
-## Third party repos
+# Third party repos
 
 **Flix01's ImGui-Addons**: file dialog, date picker, listview, toolbar etc.
 <BR> [github/Flix01/imgui](https://github.com/Flix01/imgui/wiki/ImGui-Addons-Branch-Home)
