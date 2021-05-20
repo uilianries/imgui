@@ -11,6 +11,7 @@
 - [Terminal / Text mode](#terminal--text-mode)
 - [Midi/OSC interfacing](#midiosc-interfacing)
 - [Virtual Reality (VR) / Reprojected UI plane](#virtual-reality-vr--reprojected-ui-plane)
+- [Image manipulation](#image-manipulation)
 - [3D manipulation Gizmos](#3d-manipulation-gizmos)
 - [Inspectors, Serialization](#inspectors-serialization)
 - [Miscellaneous](#miscellaneous)
@@ -199,6 +200,12 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 **mpFluid CAVE Front End**
 <BR> [github/sariug/mpfluid_cave_frontend](https://github.com/sariug/mpfluid_cave_frontend)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96884840-42907700-1482-11eb-9d50-8aef7e88c4a6.png) |  |
+
+# Image manipulation
+
+**imgInspect**
+<BR> [github/CedricGuillemet/imgInspect](https://github.com/CedricGuillemet/imgInspect)
+<BR> ![image](https://user-images.githubusercontent.com/8225057/118988474-83515f80-b981-11eb-8ce1-4818ddc3195a.png)
 
 # 3D manipulation Gizmos
 
