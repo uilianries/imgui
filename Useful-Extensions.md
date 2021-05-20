@@ -265,6 +265,9 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 <BR> [github/lighttransport/nnview](https://github.com/lighttransport/nnview)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96875679-ca24b880-1477-11eb-8d4c-022166c8a427.png)
 
+**ImGuiBuilder**
+<BR> [github/Code-Building/ImGuiBuilder](https://github.com/Code-Building/ImGuiBuilder)
+
 **Knobs**
 <BR> [issue #942](https://github.com/ocornut/imgui/issues/942#issuecomment-268369298)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96877128-8cc12a80-1479-11eb-9d19-904ceaf8e469.png)
