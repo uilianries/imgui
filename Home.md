@@ -57,7 +57,7 @@ If you are experienced with Dear ImGui, please consider helping people and answe
 ### Gallery
 
 - [Gallery #3793](https://github.com/ocornut/imgui/issues/3793) Post your screenshots / code here
-- [[Useful widgets gallery|Useful-widgets]]
+- [[Useful extensions/widgets gallery|Useful-extensions]]
 
 ### Notable branches
 
@@ -80,7 +80,7 @@ If you are experienced with Dear ImGui, please consider helping people and answe
 
 ### Third-party extensions
 
-- [[List of useful third-party widgets and extensions|Useful-widgets]]
+- [[List of useful third-party extensions/widgets|Useful-Extensions]]
 
 ##### [Return to Index](#index)
 
