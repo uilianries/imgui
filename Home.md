@@ -184,6 +184,7 @@ Dear ImGui is one possible implementation of an idea generally described as the 
 - [A presentation by Rickard Gustafsson and Johannes Algelind](http://www.cse.chalmers.se/edu/year/2011/course/TDA361/Advanced%20Computer%20Graphics/IMGUI.pdf), 2011.
 - [Jari Komppa's tutorial on building an IMGUI library](http://iki.fi/sol/imgui/), @jarikomppa, 2006.
 - [Casey Muratori's original video that popularized the concept](https://mollyrocket.com/861), 2005.
+- [Sean Barrett's article in Game Developer Magazine](https://archive.org/details/GDM_September_2005) (Page 34), September 2005.
 - [Writing an IMGUI](https://www.youtube.com/watch?v=wsJ8Y1HO250), @heroseh, 2021
 - [Nicolas Guillemot's CppCon'16 flash-talk about Dear ImGui](https://www.youtube.com/watch?v=LSRJ1jZq90k), 2016.
 - [Thierry Excoffier's ZMV (Zero Memory Widget)](http://perso.univ-lyon1.fr/thierry.excoffier/ZMW/), 2004.
