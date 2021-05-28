@@ -160,6 +160,7 @@ Help us complete this list!
 | App | Dolphin Emulator | | | [homepage](https://dolphin-emu.org) / [patch note](https://dolphin-emu.org/blog/2019/02/01/dolphin-progress-report-dec-2018-and-jan-2019/)
 | App | Downhole Imaging Technology | | | [homepage](https://darkvisiontech.com/)
 | Engine | Dreaded Portal Engine | @Bram_Ridder | | [homepage](http://bramridder.com/conc8/index.php/hobby-projects/projects/dreaded-portal-engine) / [youtube](https://www.youtube.com/bramridder) / [shot](https://user-images.githubusercontent.com/8752240/88486655-38d89f80-cf77-11ea-973b-4269cebc31a0.png)
+| App | dromaius | | | [github](https://github.com/ThomasRinsma/dromaius)
 | App | Effekseer | | | [homepage](https://twitter.com/Effekseer)
 | App | Electric Eye | Netflix | | [video](https://www.youtube.com/watch?v=uEQ3be0ss2A) / [shot](https://cloud.githubusercontent.com/assets/8225057/22478523/9062f8fe-e7ea-11e6-8761-f29cb317bf1a.jpg)
 | Engine | Enjon | | | [shot](https://user-images.githubusercontent.com/7358367/39782964-3dc7eb6c-52d9-11e8-8029-723ea5fa5546.png) / [video](https://www.youtube.com/watch?v=fHUdVhmsi6s&t=855s)
