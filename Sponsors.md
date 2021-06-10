@@ -21,6 +21,7 @@ Individuals: support continued development and maintenance [here](https://www.pa
 
 **Double-chocolate and Salty Caramel sponsors**
 - [Activision](https://careers.activision.com/c/programmingsoftware-engineering-jobs)
+- [Adobe](https://www.adobe.com/products/medium.html)
 - [Aras Pranckevičius](https://aras-p.info)
 - [Arkane Studios](https://www.arkane-studios.com)
 - [Dotemu](http://www.dotemu.com)
@@ -31,6 +32,7 @@ Individuals: support continued development and maintenance [here](https://www.pa
 - [Media Molecule](http://www.mediamolecule.com)
 - [Mesh Consultants](https://www.meshconsultants.ca/)
 - [Mobigame](http://www.mobigame.net)
+- [O-Net Communications (USA)](http://en.o-netcom.com)
 - [Nadeo](https://www.nadeo.com)
 - [Next Level Games](https://www.nextlevelgames.com/)
 - [Supercell](http://www.supercell.com)
