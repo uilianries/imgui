@@ -56,7 +56,7 @@ Main repository include examples for DirectX9, DirectX10, DirectX11, DirectX12, 
 | GLEQ | Event processing:<br>[#3034](https://github.com/ocornut/imgui/issues/3034)
 | GTK3 + OpenGL3 | **imgui_impl_gtk3**:<br>Unmerged PR: [#2032](https://github.com/ocornut/imgui/pull/2032) |
 | Irrlicht Engine | **IrrIMGUI**:<br>https://github.com/ZahlGraf/IrrIMGUI |
-| LÖVE+LUA | **love-imgui**:<br>https://github.com/slages/love-imgui<br>**love-imgui (fork)**:<br>https://github.com/MikuAuahDark/love-imgui<br>**LuaJIT-ImGui (ffi)**:<br>https://github.com/sonoro1234/LuaJIT-ImGui |
+| LÖVE+LUA | **love-imgui**:<br>https://github.com/slages/love-imgui<br>**love-imgui (fork)**:<br>https://github.com/MikuAuahDark/love-imgui<br>**LuaJIT-ImGui (ffi)**:<br>https://github.com/sonoro1234/LuaJIT-ImGui<br>**cimgui-love (ffi)**:<br>https://github.com/apicici/cimgui-love |
 | Magnum | **magnum-integration**:<br>https://github.com/mosra/magnum-integration, [doc](https://doc.magnum.graphics/magnum/namespaceMagnum_1_1ImGuiIntegration.html), [example](https://doc.magnum.graphics/magnum/examples-imgui.html) |
 | Monogame | **ImGui.NET for MonoGame**: <br>https://github.com/roy-t/ImGui.NET
 | NanoRT | **imgui_impl_raytrace**: <br>https://github.com/syoyo/imgui/tree/nanort/examples/raytrace_example |
