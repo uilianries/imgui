@@ -18,6 +18,7 @@ Help us complete this list!
 | ---- | ------ | ----- | ------ | ----- |
 | Game | 22 Racing Series | GOATi | | [homepage](http://www.22series.com/)
 | Game | Agents of Mayhem | Volition | | [homepage](https://www.aomthegame.com/)
+| Game | Apex Legends | EA | | [homepage](https://www.ea.com/games/apex-legends)
 | Game | Arcane Worlds | Ranmantaru Games | | [steam](http://steamcommunity.com/app/269610) / [patch note](http://steamcommunity.com/app/269610/discussions/0/357288572127498771)
 | Game | Assassin's Creed Odyssey | **Ubisoft** | Sponsor | [blog](https://montreal.ubisoft.com/en/ubisoft-sponsors-user-interface-library-for-c-dear-imgui/)
 | Game | Assassin's Creed Origins | **Ubisoft** | Sponsor | [blog](https://montreal.ubisoft.com/en/ubisoft-sponsors-user-interface-library-for-c-dear-imgui/)
