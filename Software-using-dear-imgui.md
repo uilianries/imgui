@@ -246,6 +246,7 @@ Help us complete this list!
 | App | Orbital | @AlexAltea | | [github](https://github.com/AlexAltea/orbital)
 | Engine | OverEngine | @OverShifted | | [github](http://github.com/OverShifted/OverEngine)
 | Engine | Overload | Overload Tech | | [github](https://github.com/adriengivry/Overload) / [homepage](http://overloadengine.org/) / [video](https://youtu.be/ARXSJh-ZMHM)
+| App | Palanteer| @dfeneyrou | | [github](https://github.com/dfeneyrou/palanteer)
 | App | Panorama | @ronen25 | | [github](https://github.com/ronen25/panorama)
 | App | Parsec | | | [homepage](https://parsecgaming.com)
 | App | Patterns of Life | @armadillu | | [shots](https://github.com/ocornut/imgui/issues/1902#issuecomment-413715089)
