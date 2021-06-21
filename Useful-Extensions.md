@@ -249,6 +249,10 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 **Spinner/Loading progress indicators**
 <BR> [issue #1901](https://github.com/ocornut/imgui/issues/1901)
 
+**imgui-notify**: header-only wrapper made to create notifications**
+<BR> [github/patrickcjk/imgui-notify](https://github.com/patrickcjk/imgui-notify)
+<BR> ![](https://user-images.githubusercontent.com/8225057/122738845-a625ab00-d282-11eb-8c9f-d4c7138cf815.png)
+
 **ImHotKey**: hotkey editor
 <BR> [github/CedricGuillemet/ImHotKey](https://github.com/CedricGuillemet/ImHotKey)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96875055-14596a00-1477-11eb-93bb-74d977fbf7e3.png)
