@@ -10,8 +10,8 @@ Thank you to every past and present [[Sponsors]] for making this project possibl
   - [Gallery](#gallery)
   - [Notable branches](#notable-branches)
   - [Demo, Examples](#demo-examples)
-  - [Backends, Bindings](#backends-bindings)
-  - [Third Party Extensions](#third-party-extensions)
+  - **[Backends, Bindings](#backends-bindings)**
+  - **[Third Party Extensions](#third-party-extensions)**
 - [Features](#features)
   - [Images](#images)
   - [Fonts/Text](#fontstext)
