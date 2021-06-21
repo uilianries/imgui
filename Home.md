@@ -7,11 +7,11 @@ Thank you to every past and present [[Sponsors]] for making this project possibl
 - [General](#general)
   - [General documentation](#general-documentation)
   - [Community](#community)
+  - [Demo, Examples](#demo-examples)
+  - [Backends, Bindings](#backends-bindings)
+  - [Third Party Extensions](#third-party-extensions)
   - [Gallery](#gallery)
   - [Notable branches](#notable-branches)
-  - [Demo, Examples](#demo-examples)
-  - **[Backends, Bindings](#backends-bindings)**
-  - **[Third Party Extensions](#third-party-extensions)**
 - [Features](#features)
   - [Images](#images)
   - [Fonts/Text](#fontstext)
@@ -51,18 +51,6 @@ Thank you to every past and present [[Sponsors]] for making this project possibl
 - [How to open an Issue or Pull Request #2261](https://github.com/ocornut/imgui/issues/2261)
 - [[Help wanted|Help-wanted]]
 
-If you are experienced with Dear ImGui, please consider helping people and answering questions!
-
-### Gallery
-
-- [Gallery #3793](https://github.com/ocornut/imgui/issues/3793) Post your screenshots / code here
-- [[Useful extensions/widgets gallery|Useful-extensions]]
-
-### Notable branches
-
-- [master](https://github.com/ocornut/imgui/tree/master) branch
-- [docking](https://github.com/ocornut/imgui/tree/docking) branch (fully maintained): include [Docking](https://github.com/ocornut/imgui/wiki/docking) + [Multi-Viewports](https://github.com/ocornut/imgui/wiki/multi-viewports) features.
-
 ### Demo, Examples
 
 - [About Examples apps](https://github.com/ocornut/imgui/blob/master/docs/EXAMPLES.md) (docs/EXAMPLES.md)
@@ -80,6 +68,16 @@ If you are experienced with Dear ImGui, please consider helping people and answe
 ### Third-party extensions
 
 - [[List of useful third-party extensions/widgets|Useful-Extensions]]
+
+### Gallery
+
+- [Gallery #3793](https://github.com/ocornut/imgui/issues/3793) Post your screenshots / code here
+- [[Useful extensions/widgets gallery|Useful-extensions]]
+
+### Notable branches
+
+- [master](https://github.com/ocornut/imgui/tree/master) branch
+- [docking](https://github.com/ocornut/imgui/tree/docking) branch (fully maintained): include [Docking](https://github.com/ocornut/imgui/wiki/docking) + [Multi-Viewports](https://github.com/ocornut/imgui/wiki/multi-viewports) features.
 
 ##### [Return to Index](#index)
 
