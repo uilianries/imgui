@@ -197,6 +197,7 @@ Help us complete this list!
 | App | ImChip8 | | | [github](https://github.com/uafio/ImChip8)
 | App | ImGuiFontStudio | @aiekick | | [github](https://github.com/aiekick/ImGuiFontStudio)
 | App | ImHex | @WerWolv | | [github](https://github.com/WerWolv/ImHex) / [shot](https://user-images.githubusercontent.com/8225057/100979084-9e4f2500-3543-11eb-99f4-e9323863d7c0.png)
+| App | Inochi2D | @LunaTheFoxgirl | | [github](https://github.com/Inochi2D/inochi2d) / [shot](https://user-images.githubusercontent.com/7032834/122651408-ec6ef300-d138-11eb-93f6-af216aa32aa8.png)
 | App | Imogen | @CedricGuillemet | | [github](https://github.com/CedricGuillemet/Imogen)
 | App | InkyBlackness HackEd | | | [homepage](https://inkyblackness.github.io/) / [github](https://github.com/inkyblackness/hacked) / [shot](https://user-images.githubusercontent.com/1508944/43354138-a4676cc4-9246-11e8-883f-46ddde4aba25.png)
 | Misc | Inori-Prayer | | | [homepage](http://www.k2.t.u-tokyo.ac.jp/vision/WOW_TOKYO_AYABAMBI/index-e.html) 
