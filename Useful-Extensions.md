@@ -14,6 +14,7 @@
 - [Image manipulation](#image-manipulation)
 - [3D manipulation Gizmos](#3d-manipulation-gizmos)
 - [Inspectors, Serialization](#inspectors-serialization)
+- [C++ness](#cness)
 - [Miscellaneous](#miscellaneous)
 - [Third Party Repos](#third-party-repos)
 
@@ -226,8 +227,19 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 **ImQuick** 
 <BR> [github/martinpetkovski/ImQuick](https://github.com/martinpetkovski/ImQuick)
 
-**imgui-inspect** [Rust] An inspector UI using imgui in Rust 
+**imgui-inspect**: [Rust] An inspector UI using imgui in Rust 
 <BR> [github/aclysma/imgui-inspect](https://github.com/aclysma/imgui-inspect)
+
+# C++ness
+
+**imgui_stdlib**: InputText() wrappers for C++ standard library (STL) type: std::string.
+<BR> [in main repository](https://github.com/ocornut/imgui/tree/master/misc/cpp)
+
+**imgui_scoped**:Add some RAII-style wrappers
+<BR> [#2096](https://github.com/ocornut/imgui/issues/2096), [#2197](https://github.com/ocornut/imgui/pull/2197)
+
+**imgui_sugar**: C++11 syntactic sugar for Dear ImGui with RAII guards
+<BR> [github/mnesarco/imgui_sugar](https://github.com/mnesarco/imgui_sugar)
 
 # Miscellaneous
 
