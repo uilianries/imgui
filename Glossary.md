@@ -3,6 +3,7 @@
 ## Index
 
 - [General Terms](#general-terms)
+- [Widget Status Terms](#widget-status-terms)
 - [Docking Terms](#docking-terms)
 - [Multi-Viewports Terms](#multi-viewports-terms)
 
@@ -33,6 +34,24 @@
 **Root Window**: a top-level window created with `Begin()`. Child windows created with `BeginChild()` tend to share the same Root Window.
 
 **Widget**: (same as Item): a single ImGui element (e.g. a `ImGui::Button()` or `ImGui::Text()` call).
+
+## Widget Status Terms
+
+**Hovered**: Mouse is hovering the window hosting the widget + mouse position is the widget's bounding box. Some windows (popups/modals) frequently disable hovering on windows behind them. When keyboard or gamepad are being used, many widgets have IsItemHovered() return true when Focused. Only one widget can be Hovered at a given time.
+
+**Active**: Widget is being clicked on, edited, activated, dragged. Only one widget can be Active at a given time (generally set for a short amount of time while manipulating a widget).
+
+**Focused**: Widget is the last that been clicked on, or has been navigated to using keyboard or gamepad. Only one widget can be focused at a given time.
+
+**Visible**: Widget is within view: parent window is not collapsed, not tabbed out, and widget is within the visible scrolling region.
+
+**Edited**: Widget just changed the underlying value (generally set for 1 frame).
+
+**Activated**: Widget was just made active (action started) (generally set for 1 frame).
+
+**Deactivated**: Widget was just made inactive (action stopped) (generally set for 1 frame).
+
+**DeactivatedAfterEdit**: Widget was just made inactive and was in Edited state at least once during its Active state. (generally set for 1 frame).
 
 ## Docking Terms
 
