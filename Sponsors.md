@@ -2,7 +2,7 @@
 
 Your contributions are keeping this project alive. The library is available under a free and permissive license, but continued maintenance and development are a full-time endeavor which we would like to sustain and grow. In addition to maintenance and stability there are many desirable features yet to be added.
 
-Dear ImGui has been in development on and off since 2015, with more focus on it since 2018.
+Dear ImGui has first been in development as a side project from 2015 to 2017, then became my main focus since 2018.
 Thanks to our sponsors, in 2020, we poured ~2500 hours of work into Dear ImGui R&D.
 
 Businesses: support continued development and maintenance via invoiced technical support, maintenance, sponsoring contracts. If your company is using Dear ImGui, please consider reaching out today to say hi:
