@@ -209,9 +209,7 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 <BR> ![image](https://user-images.githubusercontent.com/8225057/118988474-83515f80-b981-11eb-8ce1-4818ddc3195a.png)
 
 **ImGuiTexInspect**: Advanced, flexible texture inspector
-<BR> [github/andyborrell/imgui_tex_inspect](https://github.com/andyborrell/imgui_tex_inspect)
-<BR> [Discussion](https://github.com/ocornut/imgui/issues/4352)
-<BR> [Online Demo](https://andyborrell.github.io/imgui_tex_inspect/)
+<BR> [github/andyborrell/imgui_tex_inspect](https://github.com/andyborrell/imgui_tex_inspect) ([discussion](https://github.com/ocornut/imgui/issues/4352), [online demo](https://andyborrell.github.io/imgui_tex_inspect))
 <BR> <a href="https://user-images.githubusercontent.com/5911521/126656032-b045b65b-5f42-4065-9c49-c1a22e866a28.png"><img src="https://user-images.githubusercontent.com/5911521/126656032-b045b65b-5f42-4065-9c49-c1a22e866a28.png" alt="Screenshot of ImGuiTexInspect" width="500" /></a>
 
 # 3D manipulation Gizmos
