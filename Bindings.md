@@ -36,7 +36,7 @@ Now on to the list...
 | Ruby | **ruby-imgui**: Yet another ImGui wrapper for Ruby <br>https://github.com/vaiorabbit/ruby-imgui |
 | Rust | **imgui-rs**: Rust bindings for ImGui <br>https://github.com/Gekkio/imgui-rs <br>**imgui-rust**: Alternative (personal) imgui rust bindings <br>https://github.com/nsf/imgui-rust <br> **ImStr** Patch by @bitshifter to use string-range more commonly instead of zero-terminated strings. <br>https://github.com/ocornut/imgui/pull/683 <br>**rust-imgui-opengl-renderer** <br>https://github.com/michaelfairley/rust-imgui-opengl-renderer|
 | Swift  | **SwiftGui**: an experimental API inspired by SwiftUI declarative code, using Dear ImGui and running on OSX and iOS.<br>https://github.com/erickjung/SwiftGUI<br>**SwiftImGui**: Swift wrapper around Dear imgui for macOS, iOS and linux<br>https://github.com/ctreffs/SwiftImGui<br>**Swift-imgui**: Dear ImGui Swift Wrapper API for macOS and iOS <br>https://github.com/mnmly/Swift-imgui |
-| Zig | https://github.com/SpexGuy/Zig-ImGui
+| Zig | Zig bindings for ocornut/imgui, generated using cimgui/cimgui https://github.com/SpexGuy/Zig-ImGui
 
 ## Framework/Engine Bindings/Backends
 
