@@ -26,7 +26,7 @@ _(wiki editors: if you add new images, please make them 500x250)_
 <BR> [github/BalazsJako/ImGuiColorTextEdit](https://github.com/BalazsJako/ImGuiColorTextEdit)
 <BR> ![](https://user-images.githubusercontent.com/8225057/103882739-89365a80-50dc-11eb-98e4-d1ccccb640bd.png)
 
-**Zep**: An embeddable editor, with optional support for using vim keystrokes (2018-2020)
+**Zep**: An embeddable editor, with optional support for using vim keystrokes (2018-2021)
 <BR> [github/Rezonality/zep](https://github.com/Rezonality/zep)
 <BR> ![](https://user-images.githubusercontent.com/8225057/97189667-21db6080-17a5-11eb-9e3e-aa794fc45831.png)
 
