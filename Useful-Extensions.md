@@ -245,6 +245,10 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 **imgui_sugar**: C++11 syntactic sugar for Dear ImGui with RAII guards
 <BR> [github/mnesarco/imgui_sugar](https://github.com/mnesarco/imgui_sugar)
 
+**imguiwrap**: CMake wrapper for imgui and C++17+ based RAII bindings, and helpers for bootstrapping simple projects.
+<BR> [github/kfsone/imguiwrap](https://github.com/kfsone/imguiwrap)
+
+
 # Miscellaneous
 
 **imgui_memory_editor**
