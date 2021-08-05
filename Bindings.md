@@ -13,6 +13,7 @@ Now on to the list...
 | Beef       | **imgui-beef**: auto-generated Beef wrapper library for Dear ImGui<br>https://github.com/RogueMacro/imgui-beef
 | C          | **cimgui**: auto-generated c-api wrapper for Dear ImGui <br>\*\***(metadata output from cimgui can be used to automatically generate other bindings**)\*\*<br>https://github.com/cimgui/cimgui |
 | C#/.Net    | **ImGui.NET**: An ImGui wrapper for .NET Core <br>https://github.com/mellinoe/ImGui.NET |
+| C++17      | **ImGuiWrapper**: CMakeList wrapper and C++17 RAII encapsulation for accessing Imgui |
 | ChaiScript | **imgui-chaiscript**: ChaiScript bindings for ImGui <br>https://github.com/JuJuBoSc/imgui-chaiscript |
 | CovScript  | **covscript-imgui**: ImGui Extension for CovScript (Covariant) <br>https://github.com/covscript/covscript-imgui |
 | Crystal    | **crystal-imgui**: Crystal bindings to Dear ImGui<br>https://github.com/oprypin/crystal-imgui
