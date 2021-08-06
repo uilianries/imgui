@@ -36,7 +36,7 @@ _(wiki editors: if you add new images, please make them 500x250)_
 
 # Node Editors
 
-**imgui-node-editor**: node editor using Dear ImGui (2016-2020)
+**imgui-node-editor**: node editor using Dear ImGui (2016-2021)
 <BR> [github/thedmd/imgui-node-editor](https://github.com/thedmd/imgui-node-editor)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96736564-06dfa980-13bd-11eb-8cf8-641962bb04df.png)
 
