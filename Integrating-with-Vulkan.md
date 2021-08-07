@@ -10,7 +10,7 @@ Note: I am using Vulkan-HPP headers, but you can certainly use the vulkan.h head
 
 # Implementation
 
-## ImGui Header Files
+## Dear ImGui Header Files
 
 * `imconfig.h`
 * `imgui.h`
@@ -19,17 +19,17 @@ Note: I am using Vulkan-HPP headers, but you can certainly use the vulkan.h head
 * `imstb_textedit.h`
 * `imstb_truetype.h`
 
-## ImGui Source Files
+## Dear ImGui Source Files
 
-The ImGUI source files you're going to need is.
+The source files you're going to need are:
 
 * `imgui.cpp`
-* `imgui_demo.cpp` (optional)
+* `imgui_demo.cpp`
 * `imgui_draw.cpp`
 * `imgui_tables.cpp`
 * `imgui_widgets.cpp`
 
-## Vulkan Components that is needed for ImGui
+## Vulkan Components that are needed for Dear ImGui
 - `VkInstance`
 - `VkPhysicalDevice`
 - `VkDevice`
@@ -43,7 +43,7 @@ The ImGUI source files you're going to need is.
 
 ## Initialize
 
-First we need to initialize Vulkan. You should already have done so if you're following the (vulkan-tutorial)[https://vulkan-tutorial.com/]. After getting Vulkan running, we can start an ImGui context. It's recommended to create a seperate `VkDescriptorPool`, `VkRenderPass`, `VkCommandBuffer`, and `VkFramebuffer`. 
+First we need to initialize Vulkan. You should already have done so if you're following the (vulkan-tutorial)[https://vulkan-tutorial.com/]. After getting Vulkan running, we can start an Dear ImGui context. It's recommended to create a seperate `VkDescriptorPool`, `VkRenderPass`, `VkCommandBuffer`, and `VkFramebuffer`. 
 
 ```c++
 ImGui::CreateContext();
@@ -51,7 +51,7 @@ ImGuiIO& io = ImGui::GetIO(); (void)io;
 ImGui_Impl{platform}_InitForVulkan(window, true);
 ```
 
-After starting an ImGui context, we give ImGui some of the application Vulkan bindings through an `ImGui_ImplVulkan_InitInfo` struct. We then call `ImGui_ImplVulkan_Init()` passing in a pointer to the `ImGui_ImplVulkan_InitInfo` and a `VkRenderPass`. This will initalize Vulkan for ImGui. 
+After starting its context, we give Dear ImGui some of the application Vulkan bindings through an `ImGui_ImplVulkan_InitInfo` struct. We then call `ImGui_ImplVulkan_Init()` passing in a pointer to the `ImGui_ImplVulkan_InitInfo` and a `VkRenderPass`. This will initalize Vulkan for Dear ImGui. 
 
 We then upload font textures to the GPU.
 
@@ -83,7 +83,7 @@ ImGui::NewFrame();
 ### Ending Frame
 When we end the frame, we want to build the model so we can render this to the screen.
 ```c++
-ImGuiIO& io = ::ImGui::GetIO();
+ImGuiIO& io = ImGui::GetIO();
 ImGui::Render();
 if (io.ConfigFlags & ImGuiConfigFlags_ViewportsEnable){
 	ImGui::UpdatePlatformWindows();
