@@ -239,7 +239,7 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 **imgui_stdlib**: InputText() wrappers for C++ standard library (STL) type: std::string.
 <BR> [in main repository](https://github.com/ocornut/imgui/tree/master/misc/cpp)
 
-**imgui_scoped**:Add some RAII-style wrappers
+**imgui_scoped**: Add some RAII-style wrappers
 <BR> [#2096](https://github.com/ocornut/imgui/issues/2096), [#2197](https://github.com/ocornut/imgui/pull/2197)
 
 **imgui_sugar**: C++11 syntactic sugar for Dear ImGui with RAII guards
