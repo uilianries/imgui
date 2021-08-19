@@ -25,6 +25,7 @@ Individuals: support continued development and maintenance [here](https://www.pa
 - [Aras Pranckevičius](https://aras-p.info)
 - [Arkane Studios](https://www.arkane-studios.com)
 - [Dotemu](http://www.dotemu.com)
+- [Epic](https://www.unrealengine.com/en-US/megagrants)
 - [Framefield](http://framefield.com)
 - [Grinding Gear Games](https://www.grindinggear.com/)
 - [Hexagon](https://hexagonxalt.com/the-technology/xalt-visualization)
