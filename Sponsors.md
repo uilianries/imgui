@@ -25,11 +25,11 @@ Individuals: support continued development and maintenance [here](https://www.pa
 - [Activision](https://careers.activision.com/c/programmingsoftware-engineering-jobs)
 - [Adobe](https://www.adobe.com/products/medium.html)
 - [Aras Pranckevičius](https://aras-p.info)
+- [Arkane Studios](https://www.arkane-studios.com)
 - [Epic](https://www.unrealengine.com/en-US/megagrants)
 - [RAD Game Tools](http://www.radgametools.com)
 
 **Salty-caramel sponsors**
-- [Arkane Studios](https://www.arkane-studios.com)
 - [Dotemu](http://www.dotemu.com)
 - [Framefield](http://framefield.com)
 - [Grinding Gear Games](https://www.grindinggear.com/)
