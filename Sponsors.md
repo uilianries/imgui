@@ -21,13 +21,16 @@ Individuals: support continued development and maintenance [here](https://www.pa
 - [Google](https://github.com/google/filament)
 - [Nvidia](https://developer.nvidia.com/nvidia-omniverse)
 
-**Salty-caramel sponsors**
+**Chocolate sponsors**
 - [Activision](https://careers.activision.com/c/programmingsoftware-engineering-jobs)
 - [Adobe](https://www.adobe.com/products/medium.html)
 - [Aras Pranckevičius](https://aras-p.info)
+- [Epic](https://www.unrealengine.com/en-US/megagrants)
+- [RAD Game Tools](http://www.radgametools.com)
+
+**Salty-caramel sponsors**
 - [Arkane Studios](https://www.arkane-studios.com)
 - [Dotemu](http://www.dotemu.com)
-- [Epic](https://www.unrealengine.com/en-US/megagrants)
 - [Framefield](http://framefield.com)
 - [Grinding Gear Games](https://www.grindinggear.com/)
 - [Hexagon](https://hexagonxalt.com/the-technology/xalt-visualization)
@@ -39,7 +42,6 @@ Individuals: support continued development and maintenance [here](https://www.pa
 - [Nadeo](https://www.nadeo.com)
 - [Next Level Games](https://www.nextlevelgames.com/)
 - [Supercell](http://www.supercell.com)
-- [RAD Game Tools](http://www.radgametools.com)
 - [Recognition Robotics](https://recognitionrobotics.com/)
 - [Remedy Entertainment](https://www.remedygames.com/)
 - [Unit 2 Games](https://unit2games.com/)
