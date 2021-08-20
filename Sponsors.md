@@ -15,11 +15,13 @@ Individuals: support continued development and maintenance [here](https://www.pa
 
 **Platinum-chocolate sponsors**
 - [Blizzard](https://careers.blizzard.com/en-us/openings/engineering/all/all/all/1)
+
+**Double-chocolate sponsors**
+- [Ubisoft](https://montreal.ubisoft.com/fr/ubisoft-commandite-la-bibliotheque-dinterface-utilisateur-pour-c-dear-imgui/)
 - [Google](https://github.com/google/filament)
 - [Nvidia](https://developer.nvidia.com/nvidia-omniverse)
-- [Ubisoft](https://montreal.ubisoft.com/fr/ubisoft-commandite-la-bibliotheque-dinterface-utilisateur-pour-c-dear-imgui/)
 
-**Double-chocolate and Salty Caramel sponsors**
+**Salty Caramel sponsors**
 - [Activision](https://careers.activision.com/c/programmingsoftware-engineering-jobs)
 - [Adobe](https://www.adobe.com/products/medium.html)
 - [Aras Pranckevičius](https://aras-p.info)
@@ -44,7 +46,7 @@ Individuals: support continued development and maintenance [here](https://www.pa
 
 **Patreon supporters (2015-2019) <3**
 
-From November 2014 to December 2019, the development of Dear ImGui has been financially supported by generous users on Patreon. Here's a list of those supporters, roughly ordered by joining date (some people opted out of this list, please reach out to be added/removed). 
+From November 2014 to December 2019, the development of Dear ImGui has been financially supported by generous users on Patreon. Here's a list of those supporters, roughly ordered by joining date (some people opted out of this list, please reach out to be added/removed). (Note that the sponsoring levels here don't match the ones used for corps above)
 
 _Double Chocolate_
 - Greggman, Aras Pranckevičius, Runner, Aiden Koss.
