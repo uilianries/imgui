@@ -21,7 +21,7 @@ Individuals: support continued development and maintenance [here](https://www.pa
 - [Google](https://github.com/google/filament)
 - [Nvidia](https://developer.nvidia.com/nvidia-omniverse)
 
-**Salty Caramel sponsors**
+**Salty-caramel sponsors**
 - [Activision](https://careers.activision.com/c/programmingsoftware-engineering-jobs)
 - [Adobe](https://www.adobe.com/products/medium.html)
 - [Aras Pranckevičius](https://aras-p.info)
