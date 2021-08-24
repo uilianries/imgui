@@ -116,6 +116,7 @@ Help us complete this list!
 | Game | Unravel Two | Coldwood Interactive | | [shot](https://user-images.githubusercontent.com/8225057/41195062-e06fcb4e-6c26-11e8-9ef3-0a00c9541029.jpg)
 | Game | V-Rally 4 | **Kylotonn** | Sponsor | 
 | Game | VRMONLINE-NX | | | [homepage](https://vrmcloud.net/nx/beta) 
+| Game | Watch Dogs: Legion | **Ubisoft** | Sponsor | [homepage](https://www.ubisoft.com/en-gb/game/watch-dogs/legion) / [credits](https://www.mobygames.com/game/windows/watch-dogs-legion/credits)
 | Game | Warcraft III: Reforged | **Blizzard** | Sponsor | [homepage](https://playwarcraft3.com)
 | Game | World of Warcraft | **Blizzard** | Sponsor | [blog](https://worldofwarcraft.com/en-us/news/23507730/engineers-workshop-developing-for-mobile-and-pc)
 | Game | Warfork | | | [steam](https://store.steampowered.com/app/671610/Warfork/)
