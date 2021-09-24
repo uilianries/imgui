@@ -7,8 +7,8 @@ THIS IS WIP/DRAFT / [Discuss this article](https://github.com/ocornut/imgui/issu
 Proponent of the IMGUI paradigm have noticed that it was widely misunderstood, over and over.
 As of Feb 2021, even the [IMGUI Wikipedia page](https://en.wikipedia.org/wiki/Immediate_mode_GUI) is completely off the mark. There are reasons for that:
 - the acronym is very misleading.
-- people didn't do a good job enough explaining or documentation what IMGUI means?
-- they are different interpretation of what IMGUI means?
+- people didn't do a good enough job explaining or documenting what IMGUI means
+- they are different interpretation of what IMGUI means
 - many popular IMGUI implementation have made similar design choices, making it more confusing what is actually the soul and backbone of the IMGUI paradigm vs a set of implementation choices. 
 - the naming and success of "Dear ImGui" blurred the line a little bit further (should have used another name).
 
