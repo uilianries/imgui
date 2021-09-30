@@ -79,7 +79,7 @@ Main repository include examples for DirectX9, DirectX10, DirectX11, DirectX12, 
 | SDL_Renderer | **imgui_sdl**:<br>https://github.com/Tyyppi77/imgui_sdl<br>_IMPORTANT: This is a software rendering back-end for SDL_Renderer. SDL_Renderer is NOT the same as SDL. SDL_Renderer is an optional component of SDL aimed at replacing graphics API, ihmo it is outdated, not well designed, and doesn't bring much value. Please note you can use traditional OpenGL/DX9/DX11 backends in SDL even if you use SDL_Renderer (you'll need to chose the backend based on runtime graphics API). About SDL_Renderer not bringing much value: if you need high-level graphics helpers, Consider using SFML or openFrameworks or custom renderer instead of SDL + SDL_Renderer._
 | SFML | **imgui-sfml**:<br>https://github.com/eliasdaler/imgui-sfml |
 | Sokol | **sokol-samples**:<br>https://github.com/floooh/sokol-samples/blob/master/glfw/imgui-glfw.cc |
-| Unity | **dear-imgui-unity**:<br>https://github.com/realgamessoftware/dear-imgui-unity
+| Unity | **dear-imgui-unity**:<br>https://github.com/realgamessoftware/dear-imgui-unity<br>**uimgui**:<br>https://github.com/psydack/uimgui
 | Unreal Engine 4 | **UnrealImGui**:<br>https://github.com/segross/UnrealImGui <br>**UnrealEngine_ImGui**:<br>https://github.com/sronsse/UnrealEngine_ImGui<br>**UnrealNetImgui** (plugin for NetImgui):<br>https://github.com/sammyfreg/UnrealNetImgui
 | vtk | **imgui-vtk**:<br>https://github.com/trlsmax/imgui-vtk
 | VulkanHpp | **ImGui-VulkanHpp**:<br>https://github.com/takiyu/ImGui-VulkanHpp
