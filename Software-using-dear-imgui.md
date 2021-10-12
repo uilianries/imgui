@@ -193,6 +193,7 @@ Help us complete this list!
 | Engine | Harfang 3d | **Movida Production** | Sponsor | [homepage](https://www.harfang3d.com) / [shot](https://user-images.githubusercontent.com/8225057/39697837-9e758aba-51f2-11e8-91a9-834d33b5351f.jpg)
 | Engine | Hazel | TheCherno | | [github](https://github.com/TheCherno/Hazel)
 | App | HCK_ | | | [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-274636854)
+| App | OpenDiablo 2 HellSpawner | | | [github](https://github.com/OpenDiablo2/HellSpawner)
 | App | IceSL | Loria | | [homepage](http://shapeforge.loria.fr/icesl/)
 | App | IFStile | | | [homepage](https://ifstile.com)
 | App | ImChip8 | | | [github](https://github.com/uafio/ImChip8)
