@@ -291,7 +291,6 @@ Help us complete this list!
 | App | TexGraph | @galloscript | | [web](https://galloscript.itch.io/texgraph)
 | App | Timelapse View for HG | @jschmidt42 | | [github](https://github.com/jschmidt42/timelapse)
 | App | Tiny8bit | @floooh | | [web](https://floooh.github.io/tiny8bit/) / [shot](https://user-images.githubusercontent.com/1699414/50175000-02976080-02fc-11e9-9e51-42369c8e5792.png)
-| Engine | The Machinery | Our Machinery | | [homepage](https://ourmachinery.com/) / [shot](https://ourmachinery.com/images/release_21_7__icons.png)
 | Engine | Thorium 3D | | | [shots](https://github.com/ocornut/imgui/issues/772#issuecomment-268208362) / [shots](https://github.com/ocornut/imgui/issues/973#issuecomment-286752876)
 | App | Tracy | | | [bitbucket](https://bitbucket.org/wolfpld/tracy/src/master/) / [video](https://www.youtube.com/watch?v=fB5B46lbapc)
 | Engine | Tristeon | | | [github](https://github.com/HyperionDH/Tristeon)
