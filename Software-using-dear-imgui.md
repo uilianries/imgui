@@ -249,7 +249,7 @@ Help us complete this list!
 | App | OpenPlanet | | | [homepage](https://openplanet.nl/) / [shots](https://github.com/ocornut/imgui/issues/1269#issuecomment-359883857)
 | App | OpenSpace | | | [homepage](https://www.openspaceproject.com) / [github](https://github.com/OpenSpace/OpenSpace)
 | App | Orbital | @AlexAltea | | [github](https://github.com/AlexAltea/orbital)
-| Engine | Our Machinery | | | [homepage](https://ourmachinery.com/) / [shot](https://ourmachinery.com/images/release_21_7__icons.png)
+| Engine | The Machinery | Our Machinery | | [homepage](https://ourmachinery.com/) / [shot](https://ourmachinery.com/images/release_21_7__icons.png)
 | Engine | OverEngine | @OverShifted | | [github](http://github.com/OverShifted/OverEngine)
 | Engine | Overload | Overload Tech | | [github](https://github.com/adriengivry/Overload) / [homepage](http://overloadengine.org/) / [video](https://youtu.be/ARXSJh-ZMHM)
 | App | Palanteer | @dfeneyrou | | [github](https://github.com/dfeneyrou/palanteer) / [shot](https://user-images.githubusercontent.com/85834195/122688618-fd496280-d225-11eb-9f3c-e5696e2e7745.gif)
