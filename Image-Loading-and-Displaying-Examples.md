@@ -52,7 +52,7 @@ filename = "../MyImage01.jpg"; // Load from parent folder
 From the FAQ: "How can I display an image? What is ImTextureID, how does it works?"
 
 Short explanation:
-- You may use functions such as `ImGui::Image()`, `ImGui::ImageButton()` or lower-level `ImDrawList::AddImage()` to emit draw calls that will use your own textures.
+- You may use functions such as `ImGui::Image()`, `ImGui::ImageButton()` or lower-level `ImDrawList::AddImage()` to emit draw calls that will use your own textures. Using `ImGui::GetBackgroundDrawList()` you may submit AddImage() calls that are not part of a specific ImGui window but displayed between your background contents and ImGui windows. 
 - Actual textures are identified in a way that is up to the user/engine. Those identifiers are stored and passed as a `ImTextureID` value (which is no other than a `void*`).
 - Loading image files from the disk and turning them into a texture is not within the scope of Dear ImGui (for a good reason). You can read documentations or tutorials on your graphics API to understand how to upload textures. Onward in this document you'll find examples.
 
