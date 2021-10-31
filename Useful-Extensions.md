@@ -99,7 +99,7 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 
 **aiekick/ImGuiFileDialog** : (2019-2021) (win/linux/mac) thumbnails, advanced file styling, custom pane, bookmarks, etc..
 <BR> [github/aiekick/ImGuiFileDialog](https://github.com/aiekick/ImGuiFileDialog)
-<BR> ![](https://user-images.githubusercontent.com/1434736/104605256-8b6d5b80-567e-11eb-998e-4e6e5ef29f37.png)
+<BR> ![](https://user-images.githubusercontent.com/1434736/139579841-975a72de-c70c-4132-a3e3-20dd564d858f.png)
 
 **AirGuanZ's imgui-filebrowser**
 <BR> [github/AirGuanZ-imgui-filebrowser](https://github.com/AirGuanZ/imgui-filebrowser)
