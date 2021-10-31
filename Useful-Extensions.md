@@ -97,7 +97,7 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 <BR> [github/Limeoats/L2DFileDialog](https://github.com/Limeoats/L2DFileDialog)
 <BR> ![](https://user-images.githubusercontent.com/1193295/103759110-79067880-5013-11eb-9fc5-522f3bb9e5df.png)
 
-**aiekick/ImGuiFileDialog** (2019-2020)
+**aiekick/ImGuiFileDialog** : (2019-2021) (win/linux/mac) thumbnails, advanced file styling, custom pane, bookmarks, etc..
 <BR> [github/aiekick/ImGuiFileDialog](https://github.com/aiekick/ImGuiFileDialog)
 <BR> ![](https://user-images.githubusercontent.com/1434736/104605256-8b6d5b80-567e-11eb-998e-4e6e5ef29f37.png)
 
