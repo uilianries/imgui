@@ -154,7 +154,7 @@ Thank you to every past and present [[Sponsors]] for making this project possibl
 - https://github.com/mojang/imgui
 - https://github.com/thedmd/imgui
 - https://github.com/flix01/imgui
-- https://github.com/Csabix/imguibu
+- https://github.com/Csabix/imgui
 
 ### Ports, Rewrites, Clones
 
