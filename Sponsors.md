@@ -28,6 +28,7 @@ Individuals: support continued development and maintenance [here](https://www.pa
 - [Arkane Studios](https://www.arkane-studios.com)
 - [Epic](https://www.unrealengine.com/en-US/megagrants)
 - [RAD Game Tools](http://www.radgametools.com)
+- [Supercell](http://www.supercell.com)
 
 **Salty-caramel sponsors**
 - [Dotemu](http://www.dotemu.com)
@@ -41,7 +42,6 @@ Individuals: support continued development and maintenance [here](https://www.pa
 - [O-Net Communications (USA)](http://en.o-netcom.com)
 - [Nadeo](https://www.nadeo.com)
 - [Next Level Games](https://www.nextlevelgames.com/)
-- [Supercell](http://www.supercell.com)
 - [Recognition Robotics](https://recognitionrobotics.com/)
 - [Remedy Entertainment](https://www.remedygames.com/)
 - [Unit 2 Games](https://unit2games.com/)
