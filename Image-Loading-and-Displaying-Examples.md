@@ -1,6 +1,7 @@
 ## Index
 
 - [TL;DR;](#tl-dr) 
+- [Rendering your game scene into a texture](#rendering-your-game-scene-into-a-texture)
 - [About filenames](#about-filenames)
 - [About ImTextureId](#about-imtextureid)
 - [Example for OpenGL users](#Example-for-OpenGL-users)
@@ -12,6 +13,8 @@
 ## TL;DR;
 
 Loading an image file into a GPU texture is outside of the scope of Dear ImGui and has more to do with your Graphics API. Because this is such a recurring issue for Dear ImGui users, we are providing a guide here.
+
+This guide will have us load an image file from disk and display it in a Dear ImGui window.
 
 We will load this image: (Right-click to save as MyImage01.jpg, 20,123 bytes)
 
@@ -25,6 +28,17 @@ This is generally done in two steps:
 Once you have an image in GPU texture memory, you can use functions such as `ImGui::Image()` to request Dear ImGui to create a draw command that your Dear ImGui rendering back-end will turn into a draw call.
 
 (Note: Large games and applications are likely to be using texture formats that are compressed on the GPU or more advanced techniques that are outside of the scope of this article. Generally, if you are reading this you shouldn't need to worry or care about that.)
+
+##### [Return to Index](#index)
+
+## Rendering your game scene into a texture
+
+This guide covers loading an image file from disk and turning it into a GPU texture. Another frequent use of textures is wanting to rendering your application/game scene into a texture and then display that texture inside a Dear ImGui window. 
+
+This is not covered by this guide, however you should first read this guide in order to get a better understanding of how texture works. Then you can look up resources about rendering to a texture, e.g.
+- DirectX9: [google search](https://www.google.com/search?q=dx9+render+to+texture), [ID3DXRenderToSurface interface](https://docs.microsoft.com/en-us/windows/win32/direct3d9/id3dxrendertosurface)
+- DirectX11: [google search](https://www.google.com/search?q=dx11+render+to+texture)
+- OpenGL: [google search](https://www.google.com/search?q=opengl+render+to+texture)
 
 ##### [Return to Index](#index)
 
