@@ -2,9 +2,9 @@
 
 Vulkan is a modern low level graphics api. With vulkan there are changes that is different from OpenGL and DirectX.
 
-This wiki page is inspired by the article from (François Guthmann)[https://frguthmann.github.io/posts/vulkan_imgui/]
+This wiki page is inspired by the article from [François Guthmann](https://frguthmann.github.io/posts/vulkan_imgui/)
 
-This is no way a Vulkan tutorial. To get an idea of the Vulkan API please follow the (vulkan-tutorial)[https://vulkan-tutorial.com/]
+This is no way a Vulkan tutorial. To get an idea of the Vulkan API please follow the [vulkan-tutorial](https://vulkan-tutorial.com/)
 
 Note: I am using Vulkan-HPP headers, but you can certainly use the vulkan.h headers.
 
@@ -43,7 +43,7 @@ The source files you're going to need are:
 
 ## Initialize
 
-First we need to initialize Vulkan. You should already have done so if you're following the (vulkan-tutorial)[https://vulkan-tutorial.com/]. After getting Vulkan running, we can start an Dear ImGui context. It's recommended to create a seperate `VkDescriptorPool`, `VkRenderPass`, `VkCommandBuffer`, and `VkFramebuffer`. 
+First we need to initialize Vulkan. You should already have done so if you're following the [vulkan-tutorial](https://vulkan-tutorial.com/). After getting Vulkan running, we can start an Dear ImGui context. It's recommended to create a seperate `VkDescriptorPool`, `VkRenderPass`, `VkCommandBuffer`, and `VkFramebuffer`. 
 
 ```c++
 ImGui::CreateContext();
