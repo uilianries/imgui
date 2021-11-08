@@ -165,7 +165,7 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 
 # Terminal / Text mode
 
-**ImTui**: Immediate Mode Text-based User Interface (2019-2020)
+**ImTui**: Immediate Mode Text-based User Interface (2019-2021)
 <BR> [github/ggerganov/imtui](https://github.com/ggerganov/imtui)
 <BR> ![](https://user-images.githubusercontent.com/1193295/103759425-ffbb5580-5013-11eb-8bca-203679ac3a45.png)
 
