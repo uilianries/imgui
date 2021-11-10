@@ -55,6 +55,7 @@ Help us complete this list!
 | Game | Fallout 76 | Bethesda | | [homepage](https://fallout.bethesda.net) / [shot](https://user-images.githubusercontent.com/4228359/41322748-b9756e6e-6e78-11e8-8dfc-9a3437c1fd1a.png) 
 | Game | FIA European Truck Racing Championship | N-Racing | Sponsor | |
 | Game | Final Fantasy VII Remake | SquareEnix | | [video](https://www.youtube.com/watch?time_continue=675&v=DliMpiemUy8) / [talk](https://news.yahoo.co.jp/articles/50a6994718d63d323f9efb6b90f55a39b21c6f9a)
+| Game | Fishdom | Playrix | | [video](https://www.youtube.com/watch?v=siGNaiytfRo&t=77s)
 | Game | Fisherboy | | | [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-315665148) |
 | Game | Flight Simulator | Microsoft | | [homepage](https://www.flightsimulator.com/) / [video](https://youtu.be/10P21oFOxAU?t=481)
 | Game | For Honor | **Ubisoft** | Sponsor | [blog](https://montreal.ubisoft.com/en/ubisoft-sponsors-user-interface-library-for-c-dear-imgui/)
@@ -67,6 +68,7 @@ Help us complete this list!
 | Game | Hearts of Iron IV | | | [homepage](https://www.heartsofiron4.com) / [blog](https://devtrackers.gg/heartsofiron/p/67fbd64f-dev-diary-a-tech-lead-s-life)
 | Game | Hellbreaker | | | [homepage](https://enhex.itch.io/hellbreaker) / [shot](https://img.itch.zone/aW1hZ2UvMTY5MjQ4Lzg2MTI5NC5qcGc=/original/1InRJS.jpg)
 | Game | Hexterminate | | | [homepage](https://www.pedro-nunes.net/hexterminate/)
+| Game | Homescapes | Playrix | | [video](https://www.youtube.com/watch?v=siGNaiytfRo&t=77s)
 | Game | Hyper Scape | **Ubisoft** | Sponsor | [blog](https://montreal.ubisoft.com/en/ubisoft-sponsors-user-interface-library-for-c-dear-imgui/)
 | Game | Indivisible | Lab Zero Games | | [homepage](http://www.indivisiblegame.com/)
 | Game | iRacing | iRacing.com<br>Motorsport Simulations | | [blog](https://www.iracing.com/road-new-damage/)
