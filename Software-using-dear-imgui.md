@@ -279,6 +279,7 @@ Help us complete this list!
 | App | Sculptron | OTOY | | [post](https://render.otoy.com/forum/viewtopic.php?f=7&t=73278) / [video](https://www.youtube.com/watch?v=aEcKpEvTVcc)
 | App | SdfFontDesigner | @aiekick | | [github](https://github.com/aiekick/SdfFontDesigner) / [shot](https://twitter.com/hashtag/SdfFontDesigner)
 | App | SdfMesher | @aiekick | | [shot](https://twitter.com/aiekick/status/975873174930907136)
+| App | SDR++ | | | [homepage](https://sdrpp.org) / [github](https://github.com/AlexandreRouma/SDRPlusPlus)
 | Misc | Seed | EA | | [homepage](https://www.ea.com/seed) 
 | App | SHADERed | | | [homepage](https://shadered.org)
 | App | Slic3r Prusa Edition | Prusa Research | | [github](https://github.com/prusa3d/Slic3r)
