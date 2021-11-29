@@ -20,6 +20,7 @@ Individuals: support continued development and maintenance [here](https://www.pa
 - [Ubisoft](https://montreal.ubisoft.com/fr/ubisoft-commandite-la-bibliotheque-dinterface-utilisateur-pour-c-dear-imgui/)
 - [Google](https://github.com/google/filament)
 - [Nvidia](https://developer.nvidia.com/nvidia-omniverse)
+- [Supercell](http://www.supercell.com)
 
 **Chocolate sponsors**
 - [Activision](https://careers.activision.com/c/programmingsoftware-engineering-jobs)
@@ -28,7 +29,6 @@ Individuals: support continued development and maintenance [here](https://www.pa
 - [Arkane Studios](https://www.arkane-studios.com)
 - [Epic](https://www.unrealengine.com/en-US/megagrants)
 - [RAD Game Tools](http://www.radgametools.com)
-- [Supercell](http://www.supercell.com)
 
 **Salty-caramel sponsors**
 - [Dotemu](http://www.dotemu.com)
