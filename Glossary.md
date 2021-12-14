@@ -59,6 +59,8 @@
 
 ![Docking](https://user-images.githubusercontent.com/8225057/97541627-c0dea300-19c5-11eb-9416-8bb255e189a1.png)
 
+**Central Node**: a specific node inside in _Dockspace_ which: stay visible when empty, use leftover space instead of claiming space, can be made transparent (with the "PassthruCentralNode" flag). This is the node often perceived as an "empty node". It only gets initially created when a node is created with the "DockSpace" flag.
+
 **Docking** (noun): refers to the Docking subsystem as a whole.
 
 **Docking** (verb): refers to the action of combining one Window or Dock Node into another Window or Dock Node. A docking operation can be a "Split" (split the target window/node into two sections) or an "Merge" (add into the existing target window/node). 
