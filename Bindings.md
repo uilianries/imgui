@@ -41,7 +41,7 @@ Now on to the list...
 
 ## Framework/Engine Bindings/Backends
 
-Main repository include examples for DirectX9, DirectX10, DirectX11, DirectX12, Metal, OpenGL2/3, Vulkan, iOS, Allegro 5, and Marmalade, using frameworks such as Glfw, SDL2, Win32, Cocoa. 
+Main repository include examples for DirectX9, DirectX10, DirectX11, DirectX12, Metal, OpenGL2/3, Vulkan, iOS, Allegro 5, using frameworks such as GLFW, SDL2, Win32, Cocoa. 
 <br>https://github.com/ocornut/imgui/tree/master/examples
 
 | Framework | Project |
