@@ -63,6 +63,7 @@ Main repository include examples for DirectX9, DirectX10, DirectX11, DirectX12, 
 | Irrlicht Engine | **IrrIMGUI**:<br>https://github.com/ZahlGraf/IrrIMGUI |
 | LÖVE+LUA | **love-imgui**:<br>https://github.com/slages/love-imgui<br>**love-imgui (fork)**:<br>https://github.com/MikuAuahDark/love-imgui<br>**LuaJIT-ImGui (ffi)**:<br>https://github.com/sonoro1234/LuaJIT-ImGui<br>**cimgui-love (ffi)**:<br>https://github.com/apicici/cimgui-love |
 | Magnum | **magnum-integration**:<br>https://github.com/mosra/magnum-integration, [doc](https://doc.magnum.graphics/magnum/namespaceMagnum_1_1ImGuiIntegration.html), [example](https://doc.magnum.graphics/magnum/examples-imgui.html) |
+| Marmalade | **imgui_impl_marmalade**: <br>[backend](https://github.com/ocornut/imgui/tree/v1.85/backends) + [example](https://github.com/ocornut/imgui/tree/v1.85/examples/example_marmalade)
 | Monogame | **ImGui.NET for MonoGame**: <br>https://github.com/roy-t/ImGui.NET
 | NanoRT | **imgui_impl_raytrace**: <br>https://github.com/syoyo/imgui/tree/nanort/examples/raytrace_example |
 | nCine | **nCine Out-of-the-box integration**: <br>https://github.com/nCine/nCine and [example 1](https://github.com/nCine/nCine/blob/master/tests/apptest_scene.cpp), [example 2](https://github.com/nCine/nCine/blob/master/tests/apptest_simdbench.cpp)
