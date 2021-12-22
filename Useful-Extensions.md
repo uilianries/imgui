@@ -6,6 +6,7 @@
 - [Plotting, Graph](#plotting-graph)
 - [File Browsers / File Dialog](#file-browsers--file-dialog)
 - [Input Method Editors](#input-method-editors)
+- [Styling Improvements](#styling-improvements)
 - [Software Renderer/Rasterizer](#software-rendererrasterizer)
 - [Remoting](#remoting)
 - [Terminal / Text mode](#terminal--text-mode)
@@ -131,6 +132,12 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 **DearImGui-with-IMM32**: Microsoft IME Overlay using Dear ImGui (2020)
 <BR> [github/maildrop/DearImGui-with-IMM32](https://github.com/maildrop/DearImGui-with-IMM32)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96867731-64333380-146d-11eb-9aae-14abee458f93.png)
+
+# Styling Improvements
+
+**Thread: Using gradients in widgets** (2021)
+<BR> https://github.com/ocornut/imgui/issues/4722
+<BR> ![](https://user-images.githubusercontent.com/8225057/147111952-c821a269-5d3e-44b0-9bfa-73a12ee7539b.png)
 
 # Software Renderer/Rasterizer
 
