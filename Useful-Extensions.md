@@ -2,7 +2,7 @@
 
 - [Text Editors](#text-editors)
 - [Node Editors](#node-editors)
-- [Curves, Animations, Gradients](#curves-animations-gradients)
+- [Curves, Animations, Gradients Editors](#curves-animations-gradients-editors)
 - [Plotting, Graph](#plotting-graph)
 - [File Browsers / File Dialog](#file-browsers--file-dialog)
 - [Input Method Editors](#input-method-editors)
@@ -50,7 +50,7 @@ _(wiki editors: if you add new images, please make them 500x250)_
 
 Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 
-# Curves, Animations, Gradients
+# Curves, Animations, Gradients Editors
 
 **Cubic Bezier / Curve Editor** (2016-2019)
 <BR> [github](https://github.com/ocornut/imgui/issues/786)
