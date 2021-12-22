@@ -110,6 +110,7 @@ Help us complete this list!
 | Game | Structura | GreenGolem | | [steam](https://store.steampowered.com/app/1422980/Structura/) / [shot](https://user-images.githubusercontent.com/5115332/102346005-e7bd5c80-3fa6-11eb-8ed0-bbc17668719e.jpg)
 | Game | Super Crush KO | Vertex Pop | | [homepage](http://www.vertexpop.com/supercrushko/)
 | Game | Swords of Calengal | United Lines Studio | | [homepage](https://www.unitedlinesstudio.com/)
+| Game | Teamfight Tactics | Riot Games | | [blog](https://www.upcomer.com/the-three-innovators-how-the-tft-live-balance-team-built-patch-11-24/) / [shot](https://user-images.githubusercontent.com/2294209/145396948-c7ee3944-2925-4d2e-b83c-c5cd69fce621.png)
 | Game | Tearaway | **Media Molecule** | Sponsor | [homepage](http://tearaway.mediamolecule.com/)
 | Game | Tearaway Unfolded | **Media Molecule** | Sponsor | [homepage](http://tearaway.mediamolecule.com/) / [shots](https://github.com/ocornut/imgui/issues/539#issuecomment-193710713)
 | Game | Teardown | Tuxedo Labs | | [homepage](http://teardowngame.com) / [shot](https://user-images.githubusercontent.com/8225057/79001463-d3d77600-7b4e-11ea-9d7c-7469157f5feb.jpg)
