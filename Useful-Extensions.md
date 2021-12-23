@@ -307,6 +307,10 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 <BR> [issue #1537](https://github.com/ocornut/imgui/issues/1537)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96878596-51bff680-147b-11eb-8ded-f0bc241fa984.png)
 
+**ImGui Command Palette**
+<BR> [github/hnOsmium0001/imgui-command-palette](https://github.com/hnOsmium0001/imgui-command-palette)
+<BR> ![](https://user-images.githubusercontent.com/36975818/147279807-5123e130-80f5-4f82-bab4-099a29b7ca95.png)
+
 Also [Useful Widgets](https://github.com/ocornut/imgui/labels/useful%20widgets) Tag in Issues.
 
 # Third party repos
