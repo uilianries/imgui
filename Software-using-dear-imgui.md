@@ -181,6 +181,7 @@ Help us complete this list!
 | Engine | Filament | **Google** | Sponsor | [github](https://github.com/google/filament)
 | Engine | FishEngine | @yushroom | | [github](https://github.com/yushroom/FishEngine) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-282622054)
 | App | FlexBV | pldaniels | | [homepage](https://pldaniels.com/flexbv/)
+| App | Fluid FX | CodeManua | | [homepage](https://codemanu.itch.io/fluid-fx)
 | App | ftpd | @mtheall | | [github](https://github.com/mtheall/ftpd/)
 | Engine | GeeXLab | | | [homepage](http://www.geeks3d.com/geexlab/)
 | App | Geocod/Geogram | Loria | | [homepage](http://homepages.loria.fr/BLevy/GEOGRAM) / [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-249678740) / [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-270942101) |
