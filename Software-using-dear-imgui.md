@@ -69,7 +69,7 @@ Help us complete this list!
 | Game | Hellbreaker | Enhex | | [homepage](https://enhex.itch.io/hellbreaker) / [shot](https://img.itch.zone/aW1hZ2UvMTY5MjQ4Lzg2MTI5NC5qcGc=/original/1InRJS.jpg)
 | Game | Hexterminate | | | [homepage](https://www.pedro-nunes.net/hexterminate/)
 | Game | Homescapes | Playrix | | [video](https://www.youtube.com/watch?v=siGNaiytfRo&t=77s)
-| Game | Hyper Scape | **Ubisoft** | Sponsor | [blog](https://montreal.ubisoft.com/en/ubisoft-sponsors-user-interface-library-for-c-dear-imgui/)
+| Game | Hyper Scape | **Ubisoft** | Sponsor | [blog](https://montreal.ubisoft.com/en/ubisoft-sponsors-user-interface-library-for-c-dear-imgui/) / [video](https://www.youtube.com/watch?v=Q9gBfhZWQ6E)
 | Game | Indivisible | Lab Zero Games | | [homepage](http://www.indivisiblegame.com/)
 | Game | iRacing | iRacing.com<br>Motorsport Simulations | | [blog](https://www.iracing.com/road-new-damage/)
 | Game | Jurassic World Evolution | Frontier | | [homepage](http://www.jurassicworldevolutiongame.com)
