@@ -115,7 +115,8 @@ Thank you to every past and present [[Sponsors]] for making this project possibl
 ### Inputs
 
 - Search in Issues: [inputs](https://github.com/ocornut/imgui/issues?q=label%3Ainputs)
-- Input / IO queue for very low framerate applications: [gist](https://gist.github.com/ocornut/8417344f3506790304742b07887adf9f)
+- 1.87 new IO event queue API [#4921](https://github.com/ocornut/imgui/issues/4921)
+- ~~Input / IO queue for very low framerate applications: [gist](https://gist.github.com/ocornut/8417344f3506790304742b07887adf9f)~~
 
 ##### [Return to Index](#index)
 
