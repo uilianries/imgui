@@ -22,7 +22,7 @@ We will load this image: (Right-click to save as MyImage01.jpg, 20,123 bytes)
 
 This is generally done in two steps:
 
-- Load image from the disk into RAM. In this example, we'll decompress the image into RGBA a image. You may use helper librairies such as [stb_image.h](https://github.com/nothings/stb/blob/master/stb_image.h) to do this.
+- Load image from the disk into RAM. In this example, we'll decompress the image into RGBA a image. You may use helper libraries such as [stb_image.h](https://github.com/nothings/stb/blob/master/stb_image.h) to do this.
 - Load the raw decompressed RGBA image from RAM into a GPU texture. You'll want to use dedicated functions of your graphics API (e.g. OpenGL, DirectX11) to do this.
 
 Once you have an image in GPU texture memory, you can use functions such as `ImGui::Image()` to request Dear ImGui to create a draw command that your Dear ImGui rendering back-end will turn into a draw call.
@@ -47,7 +47,7 @@ This is not covered by this guide, however you should first read this guide in o
 **Please note that many new C/C++ users have issues with their files _because the filename they provide is wrong_.**
 
 Two things to watch for:
-- In C/C++ and most programming languages if you want to use a backslash `\` within a string literal, you need to write it double backslash `\\`. At it happens, Windows uses backslashes as a path separator, so be mindful.
+- In C/C++ and most programming languages if you want to use a backslash `\` within a string literal, you need to write it double backslash `\\`. As it happens, Windows uses backslashes as a path separator, so be mindful.
 ```cpp
 filename = "C:\MyFiles\MyImage01.jpg"         // This is INCORRECT!!
 filename = "C:\\MyFiles\\MyImage01.jpg"       // This is CORRECT
