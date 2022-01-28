@@ -4,7 +4,7 @@
 Draws formatted text. The format options are like `printf`.
 ### Function Signature
 ```c++
-IMGUI_API void Text(const char* fmt, ...)
+IMGUI_API void Text(const char* fmt, ...);
 ```
 ### Example
 ```c++
