@@ -553,6 +553,25 @@ ImGui::Text("uv1 = (%f, %f)", uv1.x, uv1.y);
 ImGui::Image((void*)(intptr_t)my_image_texture, ImVec2(100.0f, 200.0f), uv0, uv1);
 ```
 
+Same code written differently:
+
+```cpp
+ImVec2 display_min = ImVec2(10.0f, 10.0f);
+ImVec2 display_size = ImVec2(100.0f, 200.0f);
+
+// Normalized coordinates of pixel (10,10) in a 256x256 texture.
+ImVec2 uv0 = ImVec2(display_min.x / 256.0f, display_min.y / 256.0f);
+
+// Normalized coordinates of pixel (110,210) in a 256x256 texture.
+ImVec2 uv1 = ImVec2((display_min.x + display_size.x) / 256.0f, (display_min.y + display_size.y) / 256.0f);
+
+ImGui::Text("uv0 = (%f, %f)", uv0.x, uv0.y);
+ImGui::Text("uv1 = (%f, %f)", uv1.x, uv1.y);
+
+// Display the 100x200 section starting at (10,10)
+ImGui::Image((void*)(intptr_t)my_image_texture, ImVec2(display_size.x, display_size.y), uv0, uv1);
+```
+
 ![Using UV](https://user-images.githubusercontent.com/8225057/79073825-f9988280-7ce8-11ea-8596-1fd495720ffa.png)
 
 You can look up "texture coordinates" from other resources such as your favorite search engine, or graphics tutorials.
