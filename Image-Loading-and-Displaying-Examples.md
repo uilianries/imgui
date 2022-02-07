@@ -8,7 +8,7 @@
 - [Example for DirectX9 users](#Example-for-DirectX9-users)
 - [Example for DirectX11 users](#Example-for-DirectX11-users)
 - [Example for DirectX12 users](#Example-for-DirectX12-users)
-- [More: About Texture Coordinates](#About-texture-coordinates)
+- [About Texture Coordinates](#About-texture-coordinates)
 
 ## TL;DR;
 
