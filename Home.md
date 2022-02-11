@@ -197,6 +197,7 @@ Thank you to every past and present [[Sponsors]] for making this project possibl
 - 2021-04: Thinking in Immediate: [video](https://www.youtube.com/watch?v=a1VLfd3RpCk)
 - 2021-05: ImGui-SFML: Using CMake and managing dependencies: [blog](https://eliasdaler.github.io/using-cmake/)
 - 2021-05: ImGui + GLFW Tutorial: [video](https://www.youtube.com/watch?v=VRwhNKoxUtk)
+- 2022-02: BEST WAY to make Desktop Applications in C++: [video](https://www.youtube.com/watch?v=vWXrFetSH8w)
 
 **Korean**
 - 2018-01: GLFW 사용 방법 정리 (Windows 10, VS2017) [3dshovel.blogspot.com](https://3dshovel.blogspot.com/2018/01/glfw-windows-10-visual-studio-2017.html)
