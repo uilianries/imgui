@@ -25,6 +25,7 @@ Thank you to every past and present [[Sponsors]] for making this project possibl
   - [Notable forks](#notable-forks)
   - [Ports, Rewrites, Clones](#ports-rewrites-clones)
   - [Related/Suggested Libraries](#relatedsuggested-libraries)
+  - [Job Board](#job-board)
 - [Articles, Videos](#articles-videos)
   - [Articles About Dear ImGui](#articles-about-dear-imgui)
   - [About the IMGUI paradigm](#about-the-imgui-paradigm)
@@ -171,6 +172,10 @@ Thank you to every past and present [[Sponsors]] for making this project possibl
 - small libraries with minimal dependencies https://github.com/nothings/single_file_libs
 
 ##### [Return to Index](#index)
+
+### Job Board
+
+See https://github.com/ocornut/imgui/issues/5031 for industry job offers relating to use of Dear ImGui.
 
 # Articles, Videos
 
