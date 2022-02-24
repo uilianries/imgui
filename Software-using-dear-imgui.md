@@ -55,6 +55,7 @@ Help us complete this list!
 | Game | Euro Truck Simulator 2 | SCS Software | | [video](https://www.youtube.com/watch?v=rx43bLMZmxU)
 | Game | Fallout 76 | Bethesda | | [homepage](https://fallout.bethesda.net) / [shot](https://user-images.githubusercontent.com/4228359/41322748-b9756e6e-6e78-11e8-8dfc-9a3437c1fd1a.png) 
 | Game | FIA European Truck Racing Championship | N-Racing | Sponsor | |
+| Game | FightNJokes | Mental Drink | | [steam](https://store.steampowered.com/app/1328400/FightNJokes/) / [shots](https://github.com/ocornut/imgui/issues/4451#issuecomment-1049744030)
 | Game | Final Fantasy VII Remake | SquareEnix | | [video](https://www.youtube.com/watch?time_continue=675&v=DliMpiemUy8) / [talk](https://news.yahoo.co.jp/articles/50a6994718d63d323f9efb6b90f55a39b21c6f9a)
 | Game | Fishdom | Playrix | | [video](https://www.youtube.com/watch?v=siGNaiytfRo&t=77s)
 | Game | Fisherboy | | | [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-315665148) |
