@@ -168,6 +168,7 @@ Help us complete this list!
 | App | Desktop+ OpenVR Overlay | @elvissteinjr | | [github](https://github.com/elvissteinjr/DesktopPlus) / [shot](https://raw.githubusercontent.com/elvissteinjr/DesktopPlus/master/docs/screenshot.jpg)
 | Engine | DiligentEngine | | | [github](https://github.com/DiligentGraphics/DiligentEngine)
 | Engine | Directus3D | @PanosK92 | | [github](https://github.com/PanosK92/Directus3D) / [shot](https://raw.githubusercontent.com/PanosK92/Directus3D/master/Assets/screenshot-v0.3_preview2.jpg)
+| Plugins | KXStudio / DISTRHO Ildaeil | | | [github](https://github.com/DISTRHO/Ildaeil/tree/v1.0#screenshots)
 | App | Duckstation | | | [github](https://github.com/stenzek/duckstation)
 | App | Dolphin Emulator | | | [homepage](https://dolphin-emu.org) / [patch note](https://dolphin-emu.org/blog/2019/02/01/dolphin-progress-report-dec-2018-and-jan-2019/)
 | App | Downhole Imaging Technology | | | [homepage](https://darkvisiontech.com/)
