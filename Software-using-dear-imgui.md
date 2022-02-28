@@ -235,6 +235,7 @@ Help us complete this list!
 | App | LuxCoreUI | | | [github](https://github.com/LuxCoreRender/LuxCore) / [shots](https://github.com/ocornut/imgui/issues/123#issuecomment-163197372)
 | Misc | Magic Leap SDK | Magic Leap | | [homepage](https://creator.magicleap.com/home)
 | App | MAME (alternate debugger) | | | [homepage](http://mamedev.org/) / [shot](https://github.com/ocornut/imgui/issues/539#issuecomment-211326923)
+| App | MetalNES | @iaddis | | [github](https://github.com/iaddis/metalnes)
 | App | Milton | | | [homepage](https://www.miltonpaint.com/)
 | App | MiniDart | @ebachard | | [homepage](https://framagit.org/ericb/miniDart) / [shot](https://framagit.org/ericb/miniDart/wikis/Pr%C3%A9sentation-du-logiciel-miniDart)
 | App | Mitsuba IM | | | [homepage](http://alphanew.net/projects.php)
