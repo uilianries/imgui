@@ -46,6 +46,7 @@ Individuals: support continued development and maintenance [here](https://www.pa
 - [Recognition Robotics](https://recognitionrobotics.com/)
 - [Remedy Entertainment](https://www.remedygames.com/)
 - [Unit 2 Games](https://unit2games.com/)
+- [Wonderland Engine](https://wonderlandengine.com/)
 
 **Patreon supporters (2015-2019) <3**
 
