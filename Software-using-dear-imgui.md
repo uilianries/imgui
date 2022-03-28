@@ -153,6 +153,7 @@ Help us complete this list!
 | Engine | BabylonCpp | @samdauwe | | [github](https://github.com/samdauwe/BabylonCpp) / [video](https://www.youtube.com/watch?v=o05_5Wyzv54)
 | App | BASIC8 | Tony Wang | | [homepage](https://paladin-t.github.io/b8/) / [steam](https://store.steampowered.com/app/767240/)
 | Engine | Bezel Engine | Nintendo | | [shot](https://user-images.githubusercontent.com/8225057/105606992-9621a200-5d9c-11eb-8b60-fea1e71f43a7.jpg)
+| App | Browser Tamer | @aloneguid | | [homepage](https://www.aloneguid.uk/projects/bt/)
 | App | Cacu Studio | | | [video](https://v.qq.com/x/page/i0181kqlx02.html)
 | App | CADRays | Open Cascade | | [homepage](https://www.opencascade.com/content/cadrays) / [video](https://www.youtube.com/watch?v=D6_uGxmhuVk) 
 | App | Cafe-Shader-Studio | | | [github](https://github.com/KillzXGaming/Cafe-Shader-Studio) / [shot](https://user-images.githubusercontent.com/8225057/118979693-04f0bf80-b979-11eb-9244-bb3268210571.png)
@@ -339,4 +340,3 @@ Help us complete this list!
 | Plugin | XSquawkBox 2.0 | | | [homepage](http://xsb.xsquawkbox.net/) / [shot](http://xsb.xsquawkbox.net/wp-content/uploads/sites/6/2018/03/XSB-NewUI-WIP.png) / [github](https://github.com/kuroneko/xsb_public/) |
 | Engine | XT | | | [github](https://github.com/invghost/XT) |
 | Misc | Zep | | | [github](https://github.com/cmaughan/zep) |
-| App | Browser Tamer | @aloneguid | | [homepage](https://www.aloneguid.uk/projects/bt/)
