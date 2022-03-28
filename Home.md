@@ -138,6 +138,7 @@ Thank you to every past and present [[Sponsors]] for making this project possibl
 (Please also check our [examples/](https://github.com/ocornut/imgui/tree/master/examples) folder in the repo, they work fine as starter apps!)
 
 - asap: Starter project for portable app with optional GUI (GLFW/ImGui) [github/abdes/asap](https://github.com/abdes/asap)
+- GGWeb: Template for making a GUI app with C++ / Dear ImGui / SDL / OpenGL / Emscripten that can run both natively and in the browser. [github/ggerganov/ggweb](https://github.com/ggerganov/ggweb)
 - imgui-app: amalgamation of Dear ImGui and Sokol into two files [github/pplux/imgui-app](https://github.com/pplux/imgui-app)
 - Bimpy: bundled imgui for python: [github/podgorskiy/bimpy](https://github.com/podgorskiy/bimpy)
 - giu: Cross platform rapid GUI framework for golang based on Dear ImGui. [github/AllenDang/giu](https://github.com/AllenDang/giu)
