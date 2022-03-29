@@ -73,6 +73,16 @@ It's particularly important we develop this section to dissociate the promise (s
 
 _TODO_
 
+### Modeless write-up
+
+https://news.ycombinator.com/item?id=30814797
+
+_"Immediate mode is a style of API where important state is kept in user code instead of being retained inside the API implementation. For example, an immediate mode GUI checkbox implementation does not store a boolean value determining whether the checkbox is checked. Instead, user code passes that information as a function parameter whenever the UI needs to be drawn. Even the fact that a checkbox exists on screen is not stored in the GUI library. The checkbox is simply drawn when user code requests it each frame."_
+
+_"Counter intuitively this is often less complicated than the traditional "retained mode" style of GUI libraries because there is no duplication of state. That means no setup or teardown of widget object trees, no syncing of state between GUI objects and application code, no hooking up or removing event handlers, no "data binding", etc. The structure and function of your UI is naturally expressed in the code of the functions that draw it, instead of in ephemeral and opaque object trees that only exist in RAM after they're constructed at runtime. You retain control over the event loop and you define the order in which everything happens rather than receiving callbacks in some uncertain order from someone else's event dispatching code."_
+
+_"Crucially, "immediate mode" is a statement about the interface of the library, not the internals. Common objections of the form "immediate mode GUIs can't support X" or "immediate mode GUIs are inefficient because Y" are generally false and based on a misconception that immediate mode GUIs are forbidden from retaining any internal state at all. It is perfectly normal for an immediate mode library to retain various types of internal state for efficiency or other reasons, and this is fine as long as the state stored in user code remains the source of truth. This can even go as far as internally constructing a whole retained widget tree and maintaining it via React-like tree diffing."_
+
 ### Vurtun's write-up
 
 [@vurtun](https://github.com/vurtun) said very eloquently around April 2019:
