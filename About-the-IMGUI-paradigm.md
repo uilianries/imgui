@@ -75,6 +75,7 @@ _TODO_
 
 ### Modeless write-up
 
+March 2022:
 https://news.ycombinator.com/item?id=30814797
 
 _"Immediate mode is a style of API where important state is kept in user code instead of being retained inside the API implementation. For example, an immediate mode GUI checkbox implementation does not store a boolean value determining whether the checkbox is checked. Instead, user code passes that information as a function parameter whenever the UI needs to be drawn. Even the fact that a checkbox exists on screen is not stored in the GUI library. The checkbox is simply drawn when user code requests it each frame."_
