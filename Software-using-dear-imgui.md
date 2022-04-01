@@ -270,6 +270,7 @@ Help us complete this list!
 | App | Parsec | | | [homepage](https://parsecgaming.com)
 | App | Patterns of Life | @armadillu | | [shots](https://github.com/ocornut/imgui/issues/1902#issuecomment-413715089)
 | App | PiSP | | | [github](https://github.com/twentytwoo/PiSP)
+| App | Pixel FX Designer 2 | | | [itch](https://codemanu.itch.io/particle-fx-designer], [steam](https://store.steampowered.com/news/app/939360/view/3146325916575568976), [shot](https://user-images.githubusercontent.com/8225057/161227487-502aca98-b02d-4e2e-9b50-75b0b4d9030d.png)
 | Engine | PhyreEngine | SIE R&D West | | [homepage](http://rdwest.playstation.com/research-technology/phyreengine)
 | App | Project Lavina | ChaosGroup | | [homepage](https://www.chaosgroup.com/lavina) / [video](https://www.youtube.com/watch?v=eW33uFWoI-M)
 | App | Protosmasher | | | [homepage](www.protosmasher.net)
