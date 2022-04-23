@@ -1,7 +1,5 @@
 Welcome to the Dear ImGui wiki! Feel free to edit and contribute!
 
-Thank you to every past and present [[Sponsors]] for making this project possible.
-
 # Index
 
 - [General](#general)
