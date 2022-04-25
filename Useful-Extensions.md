@@ -2,8 +2,8 @@
 
 - [Text Editors](#text-editors)
 - [Node Editors](#node-editors)
-- [Curves, Animations, Gradients Editors](#curves-animations-gradients-editors)
 - [Plotting, Graph](#plotting-graph)
+- [Curves, Animations, Gradients Editors](#curves-animations-gradients-editors)
 - [File Browsers / File Dialog](#file-browsers--file-dialog)
 - [Input Method Editors](#input-method-editors)
 - [Knobs](#knobs)
@@ -52,6 +52,24 @@ _(wiki editors: if you add new images, please make them 500x250)_
 
 Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 
+# Plotting, Graph
+
+**ImPlot**: Advanced 2D Plotting for Dear ImGui (2020-2022)
+<BR> [github/epezent/implot](https://github.com/epezent/implot)
+<BR> ![](https://user-images.githubusercontent.com/1193295/96738879-79ea1f80-13bf-11eb-8e96-97f4acc8b79d.png)
+
+**imgui-plot** (2019)
+<BR> [github/soulthreads/imgui-plot](https://github.com/soulthreads/imgui-plot)
+<BR> ![](https://user-images.githubusercontent.com/1193295/96739012-9f772900-13bf-11eb-831b-e4b1ba82e152.png)
+
+**Flame Graph Widget** (2019)
+<BR> [issue #2859](https://github.com/ocornut/imgui/issues/2859)
+<BR> ![](https://user-images.githubusercontent.com/1193295/96739187-d0575e00-13bf-11eb-9afa-6f0c2bc4dd0f.png)
+
+**Plot Var Helper** (2016)
+<BR> [wiki](https://github.com/ocornut/imgui/wiki/plot_var_example)
+<BR> ![](https://user-images.githubusercontent.com/1193295/96739299-f0871d00-13bf-11eb-8a2b-fa670070477d.png)
+
 # Curves, Animations, Gradients Editors
 
 **Cubic Bezier / Curve Editor** (2016-2019)
@@ -75,24 +93,6 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 <BR> [gitlab/GroGy/im-neo-sequencer](https://gitlab.com/GroGy/im-neo-sequencer)
 <BR> [Discussion](https://github.com/ocornut/imgui/issues/4967)
 <BR> ![](https://user-images.githubusercontent.com/33522201/151681341-641498b6-cecd-4a54-be97-f2de26d6004e.png)
-
-# Plotting, Graph
-
-**ImPlot**: Advanced 2D Plotting for Dear ImGui (2020-2021)
-<BR> [github/epezent/implot](https://github.com/epezent/implot)
-<BR> ![](https://user-images.githubusercontent.com/1193295/96738879-79ea1f80-13bf-11eb-8e96-97f4acc8b79d.png)
-
-**imgui-plot** (2019)
-<BR> [github/soulthreads/imgui-plot](https://github.com/soulthreads/imgui-plot)
-<BR> ![](https://user-images.githubusercontent.com/1193295/96739012-9f772900-13bf-11eb-831b-e4b1ba82e152.png)
-
-**Flame Graph Widget** (2019)
-<BR> [issue #2859](https://github.com/ocornut/imgui/issues/2859)
-<BR> ![](https://user-images.githubusercontent.com/1193295/96739187-d0575e00-13bf-11eb-9afa-6f0c2bc4dd0f.png)
-
-**Plot Var Helper** (2016)
-<BR> [wiki](https://github.com/ocornut/imgui/wiki/plot_var_example)
-<BR> ![](https://user-images.githubusercontent.com/1193295/96739299-f0871d00-13bf-11eb-8a2b-fa670070477d.png)
 
 # File Browsers / File Dialog
 
@@ -146,7 +146,7 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 <BR> ![](https://user-images.githubusercontent.com/8225057/165107365-b1ee845e-a858-405d-85e9-f892a7f4545e.png)
 
 **imgui-knobs**: This is a port/adaptation of imgui-rs-knobs (2022)
-![image](https://user-images.githubusercontent.com/8225057/165107682-88d91eec-387b-493c-859b-17fcfa5b14ba.png)
+<BR> ![image](https://user-images.githubusercontent.com/8225057/165107682-88d91eec-387b-493c-859b-17fcfa5b14ba.png)
 <BR> [github/altschuler/imgui-knobs](https://github.com/altschuler/imgui-knobs)
 
 **thread**
@@ -158,6 +158,10 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 **Thread: Using gradients in widgets** (2021)
 <BR> https://github.com/ocornut/imgui/issues/4722
 <BR> ![](https://user-images.githubusercontent.com/8225057/147111952-c821a269-5d3e-44b0-9bfa-73a12ee7539b.png)
+
+**imgui-spectrum** ImGui library [...] embracing Adobe's Spectrum guidelines
+<BR> https://github.com/adobe/imgui/blob/master/docs/Spectrum.md
+<BR> ![](https://user-images.githubusercontent.com/8225057/165113374-8f5d815d-54d0-47ed-bbc5-afa1eb026af5.png)
 
 # Software Renderer/Rasterizer
 
