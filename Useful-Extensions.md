@@ -6,6 +6,7 @@
 - [Plotting, Graph](#plotting-graph)
 - [File Browsers / File Dialog](#file-browsers--file-dialog)
 - [Input Method Editors](#input-method-editors)
+- [Knobs](#knobs)
 - [Styling Improvements](#styling-improvements)
 - [Software Renderer/Rasterizer](#software-rendererrasterizer)
 - [Remoting](#remoting)
@@ -137,6 +138,20 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 **DearImGui-with-IMM32**: Microsoft IME Overlay using Dear ImGui (2020)
 <BR> [github/maildrop/DearImGui-with-IMM32](https://github.com/maildrop/DearImGui-with-IMM32)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96867731-64333380-146d-11eb-9aae-14abee458f93.png)
+
+# Knobs
+
+**imgui-rs-knobs**: A library for designing knobs for imgui-rs [Rust] (2021)
+<BR> [github/DGriffin91/imgui-rs-knobs](https://github.com/DGriffin91/imgui-rs-knobs)
+<BR> ![](https://user-images.githubusercontent.com/8225057/165107365-b1ee845e-a858-405d-85e9-f892a7f4545e.png)
+
+**imgui-knobs**: This is a port/adaptation of imgui-rs-knobs (2022)
+![image](https://user-images.githubusercontent.com/8225057/165107682-88d91eec-387b-493c-859b-17fcfa5b14ba.png)
+<BR> [github/altschuler/imgui-knobs](https://github.com/altschuler/imgui-knobs)
+
+**thread**
+<BR> [issue #942](https://github.com/ocornut/imgui/issues/942#issuecomment-268369298)
+<BR> ![](https://user-images.githubusercontent.com/1193295/96877128-8cc12a80-1479-11eb-9d19-904ceaf8e469.png)
 
 # Styling Improvements
 
@@ -303,10 +318,6 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 
 **ImGuiBuilder**
 <BR> [github/Code-Building/ImGuiBuilder](https://github.com/Code-Building/ImGuiBuilder)
-
-**Knobs**
-<BR> [issue #942](https://github.com/ocornut/imgui/issues/942#issuecomment-268369298)
-<BR> ![](https://user-images.githubusercontent.com/1193295/96877128-8cc12a80-1479-11eb-9d19-904ceaf8e469.png)
 
 **Toggle Button**
 <BR> [issue #1537](https://github.com/ocornut/imgui/issues/1537)
