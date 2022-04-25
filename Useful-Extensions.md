@@ -7,7 +7,8 @@
 - [File Browsers / File Dialog](#file-browsers--file-dialog)
 - [Input Method Editors](#input-method-editors)
 - [Knobs](#knobs)
-- [Styling Improvements](#styling-improvements)
+- [Layout](#layout)
+- [Styling](#styling)
 - [Software Renderer/Rasterizer](#software-rendererrasterizer)
 - [Remoting](#remoting)
 - [Terminal / Text mode](#terminal--text-mode)
@@ -153,7 +154,12 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 <BR> [issue #942](https://github.com/ocornut/imgui/issues/942#issuecomment-268369298)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96877128-8cc12a80-1479-11eb-9d19-904ceaf8e469.png)
 
-# Styling Improvements
+# Layout
+
+**Stack Layout implementation**
+<BR> https://github.com/ocornut/imgui/pull/846
+
+# Styling
 
 **Thread: Using gradients in widgets** (2021)
 <BR> https://github.com/ocornut/imgui/issues/4722
