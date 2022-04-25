@@ -70,7 +70,7 @@ Welcome to the Dear ImGui wiki! Feel free to edit and contribute!
 
 ### Gallery
 
-- [Gallery #3793](https://github.com/ocornut/imgui/issues/3793) Post your screenshots / code here
+- [Gallery #5243](https://github.com/ocornut/imgui/issues/5243) Post your screenshots / code here
 - [[Useful extensions/widgets gallery|Useful-extensions]]
 
 ### Notable branches
