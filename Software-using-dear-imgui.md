@@ -2,7 +2,7 @@ Also see: [[Quotes]].
 
 Help us complete this list!
 
-- This is a list of disclosed users only. The game industry has traditionally been rather private, and a majority of of large game studios who are using Dear ImGui haven't disclosed their use publicly. If you work for one of those studio, consider disclosing your use via in-game credits, tech-oriented publications / blog posts, community shout-outs, or simply posting in the [gallery threads](https://github.com/ocornut/imgui/issues/2529). I work or talked with some of those studios but I am unable to disclose them without their approval.
+- **This is a list of disclosed users only**. The game industry has traditionally been rather private, and a majority of large game studios who are using Dear ImGui haven't disclosed their use publicly. If you work for one of those studio, consider disclosing your use via in-game credits, tech-oriented publications / blog posts, community shout-outs, or simply posting in the [gallery threads](https://github.com/ocornut/imgui/issues/2529). I work or talked with some of those studios but I am unable to disclose them without their approval.
 
 - The field listing author/company/team name is provided to make this list easier to parse and contextualize. It doesn't imply any endorsement from said author/company/team. 
 
