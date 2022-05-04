@@ -131,7 +131,7 @@ Welcome to the Dear ImGui wiki! Feel free to edit and contribute!
 - Fips (fips-imgui): fipsified imgui for fips build system [github/fungos/fips-imgui](https://github.com/fungos/fips-imgui)
 - GN (Chromium, ninja) BUILD.gn file: [github/ndsol/VolcanoSamples](https://github.com/ndsol/VolcanoSamples/blob/master/src/BUILD.gn)
 
-### Third-party Frameworks
+### Third-party Frameworks, Templates
 
 (Please also check our [examples/](https://github.com/ocornut/imgui/tree/master/examples) folder in the repo, they work fine as starter apps!)
 
@@ -139,6 +139,7 @@ Welcome to the Dear ImGui wiki! Feel free to edit and contribute!
 - GGWeb: Template for making a GUI app with C++ / Dear ImGui / SDL / OpenGL / Emscripten that can run both natively and in the browser. [github/ggerganov/ggweb](https://github.com/ggerganov/ggweb)
 - Walnut: simple application framework for Vulkan and Dear ImGui apps. [github/TheCherno/Walnut](https://github.com/TheCherno/Walnut)
 - imgui-app: amalgamation of Dear ImGui and Sokol into two files [github/pplux/imgui-app](https://github.com/pplux/imgui-app)
+- ImTemplate: Template for making a single-windowed (or not) Dear ImGui application in Nim. [github/Patitotective/ImTemplate](https://github.com/Patitotective/ImTemplate)
 - Bimpy: bundled imgui for python: [github/podgorskiy/bimpy](https://github.com/podgorskiy/bimpy)
 - giu: Cross platform rapid GUI framework for golang based on Dear ImGui. [github/AllenDang/giu](https://github.com/AllenDang/giu)
 - Dear PyGui: A Simple Python GUI framework [github/hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui)
