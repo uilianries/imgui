@@ -68,7 +68,7 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 <BR> ![](https://user-images.githubusercontent.com/1193295/96739187-d0575e00-13bf-11eb-9afa-6f0c2bc4dd0f.png)
 
 **Plot Var Helper** (2016)
-<BR> [wiki](https://github.com/ocornut/imgui/wiki/plot_var_example)
+<BR> [comment](https://github.com/ocornut/imgui/issues/1772#issuecomment-1127830067)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96739299-f0871d00-13bf-11eb-8a2b-fa670070477d.png)
 
 # Curves, Animations, Gradients Editors
