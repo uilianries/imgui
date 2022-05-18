@@ -25,7 +25,7 @@ Welcome to the Dear ImGui wiki! Feel free to edit and contribute!
   - [Related/Suggested Libraries](#relatedsuggested-libraries)
   - [Job Board](#job-board)
 - [Articles, Videos](#articles-videos)
-  - [Articles/Videos About Dear ImGui](#articles-videos-about-dear-imgui)
+  - [Articles/Videos About Dear ImGui](#articlesvideos-about-dear-imgui)
   - [About the IMGUI paradigm](#about-the-imgui-paradigm)
 
 ----
