@@ -25,7 +25,7 @@ Welcome to the Dear ImGui wiki! Feel free to edit and contribute!
   - [Related/Suggested Libraries](#relatedsuggested-libraries)
   - [Job Board](#job-board)
 - [Articles, Videos](#articles-videos)
-  - [Articles About Dear ImGui](#articles-about-dear-imgui)
+  - [Articles/Videos About Dear ImGui](#articles-videos-about-dear-imgui)
   - [About the IMGUI paradigm](#about-the-imgui-paradigm)
 
 ----
@@ -180,7 +180,7 @@ See https://github.com/ocornut/imgui/issues/5031 for industry job offers relatin
 
 # Articles, Videos
 
-### Articles About Dear ImGui
+### Articles/Videos About Dear ImGui
 
 **English**
 - 2016-07: Using imgui with STL types [blog](https://eliasdaler.github.io/using-imgui-with-sfml-pt2/#using-imgui-with-stl) _[note that this article is now outdated: BeginCombo() api makes it natural to enumerate from any containers, InputText() supports resizing callbacks and [imgui_stdlib.h](https://github.com/ocornut/imgui/tree/master/misc/cpp) provides wrapper for std::string]_
