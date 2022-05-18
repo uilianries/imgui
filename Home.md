@@ -205,6 +205,7 @@ See https://github.com/ocornut/imgui/issues/5031 for industry job offers relatin
 - 2021-05: ImGui + GLFW Tutorial: [video](https://www.youtube.com/watch?v=VRwhNKoxUtk)
 - 2022-02: BEST WAY to make Desktop Applications in C++: [video](https://www.youtube.com/watch?v=vWXrFetSH8w)
 - 2022-04: Make your own GUI apps in C++ (with Dear ImGui and Vulkan) [video](https://www.youtube.com/watch?v=5zS-DZhCA2g)
+- 2022-05: Dear ImGui in Unreal Engine 5 with C++ [video](https://www.youtube.com/watch?v=qyO38jX5RU8)
 
 **Korean**
 - 2018-01: GLFW 사용 방법 정리 (Windows 10, VS2017) [3dshovel.blogspot.com](https://3dshovel.blogspot.com/2018/01/glfw-windows-10-visual-studio-2017.html)
@@ -230,6 +231,9 @@ See https://github.com/ocornut/imgui/issues/5031 for industry job offers relatin
 
 **French**
 - 2020-11: Dear ImGui : une bibliothèque d'interface utilisateur graphique "bloat-free" pour C++ [cpp.developpez.com](https://cpp.developpez.com/actu/310179)
+
+**Portuguese**
+- 2022-05: Como Criar Interfaces Gráficas com Dear ImGui e SFML [video](https://www.youtube.com/watch?v=XmiEkoqodcg)
 
 **Polish**
 - 2018-01: Szkolenie z biblioteki dear imgui [Video Part 1](https://www.youtube.com/watch?v=TOop9EGngKY) [2](https://www.youtube.com/watch?v=fh6uOdherYw) [3](https://www.youtube.com/watch?v=bF2eOvsX7kY) [4](https://www.youtube.com/watch?v=rcCReEX6h-M) [5](https://www.youtube.com/watch?v=N2Jan6IizbA) [6](https://www.youtube.com/watch?v=70A0YH9h3Ek) [7](https://www.youtube.com/watch?v=0JRaThBx9Ww) [8](https://www.youtube.com/watch?v=O7PVZ6OKDtI) [9](https://www.youtube.com/watch?v=uIp7tLqFzKo), [Slide](https://docs.google.com/presentation/d/1F3jkWkRGCNrCAKi34KXvrkZ9luhS_7RUwHwdYDTFEiY/preview#slide=id.p) 
