@@ -304,6 +304,7 @@ Help us complete this list!
 | App | SpookyGhost | @encelo | | [homepage](https://encelo.itch.io/spookyghost) / [video](https://www.youtube.com/watch?v=04KZe4M_4Is)
 | App | Stagemaster | | | [homepage](http://cityboundsim.com/devblog/introducing-stagemaster) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-299647845)
 | App | tacit-texview | @bluescan | | [github](https://github.com/bluescan/tacit-texview) / [shots](https://github.com/ocornut/imgui/issues/2847#issuecomment-570201599)
+| App | TerraForge3D | @Jaysmito101 | | [github](https://github.com/Jaysmito101/TerraForge3D)
 | App | Texeled | @thennequin | | [github](https://github.com/thennequin/Texeled)
 | App | TexGraph | @galloscript | | [web](https://galloscript.itch.io/texgraph)
 | App | Timelapse View for HG | @jschmidt42 | | [github](https://github.com/jschmidt42/timelapse)
