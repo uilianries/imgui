@@ -49,12 +49,12 @@ Now on to the list...
 
 ## Framework/Engine Bindings/Backends
 
-Main repository include examples for DirectX9, DirectX10, DirectX11, DirectX12, Metal, OpenGL2/3, Vulkan, iOS, Allegro 5, using frameworks such as GLFW, SDL2, Win32, Cocoa. 
-<br>https://github.com/ocornut/imgui/tree/master/examples
+Main repository include examples for DirectX9, DirectX10, DirectX11, DirectX12, Metal, OpenGL2/3, Vulkan, SDL_Renderer, iOS, WebGPU, using frameworks such as GLFW, SDL2, Win32, GLUT, Android, OSX/Cocoa, Allegro. See [examples/](https://github.com/ocornut/imgui/tree/master/examples) and [BACKENDS.md](https://github.com/ocornut/imgui/blob/master/docs/BACKENDS.md) for details.
+
+Other backends:
 
 | Framework | Project |
 |------------|---|
-| Android | Unmerged PR: [#421](https://github.com/ocornut/imgui/pull/421) (old example design, should not be needed) |
 | AGS / Adventure Game Studio | **agsimgui**:<br>https://github.com/ericoporto/agsimgui
 | Amethyst | **amethyst-imgui**:<br>https://github.com/amethyst/amethyst-imgui
 | Blender | **BlenderImgui**:<br>https://github.com/eliemichel/BlenderImgui
