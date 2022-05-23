@@ -9,9 +9,9 @@
 
 Note: The [cimgui](https://github.com/cimgui/cimgui) project is designed to output metadata (see generator/output/ folder) which can be used to automatically generate bindings.
 
-(2021) We are working on a new system to generate metadata for bindings, please reach out if you are interested in joining the private alpha.
+(2021-2022) We are working on "Dear Bindings" a new system to generate metadata for bindings to replace cimgui, please reach out if you are interested in joining the private alpha.
 
-Note: those bindings may be more or less maintained, more or less close to the spirit of original API. People who create language bindings sometimes haven't used the C++ API themselves. ImGui was designed for C++ and some of the subtleties may be lost in translation with other languages. If your language supports it, I would suggest replicating the function overloading and default parameters used in the original, else the API may be harder to use. In doubt, always check the original C++ version first!
+Note: those bindings may be more or less maintained, more or less close to the spirit of original API. People who create language bindings sometimes haven't used the C++ API themselves. Dear ImGui was designed for C++ and some of the subtleties may be lost in translation with other languages. If your language supports it, I would suggest replicating the function overloading and default parameters used in the original, else the API may be harder to use. In doubt, always check the original C++ version first!
 
 Now on to the list...
 
