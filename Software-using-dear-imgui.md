@@ -25,6 +25,7 @@ Help us complete this list!
 | Game | Assassin's Creed Valhalla | **Ubisoft** | Sponsor | [blog](https://montreal.ubisoft.com/en/ubisoft-sponsors-user-interface-library-for-c-dear-imgui/)
 | Game | Astro Bot Rescue Mission | Sony/SIE | | [homepage](https://www.playstation.com/en-us/games/astro-bot-rescue-mission-ps4/) / [shot](https://user-images.githubusercontent.com/8225057/56029150-0f601a00-5d1a-11e9-9615-f4fd04a1d734.JPG)
 | Game | Avoyd | **Enki Software** | Sponsor | [homepage](https://www.enkisoftware.com) / [shot](https://github.com/ocornut/imgui/issues/707#issuecomment-226993714)
+| Game | AV-Racer | | | [steam](https://store.steampowered.com/app/1978850/AVRacer/)
 | Game | Barbearian | Gimblll | | [homepage](http://www.gimblll.com/barbearian/) / [shot](https://user-images.githubusercontent.com/8225057/45208439-deeb6580-b28a-11e8-8e65-bcc93254e515.png)
 | Game | BeamNG.drive | BeamNG | | [homepage](https://www.beamng.com) / [steam](https://store.steampowered.com/app/284160/BeamNGdrive/)
 | Game | Below | Capybara Games | | [homepage](http://www.whatliesbelow.com) / [shots](https://github.com/ocornut/imgui/issues/973#issuecomment-301079827)
