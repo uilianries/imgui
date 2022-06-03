@@ -7,7 +7,7 @@ Welcome to the Dear ImGui wiki! Feel free to edit and contribute!
   - [Community](#community)
   - [Demo, Examples](#demo-examples)
   - [Backends, Bindings](#backends-bindings)
-  - [Third Party Extensions](#third-party-extensions)
+  - [Third-Party Extensions](#third-party-extensions)
   - [Gallery](#gallery)
   - [Notable branches](#notable-branches)
 - [Features](#features)
@@ -19,7 +19,7 @@ Welcome to the Dear ImGui wiki! Feel free to edit and contribute!
   - [Inputs](#inputs)
 - [Miscellaneous](#Miscellaneous)
   - [Building / Packaging Cruft](#building--packaging-cruft)
-  - [Third-party Frameworks](#third-party-frameworks)
+  - [Third-party Frameworks, Templates](#third-party-frameworks-templates)
   - [Notable forks](#notable-forks)
   - [Ports, Rewrites, Clones](#ports-rewrites-clones)
   - [Related/Suggested Libraries](#relatedsuggested-libraries)
@@ -135,20 +135,24 @@ Welcome to the Dear ImGui wiki! Feel free to edit and contribute!
 
 (Please also check our [examples/](https://github.com/ocornut/imgui/tree/master/examples) folder in the repo, they work fine as starter apps!)
 
+C/C++
 - asap: Starter project for portable app with optional GUI (GLFW/ImGui) [github/abdes/asap](https://github.com/abdes/asap)
 - GGWeb: Template for making a GUI app with C++ / Dear ImGui / SDL / OpenGL / Emscripten that can run both natively and in the browser. [github/ggerganov/ggweb](https://github.com/ggerganov/ggweb)
 - Walnut: simple application framework for Vulkan and Dear ImGui apps. [github/TheCherno/Walnut](https://github.com/TheCherno/Walnut)
 - imgui-app: amalgamation of Dear ImGui and Sokol into two files [github/pplux/imgui-app](https://github.com/pplux/imgui-app)
-- ImTemplate: Template for making a single-windowed (or not) Dear ImGui application in Nim. [github/Patitotective/ImTemplate](https://github.com/Patitotective/ImTemplate)
-- Bimpy: bundled imgui for python: [github/podgorskiy/bimpy](https://github.com/podgorskiy/bimpy)
-- giu: Cross platform rapid GUI framework for golang based on Dear ImGui. [github/AllenDang/giu](https://github.com/AllenDang/giu)
-- Dear PyGui: A Simple Python GUI framework [github/hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui)
 - imgui_dojo: an easy setup example for imgui [github/LiuZHolmes/imgui_dojo](https://github.com/LiuZHolmes/imgui_dojo)
 - mahi-gui: Dirt Simple C++ GUI Toolkit using GLFW, glad, and ImGui [github/mahilab/mahi-gui](https://github.com/mahilab/mahi-gui)
 - sdl-bgfx-imgui-starter: A starter project for graphics applications [github/pr0g/sdl-bgfx-imgui-starter](https://github.com/pr0g/sdl-bgfx-imgui-starter)
 - Starter dear-imgui GLFW/OpenGL 3 based CMake C++ project: [github/urddru/imgui-glfw](https://github.com/urddru/imgui-glfw)
 - ImDuino (ESP32+TFT+ImSoft+ImGui example): [github/LAK132/ImDuino](https://github.com/LAK132/ImDuino)
 - ImFrame: Dear ImGui + GLFW C++ / CMake application framework: [github/JamesBoer/ImFrame](https://github.com/JamesBoer/ImFrame)
+
+Other:
+- ImTemplate: Template for making a single-windowed (or not) Dear ImGui application in Nim. [github/Patitotective/ImTemplate](https://github.com/Patitotective/ImTemplate)
+- Bimpy: bundled imgui for python: [github/podgorskiy/bimpy](https://github.com/podgorskiy/bimpy)
+- giu: Cross platform rapid GUI framework for golang based on Dear ImGui. [github/AllenDang/giu](https://github.com/AllenDang/giu)
+- Dear PyGui: A Simple Python GUI framework [github/hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui)
+- ImGui Javascript Sandbox: [web](https://codepen.io/flyovergames/pen/xYPBaj)
 
 ### Notable forks
 
