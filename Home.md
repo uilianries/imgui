@@ -245,7 +245,7 @@ See https://github.com/ocornut/imgui/issues/5031 for industry job offers relatin
 ### About the IMGUI paradigm
 
 Dear ImGui is one possible implementation of an idea generally described as the IMGUI (Immediate Mode GUI) paradigm. The Immediate Mode GUI paradigm may at first appear unusual to some users. This is mainly because "Retained Mode" GUIs have been so widespread and predominant. The following links can give you a better understanding about how Immediate Mode GUIs works.
-- [[Wiki page About the IMGUI paradigm|About-the-IMGUI-paradigm]]
+- [[Our Wiki page About the IMGUI paradigm|About-the-IMGUI-paradigm]]
 - [Johannes 'johno' Norneby's article](http://www.johno.se/book/imgui.html), 2007.
 - [A presentation by Rickard Gustafsson and Johannes Algelind](http://www.cse.chalmers.se/edu/year/2011/course/TDA361/Advanced%20Computer%20Graphics/IMGUI.pdf), 2011.
 - [Jari Komppa's tutorial on building an IMGUI library](http://iki.fi/sol/imgui/), @jarikomppa, 2006.
