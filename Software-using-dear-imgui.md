@@ -61,7 +61,7 @@ Help us complete this list!
 | Game | Final Fantasy VII Remake | SquareEnix | | [video](https://www.youtube.com/watch?time_continue=675&v=DliMpiemUy8) / [talk](https://news.yahoo.co.jp/articles/50a6994718d63d323f9efb6b90f55a39b21c6f9a)
 | Game | Fishdom | Playrix | | [video](https://www.youtube.com/watch?v=siGNaiytfRo&t=77s)
 | Game | Fisherboy | | | [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-315665148) |
-| Game | Flight Simulator | Microsoft | | [homepage](https://www.flightsimulator.com/) / [video](https://youtu.be/10P21oFOxAU?t=481)
+| Game | Flight Simulator | Asobo / Microsoft | | [homepage](https://www.flightsimulator.com/) / [video](https://youtu.be/10P21oFOxAU?t=481)
 | Game | For Honor | **Ubisoft** | Sponsor | [blog](https://montreal.ubisoft.com/en/ubisoft-sponsors-user-interface-library-for-c-dear-imgui/)
 | Game | Fugl | Team Fugl | | [steam](https://store.steampowered.com/app/643810/Fugl/) / [homepage](http://fuglgame.com) |
 | Game | Future Unfolding | Spaces of Play | | [credits](https://www.mobygames.com/game/playstation-4/future-unfolding/credits)
