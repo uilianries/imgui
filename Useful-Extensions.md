@@ -1,3 +1,5 @@
+_(wiki editors: the images on this page are 500x250 pixels. please try to keep new images the same size)_
+
 ## Index
 
 - [Text Editors](#text-editors)
@@ -20,8 +22,6 @@
 - [C++ness](#cness)
 - [Miscellaneous](#miscellaneous)
 - [Third Party Repos](#third-party-repos)
-
-_(wiki editors: if you add new images, please make them 500x250)_
 
 # Text Editors
 
