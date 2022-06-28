@@ -9,6 +9,7 @@ _(wiki editors: the images on this page are 500x250 pixels. please try to keep n
 - [File Browsers / File Dialog](#file-browsers--file-dialog)
 - [Input Method Editors](#input-method-editors)
 - [Knobs](#knobs)
+- [Spinners](#spinners)
 - [Layout](#layout)
 - [Styling](#styling)
 - [Software Renderer/Rasterizer](#software-rendererrasterizer)
@@ -153,6 +154,15 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 **thread**
 <BR> [issue #942](https://github.com/ocornut/imgui/issues/942#issuecomment-268369298)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96877128-8cc12a80-1479-11eb-9d19-904ceaf8e469.png)
+
+# Spinners
+
+**imspinner**: Set of nice spinners for imgui (2022)
+<BR> [github/dalerank/imspinner](https://github.com/dalerank/imspinner) / [issue #5421](https://github.com/ocornut/imgui/issues/5421)
+<BR> ![](https://user-images.githubusercontent.com/8225057/176230882-2261909d-63a6-446d-9c2d-78023e932aa2.png)
+
+**Spinner/Loading progress indicators**
+<BR> [issue #1901](https://github.com/ocornut/imgui/issues/1901)
 
 # Layout
 
@@ -302,9 +312,6 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 **Slider 2D and Slider 3D**
 <BR> [issue #3484](https://github.com/ocornut/imgui/issues/3484)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96874705-bb89d180-1476-11eb-8640-43805b800ebf.png)
-
-**Spinner/Loading progress indicators**
-<BR> [issue #1901](https://github.com/ocornut/imgui/issues/1901)
 
 **imgui-notify**: header-only wrapper made to create notifications**
 <BR> [github/patrickcjk/imgui-notify](https://github.com/patrickcjk/imgui-notify)
