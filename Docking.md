@@ -24,7 +24,7 @@ There are 4 additional docked related configuration flags in the io structure wh
 
 (Please note that the following paragraphs have been written by a overly cautious person)
 
-Several advanced features, such as tight interaction with native multi-viewports, or the DockBuilder are still expecting api changes. I am also not particularly happy with how some aspects of the code are current implemented, and considering to maybe rewrite all of docking from scratch a third time! 
+Several advanced features (mostly in imgui_internal.h), such as tight interaction with native multi-viewports, or the DockBuilder are still expecting api changes. I am also not particularly happy with how some aspects of the code are current implemented, and considering to maybe rewrite all of docking from scratch a third time! 
 
 However, you can benefit from a lot of docking features without being impacted by any of this. **The largest amount of interactions you'll have with the docking system are at end-user level and do not require API calls**. By just enabling the config flag above and calling 1-2 functions you can benefit from 90% of Docking features. Even the hypothetical full rewrite of Docking system is not expected to impact most users. API that are most at risk of changing are hidden in `imgui_internal.h` for this reason, and even so, if they do change, we'll make reasonable effort to document the reasoning the update path. 
 
