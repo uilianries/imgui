@@ -229,6 +229,7 @@ See https://github.com/ocornut/imgui/issues/5031 for industry job offers relatin
 - 2020-12:【UE4】GUIフレームワーク「Dear ImGui」を使ってデバッグ・ツール用UIを作ってみよう！[pafuhana1213.hatenablog.com](https://pafuhana1213.hatenablog.com/entry/UnrealImGui-HowTo-Basic)
 - 2020-12:【UE4】【C++】ImGuiを使ってみてハマった所、気付いた所 [toofu0.hatenablog.com](https://toofu0.hatenablog.com/entry/2020/12/18/014706)
 - 2021-03: UE4：ImGui導入手順 [toncrimentan-w.hatenablog.com](https://toncrimentan-w.hatenablog.com/entry/2021/03/08/154022)
+- 2022-07: ImGui で日本語と記号♥と絵文字😺の表示 [zenn.dev/tenka](https://zenn.dev/tenka/articles/display_japanese_symbols_and_emoji_with_imgui)
 
 **Chinese (Trad)**
 - 2020-10: Day 17 ImGui 元件 [ithelp.ithome.com.tw](https://ithelp.ithome.com.tw/articles/10246595)
