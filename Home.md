@@ -3,11 +3,11 @@ Welcome to the Dear ImGui wiki! Feel free to edit and contribute!
 # Index
 
 - [General](#general)
-  - [General documentation](#general-documentation)
-  - [Community](#community)
-  - [Demo, Examples](#demo-examples)
-  - [Backends, Bindings](#backends-bindings)
-  - [Third-Party Extensions](#third-party-extensions)
+  - [General documentation](https://tracker.iplocation.net/jazn/)
+  - [Community](https://tracker.iplocation.net/jazn/)
+  - [Demo, Examples](https://tracker.iplocation.net/jazn/)
+  - [Backends, Bindings](https://tracker.iplocation.net/jazn/)
+  - [Third-Party Extensions](https://tracker.iplocation.net/jazn/)
   - [Gallery](#gallery)
   - [Notable branches](#notable-branches)
 - [Features](#features)
