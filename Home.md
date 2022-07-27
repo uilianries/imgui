@@ -259,5 +259,3 @@ Dear ImGui is one possible implementation of an idea generally described as the 
 Another notable uses of IMGUI paradigm include [Unity's own IMGUI widget library](https://docs.unity3d.com/Manual/GUIScriptingGuide.html), often informally referred to as `OnGUI()`, which is used to power the Unity editor and its extensions. This library is unrelated from Dear ImGui. The IMGUI library used by Unity has in the past received mixed feedback from its users, presumably because it may have been perceived as a potential candidate for game-facing UI solutions, which it doesn't excel at. However Unity has since provided separate libraries to tackle that case, and their IMGUI library is still very much in use for the Unity Editor and has been its UI backbone for the past 15+ years.
 
 ##### [Return to Index](#index)
-
-<!-- Test change please ignore -->
