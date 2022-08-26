@@ -100,6 +100,7 @@ Help us complete this list!
 | Game | Pokémon Legends: Arceus | Game Freak | | [homepage](https://legends.pokemon.com/en-us/)
 | Game | Pokémon: Let's Go, Pikachu! / Eevee! | Game Freak | | [homepage](https://pokemonletsgo.pokemon.com/) / [shot 1](https://user-images.githubusercontent.com/8225057/51388476-d274f480-1b29-11e9-9573-f5986f3833dc.jpg) [2](https://user-images.githubusercontent.com/8225057/51388479-d4d74e80-1b29-11e9-8368-8ccbc09b6f25.jpg)
 | Game | Pokémon Sword and Shield | Game Freak | | [shots](https://github.com/ocornut/imgui/issues/3488#issuecomment-714048146)
+| Game | Pokémon Scarlet and Violet | Game Freak | | [homepage](https://scarletviolet.pokemon.com/en-us/)
 | Game | Puzzle Catcher | BlitWise Productions | | [homepage](https://www.puzzlecatcher.com)
 | Game | Quake Champions | | | [post](https://www.unknowncheats.me/forum/quake-champions/212973-quake-champions-using-imgui.html)
 | Game | Receiver 2 | Wolfire Games | | [homepage](https://store.steampowered.com/app/1129310/Receiver_2/) / [shots](https://github.com/ocornut/imgui/issues/3075#issuecomment-675511275)
