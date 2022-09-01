@@ -336,6 +336,7 @@ Help us complete this list!
 | App | Virtual Reality Neuron Tracer | Visus | | [steam](https://store.steampowered.com/app/791040/Virtual_Reality_Neuron_Tracer/)
 | App | Visible | Darisa LLC | | [github](https://github.com/DarisaLLC/dev) / [shot](https://github.com/DarisaLLC/dev/blob/tiff_input_rls_0/screenshot.jpg)
 | App | Visual Designer 3D | | | [video](https://www.youtube.com/watch?v=211NzYhNSFQ)
+| App | Vita3K | | | [homepage](https://vita3k.org) / [github](https://Vita3K/Vita3K)
 | App | VK Pipeline Layout Editor | | | [shot](https://github.com/ocornut/imgui/issues/539#issuecomment-236273659)
 | App | Volumetric Capture | | | [github](https://github.com/VCL3D/VolumetricCapture)
 | Demo | VX2 | Spectrals | | [homepage](http://www.pouet.net/prod.php?which=85304) / [shot](https://github.com/ocornut/imgui/issues/3075#issuecomment-613415534)
