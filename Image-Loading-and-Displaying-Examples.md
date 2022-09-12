@@ -544,7 +544,9 @@ ImGui::End();
 
 We will here use [stb_image.h](https://github.com/nothings/stb/blob/master/stb_image.h) to load images from disk.
 
-Add at the top of the Vulkan example main.cpp file after the check_vk_result() function:
+**THIS IS ONE WAY TO DO THIS AMONG MANY, and provided for informational purpose. Unfortunately due to the nature of Vulkan, it is not really possible to provide a function that will work in all setups and codebases.**
+
+Add at the top of the Vulkan example main.cpp file after the `check_vk_result()` function:
 ```cpp
 #define STB_IMAGE_IMPLEMENTATION
 #include "stb_image.h"
@@ -790,6 +792,7 @@ ImGui::End();
 ```
 
 // TODO replace with Vulkan image instead of this OpenGL placeholder
+
 ![image](https://user-images.githubusercontent.com/8225057/65344387-dfc21180-dbd7-11e9-9478-627403721435.png)
 
 ##### [Return to Index](#index)
