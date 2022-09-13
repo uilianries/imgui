@@ -311,6 +311,7 @@ Help us complete this list!
 | App | TerraForge3D | @Jaysmito101 | | [github](https://github.com/Jaysmito101/TerraForge3D)
 | App | Texeled | @thennequin | | [github](https://github.com/thennequin/Texeled)
 | App | TexGraph | @galloscript | | [web](https://galloscript.itch.io/texgraph)
+| Engine | The Forge | | | [github](https://github.com/ConfettiFX/The-Forge)
 | App | Timelapse View for HG | @jschmidt42 | | [github](https://github.com/jschmidt42/timelapse)
 | App | Tiny8bit | @floooh | | [web](https://floooh.github.io/tiny8bit/) / [shot](https://user-images.githubusercontent.com/1699414/50175000-02976080-02fc-11e9-9e51-42369c8e5792.png)
 | Engine | Thorium 3D | | | [shots](https://github.com/ocornut/imgui/issues/772#issuecomment-268208362) / [shots](https://github.com/ocornut/imgui/issues/973#issuecomment-286752876)
