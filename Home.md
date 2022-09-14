@@ -66,7 +66,7 @@ Welcome to the Dear ImGui wiki! Feel free to edit and contribute!
 
 ### Third-party extensions
 
-- [[List of useful third-party extensions/widgets|Useful-Extensions]]
+- [[List of useful third-party extensions/widgets|Useful-Extensions]] (text editors, node editors, plotting/graphing, curves/animations/gradients editors, knobs, spinners, remoting, 3d gizmos and many more!)
 
 ### Gallery
 
