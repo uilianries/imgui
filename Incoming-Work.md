@@ -1,9 +1,9 @@
+Last updated 2022/09.
 This is a higher-level list of intent. Refer to TODO.txt for a more detailed list.
 
 ## Viewport
 
-- Improve Viewport branch toward merging in Master. ([#1542](https://github.com/ocornut/imgui/issues/1542)).
-
+- Improve Viewport branch toward merging in Master (1.90? 2.00?) ([#1542](https://github.com/ocornut/imgui/issues/1542)).
 
 ## DPI
 
@@ -11,55 +11,36 @@ This is a higher-level list of intent. Refer to TODO.txt for a more detailed lis
 
 ## Navigation, Controls
 
-- Improve gamepad and keyboard controls.
+- Improve gamepad and keyboard controls. ([#787](https://github.com/ocornut/imgui/issues/787))
+- Inputs: Input ownership and routing system (2022).
 - Shortcuts: menus/global-style shortcuts.
 - Shortcuts: alt-style local shortcuts.
 - Menus: once menus are able to handle their shortcuts (aka recursing in non-visible menus) we could envision Mac-style menu searching.
 
-## Tabs, Docking
+## Docking
 
-- Docking: full-featured docking solution. ([#2109](https://github.com/ocornut/imgui/issues/2109))
-- Tabs: with re-ordering, custom menus, persistent orders, also usable locally aside from docking. ([#2109](https://github.com/ocornut/imgui/issues/2109))
+- Improve/rewrite Docking (merge 2.00?) ([#2109](https://github.com/ocornut/imgui/issues/2109))
 
-## Columns, Table
+## Text/Fonts
 
-- Redesign Columns/Table API.
-- With features such e.g.: Header, re-ordering, sizing policy, persistence, sorting, scrolling with visible headers, etc.
+- Finish work/design on backend texture update ([#3761](https://github.com/ocornut/imgui/issues/3761).
+- Incremental font atlas updates.
+- Rewrite better text primitives.
 
 ## Styling
 
 - Improve styling support (easier to add more colors, basic inheritance system, cache float4->ImU32 conversions).
 - Improve basic render primitives (allow for gradients, etc.).
 - Optimize basic render primitives (e.g. using 8-way texture for curved shapes, borders, circles) to reduce CPU  +vertices cost.
-- Better default styles.
-
-## Remote
-
-- Remote: Provide an officially maintained, ready to use remote imgui solution (e.g. based on https://github.com/JordiRos/remoteimgui).
 
 ## Bindings
 
-- Renderer: Decide on texture handling for Vulkan, DirectX12 renderer.
-- Platform: GLFW: Assist toward GLFW support what we need for full portable multi-viewport support (remaining: https://github.com/glfw/glfw/issues/1236, https://github.com/glfw/glfw/pull/989, https://github.com/glfw/glfw/issues/427), also see [[Help Wanted]].
-- Languages: Provide/maintain a script to ease the generation of language bindings (e.g. C). See https://github.com/cimgui/cimgui
+- Release "dear_bindings" ease the generation of language bindings (e.g. C), as an "v3" alternative to https://github.com/cimgui/cimgui
 
-## Testing, Doc
+## Automation, Tests
 
-- Introduce an auto-testing framework. Reduce regression, make it easier for anyone to contribute, reduce dependencies on @ocornut.
-- The framework could double-down as a documentation generation framework?
+- Release Dear ImGui Test Engine (Q3-Q4 2022).
 
 ## Misc
 
-- Inputs: Provide a standard IO queue system for apps to not miss events on low framerate without requiring app code to do it. See [imgui_io_queue.cpp](https://gist.github.com/ocornut/8417344f3506790304742b07887adf9f]) gist.
-- Widgets: Design a way to represent and interact "mixed values" for when a multi-selection set have differing values and the widget represents them.
-- Selection: Range-selection/multi-selection API (to support Shift+Click, Shift+Arrow, etc.).
-- Layout: various layout helpers/improvements (alignment, layout variations for common widgets).
-- Improve Combo, ListBox to allow variety of inputs (e.g. sparse/loose lists). Make it more natural to create own widgets of that sort with higher guarantee of forward compatibility.
-- Plot/graph: overlay multiple graphs, various helpers and type of graphs, grids, panning/zooming, combine low-level elements to create complex graphs, etc.
-- Internals: Improve internals toward making custom widget/code more stable, improve forward compatibility.
-- Improve usage of multiple context or multi-threaded situations.
-- Rewrite and improve the multi-line text editor (many fixes and desirable features)
-- Text: Extension to provide basic form of rich/markup text display.
-- Text: Make the font atlas system dynamic to ease scaling and avoid baking large range of characters for foreign languages.
-- Demos: Add more demos/examples!
-- Support: Provide support to both expert and novice users. Dear ImGui is used by many people learning C++ and although their questions are sometimes misled, keeping younger developers in the C++ ecosystem is healthy and useful for everyone.
+- Selection: Finish/merge range-selection/multi-selection API (1.90?), to support Shift+Click, Shift+Arrow, etc. with clipping.
