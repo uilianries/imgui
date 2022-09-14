@@ -84,7 +84,7 @@ Welcome to the Dear ImGui wiki! Feel free to edit and contribute!
 
 ### Images
 
-- Tutorial: [[Image Loading and Displaying Examples|Image-Loading-and-Displaying-Examples]]
+- Tutorial: [[Image Loading and Displaying Examples|Image-Loading-and-Displaying-Examples]] (helpful if you are confused about `ImTextureID`).
 
 ### Fonts/Text
 
