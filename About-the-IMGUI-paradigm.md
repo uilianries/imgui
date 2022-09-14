@@ -4,15 +4,17 @@ THIS IS WIP/DRAFT / [Discuss this article](https://github.com/ocornut/imgui/issu
 
 **This is an attempt at explaining what the IMGUI paradigm stands for, and what it could be**.
 
+Please note the [References](#references) section where other articles have been written about this.
+
 Proponent of the IMGUI paradigm have noticed that it was widely misunderstood, over and over.
-As of Feb 2021, even the [IMGUI Wikipedia page](https://en.wikipedia.org/wiki/Immediate_mode_GUI) is completely off the mark. There are reasons for that:
-- the acronym is very misleading.
-- people didn't do a good enough job explaining or documenting what IMGUI means
-- they are different interpretation of what IMGUI means
+As of ~~Feb 2021~~ August 2022, even the [IMGUI Wikipedia page](https://en.wikipedia.org/wiki/Immediate_mode_GUI) is completely off the mark and incorrect. There are reasons for that:
+- the acronym is misleading (read below).
+- people didn't do a good enough job explaining or documenting what IMGUI means.
+- they are different interpretation of what IMGUI means.
 - many popular IMGUI implementation have made similar design choices, making it more confusing what is actually the soul and backbone of the IMGUI paradigm vs a set of implementation choices. 
 - the naming and success of "Dear ImGui" blurred the line a little bit further (should have used another name).
 
-The acronym is very misleading because "immediate-mode" was initially coined as a reference to obsolete graphics API which made it very easy to render contents. The choice of that word got us into years, maybe decades of misunderstanding.
+The acronym is very misleading because "immediate-mode" was initially coined as a reference to obsolete graphics API which made it very easy to render contents. Some people still incorrectly assume that IMGUIs are often rendering using those API. The choice of that word got us into years, maybe decades of misunderstanding.
 
 From now on, IMGUI will stand for "Incredibly Magic Graphics User Interface" ;)
 
@@ -36,12 +38,14 @@ The acronym IMGUI was coined by Casey Muratori in this video in 2005:
 
 _"I’ve also seen lots of people getting into arguments about immediate-mode vs. retained-mode GUI APIs. I think this has something to do with how simple the IMGUI concept is, as it leads people to think they understand it, and then they proceed to get into heated arguments as if they actually know what they’re talking about. I rarely see this problem when I’m talking about anything even mildly complicated, like quaternions."_
 
-It has been privately researched before and after.
-Casey's work on formulating and popularizing research on this topic has been invaluable. I however believe that picking the word "immediate-mode" was a mistake which a decade later we are still paying for in term of misunderstanding what IMGUI are.
+Casey's work on formulating and popularizing research on this topic has been pivotal and invaluable. His video and the forums that followed helped people gather around the concept and talk about it. 
+
+The concept has been privately researched before and after. [Thierry Excoffier's Zero Memory Widget](https://web.archive.org/web/20220516003813/https://perso.univ-lyon1.fr/thierry.excoffier/ZMW/) and his [research report](https://web.archive.org/web/20220516004122/https://perso.univ-lyon1.fr/thierry.excoffier/ZMW/rr_2003_03_11.pdf) in 2003 are also very notable although they didn't reach the game development sphere back then.
 
 ### Do we need a definition?
 
-_"I kind of wish there was more radical experimentation in this space"_ [tweet](https://twitter.com/pervognsen/status/1361241939593416705)
+_"I kind of wish there was more radical experimentation in this space"_ ([tweet](https://twitter.com/pervognsen/status/1361241939593416705))
+<BR>_"But, I need to store a variable therefore it isn't IMGUI anymore!!!"_ (many people)
 
 Nowadays I am starting to believe that the term has caused more harm than benefits, because it suggests there are two camps "IMGUI" vs "RMGUI". The reality is there is a continuum of possibilities over multiple unrelated axises. Many of them haven't been explored enough, as popular IMGUI libraries have been designed for certain needs and not others. Many of them are at reach as extension of existing popular frameworks. Some are likely to only ever exist as part of yet undeveloped IMGUI frameworks.
 
@@ -89,7 +93,7 @@ _TODO_
 March 2022:
 https://news.ycombinator.com/item?id=30814797
 
-_"Immediate mode is a style of API where important state is kept in user code instead of being retained inside the API implementation. For example, an immediate mode GUI checkbox implementation does not store a boolean value determining whether the checkbox is checked. Instead, user code passes that information as a function parameter whenever the UI needs to be drawn. Even the fact that a checkbox exists on screen is not stored in the GUI library. The checkbox is simply drawn when user code requests it each frame."_
+_"Immediate mode is a style of API where important state is kept in user code [editor note: this should be "user side" not "user code"] instead of being retained inside the API implementation. For example, an immediate mode GUI checkbox implementation does not store a boolean value determining whether the checkbox is checked. Instead, user code passes that information as a function parameter whenever the UI needs to be drawn. Even the fact that a checkbox exists on screen is not stored in the GUI library. The checkbox is simply drawn when user code requests it each frame."_
 
 _"Counter intuitively this is often less complicated than the traditional "retained mode" style of GUI libraries because there is no duplication of state. That means no setup or teardown of widget object trees, no syncing of state between GUI objects and application code, no hooking up or removing event handlers, no "data binding", etc. The structure and function of your UI is naturally expressed in the code of the functions that draw it, instead of in ephemeral and opaque object trees that only exist in RAM after they're constructed at runtime. You retain control over the event loop and you define the order in which everything happens rather than receiving callbacks in some uncertain order from someone else's event dispatching code."_
 
@@ -117,7 +121,7 @@ _Finally state handling. For games this is easier since most state is known befo
 
 _A lot in ui depends on the problem on hand so I feel there is no silver bullet. But what is actually great about UI is that it is possible to write a version fitting the problem. I hope if anything is taken from this rant is that "imgui" currently entangles a lot of concepts that however don't define it. So everytime it does not work out immediate mode as a grand concept itself is tossed aside instead of reevaluating the parts that did not work out."_
 
-### Links
+### References
 
 - [Johannes 'johno' Norneby's article](http://www.johno.se/book/imgui.html), 2007.
 - [A presentation by Rickard Gustafsson and Johannes Algelind](http://www.cse.chalmers.se/edu/year/2011/course/TDA361/Advanced%20Computer%20Graphics/IMGUI.pdf), 2011.
