@@ -18,6 +18,17 @@ From now on, IMGUI will stand for "Incredibly Magic Graphics User Interface" ;)
 
 The second purpose of this page should be to make it clear that there is a large space to explore in UI programming.
 
+### The Pitch of Dear ImGui
+
+From [README](https://github.com/ocornut/imgui#the-pitch), notice the four first points:
+
+- "Minimize state synchronization."
+- "Minimize state storage on user side."
+- "Minimize setup and maintenance."
+- "Easy to use to create dynamic UI which are the reflection of a dynamic data set."
+
+While they don't constitute a definition of the IMGUI paradigm, they may give a good feeling of some of the advantages usually associated to the IMGUI paradigm.
+
 ### History
 
 The acronym IMGUI was coined by Casey Muratori in this video in 2005:
