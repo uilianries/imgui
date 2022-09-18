@@ -69,6 +69,7 @@ Help us complete this list!
 | Game | GOATi Traffic Simulation | GOATi | | [video](https://www.youtube.com/watch?v=A0ZdyzekVBo)
 | Game | Good Company | Chasing Carrots | | [homepage](https://www.chasing-carrots.com/)
 | Game | Graceful Explosion Machine | Vertex Pop | | [steam](https://store.steampowered.com/app/575450/Graceful_Explosion_Machine) / [eshop](https://www.nintendo.com/games/detail/graceful-explosion-machine-switch) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-297435445)
+| Game | Grand Theft Auto VI | Rockstar Games | | [video](https://twitter.com/Who2Pitts/status/1571374176534929408)
 | Game | GunHero | Olli-Samuli Lehmus | | [steam](http://store.steampowered.com/app/568840/GunHero/)
 | Game | Hearts of Iron IV | Paradox Interactive | | [homepage](https://www.heartsofiron4.com) / [blog](https://devtrackers.gg/heartsofiron/p/67fbd64f-dev-diary-a-tech-lead-s-life)
 | Game | Hellbreaker | Enhex | | [homepage](https://enhex.itch.io/hellbreaker) / [shot](https://img.itch.zone/aW1hZ2UvMTY5MjQ4Lzg2MTI5NC5qcGc=/original/1InRJS.jpg)
