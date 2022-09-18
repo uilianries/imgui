@@ -78,7 +78,7 @@ Other backends:
 | nCine | **nCine Out-of-the-box integration**: <br>https://github.com/nCine/nCine and [example 1](https://github.com/nCine/nCine/blob/master/tests/apptest_scene.cpp), [example 2](https://github.com/nCine/nCine/blob/master/tests/apptest_simdbench.cpp)
 | Nim Game Lib | **NimGL**:<br>https://github.com/nimgl/nimgl |
 | Nintendo 3DS (homebrew) | **libctru/libcitro3d**:<br>https://github.com/mtheall/ftpd/tree/master/source/3ds |
-| Nintendo Switch (homebrew) | **libnx/libdeko3d**:<br>https://github.com/mtheall/ftpd/tree/master/source/switch |
+| Nintendo Switch (homebrew) | **libnx/libdeko3d**:<br>https://github.com/mtheall/ftpd/tree/master/source/switch<br>https://github.com/scturtle/imgui_deko3d_example |
 | Ogre | **ogre-imgui**:<br>https://github.com/OGRECave/ogre-imgui |
 | openFrameworks | **ofxImGui**:<br>https://github.com/jvcleave/ofxImGui
 | OpenSceneGraph/OSG | **imgui-osg**:<br>https://github.com/Tordan/imgui-osg and older gist: https://gist.github.com/fulezi/d2442ca7626bf270226014501357042c |
