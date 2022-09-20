@@ -1,4 +1,6 @@
-This section is old and lacking...
+**This section is old and lacking... Most of the tips here are not super relevant anymore.**
+
+
 Also see [[Debug Tools]].
 
 ----
