@@ -108,6 +108,7 @@ Help us complete this list!
 | Game | Receiver 2 | Wolfire Games | | [homepage](https://store.steampowered.com/app/1129310/Receiver_2/) / [shots](https://github.com/ocornut/imgui/issues/3075#issuecomment-675511275)
 | Game | Re:creation | @eliasdaler | | [blog](https://eliasdaler.github.io/) |
 | Game | Red Dead Redemption 2 | Rockstar Games | | [homepage](https://www.rockstargames.com/reddeadredemption2) / [credits](https://github.com/ocornut/imgui/issues/2847#issuecomment-568252670)
+| Game | Return to Monkey Island | Terrible Toybox | | [homepage](https://returntomonkeyisland.com)
 | Game | Rise of the Tomb Raider | Feral Interactive | | [video](https://www.youtube.com/watch?v=ptakmFGcIRU&feature=youtu.be&t=638)
 | Game | Seaquence | | | [homepage](http://okaynokay.xyz/seaquence) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-308277401)
 | Game | Shenmue I & II (2018) | Sega, d3t | | [homepage](https://shenmue.sega.com)
@@ -310,6 +311,7 @@ Help us complete this list!
 | App | Splash | | | [homepage](https://github.com/paperManu/splash/wiki) / [shot](https://github.com/ocornut/imgui/issues/539#issuecomment-192671061)
 | App | SpookyGhost | @encelo | | [homepage](https://encelo.itch.io/spookyghost) / [video](https://www.youtube.com/watch?v=04KZe4M_4Is)
 | App | Stagemaster | | | [homepage](http://cityboundsim.com/devblog/introducing-stagemaster) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-299647845)
+| App | Syntacts | @epezent | | [homepage](https://www.syntacts.org)
 | App | tacit-texview | @bluescan | | [github](https://github.com/bluescan/tacit-texview) / [shots](https://github.com/ocornut/imgui/issues/2847#issuecomment-570201599)
 | App | TerraForge3D | @Jaysmito101 | | [github](https://github.com/Jaysmito101/TerraForge3D)
 | App | Texeled | @thennequin | | [github](https://github.com/thennequin/Texeled)
