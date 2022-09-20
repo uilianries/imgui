@@ -11,6 +11,7 @@ Welcome to the Dear ImGui wiki! Feel free to edit and contribute!
   - [Gallery](#gallery)
   - [Notable branches](#notable-branches)
 - [Features](#features)
+  - [Debug Tools](#debug-tools)
   - [Images](#images)
   - [Fonts/Text](#fontstext)
   - [Tables](#tables)
@@ -81,6 +82,10 @@ Welcome to the Dear ImGui wiki! Feel free to edit and contribute!
 ##### [Return to Index](#index)
 
 # Features
+
+### Debug Tools
+
+- See [[Debug Tools|Debug-Tools]] wiki page explaining `ShowMetricsWindow()`, `ShowDebugLogWindow()`, `ShowStackToolWindow()`, Item Picker..
 
 ### Images
 
