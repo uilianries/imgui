@@ -11,7 +11,7 @@ _"Fundamentally changes the way that production and debug tools are developed at
 <br>-Nicolas Fleury (Technical Architect, Rainbow Six: Siege, [Ubisoft](https://www.ubisoft.com))
 
 _"so easy to use"_
-<br>-John Carmack ("Independent newbie AI researcher")
+<br>-John Carmack ("Independent AI researcher")
 
 _"Dear ImGui packing so much power into such a straightforward interface makes me wonder why every other GUI package is so hard to use. Dear ImGui makes writing clean UI look easy. [...] The least annoying middleware I’ve ever used!"_
 <br>-Elan Ruskin ([Insomniac Games](https://insomniac.games))
