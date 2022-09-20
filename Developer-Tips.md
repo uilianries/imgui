@@ -1,6 +1,6 @@
 Tips for when working on Dear ImGui codebase.
 
-Also see [Tips](https://github.com/ocornut/imgui/wiki/Tips), [Tips](https://github.com/ocornut/imgui/wiki/Debug-Tools).
+Also see [Tips](https://github.com/ocornut/imgui/wiki/Tips), [Debug Tools](https://github.com/ocornut/imgui/wiki/Debug-Tools).
 
 ### Metrics
 The Metrics window exposes lots of information about the library state.
