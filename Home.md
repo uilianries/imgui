@@ -3,7 +3,7 @@ Welcome to the Dear ImGui wiki! Feel free to edit and contribute!
 # Index
 
 - [General](#general)
-- [General documentation](#general-documentation)
+  - [General documentation](#general-documentation)
   - [Community](#community)
   - [Demo, Examples](#demo-examples)
   - [Backends, Bindings](#backends-bindings)
