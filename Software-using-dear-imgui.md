@@ -78,6 +78,7 @@ Help us complete this list!
 | Game | Hyper Scape | **Ubisoft** | Sponsor | [blog](https://montreal.ubisoft.com/en/ubisoft-sponsors-user-interface-library-for-c-dear-imgui/) / [video](https://www.youtube.com/watch?v=Q9gBfhZWQ6E)
 | Game | Indivisible | Lab Zero Games | | [homepage](http://www.indivisiblegame.com/)
 | Game | iRacing | iRacing.com<br>Motorsport Simulations | | [blog](https://www.iracing.com/road-new-damage/)
+| Game | Irony Curtain: From Matryoshka with Love | Artifex Mundi | | [steam](https://store.steampowered.com/app/866190/Irony_Curtain_From_Matryoshka_with_Love)
 | Game | Jurassic World Evolution | Frontier | | [homepage](http://www.jurassicworldevolutiongame.com)
 | Game | League of Legends | Riot Games | | [homepage](http://www.leagueoflegends.com) / [shot](https://twitter.com/Beardilocks/status/1258568789303586817)
 | Game | Librelancer | @CallumDev | | [shot](https://camo.githubusercontent.com/746f970dbd4f0b2fb64df8e188cce35e023fbd5c/68747470733a2f2f692e696d6775722e636f6d2f666b344f6164382e706e67) / [github](https://github.com/Librelancer/Librelancer)
