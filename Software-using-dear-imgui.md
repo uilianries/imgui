@@ -90,6 +90,7 @@ Help us complete this list!
 | Game | Monster Boy & The Cursed Kingdom | Game Atelier | | [homepage](http://www.monsterboy.com)
 | Game | Moonman/MoonQuest | @eigenbom | | [kickstarter](https://www.kickstarter.com/projects/eigenbom/moonman) / [blog](http://discuss.moonman.io/t/june-12-2016/1478)
 | Game | Mount & Blade II Bannerlord | TaleWorlds | | [blog](https://www.taleworlds.com/en/Games/Bannerlord/Blog/25) / [shot](https://user-images.githubusercontent.com/8225057/30460822-b4e9cadc-99b9-11e7-97fd-377a615b1e4e.jpg)
+| Game | My Brother Rabbit | Artifex Mundi | | [steam](https://store.steampowered.com/app/855640/My_Brother_Rabbit/)
 | Game | New World | Amazon Game Studios | | [homepage](https://newworld.com)
 | Game | NieR Replicant ver.1.22474487139... | Toylogic/Cavia/Square Enix | | [homepage](https://nier.square-enix-games.com/en-us/) / [shot](https://user-images.githubusercontent.com/8225057/116219511-fc2b1600-a74b-11eb-8f0b-d8cd8c9b8410.jpg)
 | Game | Onrush | Codemasters | | [homepage](http://www.codemasters.com/game/onrush/) / [video](https://www.youtube.com/watch?v=rC9wmXDzAX0&feature=youtu.be&t=18m42s)
