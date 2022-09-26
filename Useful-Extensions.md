@@ -298,6 +298,9 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 
 # Miscellaneous
 
+**Combos with custom filtering and preview**
+<BR> [issue #1658](https://github.com/ocornut/imgui/issues/1658)
+
 **imgui_memory_editor**
 <BR> [github/ocornut/imgui_club](https://github.com/ocornut/imgui_club)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96868227-081cdf00-146e-11eb-996b-35134ba8bd3c.png)
