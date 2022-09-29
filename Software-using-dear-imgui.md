@@ -125,7 +125,7 @@ Help us complete this list!
 | Game | Tearaway | **Media Molecule** | Sponsor | [homepage](http://tearaway.mediamolecule.com/)
 | Game | Tearaway Unfolded | **Media Molecule** | Sponsor | [homepage](http://tearaway.mediamolecule.com/) / [shots](https://github.com/ocornut/imgui/issues/539#issuecomment-193710713)
 | Game | Teardown | Tuxedo Labs | | [homepage](http://teardowngame.com) / [shot](https://user-images.githubusercontent.com/8225057/79001463-d3d77600-7b4e-11ea-9d7c-7469157f5feb.jpg)
-| Game | The Big Catch | | | [shots](https://github.com/ocornut/imgui/issues/5243#issuecomment-1258825665)
+| Game | The Big Catch | Filet Group | | [shots](https://github.com/ocornut/imgui/issues/5243#issuecomment-1258825665)
 | Game | The Surge 2 | Deck 13 | | [web](http://thesurge-game.com) / [video](https://www.youtube.com/watch?v=WjPiJn9dkxs)
 | Game | Tom Clancy's Ghost Recon Breakpoint | **Ubisoft** | Sponsor | [homepage](https://ghost-recon.ubisoft.com/game/en-us/breakpoint)
 | Game | Tom Clancy's Rainbow Six Siege | **Ubisoft** | Sponsor | [blog](https://montreal.ubisoft.com/en/ubisoft-sponsors-user-interface-library-for-c-dear-imgui/) / [shots](https://github.com/ocornut/imgui/issues/2847#issuecomment-567692465)
