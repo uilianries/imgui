@@ -59,7 +59,7 @@ Other backends:
 | Blender | **BlenderImgui**:<br>https://github.com/eliemichel/BlenderImgui
 | bsf | **bsfimgui**:<br>https://github.com/pgruenbacher/bsfImgui | 
 | Cinder | **Cinder-ImGui**:<br>https://github.com/cinder/Cinder/blob/master/include/cinder/CinderImGui.h
-| Cocos2d-x | **imguix**:<br>https://github.com/c0i/imguix <br>**cocos2dx-imgui**:<br>https://github.com/Mjarkiew/cocos2dx-imgui, https://github.com/Xrysnow/cocos2d-x-imgui and [#551](https://github.com/ocornut/imgui/issues/551)<br>**ImGui for axys**:<br>https://github.com/axys1/axys/tree/main/extensions/ImGui
+| Cocos2d-x | **imguix**:<br>https://github.com/c0i/imguix <br>**cocos2dx-imgui**:<br>https://github.com/Mjarkiew/cocos2dx-imgui, https://github.com/Xrysnow/cocos2d-x-imgui and [#551](https://github.com/ocornut/imgui/issues/551)<br>**ImGui for axmol**:<br>https://github.com/axmolengine/axmol/tree/dev/extensions/ImGui
 | Defold | **extension-imgui**:<br>https://github.com/britzl/extension-imgui
 | Diligent Engine | **DiligentTools**:<br>[DiligentTools](https://github.com/DiligentGraphics/DiligentTools/blob/master/Imgui/src/ImGuiImplDiligent.cpp), [example](https://github.com/DiligentGraphics/DiligentSamples/tree/master/Samples/ImguiDemo) |
 | Ebiten | **ebiten-imgui**:<br>https://github.com/gabstv/ebiten-imgui |
