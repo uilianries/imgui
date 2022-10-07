@@ -35,7 +35,7 @@ Help us complete this list!
 | Game | Boundless | Wonderstruck Games | | [homepage](http://playboundless.com) / [shots 1](https://github.com/ocornut/imgui/issues/539#issuecomment-234486231) [2](https://github.com/ocornut/imgui/issues/973#issuecomment-276030982)
 | Game | Brigador | **Stellar Jockeys** | Sponsor | [steam](http://store.steampowered.com/app/274500/Brigador_UpArmored_Edition)
 | Game | Burning Knight | Rexcellent Games | | [steam](https://store.steampowered.com/app/851150/Burning_Knight/)
-| Game | Call of Duty Black Ops Cold War | Treyard | | [tech talk](https://research.activision.com/publications/2021/10/shadows-of-cold-war--a-scalable-approach-to-shadowing) / [shots](https://github.com/ocornut/imgui/issues/4451#issuecomment-1025179064)
+| Game | Call of Duty Black Ops Cold War | Treyarch | | [tech talk](https://research.activision.com/publications/2021/10/shadows-of-cold-war--a-scalable-approach-to-shadowing) / [shots](https://github.com/ocornut/imgui/issues/4451#issuecomment-1025179064)
 | Game | Chrono-Drive | | | [video](https://www.youtube.com/watch?v=gFbh4wxZ6DE&feature=youtu.be&t=2m3s) |
 | Game | Clash of Clans | **Supercell** | Sponsor | [homepage](https://supercell.com/en/games/clashofclans/) / [shot](https://user-images.githubusercontent.com/8225057/81696947-e3572100-9464-11ea-8f96-d88db7379420.PNG)
 | Game | Clockwork Aquario | Westone, United Games Entertainment | | [homepage](https://www.iningames.com/games/clockwork-aquario)
