@@ -9,6 +9,8 @@ They will help you understand how Dear ImGui works, and can help you diagnose pr
 
 ![Metrics](https://user-images.githubusercontent.com/8225057/191290900-87c7f347-d459-4192-8894-689c11b44e65.png)
 
+![Fonts debugging](https://user-images.githubusercontent.com/8225057/135429892-0e41ef8d-33c5-4991-bcf6-f997a0bcfd6b.png)
+
 ![debug tools](https://user-images.githubusercontent.com/8225057/174845561-ee9ba6ad-9f48-478c-944d-85334aae0af7.png)
 _Some of the debug tools_
 
