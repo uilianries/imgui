@@ -47,6 +47,7 @@ Help us complete this list!
 | Game | Deformers | Ready at Dawn | | [homepage](https://www.deformers.com/)
 | Game | Devil Daggers | Sorath | | [homepage](http://devildaggers.com/) / [steam](https://store.steampowered.com/app/422970/Devil_Daggers/)
 | Game | Doom Eternal | id Software | | [shot](https://user-images.githubusercontent.com/8225057/77301209-93bf6900-6cef-11ea-9e89-9b4334ef6f53.jpg) / [credits](https://www.mobygames.com/game/windows/doom-eternal/credits)
+| Game | Don't Starve Together | Klei || [steam](https://store.steampowered.com/app/322330/Dont_Starve_Together/)
 | Game | Door Kickers 2 | KillHouse | | [video](https://twitter.com/inthekillhouse/status/1243610799979089921)
 | Game | Dreams | **Media Molecule** | Sponsor | [homepage](http://dreams.mediamolecule.com) |
 | Game | Druidstone: The Secret of the Menhir Forest | **Ctrl Alt Ninja** | Sponsor | [credits](https://www.mobygames.com/game/windows/druidstone-the-secret-of-the-menhir-forest/credits)
@@ -70,6 +71,7 @@ Help us complete this list!
 | Game | Good Company | Chasing Carrots | | [homepage](https://www.chasing-carrots.com/)
 | Game | Graceful Explosion Machine | Vertex Pop | | [steam](https://store.steampowered.com/app/575450/Graceful_Explosion_Machine) / [eshop](https://www.nintendo.com/games/detail/graceful-explosion-machine-switch) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-297435445)
 | Game | Grand Theft Auto VI | Rockstar Games | | [video](https://twitter.com/Who2Pitts/status/1571374176534929408)
+| Game | Griftlands | Klei || [steam](https://store.steampowered.com/app/601840/Griftlands)
 | Game | GunHero | Olli-Samuli Lehmus | | [steam](http://store.steampowered.com/app/568840/GunHero/)
 | Game | Hearts of Iron IV | Paradox Interactive | | [homepage](https://www.heartsofiron4.com) / [blog](https://devtrackers.gg/heartsofiron/p/67fbd64f-dev-diary-a-tech-lead-s-life)
 | Game | Hellbreaker | Enhex | | [homepage](https://enhex.itch.io/hellbreaker) / [shot](https://img.itch.zone/aW1hZ2UvMTY5MjQ4Lzg2MTI5NC5qcGc=/original/1InRJS.jpg)
