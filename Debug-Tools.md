@@ -16,13 +16,19 @@ _Some of the debug tools_
 
 ### Debug Log
 
+https://github.com/ocornut/imgui/issues/5855
+
 ![Debug Log](https://user-images.githubusercontent.com/8225057/191291345-9bf5fae2-ff0f-462a-af4c-d85aaaf36318.png)
 
 ### Stack Tool
 
+https://github.com/ocornut/imgui/issues/4631
+
 ![stack_tool_03](https://user-images.githubusercontent.com/8225057/136235657-a0ea5665-dcd1-423f-9be6-dc3f8ced8f12.png)
 
 ### Item Picker
+
+https://github.com/ocornut/imgui/issues/2673
 
 The Item Picker will allow you to pick an item with the mouse and have Dear ImGui break within the call-stack of that item. This is useful if you have large UI / codebase and you would to easily find out where some UI item is emitted. 
 You can find it in _Metrics>Tools>Item Picker_. Also see [#2673](https://github.com/ocornut/imgui/issues/2673).
