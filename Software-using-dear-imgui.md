@@ -19,7 +19,7 @@ Help us complete this list!
 | Game | 22 Racing Series | GOATi | | [homepage](http://www.22series.com/)
 | Game | Agents of Mayhem | Volition | | [homepage](https://www.aomthegame.com/)
 | Game | Apex Legends | EA | | [homepage](https://www.ea.com/games/apex-legends)
-| Game | A Plague Tale: Requiem | Asobo | | [homepage](https://www.focus-entmt.com/en/games/a-plague-tale-requiem)
+| Game | A Plague Tale: Requiem | **Asobo** | Sponsor | [homepage](https://www.focus-entmt.com/en/games/a-plague-tale-requiem)
 | Game | Arcane Worlds | Ranmantaru Games | | [steam](http://steamcommunity.com/app/269610) / [patch note](http://steamcommunity.com/app/269610/discussions/0/357288572127498771)
 | Game | Assassin's Creed Odyssey | **Ubisoft** | Sponsor | [blog](https://montreal.ubisoft.com/en/ubisoft-sponsors-user-interface-library-for-c-dear-imgui/)
 | Game | Assassin's Creed Origins | **Ubisoft** | Sponsor | [blog](https://montreal.ubisoft.com/en/ubisoft-sponsors-user-interface-library-for-c-dear-imgui/)
@@ -63,7 +63,7 @@ Help us complete this list!
 | Game | Final Fantasy VII Remake | SquareEnix | | [video](https://www.youtube.com/watch?time_continue=675&v=DliMpiemUy8) / [talk](https://news.yahoo.co.jp/articles/50a6994718d63d323f9efb6b90f55a39b21c6f9a)
 | Game | Fishdom | Playrix | | [video](https://www.youtube.com/watch?v=siGNaiytfRo&t=77s)
 | Game | Fisherboy | | | [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-315665148) |
-| Game | Flight Simulator | Asobo / Microsoft | | [homepage](https://www.flightsimulator.com/) / [video](https://youtu.be/10P21oFOxAU?t=481)
+| Game | Flight Simulator | **Asobo** | Sponsor | [homepage](https://www.flightsimulator.com/) / [video](https://youtu.be/10P21oFOxAU?t=481)
 | Game | For Honor | **Ubisoft** | Sponsor | [blog](https://montreal.ubisoft.com/en/ubisoft-sponsors-user-interface-library-for-c-dear-imgui/)
 | Game | Fugl | Team Fugl | | [steam](https://store.steampowered.com/app/643810/Fugl/) / [homepage](http://fuglgame.com) |
 | Game | Future Unfolding | Spaces of Play | | [credits](https://www.mobygames.com/game/playstation-4/future-unfolding/credits)
