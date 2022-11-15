@@ -6,6 +6,7 @@ Dear ImGui has first been in development as a side project from 2015 to 2017, th
 Thanks to our sponsors, in 2020, we poured ~2500 hours of work into Dear ImGui R&D. In 2021 ~1600 hours.
 
 Businesses: support continued development and maintenance via invoiced technical support, maintenance, sponsoring contracts. **If your company is using Dear ImGui, please consider reaching out today to say hello!**:
+Sponsoring, support contracts and other B2B transactions are hosted and handled by [Lizardcube](https://www.lizardcube.com/).
 
 &nbsp;&nbsp;_E-mail: contact @ dearimgui dot com_
 
