@@ -1,15 +1,26 @@
 ## Index
 
+- [Binding Generators](#binding-generators)
 - [Language Bindings](#language-bindings)
 - [Framework/Engine Bindings/Backends](#frameworkengine-bindingsbackends)
 - [Miscellaneous](#Miscellaneous)
 - [Ports, Rewrites, Clones](#ports-rewrites-clones)
 
+## Binding Generators
+
+### cimgui
+
+https://github.com/cimgui/cimgui
+<BR>Output C API + output metadata (see `generator/output/` folder) which can be used to automatically generate other bindings.
+
+### dear_bindings
+
+https://github.com/dearimgui/dear_bindings
+<BR>Dear Bindings is tool to generate a C API for Dear ImGui, and metadata so other languages can easily generate their own bindings on top.
+
+----
+
 ## Language Bindings
-
-Note: The [cimgui](https://github.com/cimgui/cimgui) project is designed to output metadata (see generator/output/ folder) which can be used to automatically generate bindings.
-
-(2021-2022) We are working on "Dear Bindings" a new system to generate metadata for bindings to replace cimgui, please reach out if you are interested in joining the private alpha.
 
 Note: those bindings may be more or less maintained, more or less close to the spirit of original API. People who create language bindings sometimes haven't used the C++ API themselves. Dear ImGui was designed for C++ and some of the subtleties may be lost in translation with other languages. If your language supports it, I would suggest replicating the function overloading and default parameters used in the original, else the API may be harder to use. In doubt, always check the original C++ version first!
 
@@ -18,7 +29,7 @@ Now on to the list...
 | Language | Project |
 |------------|---|
 | Beef       | **imgui-beef**: auto-generated Beef wrapper library for Dear ImGui<br>https://github.com/RogueMacro/imgui-beef
-| C          | **cimgui**: auto-generated c-api wrapper for Dear ImGui <br>\*\***(metadata output from cimgui can be used to automatically generate other bindings**)\*\*<br>https://github.com/cimgui/cimgui |
+| C          | **cimgui**: auto-generated c-api wrapper for Dear ImGui <br>\*\***(metadata output from cimgui can be used to automatically generate other bindings**)\*\*<br>https://github.com/cimgui/cimgui<br><br>**dear_bindings**: auto-generated c-api wrapper for Dear ImGui <br>\*\***(metadata output from cimgui can be used to automatically generate other bindings**)\*\*<br>https://github.com/dearimgui/dear_bindings |
 | C#/.Net    | **ImGui.NET**: An ImGui wrapper for .NET Core <br>https://github.com/mellinoe/ImGui.NET |
 | C++17      | **ImGuiWrapper**: CMakeList wrapper and C++17 RAII encapsulation for accessing Imgui |
 | ChaiScript | **imgui-chaiscript**: ChaiScript bindings for ImGui <br>https://github.com/JuJuBoSc/imgui-chaiscript |
