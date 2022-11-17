@@ -2,7 +2,7 @@
 
 - [Binding Generators](#binding-generators)
 - [Language Bindings](#language-bindings)
-- [Framework/Engine Bindings/Backends](#frameworkengine-bindingsbackends)
+- [Framework/Engine Backends](#frameworkengine-backends)
 - [Miscellaneous](#Miscellaneous)
 - [Ports, Rewrites, Clones](#ports-rewrites-clones)
 
@@ -57,7 +57,7 @@ Now on to the list...
 | Swift  | **SwiftGui**: an experimental API inspired by SwiftUI declarative code, using Dear ImGui and running on OSX and iOS.<br>https://github.com/erickjung/SwiftGUI<br>**SwiftImGui**: Swift wrapper around Dear imgui for macOS, iOS and linux<br>https://github.com/ctreffs/SwiftImGui<br>**Swift-imgui**: Dear ImGui Swift Wrapper API for macOS and iOS <br>https://github.com/mnmly/Swift-imgui |
 | Zig | Zig bindings for ocornut/imgui, generated using cimgui/cimgui https://github.com/SpexGuy/Zig-ImGui
 
-## Framework/Engine Bindings/Backends
+## Framework/Engine Backends
 
 Main repository include examples for DirectX9, DirectX10, DirectX11, DirectX12, Metal, OpenGL2/3, Vulkan, SDL_Renderer, iOS, WebGPU, using frameworks such as GLFW, SDL2, Win32, GLUT, Android, OSX/Cocoa, Allegro. See [examples/](https://github.com/ocornut/imgui/tree/master/examples) and [BACKENDS.md](https://github.com/ocornut/imgui/blob/master/docs/BACKENDS.md) for details.
 
