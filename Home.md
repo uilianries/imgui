@@ -61,12 +61,13 @@ Welcome to the Dear ImGui wiki! Feel free to edit and contribute!
 
 ### Language Bindings
 
-- [List of language bindings](https://github.com/ocornut/imgui/wiki/Bindings) (C, C#, D, Go, JavaScript, Lua, Rust and many others)
+- [List of language bindings](https://github.com/ocornut/imgui/wiki/Bindings) (C, C#, D, Go, JavaScript, Lua, Python, Rust and many others...)
+- [List of binding generators](https://github.com/ocornut/imgui/wiki/Bindings#binding-generators) (cimgui, dear_bindings)
 
 ### Platform and Rendering Backends
 
+- [List of engine/framework backends](https://github.com/ocornut/imgui/wiki/Bindings#frameworkengine-backends) (Unity, Unreal and many others...)
 - [About Backends](https://github.com/ocornut/imgui/blob/master/docs/BACKENDS.md) (docs/BACKENDS.md)
-- [List of engine/framework backends](https://github.com/ocornut/imgui/wiki/Bindings#frameworkengine-backends)
 - The [backends/](https://github.com/ocornut/imgui/tree/master/backends) folder contains 16 reusable backends for varieties of platforms and frameworks.
 
 ### Third-party extensions
@@ -103,8 +104,8 @@ Welcome to the Dear ImGui wiki! Feel free to edit and contribute!
 
 ### Tables
 
-- Search in Issues: [tables/columns](https://github.com/ocornut/imgui/issues?q=label%3Atables%2Fcolumns+)
 - [#3740](https://github.com/ocornut/imgui/issues/3740) Main Tables Topic
+- Search in Issues: [tables/columns](https://github.com/ocornut/imgui/issues?q=label%3Atables%2Fcolumns+)
 
 ### Docking
 
@@ -181,6 +182,7 @@ Other:
 - stb (stb single-file public domain libraries for C/C++) https://github.com/nothings/stb
 - str (lightweight C++ string type with an optional local buffer) https://github.com/ocornut/Str
 - nuklear (A single-header ANSI C gui library) https://github.com/Immediate-Mode-UI/Nuklear
+- egui (egui: an easy-to-use immediate mode GUI in Rust) https://github.com/emilk/egui
 - im3d (Immediate mode rendering and 3d gizmos) https://github.com/john-chapman/im3d
 - An immediate mode 3D gizmo (translation, rotation, scale for scene editing) https://github.com/meshula/tinygizmo
 - small libraries with minimal dependencies https://github.com/nothings/single_file_libs
