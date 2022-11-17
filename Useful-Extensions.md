@@ -10,6 +10,7 @@ _(wiki editors: the images on this page are 500x250 pixels. please try to keep n
 - [Input Method Editors](#input-method-editors)
 - [Knobs](#knobs)
 - [Spinners](#spinners)
+- [Toggles](#toggles)
 - [Layout](#layout)
 - [Styling](#styling)
 - [Software Renderer/Rasterizer](#software-rendererrasterizer)
@@ -163,6 +164,15 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 
 **Spinner/Loading progress indicators**
 <BR> [issue #1901](https://github.com/ocornut/imgui/issues/1901)
+
+# Toggles
+
+**Toggle Button**
+<BR> [issue #1537](https://github.com/ocornut/imgui/issues/1537)
+<BR> ![](https://user-images.githubusercontent.com/1193295/96878596-51bff680-147b-11eb-8ded-f0bc241fa984.png)
+
+**imgui_toggle**
+<BR> [github/cmdwft/imgui_toggle](https://github.com/cmdwtf/imgui_toggle)
 
 # Layout
 
@@ -338,10 +348,6 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 
 **ImGuiBuilder**
 <BR> [github/Code-Building/ImGuiBuilder](https://github.com/Code-Building/ImGuiBuilder)
-
-**Toggle Button**
-<BR> [issue #1537](https://github.com/ocornut/imgui/issues/1537)
-<BR> ![](https://user-images.githubusercontent.com/1193295/96878596-51bff680-147b-11eb-8ded-f0bc241fa984.png)
 
 **ImGui Command Palette**
 <BR> [github/hnOsmium0001/imgui-command-palette](https://github.com/hnOsmium0001/imgui-command-palette)
