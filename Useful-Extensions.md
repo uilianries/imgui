@@ -172,7 +172,7 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 <BR> [issue #1537](https://github.com/ocornut/imgui/issues/1537)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96878596-51bff680-147b-11eb-8ded-f0bc241fa984.png)
 
-**imgui_toggle**
+**imgui_toggle** (2022)
 <BR> [github/cmdwft/imgui_toggle](https://github.com/cmdwtf/imgui_toggle)
 
 # Layout
@@ -245,12 +245,12 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 
 # Virtual Reality (VR) / Reprojected UI plane
 
-**ImGuiVR**: Demo code for using Imgui with OpenVR 
-<BR> [github/temcgraw/ImguiVR](https://github.com/temcgraw/ImguiVR) / [video](https://www.youtube.com/watch?v=nlwfn4HJw5E)
-
-**Desktop+**: Advanced desktop access for OpenVR
+**Desktop+**: Advanced desktop access for OpenVR (2021)
 <BR> [github/elvissteinjr/DesktopPlus](https://github.com/elvissteinjr/DesktopPlus)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96884668-0eb55180-1482-11eb-95da-1f513a9f5a77.png)
+
+**ImGuiVR**: Demo code for using Imgui with OpenVR (2017)
+<BR> [github/temcgraw/ImguiVR](https://github.com/temcgraw/ImguiVR) / [video](https://www.youtube.com/watch?v=nlwfn4HJw5E)
 
 **BIMXplorer**: 
 <BR> [homepage](https://www.bimxplorer.com/)
@@ -262,45 +262,45 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 
 # Image manipulation
 
-**imgInspect**
+**imgInspect** (2019)
 <BR> [github/CedricGuillemet/imgInspect](https://github.com/CedricGuillemet/imgInspect)
 <BR> ![image](https://user-images.githubusercontent.com/8225057/118988474-83515f80-b981-11eb-8ce1-4818ddc3195a.png)
 
-**ImGuiTexInspect**: Advanced, flexible texture inspector
+**ImGuiTexInspect**: Advanced, flexible texture inspector (2021-2022)
 <BR> [github/andyborrell/imgui_tex_inspect](https://github.com/andyborrell/imgui_tex_inspect) ([discussion](https://github.com/ocornut/imgui/issues/4352), [online demo](https://andyborrell.github.io/imgui_tex_inspect))
 <BR> <a href="https://user-images.githubusercontent.com/5911521/126656032-b045b65b-5f42-4065-9c49-c1a22e866a28.png"><img src="https://user-images.githubusercontent.com/5911521/126656032-b045b65b-5f42-4065-9c49-c1a22e866a28.png" alt="Screenshot of ImGuiTexInspect" width="500" /></a>
 
 # 3D manipulation Gizmos
 
-**ImGuizmo**: 3d translation/rotation Gizmo
+**ImGuizmo**: 3d translation/rotation Gizmo (2016-2022)
 <BR> [github/CedricGuillemet/ImGuizmo](https://github.com/CedricGuillemet/ImGuizmo)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96868383-41554f00-146e-11eb-84b5-c4264c54532f.png)
 
-**imGuiZMO.quat**: 3d translation/rotation Gizmo
+**imGuiZMO.quat**: 3d translation/rotation Gizmo (2020)
 <BR> [github/BrutPitt/imGuIZMO.quat](https://github.com/BrutPitt/imGuIZMO.quat)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96868553-86798100-146e-11eb-872a-44f51ee78117.png)
 
 # Inspectors, Serialization
 
-**ImGui::Auto()** (auto serialize into UI using C++17)
+**ImGui::Auto()**: auto serialize into UI using C++17 (2017)
 <BR> [github/Csabix/imgui](https://github.com/Csabix/imgui/tree/master/auto)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96878992-c72bc700-147b-11eb-9796-b3c87b543856.png)
 
-**ImQuick** 
+**ImQuick**: render UI elements automagically based only on the variable type. (2021)
 <BR> [github/martinpetkovski/ImQuick](https://github.com/martinpetkovski/ImQuick)
 
-**imgui-inspect**: [Rust] An inspector UI using imgui in Rust 
+**imgui-inspect**: [Rust] An inspector UI using imgui in Rust (2021)
 <BR> [github/aclysma/imgui-inspect](https://github.com/aclysma/imgui-inspect)
 
 # C++ness
 
-**imgui_stdlib**: InputText() wrappers for C++ standard library (STL) type: std::string.
+**imgui_stdlib**: InputText() wrappers for C++ standard library (STL) type: std::string (2018-2022)
 <BR> [in main repository](https://github.com/ocornut/imgui/tree/master/misc/cpp)
 
 **imgui_scoped**: Add some RAII-style wrappers
 <BR> [#2096](https://github.com/ocornut/imgui/issues/2096), [#2197](https://github.com/ocornut/imgui/pull/2197)
 
-**imgui_sugar**: C++11 syntactic sugar for Dear ImGui with RAII guards
+**imgui_sugar**: C++11 syntactic sugar for Dear ImGui with RAII guards (2021-2022)
 <BR> [github/mnesarco/imgui_sugar](https://github.com/mnesarco/imgui_sugar)
 
 **imguiwrap**: CMake wrapper for imgui and C++17+ based RAII bindings, and helpers for bootstrapping simple projects.
@@ -312,11 +312,11 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 **Combos with custom filtering and preview**
 <BR> [issue #1658](https://github.com/ocornut/imgui/issues/1658)
 
-**imgui_memory_editor**
+**imgui_memory_editor** (2017-2022)
 <BR> [github/ocornut/imgui_club](https://github.com/ocornut/imgui_club)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96868227-081cdf00-146e-11eb-996b-35134ba8bd3c.png)
 
-**ImZoomSlider**: Range/Zooming Slider
+**ImZoomSlider**: Range/Zooming Slider (2020-20220
 <BR> [github/CedricGuillemet/ImGuizmo](https://github.com/CedricGuillemet/ImGuizmo)
 
 **Splitters**
@@ -327,7 +327,7 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 <BR> [issue #3484](https://github.com/ocornut/imgui/issues/3484)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96874705-bb89d180-1476-11eb-8640-43805b800ebf.png)
 
-**imgui-notify**: header-only wrapper made to create notifications**
+**imgui-notify**: header-only wrapper made to create notifications** (2021)
 <BR> [github/patrickcjk/imgui-notify](https://github.com/patrickcjk/imgui-notify)
 <BR> ![](https://user-images.githubusercontent.com/8225057/122738845-a625ab00-d282-11eb-8c9f-d4c7138cf815.png)
 
@@ -347,10 +347,10 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 <BR> [github/lighttransport/nnview](https://github.com/lighttransport/nnview)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96875679-ca24b880-1477-11eb-8d4c-022166c8a427.png)
 
-**ImGuiBuilder**
+**ImGuiBuilder**: gui editor of the Imgui framework
 <BR> [github/Code-Building/ImGuiBuilder](https://github.com/Code-Building/ImGuiBuilder)
 
-**ImGui Command Palette**
+**ImGui Command Palette** (2022)
 <BR> [github/hnOsmium0001/imgui-command-palette](https://github.com/hnOsmium0001/imgui-command-palette)
 <BR> ![](https://user-images.githubusercontent.com/36975818/147279807-5123e130-80f5-4f82-bab4-099a29b7ca95.png)
 
