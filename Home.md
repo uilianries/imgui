@@ -6,7 +6,8 @@ Welcome to the Dear ImGui wiki! Feel free to edit and contribute!
   - [General documentation](#general-documentation)
   - [Community](#community)
   - [Demo, Examples](#demo-examples)
-  - [Backends, Bindings](#backends-bindings)
+  - [Language Bindings](#language-bindings)
+  - [Platform and Rendering Backends](#platform-and-rendering-backends)
   - [Third-Party Extensions](#third-party-extensions)
   - [Gallery](#gallery)
   - [Notable branches](#notable-branches)
@@ -58,12 +59,15 @@ Welcome to the Dear ImGui wiki! Feel free to edit and contribute!
 - The [imgui_demo.cpp](https://github.com/ocornut/imgui/tree/master/imgui_demo.cpp) file has a `ImGui::ShowDemoWindow()` function which you can call from any imgui-enabled application to showcase variety of features. The demo function is called from all examples/ apps.
 - Third-party: @pthom's [imgui_manual](https://pthom.github.io/imgui_manual_online/manual/imgui_manual.html): web version of imgui_demo with interactive browsing of sources.
 
-### Backends, Bindings
+### Language Bindings
+
+- [List of language bindings](https://github.com/ocornut/imgui/wiki/Bindings) (C, C#, D, Go, JavaScript, Lua, Rust and many others)
+
+### Platform and Rendering Backends
 
 - [About Backends](https://github.com/ocornut/imgui/blob/master/docs/BACKENDS.md) (docs/BACKENDS.md)
+- [List of engine/framework backends](https://github.com/ocornut/imgui/wiki/Bindings#frameworkengine-backends)
 - The [backends/](https://github.com/ocornut/imgui/tree/master/backends) folder contains 16 reusable backends for varieties of platforms and frameworks.
-- [List of language bindings](https://github.com/ocornut/imgui/wiki/Bindings#language-bindings) (C, C#, D, Go,  JavaScript, Lua, Rust and many others)
-- [List of engine/framework backends](https://github.com/ocornut/imgui/wiki/Bindings#frameworkengine-bindingsbackends)
 
 ### Third-party extensions
 
@@ -71,7 +75,7 @@ Welcome to the Dear ImGui wiki! Feel free to edit and contribute!
 
 ### Gallery
 
-- [Gallery #5243](https://github.com/ocornut/imgui/issues/5243) Post your screenshots / code here
+- [Gallery #5886](https://github.com/ocornut/imgui/issues/5886) Post your screenshots / code here
 - [[Useful extensions/widgets gallery|Useful-extensions]]
 
 ### Notable branches
