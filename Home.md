@@ -241,6 +241,7 @@ See https://github.com/ocornut/imgui/issues/5031 for industry job offers relatin
 - 2020-12:【UE4】【C++】ImGuiを使ってみてハマった所、気付いた所 [toofu0.hatenablog.com](https://toofu0.hatenablog.com/entry/2020/12/18/014706)
 - 2021-03: UE4：ImGui導入手順 [toncrimentan-w.hatenablog.com](https://toncrimentan-w.hatenablog.com/entry/2021/03/08/154022)
 - 2022-07: ImGui で日本語と記号♥と絵文字😺の表示 [zenn.dev/tenka](https://zenn.dev/tenka/articles/display_japanese_symbols_and_emoji_with_imgui)
+- 2022-11:【Unity】Dear ImGuiの導入方法 [limegame.hatenablog](https://limegame.hatenablog.com/entry/2022/11/11/131111) +【Unity】Dear ImGuiのメニューバー実装方法 [limegame.hatenablog](https://limegame.hatenablog.com/entry/2022/11/21/153547)
 
 **Chinese (Trad)**
 - 2020-10: Day 17 ImGui 元件 [ithelp.ithome.com.tw](https://ithelp.ithome.com.tw/articles/10246595)
@@ -253,6 +254,7 @@ See https://github.com/ocornut/imgui/issues/5031 for industry job offers relatin
 
 **Polish**
 - 2018-01: Szkolenie z biblioteki dear imgui [Video Part 1](https://www.youtube.com/watch?v=TOop9EGngKY) [2](https://www.youtube.com/watch?v=fh6uOdherYw) [3](https://www.youtube.com/watch?v=bF2eOvsX7kY) [4](https://www.youtube.com/watch?v=rcCReEX6h-M) [5](https://www.youtube.com/watch?v=N2Jan6IizbA) [6](https://www.youtube.com/watch?v=70A0YH9h3Ek) [7](https://www.youtube.com/watch?v=0JRaThBx9Ww) [8](https://www.youtube.com/watch?v=O7PVZ6OKDtI) [9](https://www.youtube.com/watch?v=uIp7tLqFzKo), [Slide](https://docs.google.com/presentation/d/1F3jkWkRGCNrCAKi34KXvrkZ9luhS_7RUwHwdYDTFEiY/preview#slide=id.p) 
+- 2021-02: Dear ImGui: pragmatyczne podejście do programowania interfejsów użytkownika [programista mag](https://programistamag-pl.translate.goog/programista-1-2021-95/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=pl&_x_tr_pto=wapp)
 
 ### About the IMGUI paradigm
 
