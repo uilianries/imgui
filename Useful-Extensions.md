@@ -3,6 +3,7 @@ _(wiki editors: the images on this page are 500x250 pixels. please try to keep n
 
 ## Index
 
+- [Automation / Testing](#automation--testing)
 - [Text Editors](#text-editors)
 - [Node Editors](#node-editors)
 - [Plotting, Graph](#plotting-graph)
@@ -25,6 +26,7 @@ _(wiki editors: the images on this page are 500x250 pixels. please try to keep n
 - [C++ness](#cness)
 - [Miscellaneous](#miscellaneous)
 - [Third Party Repos](#third-party-repos)
+
 
 # Text Editors
 
