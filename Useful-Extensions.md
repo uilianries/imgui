@@ -31,6 +31,7 @@ _(wiki editors: the images on this page are 500x250 pixels. please try to keep n
 
 **imgui_test_engine**: Dear ImGui Test Engine + Test Suite
 <BR> [github/ocornut/imgui_test_engine](https://github.com/ocornut/imgui_test_engine)
+<BR> ![imgui_test_engine](https://user-images.githubusercontent.com/8225057/203781606-6a544fed-1696-49ab-ba2f-12786d6871b0.png)
 
 # Text Editors
 
