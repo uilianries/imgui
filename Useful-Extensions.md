@@ -27,6 +27,10 @@ _(wiki editors: the images on this page are 500x250 pixels. please try to keep n
 - [Miscellaneous](#miscellaneous)
 - [Third Party Repos](#third-party-repos)
 
+# Automation / Testing
+
+**imgui_test_engine**: Dear ImGui Test Engine + Test Suite
+<BR> [github/ocornut/imgui_test_engine](https://github.com/ocornut/imgui_test_engine)
 
 # Text Editors
 
