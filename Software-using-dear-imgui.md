@@ -256,7 +256,7 @@ Help us complete this list!
 | App | Mitsuba IM | | | [homepage](http://alphanew.net/projects.php)
 | App | Mockingbird | @Farfetch | | [github](https://github.com/Farfetch/mockingbird)
 | App | MSI Kombustor | MSI/Geeks3D | | [homepage](https://geeks3d.com/furmark/kombustor/)
-| Engine | NAP Framework | | | [homepage](https://www.napframework.com)
+| Engine | NAP Framework | NAP Labs | | [homepage](https://www.napframework.com)
 | Engine | nCine | @encelo | | [homepage](https://ncine.github.io/) / [shot](https://ncine.github.io/img/gallery/ncParticleEditor.png) / [shot](https://ncine.github.io/img/gallery/ImGui_overlay.png)
 | App | Neuro-OCT | | | [homepage](https://mll-luebeck.com/en/public-projects/neuro-oct/)
 | App | nnview | @syoyo | | [github](https://github.com/lighttransport/nnview) / [shot](https://user-images.githubusercontent.com/8225057/61595449-37c6a280-abac-11e9-991a-1c4246c9ccc3.jpg)
