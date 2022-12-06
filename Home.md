@@ -8,6 +8,7 @@ Welcome to the Dear ImGui wiki! Feel free to edit and contribute!
   - [Demo, Examples](#demo-examples)
   - [Language Bindings](#language-bindings)
   - [Platform and Rendering Backends](#platform-and-rendering-backends)
+  - [Testing / Automation](#testing--automation)
   - [Third-Party Extensions](#third-party-extensions)
   - [Gallery](#gallery)
   - [Notable branches](#notable-branches)
@@ -69,6 +70,10 @@ Welcome to the Dear ImGui wiki! Feel free to edit and contribute!
 - [List of engine/framework backends](https://github.com/ocornut/imgui/wiki/Bindings#frameworkengine-backends) (Unity, Unreal and many others...)
 - [About Backends](https://github.com/ocornut/imgui/blob/master/docs/BACKENDS.md) (docs/BACKENDS.md)
 - The [backends/](https://github.com/ocornut/imgui/tree/master/backends) folder contains 16 reusable backends for varieties of platforms and frameworks.
+
+### Testing / Automation
+
+- See [imgui_test_engine](https://github.com/ocornut/imgui_test_engine): Dear ImGui Test Engine + Test Suite
 
 ### Third-party extensions
 
