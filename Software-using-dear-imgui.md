@@ -79,6 +79,7 @@ Help us complete this list!
 | Game | Homescapes | Playrix | | [video](https://www.youtube.com/watch?v=siGNaiytfRo&t=77s)
 | Game | Hyper Scape | **Ubisoft** | Sponsor | [blog](https://montreal.ubisoft.com/en/ubisoft-sponsors-user-interface-library-for-c-dear-imgui/) / [video](https://www.youtube.com/watch?v=Q9gBfhZWQ6E)
 | Game | Indivisible | Lab Zero Games | | [homepage](http://www.indivisiblegame.com/)
+| Game | Into the Breach | Subset Games | | [homepage](https://subsetgames.com/itb.html)
 | Game | iRacing | iRacing.com<br>Motorsport Simulations | | [blog](https://www.iracing.com/road-new-damage/)
 | Game | Irony Curtain: From Matryoshka with Love | Artifex Mundi | | [steam](https://store.steampowered.com/app/866190/Irony_Curtain_From_Matryoshka_with_Love)
 | Game | Jurassic World Evolution | Frontier | | [homepage](http://www.jurassicworldevolutiongame.com)
