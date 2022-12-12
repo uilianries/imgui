@@ -1,4 +1,4 @@
-## Index
+### ## Index
 
 - [Binding Generators](#binding-generators)
 - [Language Bindings](#language-bindings)
@@ -97,6 +97,7 @@ Other backends:
 | Orx | **ImGuiOrx**:<br>https://github.com/thegwydd/ImGuiOrx (was [#1843](https://github.com/ocornut/imgui/pull/1843)) |
 | Photoshop | **Recipe: Custom UI for plug-ins using Dear ImGui**:<br>https://sonictk.github.io/ps_cpp_recipes/#recipe:customuiforplug-insusingimgui<br>https://github.com/sonictk/ps_cpp_recipes
 | px_render | **px_render_imgui.h**:<br>https://github.com/pplux/px/blob/master/px_render_imgui.h (was [#1935](https://github.com/ocornut/imgui/pull/1935)) |
+| raylib | **rlImGui**:<br>https://github.com/raylib-extras/rlImGui</br> |
 | Qt | **imgui-qt3d**:<br>https://github.com/alpqr/imgui-qt3d <br>**QOpenGLWindow (qtimgui)**:<br>https://github.com/seanchas116/qtimgui<br> **QtDirect3D**:<br>https://github.com/giladreich/QtDirect3D, qt6: https://github.com/alpqr/qvk6/tree/imgui/examples/rhi/imguidemo |
 | SDL_Renderer | **imgui_sdl**:<br>https://github.com/Tyyppi77/imgui_sdl<br>_IMPORTANT: This is a software rendering back-end for SDL_Renderer. SDL_Renderer is NOT the same as SDL. SDL_Renderer is an optional component of SDL aimed at replacing graphics API, ihmo it is outdated, not well designed, and doesn't bring much value. Please note you can use traditional OpenGL/DX9/DX11 backends in SDL even if you use SDL_Renderer (you'll need to chose the backend based on runtime graphics API). About SDL_Renderer not bringing much value: if you need high-level graphics helpers, Consider using SFML or openFrameworks or custom renderer instead of SDL + SDL_Renderer._
 | SFML | **imgui-sfml**:<br>https://github.com/eliasdaler/imgui-sfml |
