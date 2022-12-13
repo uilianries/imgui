@@ -1,4 +1,4 @@
-### ## Index
+## Index
 
 - [Binding Generators](#binding-generators)
 - [Language Bindings](#language-bindings)
