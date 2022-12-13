@@ -36,7 +36,7 @@ Now on to the list...
 | CovScript  | **covscript-imgui**: ImGui Extension for CovScript (Covariant) <br>https://github.com/covscript/covscript-imgui |
 | Crystal    | **crystal-imgui**: Crystal bindings to Dear ImGui<br>https://github.com/oprypin/crystal-imgui
 | D          | **bindbc-imgui**: Dynamic and static bindings to imgui, compatible with -betterC, @nogc, and nothrow<br>https://github.com/Inochi2D/bindbc-imgui<br>**DerelictImgui**: Dynamic bindings to cimgui for the D programming language <br>https://github.com/Extrawurst/DerelictImgui |
-| Go         | **imgui-go**: Go wrapper library for "Dear ImGui" <br> https://github.com/inkyblackness/imgui-go |
+| Go         | **cimgui-go**: Go wrapper library for "Dear ImGui" <br> https://github.com/AllenDang/cimgui-go |
 | Haskell    | **dear-imgui.hs**: Haskell bindings to Dear ImGui,<br>https://github.com/haskell-game/dear-imgui.hs<br>**imgui-haskell**: Haskell bindings for Dear ImGui <br>https://github.com/dbousamra/imgui-haskell
 | Haxe/hxcpp | **linc_imgui**: binding for imgui <br>https://github.com/Aidan63/linc_imgui |
 | Haxe/Heaps | **hlimgui**: [Heaps](https://heaps.io/) game engine binding for Dear ImGui <br>https://github.com/haddock7/hlimgui |
