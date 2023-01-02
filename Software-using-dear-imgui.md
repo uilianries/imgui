@@ -54,9 +54,11 @@ Help us complete this list!
 | Game | Dual Universe | Novaquark | | [homepage](https://www.dualthegame.com) / [video](https://www.youtube.com/watch?v=WTvT4BAg7RI) |
 | Game | Dungeons of Everchange | Dark Gnosis | | [homepage](http://www.darkgnosis.com/game/dungeons-of-everchange/) / [shots](https://github.com/ocornut/imgui/issues/1607#issuecomment-387039874) |
 | Game | Earthblade | Extremely OK Games | | [shot](https://user-images.githubusercontent.com/8225057/179963524-c42cbee7-7b95-4882-9fe3-def07de0b8e4.jpg)
+| Game | Elite Dangerous | Frontier | | [homepage](https://www.elitedangerous.com)
 | Game | Endless Fables 3: Dark Moor | Sunward Games | | [steam](https://store.steampowered.com/app/867050/Endless_Fables_3_Dark_Moor/)
 | Game | Erica | Flavourworks | | [ps store](https://store.playstation.com/fr-fr/product/EP9000-CUSA11882_00-ERICA00000000000) / [credits](https://www.mobygames.com/game/playstation-4/erica/credits)
 | Game | Euro Truck Simulator 2 | SCS Software | | [video](https://www.youtube.com/watch?v=rx43bLMZmxU)
+| Game | F1 Manager 2022 | Frontier | | [homepage](https://www.f1manager.com)
 | Game | Fallout 76 | Bethesda | | [homepage](https://fallout.bethesda.net) / [shot](https://user-images.githubusercontent.com/4228359/41322748-b9756e6e-6e78-11e8-8dfc-9a3437c1fd1a.png) 
 | Game | FIA European Truck Racing Championship | N-Racing | Sponsor | |
 | Game | FightNJokes | Mental Drink | | [steam](https://store.steampowered.com/app/1328400/FightNJokes/) / [shots](https://github.com/ocornut/imgui/issues/4451#issuecomment-1049744030)
@@ -83,6 +85,7 @@ Help us complete this list!
 | Game | iRacing | iRacing.com<br>Motorsport Simulations | | [blog](https://www.iracing.com/road-new-damage/)
 | Game | Irony Curtain: From Matryoshka with Love | Artifex Mundi | | [steam](https://store.steampowered.com/app/866190/Irony_Curtain_From_Matryoshka_with_Love)
 | Game | Jurassic World Evolution | Frontier | | [homepage](http://www.jurassicworldevolutiongame.com)
+| Game | Jurassic World Evolution 2 | Frontier | | [homepage](http://www.jurassicworldevolutiongame.com)
 | Game | League of Legends | Riot Games | | [homepage](http://www.leagueoflegends.com) / [shot](https://twitter.com/Beardilocks/status/1258568789303586817)
 | Game | Librelancer | @CallumDev | | [shot](https://camo.githubusercontent.com/746f970dbd4f0b2fb64df8e188cce35e023fbd5c/68747470733a2f2f692e696d6775722e636f6d2f666b344f6164382e706e67) / [github](https://github.com/Librelancer/Librelancer)
 | Game | Limit Theory | Procedural Reality | | [homepage](http://ltheory.com/) / [blog](http://forums.ltheory.com/viewtopic.php?f=30&t=6459#p160975) / [shots](https://github.com/ocornut/imgui/issues/1607#issuecomment-372018336)
@@ -106,6 +109,7 @@ Help us complete this list!
 | Game | Portal with RTX | Lightspeed Studios / NVIDIA | | [homepage](https://www.nvidia.com/en-us/geforce/campaigns/play-portal-with-rtx/) / [screenshot](https://user-images.githubusercontent.com/278957/206586315-2f8a8f80-b468-4236-a510-453e6a63d77d.png)
 | Game | Pioneer Space Sim | | | [homepage](https://pioneerspacesim.net/) / [github](https://github.com/pioneerspacesim/pioneer)
 | Game | Pirate Power | **Godzilab** | Sponsor | [app store](https://itunes.apple.com/us/app/pirate-power/id605057245) / [android](https://play.google.com/store/apps/details?id=com.godzilab.happypirate&hl=en)
+| Game | Planet Coaster: Console Edition | Frontier | | [homepage](https://console.planetcoaster.com)
 | Game | Pokémon Legends: Arceus | Game Freak | | [homepage](https://legends.pokemon.com/en-us/)
 | Game | Pokémon: Let's Go, Pikachu! / Eevee! | Game Freak | | [homepage](https://pokemonletsgo.pokemon.com/) / [shot 1](https://user-images.githubusercontent.com/8225057/51388476-d274f480-1b29-11e9-9573-f5986f3833dc.jpg) [2](https://user-images.githubusercontent.com/8225057/51388479-d4d74e80-1b29-11e9-8368-8ccbc09b6f25.jpg)
 | Game | Pokémon Sword and Shield | Game Freak | | [shots](https://github.com/ocornut/imgui/issues/3488#issuecomment-714048146)
