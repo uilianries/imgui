@@ -2,13 +2,15 @@ Also see: [[Quotes]].
 
 Help us complete this list!
 
-- **This is a list of disclosed users only**. The game industry has traditionally been rather private, and a majority of large game studios who are using Dear ImGui haven't disclosed their use publicly. If you work for one of those studio, consider disclosing your use via in-game credits, tech-oriented publications / blog posts, community shout-outs, or simply posting in the [gallery threads](https://github.com/ocornut/imgui/issues/2529). I work or talked with some of those studios but I am unable to disclose them without their approval.
+- **This is a list of disclosed users only**. The game industry has traditionally been rather private, and a majority of game studios who are using Dear ImGui haven't disclosed their use publicly. If you work for one of those studio, consider disclosing your use via in-game credits, tech-oriented publications / blog posts, community shout-outs, or simply posting in the [gallery threads](https://github.com/ocornut/imgui/issues/2529). I work or talked with some of those studios but I am unable to disclose them without their approval.
+
+- The [MIT License](https://github.com/ocornut/imgui/blob/master/LICENSE.txt) technically requires attribution... but most shipped games are not linking with Dear ImGui (avoiding this requirement), and many which are linking with it are not honoring the requirement (technically they are at fault).
 
 - The field listing author/company/team name is provided to make this list easier to parse and contextualize. It doesn't imply any endorsement from said author/company/team. 
 
 - The library is also used by many smaller personal, research or throwaway projects that are difficult to track and not listed here. 
 
-- Noted in bold teams/companies who sponsored Dear ImGui. Some sponsors choose to not disclose their titles and so are not listed here.
+- Noted in bold teams/companies who financially contributed to Dear ImGui in past ([Sponsors](https://github.com/ocornut/imgui/wiki/Sponsors)). A small amount of sponsors chose to not disclose their sponsorship.
 
 ----
 
