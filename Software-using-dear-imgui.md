@@ -117,6 +117,7 @@ Help us complete this list!
 | Game | Pokémon Sword and Shield | Game Freak | | [shots](https://github.com/ocornut/imgui/issues/3488#issuecomment-714048146)
 | Game | Pokémon Scarlet and Violet | Game Freak | | [homepage](https://scarletviolet.pokemon.com/en-us/)
 | Game | Puzzle Catcher | BlitWise Productions | | [homepage](https://www.puzzlecatcher.com)
+| Game | Quake (2021 remaster) | Bethesda | | [homepage](https://bethesda.net/en/game/quake)
 | Game | Quake Champions | | | [post](https://www.unknowncheats.me/forum/quake-champions/212973-quake-champions-using-imgui.html)
 | Game | Receiver 2 | Wolfire Games | | [homepage](https://store.steampowered.com/app/1129310/Receiver_2/) / [shots](https://github.com/ocornut/imgui/issues/3075#issuecomment-675511275)
 | Game | Re:creation | @eliasdaler | | [blog](https://eliasdaler.github.io/) |
