@@ -1,9 +1,9 @@
-Last updated 2022/09.
+Last updated 2022/12.
 This is a higher-level list of intent. Refer to TODO.txt for a more detailed list.
 
 ## Viewport
 
-- Improve Viewport branch toward merging in Master (1.90? 2.00?) ([#1542](https://github.com/ocornut/imgui/issues/1542)).
+- Improve [Multi-Viewports](https://github.com/ocornut/imgui/wiki/Multi-Viewports) feature toward merging in Master (~2.00) ([#1542](https://github.com/ocornut/imgui/issues/1542)).
 
 ## DPI
 
@@ -12,14 +12,14 @@ This is a higher-level list of intent. Refer to TODO.txt for a more detailed lis
 ## Navigation, Controls
 
 - Improve gamepad and keyboard controls. ([#787](https://github.com/ocornut/imgui/issues/787))
-- Inputs: Input ownership and routing system (2022).
-- Shortcuts: menus/global-style shortcuts.
+- Inputs: Input ownership and routing system (pushed to imgui_internal on 2022/12).
+- Shortcuts: menus/global-style shortcuts (internal proof-of-concept ready 2022/12)
 - Shortcuts: alt-style local shortcuts.
 - Menus: once menus are able to handle their shortcuts (aka recursing in non-visible menus) we could envision Mac-style menu searching.
 
 ## Docking
 
-- Improve/rewrite Docking (merge 2.00?) ([#2109](https://github.com/ocornut/imgui/issues/2109))
+- Improve/rewrite [Docking](https://github.com/ocornut/imgui/wiki/Docking) toward merging in 2.0. ([#2109](https://github.com/ocornut/imgui/issues/2109))
 
 ## Text/Fonts
 
@@ -35,11 +35,11 @@ This is a higher-level list of intent. Refer to TODO.txt for a more detailed lis
 
 ## Bindings
 
-- Release "dear_bindings" ease the generation of language bindings (e.g. C), as an "v3" alternative to https://github.com/cimgui/cimgui
+- Improve [dear_bindings](https://github.com/dearimgui/dear_bindings) to ease the generation of language bindings (e.g. C).
 
 ## Automation, Tests
 
-- Release Dear ImGui Test Engine (Q3-Q4 2022).
+- Improve the [Dear ImGui Test Engine](https://github.com/ocornut/imgui_test_engine).
 
 ## Misc
 
