@@ -32,6 +32,7 @@ Help us complete this list!
 | Game | Barbearian | Gimblll | | [homepage](http://www.gimblll.com/barbearian/) / [shot](https://user-images.githubusercontent.com/8225057/45208439-deeb6580-b28a-11e8-8e65-bcc93254e515.png)
 | Game | BeamNG.drive | BeamNG | | [homepage](https://www.beamng.com) / [steam](https://store.steampowered.com/app/284160/BeamNGdrive/)
 | Game | Below | Capybara Games | | [homepage](http://www.whatliesbelow.com) / [shots](https://github.com/ocornut/imgui/issues/973#issuecomment-301079827)
+| Game | Beyond Good and Evil 2 | **Ubisoft** | Sponsor | [blog](https://montreal.ubisoft.com/en/ubisoft-sponsors-user-interface-library-for-c-dear-imgui/)
 | Game | Blightmare | | | [steam](https://store.steampowered.com/app/859160/Blightmare/) / [blog](https://blightmare.com/2020/08/18/immediate-mode-user-interface/)
 | Game | Blood & Truth | SCEE Studio London | | [homepage](https://www.playstation.com/en-us/games/blood-and-truth-ps4/) / [credits](https://www.mobygames.com/game/playstation-4/blood-truth/credits)
 | Game | Boundless | Wonderstruck Games | | [homepage](http://playboundless.com) / [shots 1](https://github.com/ocornut/imgui/issues/539#issuecomment-234486231) [2](https://github.com/ocornut/imgui/issues/973#issuecomment-276030982)
