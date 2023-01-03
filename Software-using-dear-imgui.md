@@ -177,6 +177,7 @@ Help us complete this list!
 | Misc | B.A.M. | @berkayylmao | | [github](https://github.com/berkayylmao/BerkaysAssortedMods)
 | App | BASIC8 | Tony Wang | | [homepage](https://paladin-t.github.io/b8/) / [steam](https://store.steampowered.com/app/767240/)
 | Engine | Bezel Engine | Nintendo | | [shot](https://user-images.githubusercontent.com/8225057/105606992-9621a200-5d9c-11eb-8b60-fea1e71f43a7.jpg)
+| Engine | bgfx | | | [github](https://github.com/bkaradzic/bgfx)
 | App | Browser Tamer | @aloneguid | | [homepage](https://www.aloneguid.uk/projects/bt/)
 | App | Cacu Studio | | | [video](https://v.qq.com/x/page/i0181kqlx02.html)
 | App | CADRays | Open Cascade | | [homepage](https://www.opencascade.com/content/cadrays) / [video](https://www.youtube.com/watch?v=D6_uGxmhuVk) 
