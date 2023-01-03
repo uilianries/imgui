@@ -1,5 +1,5 @@
 Last updated 2022/12.
-This is a higher-level list of intent. Refer to TODO.txt for a more detailed list.
+This is a higher-level list of intent. Refer to [Issues](https://github.com/ocornut/imgui/issues) and TODO.txt for a more detailed list.
 
 ## Viewport
 
