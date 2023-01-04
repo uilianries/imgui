@@ -25,14 +25,13 @@ Currently looking for help with those things.
 - Tables: Feedback wanted! See [#2957](https://github.com/ocornut/imgui/issues/2957).
 - Docking: Feedback wanted! See [#2109](https://github.com/ocornut/imgui/issues/2109).
 
-**Platform/Renderer Bindings**
+**Platform/Renderer Backends**
 - Mac: imgui_impl_osx.mm need some love ([#1873](https://github.com/ocornut/imgui/issues/1873))
 - Mobile: Wanted imgui_impl_ios.cpp Platform Binding+Example for iOS (+ use existing renderer).
-- Mobile: Wanted imgui_impl_android.cpp Platform Binding+Example for Android (+ use existing renderer). ([#3446](https://github.com/ocornut/imgui/issues/3446))
 - Web: Wanted imgui_impl_emscripten.cpp Platform Binding+Example for Emscripten (+ use existing renderer to create a new example). ([#336](https://github.com/ocornut/imgui/pull/336))
-- Viewport: Vulkan bindings needs to fix multi-viewport support (see Viewport branch and [#1542](https://github.com/ocornut/imgui/issues/1542)): currently has Present issues.
-- Viewport: Metal bindings needs multi-viewport support (see Viewport branch and [#1542](https://github.com/ocornut/imgui/issues/1542)).
+- **Any of the third-party Unreal backend need multi-viewport support!**
+- **Any of the third-party Unity backend need multi-viewport support!**
 
 **External Language Bindings**
 - Many language bindings are not kept up to date (see https://github.com/ocornut/imgui/wiki/Links)
-- Considering switching bindings to use the [cimgui](https://github.com/cimgui/cimgui) generated data so users of your framework/language can stay up to date without manual intervention.
+- Considering switching bindings to use the [dear_bindings](https://github.com/dearimgui/dear_bindings) or [cimgui](https://github.com/cimgui/cimgui) generated data so users of your framework/language can stay up to date without manual intervention.
