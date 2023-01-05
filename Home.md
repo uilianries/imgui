@@ -251,7 +251,7 @@ See https://github.com/ocornut/imgui/issues/5031 for industry job offers relatin
 
 **Chinese (Trad)**
 - 2020-10: Day 17 ImGui 元件 [ithelp.ithome.com.tw](https://ithelp.ithome.com.tw/articles/10246595)
-- 2022-11:【ImGui 入门到精通  课程介绍】 [Video](https://www.bilibili.com/video/BV13e4y1m73N/?share_source=copy_web&vd_source=f1c007c0c824bfae9d1cc94d21fada0d)
+- 2022-11:【ImGui 入门到精通  课程介绍】 [video](https://www.bilibili.com/video/BV13e4y1m73N/?share_source=copy_web&vd_source=f1c007c0c824bfae9d1cc94d21fada0d)
 
 **French**
 - 2020-11: Dear ImGui : une bibliothèque d'interface utilisateur graphique "bloat-free" pour C++ [cpp.developpez.com](https://cpp.developpez.com/actu/310179)
