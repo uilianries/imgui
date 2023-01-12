@@ -131,6 +131,7 @@ Help us complete this list!
 | Game | Squarium | | | [homepage](https://bartveldstra.com/game/squarium/) / [android](https://play.google.com/store/apps/details?id=nl.ghostweb.Squarium)
 | Game | Star Citizen | Cloud Imperium Games | | [blog](https://starcitizenprivateer.tumblr.com/post/184141580116/star-citizen-monthly-report-march-2019) / [shot](https://user-images.githubusercontent.com/600573/76033357-58c1e500-5f3c-11ea-8c78-6299cc0f280c.png)
 | Game | Star Ocean: The Divine Force | Square Enix | | [ref](https://webcache.googleusercontent.com/search?q=cache:e0-aGFgkVq4J:https://www.square-enix-games.com/documents/star-ocean-the-divine-force-pc-installer-software-and-associated-plug-ins-content-protection-disclosure&cd=29)
+| Game | Stellaris | Paradox Development | | [homepage](https://www.paradoxinteractive.com/games/stellaris/about)
 | Game | Streets of Rage 4 | Guard Crush / Lizardcube | | [homepage](https://www.streets4rage.com/) / [shot](https://user-images.githubusercontent.com/8225057/68775486-d7fa7880-062e-11ea-8448-9aab3ca4837e.jpg)
 | Game | Structura | GreenGolem | | [steam](https://store.steampowered.com/app/1422980/Structura/) / [shot](https://user-images.githubusercontent.com/5115332/102346005-e7bd5c80-3fa6-11eb-8ed0-bbc17668719e.jpg)
 | Game | Super Crush KO | Vertex Pop | | [homepage](http://www.vertexpop.com/supercrushko/)
