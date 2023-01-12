@@ -333,7 +333,7 @@ Help us complete this list!
 | App | SpiritCalc | | | [github](https://github.com/ShrewdSpirit/SpiritCalc)
 | App | Splash | | | [homepage](https://github.com/paperManu/splash/wiki) / [shot](https://github.com/ocornut/imgui/issues/539#issuecomment-192671061)
 | App | SpookyGhost | @encelo | | [homepage](https://encelo.itch.io/spookyghost) / [video](https://www.youtube.com/watch?v=04KZe4M_4Is)
-| App | SpriteMancer | | | [homepage](https://spritemancer.com] / [shots](https://github.com/ocornut/imgui/issues/5886#issuecomment-1380262213)
+| App | SpriteMancer | | | [homepage](https://spritemancer.com) / [shots](https://github.com/ocornut/imgui/issues/5886#issuecomment-1380262213)
 | App | Stagemaster | | | [homepage](http://cityboundsim.com/devblog/introducing-stagemaster) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-299647845)
 | App | Syntacts | @epezent | | [homepage](https://www.syntacts.org)
 | App | tacit-texview | @bluescan | | [github](https://github.com/bluescan/tacit-texview) / [shots](https://github.com/ocornut/imgui/issues/2847#issuecomment-570201599)
