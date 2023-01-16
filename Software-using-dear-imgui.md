@@ -96,7 +96,7 @@ Help us complete this list!
 | Game | Marvel's Spider-Man | Insomniac Games | | [homepage](https://insomniac.games/game/spider-man-ps4/) / [shot](https://user-images.githubusercontent.com/8225057/72074984-2a84a800-32f3-11ea-9380-e43dc599a356.jpg)
 | Game | Marvel's Spider-Man: Miles Morales | Insomniac Games | | [homepage](https://www.playstation.com/fr-fr/games/marvels-spider-man-miles-morales/)
 | Game | Minecraft Bedrock | Mojang, Xbox Game Studios | | [homepage](http://www.minecraft.net) / [video](https://www.youtube.com/watch?v=Hi9Uv1EYFmQ)
-| Game | Monaco 2 | Pocketwatch Games | | [homepage](https://www.monacotwo.com)
+| Game | Monaco II | Pocketwatch Games | | [homepage](https://www.monacotwo.com)
 | Game | Monster Boy & The Cursed Kingdom | Game Atelier | | [homepage](http://www.monsterboy.com)
 | Game | Moonman/MoonQuest | @eigenbom | | [kickstarter](https://www.kickstarter.com/projects/eigenbom/moonman) / [blog](http://discuss.moonman.io/t/june-12-2016/1478)
 | Game | Mount & Blade II Bannerlord | TaleWorlds | | [blog](https://www.taleworlds.com/en/Games/Bannerlord/Blog/25) / [shot](https://user-images.githubusercontent.com/8225057/30460822-b4e9cadc-99b9-11e7-97fd-377a615b1e4e.jpg)
