@@ -19,6 +19,7 @@ Help us complete this list!
 | Type | Title | By | Sponsor | Links |
 | ---- | ------ | ----- | ------ | ----- |
 | Game | 22 Racing Series | GOATi | | [homepage](http://www.22series.com/)
+| Game | Age of Empires II: Definitive Edition | | | [steam](https://store.steampowered.com/app/813780/Age_of_Empires_II_Definitive_Edition/)
 | Game | Agents of Mayhem | Volition | | [homepage](https://www.aomthegame.com/)
 | Game | Apex Legends | EA | | [homepage](https://www.ea.com/games/apex-legends)
 | Game | A Plague Tale: Requiem | **Asobo** | Sponsor | [homepage](https://www.focus-entmt.com/en/games/a-plague-tale-requiem)
@@ -146,6 +147,7 @@ Help us complete this list!
 | Game | Teardown | Tuxedo Labs | | [homepage](http://teardowngame.com) / [shot](https://user-images.githubusercontent.com/8225057/79001463-d3d77600-7b4e-11ea-9d7c-7469157f5feb.jpg)
 | Game | Territory Control 2 | | | [steam](https://store.steampowered.com/app/690290/Territory_Control_2/)
 | Game | The Big Catch | Filet Group | | [shots](https://github.com/ocornut/imgui/issues/5243#issuecomment-1258825665)
+| Game | The Riftbreaker: Prologue | EXOR Studios | | [steam](https://store.steampowered.com/app/1293860/The_Riftbreaker_Prologue/)
 | Game | The Sinking City | Frogwares | | [steam](https://store.steampowered.com/app/750130/The_Sinking_City/)
 | Game | The Surge 2 | Deck 13 | | [web](http://thesurge-game.com) / [video](https://www.youtube.com/watch?v=WjPiJn9dkxs)
 | Game | Tom Clancy's Ghost Recon Breakpoint | **Ubisoft** | Sponsor | [homepage](https://ghost-recon.ubisoft.com/game/en-us/breakpoint)
