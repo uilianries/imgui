@@ -20,6 +20,7 @@ Help us complete this list!
 | ---- | ------ | ----- | ------ | ----- |
 | Game | 22 Racing Series | GOATi | | [homepage](http://www.22series.com/)
 | Game | Age of Empires II: Definitive Edition | | | [steam](https://store.steampowered.com/app/813780/Age_of_Empires_II_Definitive_Edition/)
+| Game | Age of Empires III: Definitive Edition | | | [steam](https://store.steampowered.com/app/933110/Age_of_Empires_III_Definitive_Edition)
 | Game | Agents of Mayhem | Volition | | [homepage](https://www.aomthegame.com/)
 | Game | Apex Legends | EA | | [homepage](https://www.ea.com/games/apex-legends)
 | Game | A Plague Tale: Requiem | **Asobo** | Sponsor | [homepage](https://www.focus-entmt.com/en/games/a-plague-tale-requiem)
@@ -63,6 +64,7 @@ Help us complete this list!
 | Game | Endless Fables 3: Dark Moor | Sunward Games | | [steam](https://store.steampowered.com/app/867050/Endless_Fables_3_Dark_Moor/)
 | Game | Erica | Flavourworks | | [ps store](https://store.playstation.com/fr-fr/product/EP9000-CUSA11882_00-ERICA00000000000) / [credits](https://www.mobygames.com/game/playstation-4/erica/credits)
 | Game | Euro Truck Simulator 2 | SCS Software | | [video](https://www.youtube.com/watch?v=rx43bLMZmxU)
+| Game | F1® 22 | Codemasters | | [steam](https://store.steampowered.com/app/1692250/F1_22)l
 | Game | F1 Manager 2022 | Frontier | | [homepage](https://www.f1manager.com)
 | Game | Fallout 76 | Bethesda | | [homepage](https://fallout.bethesda.net) / [shot](https://user-images.githubusercontent.com/4228359/41322748-b9756e6e-6e78-11e8-8dfc-9a3437c1fd1a.png) 
 | Game | FIA European Truck Racing Championship | N-Racing | Sponsor | |
@@ -168,6 +170,7 @@ Help us complete this list!
 | Game | WRC 7 | **Kylotonn** | Sponsor | |
 | Game | WRC 8 | **Kylotonn** | Sponsor | |
 | Game | WRC 9 | **Kylotonn** | Sponsor | |
+| Game | WRC 10 FIA World Rally Championship | **Kylotonn** | Sponsor | |
 | Game | Yo-Kai Watch 4 | Level-5 | | [shot](https://user-images.githubusercontent.com/8225057/97118313-a24c8380-1709-11eb-812d-c0bff0a3bc17.png)
 | Game | Zombie Tsunami | **Mobigame** | Sponsor | [appstore](https://itunes.apple.com/us/app/zombie-tsunami/id529652920?mt=8)
 
