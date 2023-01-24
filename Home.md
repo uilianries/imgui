@@ -150,6 +150,9 @@ Welcome to the Dear ImGui wiki! Feel free to edit and contribute!
 
 (Please also check our [examples/](https://github.com/ocornut/imgui/tree/master/examples) folder in the repo, they work fine as starter apps!)
 
+C/C++, Python:
+- imgui_bundle: bundle including various powerful libraries [...] easily create ImGui applications in C++ and Python, under Windows, macOS, and Linux [github/pthom/imgui_bundle](https://github.com/pthom/imgui_bundle)
+
 C/C++
 - asap: Starter project for portable app with optional GUI (GLFW/ImGui) [github/abdes/asap](https://github.com/abdes/asap)
 - GGWeb: Template for making a GUI app with C++ / Dear ImGui / SDL / OpenGL / Emscripten that can run both natively and in the browser. [github/ggerganov/ggweb](https://github.com/ggerganov/ggweb)
