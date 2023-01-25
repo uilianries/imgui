@@ -269,16 +269,19 @@ See https://github.com/ocornut/imgui/issues/5031 for industry job offers relatin
 ### About the IMGUI paradigm
 
 Dear ImGui is one possible implementation of an idea generally described as the IMGUI (Immediate Mode GUI) paradigm. The Immediate Mode GUI paradigm may at first appear unusual to some users. This is mainly because "Retained Mode" GUIs have been so widespread and predominant. The following links can give you a better understanding about how Immediate Mode GUIs works.
-- [[Our Wiki page About the IMGUI paradigm|About-the-IMGUI-paradigm]]
+- **[[Our Wiki page About the IMGUI paradigm|About-the-IMGUI-paradigm]]**.
 - [Johannes 'johno' Norneby's article](http://www.johno.se/book/imgui.html), 2007.
 - [A presentation by Rickard Gustafsson and Johannes Algelind](http://www.cse.chalmers.se/edu/year/2011/course/TDA361/Advanced%20Computer%20Graphics/IMGUI.pdf), 2011.
 - [Jari Komppa's tutorial on building an IMGUI library](http://iki.fi/sol/imgui/), @jarikomppa, 2006.
 - [Casey Muratori's original video that popularized the concept](https://mollyrocket.com/861), 2005.
+  - [First notable post by Casey on 2005-07-05](https://web.archive.org/web/20070824213736/http://www.mollyrocket.com/forums/viewtopic.php?t=134&start=0&sid=cb913629aa8310947c0476848a8824dd). 
+  - [2007 Mirror of Molly Rocket's IMGUI forums](https://web.archive.org/web/20070824203105/http://www.mollyrocket.com/forums/viewforum.php?f=10&sid=9680eeedbe87034741d936cbfe319f57) (with posts).
+  - [2013 Mirror of Molly Rocket's IMGUI forums](https://web.archive.org/web/20131221233224/http://mollyrocket.com/forums/viewforum.php?f=10&sid=b7ce0b0de4493f63edd88d13c99501a9) (index only, missing posts).
 - [Sean Barrett's article in Game Developer Magazine](https://archive.org/details/GDM_September_2005) (Page 34), September 2005.
-- [Writing an IMGUI](https://www.youtube.com/watch?v=wsJ8Y1HO250), @heroseh, 2021
+- [Sean Barrett's IMGUI page and toolkit](http://silverspaceship.com/inner/imgui), @nothings, 2005.
 - [Nicolas Guillemot's CppCon'16 flash-talk about Dear ImGui](https://www.youtube.com/watch?v=LSRJ1jZq90k), 2016.
 - [Thierry Excoffier's ZMV (Zero Memory Widget)](http://perso.univ-lyon1.fr/thierry.excoffier/ZMW/), 2004.
 
-Another notable uses of IMGUI paradigm include [Unity's own IMGUI widget library](https://docs.unity3d.com/Manual/GUIScriptingGuide.html), often informally referred to as `OnGUI()`, which is used to power the Unity editor and its extensions. This library is unrelated from Dear ImGui. The IMGUI library used by Unity has in the past received mixed feedback from its users, presumably because it may have been perceived as a potential candidate for game-facing UI solutions, which it doesn't excel at. However Unity has since provided separate libraries to tackle that case, and their IMGUI library is still very much in use for the Unity Editor and has been its UI backbone for the past 15+ years.
+Another notable uses of IMGUI paradigm include [Unity's own IMGUI widget library](https://docs.unity3d.com/Manual/GUIScriptingGuide.html), often informally referred to as `OnGUI()`, which powers the Unity editor and its extensions. This library is unrelated from Dear ImGui. The IMGUI library used by Unity has in the past received mixed feedback from its users, presumably because it may have been perceived as a potential candidate for game-facing UI solutions, which it doesn't excel at. However Unity has since provided separate libraries to tackle that case, and their IMGUI library is still very much in use for the Unity Editor and has been its UI backbone for the past 15+ years.
 
 ##### [Return to Index](#index)
