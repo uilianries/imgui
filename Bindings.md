@@ -75,7 +75,7 @@ Other backends:
 | Diligent Engine | **DiligentTools**:<br>[DiligentTools](https://github.com/DiligentGraphics/DiligentTools/blob/master/Imgui/src/ImGuiImplDiligent.cpp), [example](https://github.com/DiligentGraphics/DiligentSamples/tree/master/Samples/ImguiDemo) |
 | Ebiten | **ebiten-imgui**:<br>https://github.com/gabstv/ebiten-imgui |
 | Flexium | **FlexGUI**:<br>https://github.com/DXsmiley/FlexGUI |
-| GML / GameMaker Studio 2 | **ImGuiGML**:<br>https://marketplace.yoyogames.com/assets/6221/imguigml |
+| GML / GameMaker Studio 2 | **ImGuiGML**:<br>https://marketplace.yoyogames.com/assets/6221/imguigml<br>**ImGui_GM**:<br>https://github.com/nommiin/ImGui_GM<br> |
 | Godot | **imgui-godot**:<br>https://github.com/pkdawson/imgui-godot<br>**godot-dear-imgui**:<br>https://github.com/Blackdrop-Interactive-AB/godot-dear-imgui
 | GLEQ | Event processing:<br>[#3034](https://github.com/ocornut/imgui/issues/3034)
 | GTK3 + OpenGL3 | **imgui_impl_gtk3**:<br>Unmerged PR: [#2032](https://github.com/ocornut/imgui/pull/2032) |
