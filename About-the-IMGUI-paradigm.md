@@ -42,12 +42,12 @@ MenuItem* m_Item;
 
 // editor.cpp
 // [...] somewhere in an init/constructor function
-m_Item = Lib_CreateMenuItem(m_ContainerMenu);
-m_Item.OnActivated = OnSave(); // Bind action
+m_SaveItem = Lib_CreateMenuItem(m_ContainerMenu);
+m_SaveItem->OnActivated = OnSave(); // Bind action
 
 // [...] somewhere in a shutdown/destructor function
-Lib_DestroyItem(m_Item);
-m_Item = NULL;
+Lib_DestroyItem(m_SaveItem);
+m_SaveItem = NULL;
 // TODO: Ensure initial dirty state is reflected
 
 // [...] React to item being pressed
@@ -60,7 +60,7 @@ void OnSave()
 // IMPORTANT: Don't forget to call otherwise update menu color won't be correct!
 void UpdateSaveEnabledState()
 {
-   m_Item->SetEnabled(m_Document != NULL && m_Document->m_IsDirty);
+   m_SaveItem->SetEnabled(m_Document != NULL && m_Document->m_IsDirty);
 }
 void SetDocumentDirty(bool dirty) 
 {
