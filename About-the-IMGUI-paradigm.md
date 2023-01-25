@@ -29,7 +29,7 @@ From [README](https://github.com/ocornut/imgui#the-pitch), notice the four first
 - "Minimize setup and maintenance."
 - "Easy to use to create dynamic UI which are the reflection of a dynamic data set."
 
-While they don't constitute a definition of the IMGUI paradigm, they may give a good feeling of some of the advantages usually associated to the IMGUI paradigm.
+While they don't constitute a definition of the IMGUI paradigm, they may give a good intuition of some of the advantages usually associated to the IMGUI paradigm.
 
 ### History
 
@@ -131,6 +131,7 @@ _A lot in ui depends on the problem on hand so I feel there is no silver bullet.
   - [2007 Mirror of Molly Rocket's IMGUI forums](https://web.archive.org/web/20070824203105/http://www.mollyrocket.com/forums/viewforum.php?f=10&sid=9680eeedbe87034741d936cbfe319f57)
   - [2013 Mirror of Molly Rocket's IMGUI forums](https://web.archive.org/web/20131221233224/http://mollyrocket.com/forums/viewforum.php?f=10&sid=b7ce0b0de4493f63edd88d13c99501a9) (index only, missing posts)
 - [Sean Barrett's article in Game Developer Magazine](https://archive.org/details/GDM_September_2005) (Page 34), September 2005.
+- [Sean Barrett's IMGUI page and toolkit](http://silverspaceship.com/inner/imgui), @nothings, 2005.
 - [Nicolas Guillemot's CppCon'16 flash-talk about Dear ImGui](https://www.youtube.com/watch?v=LSRJ1jZq90k), 2016.
 - [Thierry Excoffier's ZMV (Zero Memory Widget)](http://perso.univ-lyon1.fr/thierry.excoffier/ZMW/), 2004.
 - [Unity's IMGUI](https://docs.unity3d.com/Manual/GUIScriptingGuide.html)
