@@ -14,7 +14,7 @@ As of ~~Feb 2021~~ January 2023, even the [IMGUI Wikipedia page](https://en.wiki
 - many popular IMGUI implementation have made similar design choices, making it more confusing what is actually the soul and backbone of the IMGUI paradigm vs a set of implementation choices. 
 - the naming and success of "Dear ImGui" blurred the line a little bit further (should have used another name).
 
-The acronym is very misleading because "immediate-mode" was initially coined as a reference to obsolete graphics API which made it very easy to render contents. Some people still incorrectly assume that IMGUIs are often rendering using those API. The choice of that word got us into years, maybe decades of misunderstanding.
+The acronym is misleading because "immediate-mode" was initially coined as a reference to obsolete graphics API which made it very easy to render contents. Some people still incorrectly assume that IMGUIs are often rendering using those API. 
 
 From now on, IMGUI will stand for "Incredibly Magic Graphics User Interface" ;)
 
@@ -29,7 +29,7 @@ From [README](https://github.com/ocornut/imgui#the-pitch), notice the four first
 - "Minimize setup and maintenance."
 - "Easy to use to create dynamic UI which are the reflection of a dynamic data set."
 
-While they don't constitute a definition of the IMGUI paradigm, they may give a good intuition of some of the advantages usually associated to the IMGUI paradigm. 
+While they don't constitute a definition of the IMGUI paradigm, they may give a good intuition of some of the advantages usually associated with the IMGUI paradigm. 
 
 **In order to further clarify this intuition**, we'll provide an example.
 
@@ -43,7 +43,7 @@ MenuItem* m_Item;
 // editor.cpp
 // [...] somewhere in an init/constructor function
 m_SaveItem = Lib_CreateMenuItem(m_ContainerMenu);
-m_SaveItem->OnActivated = OnSave(); // Bind action
+m_SaveItem->OnActivated = &OnSave; // Bind action
 
 // [...] somewhere in a shutdown/destructor function
 Lib_DestroyItem(m_SaveItem);
@@ -78,11 +78,12 @@ set SetDocument(Document* document)
 Typical IMGUI:
 ```cpp
 // editor.cpp
-if (Lib_MenuItem("SAVE"))
+bool is_save_allowed = (m_Document != NULL && m_Document->m_IsDirty);
+if (Lib_MenuItem("SAVE", is_save_allowed))
     m_Document->Save();
 ```
 
-This is a simple and perhaps exaggerated example provided to ease getting a quick first-intuition about the difference of IMGUI vs RMGUI. There are lots of things to say and criticize about this example. It tends to illustrates the shortcoming of RMGUIs before fully illustrating the shortcomings of IMGUIs. But it should illustrate the core benefit that IMGUI **tends to facilitate data binding, action binding, and creation/destruction of widgets**. It does facilitate those things because it generally doesn't need them.
+This is a simple and perhaps exaggerated example provided to get a better intuition about the difference of IMGUI vs RMGUI. There are lots of things to say and criticize about this example. It tends to illustrates the shortcoming of RMGUIs more than it illustrates the shortcomings of IMGUIs. But it should illustrate the core benefit that IMGUIs **tends to facilitate data binding, action binding, and creation/destruction of UI components**. It does facilitate those things because it generally doesn't need them.
 
 ### History
 
