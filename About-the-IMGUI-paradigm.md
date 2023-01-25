@@ -182,8 +182,8 @@ _A lot in ui depends on the problem on hand so I feel there is no silver bullet.
 - [Jari Komppa's tutorial on building an IMGUI library](http://iki.fi/sol/imgui/), @jarikomppa, 2006.
 - [Casey Muratori's original video that popularized the concept](https://mollyrocket.com/861), 2005.
   - [First notable post by Casey on 2005-07-05](https://web.archive.org/web/20070824213736/http://www.mollyrocket.com/forums/viewtopic.php?t=134&start=0&sid=cb913629aa8310947c0476848a8824dd). 
-  - [2007 Mirror of Molly Rocket's IMGUI forums](https://web.archive.org/web/20070824203105/http://www.mollyrocket.com/forums/viewforum.php?f=10&sid=9680eeedbe87034741d936cbfe319f57)
-  - [2013 Mirror of Molly Rocket's IMGUI forums](https://web.archive.org/web/20131221233224/http://mollyrocket.com/forums/viewforum.php?f=10&sid=b7ce0b0de4493f63edd88d13c99501a9) (index only, missing posts)
+  - [2007 Mirror of Molly Rocket's IMGUI forums](https://web.archive.org/web/20070824203105/http://www.mollyrocket.com/forums/viewforum.php?f=10&sid=9680eeedbe87034741d936cbfe319f57) (with posts).
+  - [2013 Mirror of Molly Rocket's IMGUI forums](https://web.archive.org/web/20131221233224/http://mollyrocket.com/forums/viewforum.php?f=10&sid=b7ce0b0de4493f63edd88d13c99501a9) (index only, missing posts).
 - [Sean Barrett's article in Game Developer Magazine](https://archive.org/details/GDM_September_2005) (Page 34), September 2005.
 - [Sean Barrett's IMGUI page and toolkit](http://silverspaceship.com/inner/imgui), @nothings, 2005.
 - [Nicolas Guillemot's CppCon'16 flash-talk about Dear ImGui](https://www.youtube.com/watch?v=LSRJ1jZq90k), 2016.
