@@ -29,7 +29,60 @@ From [README](https://github.com/ocornut/imgui#the-pitch), notice the four first
 - "Minimize setup and maintenance."
 - "Easy to use to create dynamic UI which are the reflection of a dynamic data set."
 
-While they don't constitute a definition of the IMGUI paradigm, they may give a good intuition of some of the advantages usually associated to the IMGUI paradigm.
+While they don't constitute a definition of the IMGUI paradigm, they may give a good intuition of some of the advantages usually associated to the IMGUI paradigm. 
+
+**In order to further clarify this intuition**, we'll provide an example.
+
+Typical RMGUI:
+```cpp
+
+// editor.h
+// [...] somewhere in a class declaration
+MenuItem* m_Item;
+
+// editor.cpp
+// [...] somewhere in an init/constructor function
+m_Item = Lib_CreateMenuItem(m_ContainerMenu);
+m_Item.OnActivated = OnSave(); // Bind action
+
+// [...] somewhere in a shutdown/destructor function
+Lib_DestroyItem(m_Item);
+m_Item = NULL;
+// TODO: Ensure initial dirty state is reflected
+
+// [...] React to item being pressed
+void OnSave()
+{
+   m_Document->Save();
+}
+
+// [...] Sync enable state so item can be greyed
+// IMPORTANT: Don't forget to call otherwise update menu color won't be correct!
+void UpdateSaveEnabledState()
+{
+   m_Item->SetEnabled(m_Document != NULL && m_Document->m_IsDirty);
+}
+void SetDocumentDirty(bool dirty) 
+{
+   if (m_Document)
+       m_Document->m_IsDirty = dirty;
+   UpdateSaveEnabledState();
+}
+set SetDocument(Document* document)
+{
+   m_Document = document;
+   UpdateSaveEnabledState();
+}
+```
+
+Typical IMGUI:
+```cpp
+// editor.cpp
+if (Lib_MenuItem("SAVE"))
+    m_Document->Save();
+```
+
+This is a simple and perhaps exaggerated example provided to ease getting a quick first-intuition about the difference of IMGUI vs RMGUI. There are lots of things to say and criticize about this example. But it should showcase the core idea that IMGUI **tends to facilitate data binding, action binding, and creation/destruction of widgets**. It does facilitate those things because it generally doesn't need them.
 
 ### History
 
