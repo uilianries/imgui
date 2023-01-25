@@ -82,7 +82,7 @@ if (Lib_MenuItem("SAVE"))
     m_Document->Save();
 ```
 
-This is a simple and perhaps exaggerated example provided to ease getting a quick first-intuition about the difference of IMGUI vs RMGUI. There are lots of things to say and criticize about this example. But it should showcase the core idea that IMGUI **tends to facilitate data binding, action binding, and creation/destruction of widgets**. It does facilitate those things because it generally doesn't need them.
+This is a simple and perhaps exaggerated example provided to ease getting a quick first-intuition about the difference of IMGUI vs RMGUI. There are lots of things to say and criticize about this example. It tends to illustrates the shortcoming of RMGUIs before fully illustrating the shortcomings of IMGUIs. But it should illustrate the core benefit that IMGUI **tends to facilitate data binding, action binding, and creation/destruction of widgets**. It does facilitate those things because it generally doesn't need them.
 
 ### History
 
