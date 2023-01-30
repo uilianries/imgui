@@ -134,6 +134,7 @@ Help us complete this list!
 | Game | Seaquence | | | [homepage](http://okaynokay.xyz/seaquence) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-308277401)
 | Game | Shenmue I & II (2018) | Sega, d3t | | [homepage](https://shenmue.sega.com)
 | Game | Shinorubi | | | [steam](https://store.steampowered.com/app/1665900/SHINORUBI/)
+| Game | Slitterhead | Bokeh Game Studio | | | [video](https://www.youtube.com/watch?t=136&v=zM3M3jTEAZM&feature=youtu.be)
 | Game | SNES Classic Mini | Nintendo | | [shot](https://user-images.githubusercontent.com/8225057/31039823-4aef87e2-a581-11e7-8329-077f5ded258d.jpg)
 | Game | Squarium | | | [homepage](https://bartveldstra.com/game/squarium/) / [android](https://play.google.com/store/apps/details?id=nl.ghostweb.Squarium)
 | Game | Stationeers | | | [steam](https://store.steampowered.com/app/544550/Stationeers)
