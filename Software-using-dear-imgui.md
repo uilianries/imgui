@@ -130,6 +130,7 @@ Help us complete this list!
 | Game | Red Dead Redemption 2 | Rockstar Games | | [homepage](https://www.rockstargames.com/reddeadredemption2) / [credits](https://github.com/ocornut/imgui/issues/2847#issuecomment-568252670)
 | Game | Return to Monkey Island | Terrible Toybox | | [homepage](https://returntomonkeyisland.com)
 | Game | Rise of the Tomb Raider | Feral Interactive | | [video](https://www.youtube.com/watch?v=ptakmFGcIRU&feature=youtu.be&t=638)
+| Game | Rise of the Triad: Ludicrious Edition | | | [steam](https://store.steampowered.com/app/1421490/Rise_of_the_Triad_Ludicrous_Edition/)
 | Game | Seaquence | | | [homepage](http://okaynokay.xyz/seaquence) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-308277401)
 | Game | Shenmue I & II (2018) | Sega, d3t | | [homepage](https://shenmue.sega.com)
 | Game | Shinorubi | | | [steam](https://store.steampowered.com/app/1665900/SHINORUBI/)
@@ -166,6 +167,7 @@ Help us complete this list!
 | Game | Windjammers 2 | **Dotemu** | Sponsor | [homepage](http://www.dotemu.com/game/windjammers-2/)
 | Game | WiLD | **Wild Sheep Studio** | Sponsor | [homepage](http://www.wildsheepstudio.com) / [shots](https://github.com/ocornut/imgui/issues/539#issuecomment-193720307) |
 | Game | Wonder Boy: The Dragon's Trap | **Lizardcube** | Sponsor | [homepage](http://www.TheDragonsTrap.com) / [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-262975159) |
+| Game | World Racing 2 - Champion Edition | | | [steam](https://store.steampowered.com/app/1301010/World_Racing_2__Champion_Edition/)
 | Game | World of Tanks Blitz | Wargaming | | [homepage](https://wotblitz.com/)
 | Game | WRC 7 | **Kylotonn** | Sponsor | |
 | Game | WRC 8 | **Kylotonn** | Sponsor | |
