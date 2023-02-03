@@ -12,7 +12,7 @@ This approach is summarized below. Of course, you may adapt it to your liking.
 
 ### 1. Create a storage for the idling data
 
-First, inside the application state rendering function, let's add a storage for the Idling parameters.
+First, inside the application state, let's add a storage for the Idling parameters.
 
 For example:
 ```cpp
