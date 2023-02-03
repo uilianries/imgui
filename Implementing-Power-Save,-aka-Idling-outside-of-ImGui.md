@@ -8,7 +8,7 @@ ImGui applications can consume a lot of CPU, since they update the screen very f
 
 Instead of modifying ImGui, an alternative approach is possible and it is not that difficult. It's motto is to say that this is neither a responsibility of ImGui in itself, nor a responsibility of the backend, but the responsibility of an application "runner" that is developed by the user around the backend.
 
-This approach is summarized below, and may or may not be to your liking. But I digress.
+This approach is summarized below. Of course, you may adapt it to your liking.
 
 ### 1. Create a storage for the idling data
 
