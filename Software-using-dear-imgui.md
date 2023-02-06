@@ -394,3 +394,4 @@ Help us complete this list!
 | Plugin | XSquawkBox 2.0 | | | [homepage](http://xsb.xsquawkbox.net/) / [shot](http://xsb.xsquawkbox.net/wp-content/uploads/sites/6/2018/03/XSB-NewUI-WIP.png) / [github](https://github.com/kuroneko/xsb_public/) |
 | Engine | XT | | | [github](https://github.com/invghost/XT) |
 | Misc | Zep | | | [github](https://github.com/cmaughan/zep) |
+| App | Flipper Zero Animation Manager | @Ooggle | | [github](https://github.com/Ooggle/FlipperAnimationManager) |
