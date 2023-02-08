@@ -291,7 +291,7 @@ Help us complete this list!
 | App | Neuro-OCT | | | [homepage](https://mll-luebeck.com/en/public-projects/neuro-oct/)
 | App | nnview | @syoyo | | [github](https://github.com/lighttransport/nnview) / [shot](https://user-images.githubusercontent.com/8225057/61595449-37c6a280-abac-11e9-991a-1c4246c9ccc3.jpg)
 | App | Nodable | @berdal84 | | [github](https://github.com/berdal84/Nodable) / [video](https://www.youtube.com/watch?v=_9_wzS7Hme8)
-| App | Nomad Sculpt | Hexanomad | | [homepage](https://nomadsculpt.com/) / [shot](https://medias.meow.social/media_attachments/files/109/829/577/183/853/983/original/cd0d268082163968.png)
+| App | Nomad Sculpt | Hexanomad | | [homepage](https://nomadsculpt.com/) / [shot 1](https://medias.meow.social/media_attachments/files/109/829/577/183/853/983/original/cd0d268082163968.png) [2](https://medias.meow.social/media_attachments/files/109/829/678/121/326/420/original/ba83723c38b9aa6c.png)
 | App | NoodlesPlate | @aiekick | | [github](https://github.com/aiekick/NoodlesPlate) / [videos](https://twitter.com/search?src=typd&q=noodlesplate)
 | Engine | Northlight | **Remedy Entertainment** | Sponsor | [homepage](https://www.remedygames.com/northlight)
 | App | npp-trener | | | [homepage](http://npp-trener.ru/) / [shot](https://user-images.githubusercontent.com/8225057/61595512-03071b00-abad-11e9-8a64-a7f59f2cdf3b.jpg)
