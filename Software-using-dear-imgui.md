@@ -389,6 +389,7 @@ Help us complete this list!
 | App | Waver: Data Over Sound | Georgi Gerganov | | [appstore](https://apps.apple.com/us/app/waver-data-over-sound/id1543607865#?platform=iphone)
 | App | What The Loop | | | [homepage](https://whattheloop.net/) / [shot](https://github.com/ocornut/imgui/issues/1269#issuecomment-332807951)
 | App | WhiteBox | | | [homepage](https://whitebox.systems/)
+| App | ContExt - Image Processing Engine for Differential Calculus | | | [GitHub Repo](https://github.com/RafaelCasamaximo/contExt)
 | Engine | WickedEngine | | | [github](https://github.com/plemsoft)
 | Engine | Wonderland Engine | Vhite Rabbit | | [web](https://www.wonderlandengine.com) / [shot](https://user-images.githubusercontent.com/8225057/76844857-3bdfb880-683e-11ea-979a-29e36e9e3d74.png)
 | App | WonderLeak | Relyze Software Limited | | [web](https://www.relyze.com/wonderleak_overview.html) / [shot](https://www.relyze.com/images/img/sliders/wonderleak-slider1.png) |
