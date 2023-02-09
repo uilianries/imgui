@@ -205,6 +205,7 @@ Help us complete this list!
 | App | CortexRecognition | **Recognition Robotics** | Sponsor | [homepage](http://www.recognitionrobotics.com) / [shots](https://github.com/ocornut/imgui/issues/123#issuecomment-114941904) / [photos](https://github.com/ocornut/imgui/issues/973#issuecomment-303784406)
 | App | CodeNect | @flamendless | | [homepage](https://flamendless.itch.io/codenect) / [github](https://github.com/flamendless/CodeNect-VPS)
 | App | Codeperfect 95 | | | [homepage](https://codeperfect95.com/) / [shot](https://user-images.githubusercontent.com/8225057/121209006-c9139080-c87a-11eb-9f33-63bebdfc86a9.png)
+| App | ContExt | | | [github](https://github.com/RafaelCasamaximo/contExt)
 | App | Cycloid | | | [github](https://github.com/a1k0n/cycloid/) / [blog](https://www.a1k0n.net/2021/01/22/indoor-localization.html)
 | App | Datoviz | | | [homepage](https://datoviz.org) / [shot](https://user-images.githubusercontent.com/8225057/108081248-04424780-7071-11eb-86dd-f6c4deef12c3.png)
 | App | Decaf | | | [github](https://github.com/decaf-emu/decaf-emu)
@@ -228,6 +229,7 @@ Help us complete this list!
 | Engine | Filament | **Google** | Sponsor | [github](https://github.com/google/filament)
 | Engine | FishEngine | @yushroom | | [github](https://github.com/yushroom/FishEngine) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-282622054)
 | App | FlexBV | pldaniels | | [homepage](https://pldaniels.com/flexbv/)
+| App | Flipper Zero Animation Manager | @Ooggle | | [github](https://github.com/Ooggle/FlipperAnimationManager) |
 | App | Fluid FX | CodeManua | | [homepage](https://codemanu.itch.io/fluid-fx)
 | App | ftpd | @mtheall | | [github](https://github.com/mtheall/ftpd/)
 | Engine | GeeXLab | | | [homepage](http://www.geeks3d.com/geexlab/)
@@ -389,11 +391,9 @@ Help us complete this list!
 | App | Waver: Data Over Sound | Georgi Gerganov | | [appstore](https://apps.apple.com/us/app/waver-data-over-sound/id1543607865#?platform=iphone)
 | App | What The Loop | | | [homepage](https://whattheloop.net/) / [shot](https://github.com/ocornut/imgui/issues/1269#issuecomment-332807951)
 | App | WhiteBox | | | [homepage](https://whitebox.systems/)
-| App | ContExt - Image Processing Engine for Differential Calculus | | | [GitHub Repo](https://github.com/RafaelCasamaximo/contExt)
 | Engine | WickedEngine | | | [github](https://github.com/plemsoft)
 | Engine | Wonderland Engine | Vhite Rabbit | | [web](https://www.wonderlandengine.com) / [shot](https://user-images.githubusercontent.com/8225057/76844857-3bdfb880-683e-11ea-979a-29e36e9e3d74.png)
 | App | WonderLeak | Relyze Software Limited | | [web](https://www.relyze.com/wonderleak_overview.html) / [shot](https://www.relyze.com/images/img/sliders/wonderleak-slider1.png) |
 | Plugin | XSquawkBox 2.0 | | | [homepage](http://xsb.xsquawkbox.net/) / [shot](http://xsb.xsquawkbox.net/wp-content/uploads/sites/6/2018/03/XSB-NewUI-WIP.png) / [github](https://github.com/kuroneko/xsb_public/) |
 | Engine | XT | | | [github](https://github.com/invghost/XT) |
 | Misc | Zep | | | [github](https://github.com/cmaughan/zep) |
-| App | Flipper Zero Animation Manager | @Ooggle | | [github](https://github.com/Ooggle/FlipperAnimationManager) |
