@@ -377,6 +377,10 @@ Also [Useful Widgets](https://github.com/ocornut/imgui/labels/useful%20widgets) 
 **@leiradel's snippets**
 <BR> [github/leiradel/ImGuiAl](https://github.com/leiradel/ImGuiAl/)
 
+**HEditor (The purpose is to make editing ImGui clearer and easier for users. thus speeding up development)**
+<BR> [issue #6157](https://github.com/ocornut/imgui/issues/6157)
+<BR>![Image](https://user-images.githubusercontent.com/56476339/218251960-8055e05d-9af6-4c8c-a9d3-3a5e26a758c9.gif)
+
 **@nem0's snippets** (in imgui_user.* files)
 <BR> [github/nem0/LumixEngine](https://github.com/nem0/LumixEngine/tree/master/external/imgui)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96885426-dd895100-1482-11eb-9f0f-f52a9f13eb18.png)
