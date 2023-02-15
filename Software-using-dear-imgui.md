@@ -327,6 +327,7 @@ Help us complete this list!
 | App | Polyscope | | | [homepage](http://polyscope.run/)
 | App | Qt 3D Studio Viewer | Qt Company | | [blog](http://blog.qt.io/blog/2018/06/27/whats-qt-3d-studio-scene/) / [blog](http://blog.qt.io/blog/2018/05/16/qt-3d-studio-2-0-beta-available/)
 | Lib | Raisim | | | [github](https://github.com/leggedrobotics/raisimLib) / [video](https://raw.githubusercontent.com/leggedrobotics/raisimOgre/master/img/laikago.gif)
+| App | RAT GUI | | | [homepage](https://rat-gui.ch/index.html) / [shot](https://user-images.githubusercontent.com/8225057/219034488-c475e875-dc05-4a53-8245-46e890854d7a.png)
 | App | RayTeak | | | [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-248678671)
 | Engine | RCRL (Read-Compile-Run-Loop) | @onqtam | | [github](https://github.com/onqtam/rcrl)
 | Misc | RealSense SDK | Intel | | [homepage](https://realsense.intel.com/sdk/) / [gif](https://github.com/ocornut/imgui/issues/1269#issuecomment-358929119)
