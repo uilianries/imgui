@@ -182,6 +182,7 @@ Help us complete this list!
 
 | Type | Title | By | Sponsor | Links |
 | ---- | ------ | ----- | ----- | ----- |
+| App | 6SigmaRoom | | | [homepage](https://www.futurefacilities.com/products/6sigmaroom/)
 | App | 3d Object Scatter | | | [homepage](https://cubebrush.co/3dobjectscatter?product_id=jyheqw)
 | App | 8th Wall's SLAM systems | | | [blog](https://www.8thwall.com/blog/post/45697581391/building-the-next-generation-of-slam-for-the-browser) / [shot](https://user-images.githubusercontent.com/8225057/116219141-950d6180-a74b-11eb-8af3-0bf78a84a344.jpg)
 | App | alphaTerm | | | [homepage](http://www.alphaticks.io) / [shot](https://user-images.githubusercontent.com/8225057/105607011-af2a5300-5d9c-11eb-9bc8-39d3310e2192.jpg)
