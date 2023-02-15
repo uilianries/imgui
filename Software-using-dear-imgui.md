@@ -70,6 +70,7 @@ Help us complete this list!
 | Game | FIA European Truck Racing Championship | N-Racing | Sponsor | |
 | Game | FightNJokes | Mental Drink | | [steam](https://store.steampowered.com/app/1328400/FightNJokes/) / [shots](https://github.com/ocornut/imgui/issues/4451#issuecomment-1049744030)
 | Game | Final Fantasy VII Remake | SquareEnix | | [video](https://www.youtube.com/watch?time_continue=675&v=DliMpiemUy8) / [talk](https://news.yahoo.co.jp/articles/50a6994718d63d323f9efb6b90f55a39b21c6f9a)
+| Game | Final Fantasy X/X-2 HD Remaster | SquareEnix | | [ref](https://finalfantasyxhd.square-enix-games.com/de-de/license/)
 | Game | Fishdom | Playrix | | [video](https://www.youtube.com/watch?v=siGNaiytfRo&t=77s)
 | Game | Fisherboy | | | [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-315665148) |
 | Game | Flight Simulator | **Asobo** | Sponsor | [homepage](https://www.flightsimulator.com/) / [video](https://youtu.be/10P21oFOxAU?t=481)
