@@ -82,6 +82,7 @@ Other backends:
 | Irrlicht Engine | **IrrIMGUI**:<br>https://github.com/ZahlGraf/IrrIMGUI |
 | JUCE | **imgui_juce**:<br>https://github.com/Krasjet/imgui_juce |
 | LÖVE+LUA | **love-imgui**:<br>https://github.com/slages/love-imgui<br>**love-imgui (fork)**:<br>https://github.com/MikuAuahDark/love-imgui<br>**LuaJIT-ImGui (ffi)**:<br>https://github.com/sonoro1234/LuaJIT-ImGui<br>**cimgui-love (ffi)**:<br>https://github.com/apicici/cimgui-love |
+| Mach engine | **mach/imgui**:<br>https://github.com/machlibs/imgui
 | Magnum | **magnum-integration**:<br>https://github.com/mosra/magnum-integration, [doc](https://doc.magnum.graphics/magnum/namespaceMagnum_1_1ImGuiIntegration.html), [example](https://doc.magnum.graphics/magnum/examples-imgui.html) |
 | Marmalade | **imgui_impl_marmalade**: <br>[backend](https://github.com/ocornut/imgui/tree/v1.85/backends) + [example](https://github.com/ocornut/imgui/tree/v1.85/examples/example_marmalade)
 | Monogame | **ImGui.NET for MonoGame**: <br>https://github.com/roy-t/ImGui.NET
