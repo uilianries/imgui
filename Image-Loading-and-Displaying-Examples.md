@@ -815,9 +815,7 @@ RemoveTexture(&my_texture);
 ```
 
 
-// TODO replace with Vulkan image instead of this OpenGL placeholder
-
-![image](https://user-images.githubusercontent.com/8225057/65344387-dfc21180-dbd7-11e9-9478-627403721435.png)
+![image](https://user-images.githubusercontent.com/73446357/220674180-94400cb0-ebd5-4b5d-943a-fc2cfd22e300.png)
 
 ##### [Return to Index](#index)
 
