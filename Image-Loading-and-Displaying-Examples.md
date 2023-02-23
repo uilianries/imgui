@@ -801,7 +801,7 @@ In the snippet of code above, we added an assert `IM_ASSERT(ret)` to check if th
 
 Now that we have an Vulkan texture and its dimensions, we can display it in our main loop:
 ```cpp
-ImGui::Begin("Vulkan Texture Text");
+ImGui::Begin("Vulkan Texture Test");
 ImGui::Text("pointer = %p", my_texture.DS);
 ImGui::Text("size = %d x %d", my_texture.Width, my_texture.Height);
 ImGui::Image((ImTextureID)my_texture.DS, ImVec2(my_texture.Width, my_texture.Height));
@@ -815,7 +815,7 @@ RemoveTexture(&my_texture);
 ```
 
 
-![image](https://user-images.githubusercontent.com/73446357/220674180-94400cb0-ebd5-4b5d-943a-fc2cfd22e300.png)
+![image](https://user-images.githubusercontent.com/73446357/220857330-8f3b9349-487a-4c00-b5df-cd2720bd3536.png)
 
 ##### [Return to Index](#index)
 
