@@ -205,7 +205,7 @@ Help us complete this list!
 | App | Cheevos Hunter | @leiradel | | [github](https://github.com/leiradel/CheevosHunter) / [shot](https://raw.githubusercontent.com/leiradel/CheevosHunter/master/ch.png)
 | Misc | Cinder-Experiments | @simongeilfus | | [github](https://github.com/simongeilfus/Cinder-Experiments)
 | App | Clavicula | | | [homepage](https://clavicula.link/)
-| App | clownmdemu | @clownacy | | [github](https://github.com/clownacy/clownmdemu) / [shot](https://raw.githubusercontent.com/Clownacy/clownmdemu/master/screenshot-debug.png)
+| App | clownmdemu-frontend | @clownacy | | [github](https://github.com/clownacy/clownmdemu-frontend) / [shot](https://raw.githubusercontent.com/Clownacy/clownmdemu-frontend/712b4744f78ec0ebd903feed49cdca509531e1bb/screenshot-debug.png)
 | App | CortexRecognition | **Recognition Robotics** | Sponsor | [homepage](http://www.recognitionrobotics.com) / [shots](https://github.com/ocornut/imgui/issues/123#issuecomment-114941904) / [photos](https://github.com/ocornut/imgui/issues/973#issuecomment-303784406)
 | App | CodeNect | @flamendless | | [homepage](https://flamendless.itch.io/codenect) / [github](https://github.com/flamendless/CodeNect-VPS)
 | App | Codeperfect 95 | | | [homepage](https://codeperfect95.com/) / [shot](https://user-images.githubusercontent.com/8225057/121209006-c9139080-c87a-11eb-9f33-63bebdfc86a9.png)
