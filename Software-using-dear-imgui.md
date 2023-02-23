@@ -313,6 +313,7 @@ Help us complete this list!
 | Engine | Open 3D Engine | | | [github](https://github.com/o3de/o3de)
 | App | OpenBoardView | | | [homepage](http://openboardview.org)
 | App | OpenPlanet | | | [homepage](https://openplanet.nl/) / [shots](https://github.com/ocornut/imgui/issues/1269#issuecomment-359883857)
+| App | OpenSim Creator | | | [github](https://github.com/ComputationalBiomechanicsLab/opensim-creator) / [shot](https://user-images.githubusercontent.com/8225057/220927964-3febebcc-a786-4a82-8851-0ed91da15d6a.png)
 | App | OpenSpace | | | [homepage](https://www.openspaceproject.com) / [github](https://github.com/OpenSpace/OpenSpace)
 | App | Orbital | @AlexAltea | | [github](https://github.com/AlexAltea/orbital)
 | Engine | OverEngine | @OverShifted | | [github](http://github.com/OverShifted/OverEngine)
