@@ -46,6 +46,7 @@ Welcome to the Dear ImGui wiki! Feel free to edit and contribute!
 - [[Tips|Tips]] (for people working _with_ dear imgui)
 - [[Developer tips|Developer-Tips]] (for people working _on_ dear imgui)
 - [Releases / Changelogs](https://github.com/ocornut/imgui/releases) with annotation and pictures.
+- Interactive [imgui_manual](https://pthom.github.io/imgui_manual_online/manual/imgui_manual.html) by @pthom
 
 ### Community
 
