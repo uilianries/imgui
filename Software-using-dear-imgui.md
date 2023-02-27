@@ -386,6 +386,7 @@ Help us complete this list!
 | App | Unknown software | Future Facilities | | [licence](https://www.futurefacilities.com/license-agreement/third-party-next-release)
 | App | Unknown software | Rovio | | [licence](https://www.rovio.com/oss/license/imgui)
 | App | vdb | | | [homepage](https://lightbits.github.io/vdb/) / [gallery](https://github.com/lightbits/vdb/blob/master/gallery.md)
+| App | vengi-voxedit Voxel Editor | @mgerhardy | | [homepage](https://mgerhardy.github.io/vengi) / [github](https://github.com/mgerhardy/vengi) |
 | App | virtualkc | | | [homepage](http://floooh.github.io/virtualkc) |
 | App | Virtual Reality Neuron Tracer | Visus | | [steam](https://store.steampowered.com/app/791040/Virtual_Reality_Neuron_Tracer/)
 | App | Visible | Darisa LLC | | [github](https://github.com/DarisaLLC/dev) / [shot](https://github.com/DarisaLLC/dev/blob/tiff_input_rls_0/screenshot.jpg)
