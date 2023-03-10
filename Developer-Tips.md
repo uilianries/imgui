@@ -2,7 +2,7 @@ Tips for when working on Dear ImGui codebase.
 
 Also see [Tips](https://github.com/ocornut/imgui/wiki/Tips), [Debug Tools](https://github.com/ocornut/imgui/wiki/Debug-Tools).
 
-### Test Suite
+### Automation and regression testing system
 Get yourself familiarized with running the [Dear ImGui Test Suite](https://github.com/ocornut/imgui_test_engine) to catch regression and contract changes. Making a change and running tests is a good way to understand possible side-effects of that change.
 
 When fixing bugs or adjusting some esoteric features, adding a new test case is generally useful.
@@ -25,9 +25,6 @@ So you can setup your UI state for debugging (open windows, mouse position, acti
 
 ### Continuous integration
 Branches pushed publicly will have [build actions](https://github.com/ocornut/imgui/actions) run on them.
-
-### Automation and regression testing system
-We are using a large suite of automated tests (still unpublished, see [#435](https://github.com/ocornut/imgui/issues/435)), recurrent contributors can get access to it.
 
 ### Using Natvis file for Visual Studio debugging
 The `misc/natvis/imgui.natvis` file may be included in your project to provide support for dear imgui types in the debugger (e.g. expanding of `ImVector<>` arrays).
