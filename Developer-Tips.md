@@ -2,11 +2,16 @@ Tips for when working on Dear ImGui codebase.
 
 Also see [Tips](https://github.com/ocornut/imgui/wiki/Tips), [Debug Tools](https://github.com/ocornut/imgui/wiki/Debug-Tools).
 
+### Test Suite
+Get yourself familiarized with running the [Dear ImGui Test Suite](https://github.com/ocornut/imgui_test_engine) to catch regression and contract changes. Making a change and running tests is a good way to understand possible side-effects of that change.
+
+When fixing bugs or adjusting some esoteric features, adding a new test case is generally useful.
+
 ### Metrics
 The Metrics window exposes lots of information about the library state.
 
 ### Logging
-You can use the `IMGUI_DEBUG_LOG` macro (declared in `imgui_internal.h`) to easily print text to the console while including the current frame counter, which is very often useful in log.
+You can use the `IMGUI_DEBUG_LOG_XXX` macros (declared in `imgui_internal.h`) to easily print text to console and in 'Debug Log' while including the current frame counter, which is very often useful in log.
 
 ### Using breakpoints
 Using debugger breakpoints can be tedious in an interactive application dealing with lots of data. Even more so as the state of the application may be so reliant on mouse and keyboard inputs. One convenient trick is filter breakpoint based on custom conditions, e.g checking for the Alt key modifier to be pressed:
