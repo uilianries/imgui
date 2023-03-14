@@ -38,6 +38,7 @@ Individuals: support continued development and maintenance [here](https://www.pa
 **Salty-caramel sponsors**
 - [Kylotonn](https://www.kylotonn.com)
 - [Wonderland Engine](https://wonderlandengine.com/)
+- [Tuxedo Labs](https://www.tuxedolabs.com/)
 - Dotemu
 - Framefield
 - Grinding Gear Games
