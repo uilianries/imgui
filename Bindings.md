@@ -79,7 +79,7 @@ Other backends:
 | Godot | **imgui-godot**:<br>https://github.com/pkdawson/imgui-godot<br>**godot-dear-imgui**:<br>https://github.com/Blackdrop-Interactive-AB/godot-dear-imgui
 | GLEQ | Event processing:<br>[#3034](https://github.com/ocornut/imgui/issues/3034)
 | GTK3 + OpenGL3 | **imgui_impl_gtk3**:<br>Unmerged PR: [#2032](https://github.com/ocornut/imgui/pull/2032) |
-| Irrlicht Engine | **IrrIMGUI**:<br>https://github.com/ZahlGraf/IrrIMGUI |
+| Irrlicht Engine | **IrrIMGUI**:<br>https://github.com/Armmegon/Irrlicht-ImGui |
 | JUCE | **imgui_juce**:<br>https://github.com/Krasjet/imgui_juce |
 | LÖVE+LUA | **love-imgui**:<br>https://github.com/slages/love-imgui<br>**love-imgui (fork)**:<br>https://github.com/MikuAuahDark/love-imgui<br>**LuaJIT-ImGui (ffi)**:<br>https://github.com/sonoro1234/LuaJIT-ImGui<br>**cimgui-love (ffi)**:<br>https://github.com/apicici/cimgui-love |
 | Mach engine | **mach/imgui**:<br>https://github.com/machlibs/imgui
