@@ -1,9 +1,8 @@
 ### Software doesn't maintain itself
 
-Your contributions are keeping this project alive. Dear ImGui is used by [many projects](https://github.com/ocornut/imgui/wiki/Software-using-dear-imgui). The library is available under a free and permissive license, but continued maintenance and development are a full-time endeavor which we would like to sustain and grow. In addition to maintenance and stability there are many desirable features yet to be added. We are consistently doing R&D and sitting on unfinished features needing work.
+Your contributions are keeping this project alive. Dear ImGui is used by [many projects](https://github.com/ocornut/imgui/wiki/Software-using-dear-imgui). The library is available under a free and permissive license, but continued maintenance and development are a full-time endeavor which we would like to sustain and grow. In addition to maintenance and stability there are many desirable features yet to be added. We are consistently doing R&D and sitting on unfinished features needing work. We are answering [community questions/issues](https://github.com/ocornut/imgui/issues?q=) in the open and in a one centralized place to create a large database of knowledge.
 
-Dear ImGui has first been in development as a side project from 2015 to 2017, then became my main focus since 2018.
-Thanks to our sponsors, in 2020, we poured ~2500 hours of work into Dear ImGui R&D. In 2021 ~1600 hours.
+Dear ImGui has first been conceptualized and prototyped in 2012, first released and developed as a side-project from 2014, then became my main focus from the end of 2017. Thanks to our sponsors, in 2020, we poured ~2500 hours of work into Dear ImGui R&D. In 2021 ~1600 hours.
 
 Businesses: support continued development and maintenance via invoiced technical support, maintenance, sponsoring contracts. **If your company is using Dear ImGui, please consider reaching out today to say hello!**:
 Sponsoring, support contracts and other B2B transactions are hosted and handled by [Lizardcube](https://www.lizardcube.com/).
