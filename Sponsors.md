@@ -20,9 +20,9 @@ Individuals: support continued development and maintenance [here](https://www.pa
 - [Blizzard](https://careers.blizzard.com/en-us/openings/engineering/all/all/all/1)
 
 **Double-chocolate sponsors**
-- [Ubisoft](https://montreal.ubisoft.com/fr/ubisoft-commandite-la-bibliotheque-dinterface-utilisateur-pour-c-dear-imgui/)
-- [NVIDIA](https://developer.nvidia.com/nvidia-omniverse)
 - [Supercell](http://www.supercell.com)
+- [NVIDIA](https://developer.nvidia.com/nvidia-omniverse)
+- Ubisoft
 
 **Chocolate sponsors**
 - [Adobe](https://www.adobe.com/products/medium.html)
