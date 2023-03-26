@@ -48,7 +48,7 @@ Help us complete this list!
 | Game | Clash of Clans | **Supercell** | Sponsor | [homepage](https://supercell.com/en/games/clashofclans/) / [shot](https://user-images.githubusercontent.com/8225057/81696947-e3572100-9464-11ea-8f96-d88db7379420.PNG)
 | Game | Clockwork Aquario | Westone, United Games Entertainment | | [homepage](https://www.iningames.com/games/clockwork-aquario)
 | Game | Control | **Remedy Entertainment** | Sponsor | [homepage](https://www.remedygames.com)
-| Game | Counter-Strike 2 | **Valve ** | | [shot](https://user-images.githubusercontent.com/8225057/226986982-6b7a8924-ebfb-4b0a-9dbd-26a4cb6308ef.JPG)
+| Game | Counter-Strike 2 | **Valve** | | [shot](https://user-images.githubusercontent.com/8225057/226986982-6b7a8924-ebfb-4b0a-9dbd-26a4cb6308ef.JPG)
 | Game | Crayta | **Unit 2 Games** | Sponsor | [web](https://crayta.com/) / [video](https://www.youtube.com/watch?v=yWArxAPI8Jg)
 | Game | Crossout | Targem Games | | [web](https://crossout.net) / [shot](https://user-images.githubusercontent.com/8225057/51042368-65f37600-15bc-11e9-99cf-36e9f9822610.jpg)
 | Game | Cyberpunk 2077 | CD Projekt Red | | [homepage](https://www.cyberpunk.net/)
