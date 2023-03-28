@@ -86,6 +86,7 @@ Help us complete this list!
 | Game | Grand Theft Auto VI | Rockstar Games | | [video](https://twitter.com/B4DC0FFEE/status/1571468908078714880)
 | Game | Griftlands | Klei || [steam](https://store.steampowered.com/app/601840/Griftlands)
 | Game | GunHero | Olli-Samuli Lehmus | | [steam](http://store.steampowered.com/app/568840/GunHero/)
+| Game | Halo Infinite | 343 Industries | | [shots](https://github.com/ocornut/imgui/issues/5886#issuecomment-1486685055)
 | Game | Hearts of Iron IV | Paradox Interactive | | [homepage](https://www.heartsofiron4.com) / [blog](https://devtrackers.gg/heartsofiron/p/67fbd64f-dev-diary-a-tech-lead-s-life)
 | Game | Hellbreaker | Enhex | | [homepage](https://enhex.itch.io/hellbreaker) / [shot](https://img.itch.zone/aW1hZ2UvMTY5MjQ4Lzg2MTI5NC5qcGc=/original/1InRJS.jpg)
 | Game | Hexterminate | | | [homepage](https://www.pedro-nunes.net/hexterminate/)
