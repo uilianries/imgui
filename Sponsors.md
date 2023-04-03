@@ -5,7 +5,7 @@ Your contributions are keeping this project alive. Dear ImGui is used by [many p
 Dear ImGui has first been conceptualized and prototyped in 2012, first released and developed as a side-project from 2014, then became my main focus from the end of 2017. Thanks to our sponsors, in 2020, we poured ~2500 hours of work into Dear ImGui R&D. In 2021 ~1600 hours.
 
 Businesses: support continued development and maintenance via invoiced technical support, maintenance, sponsoring contracts. **If your company is using Dear ImGui, please consider reaching out today to say hello!**:
-Sponsoring, support contracts and other B2B transactions are hosted and handled by [Lizardcube](https://www.lizardcube.com/).
+Sponsoring, support contracts and other B2B transactions are hosted and handled by [Disco Hello](https://www.discohello.com/).
 
 &nbsp;&nbsp;_E-mail: contact @ dearimgui dot com_
 
