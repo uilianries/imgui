@@ -30,7 +30,7 @@ Help us complete this list!
 | Game | Assassin's Creed Origins | **Ubisoft** | Sponsor | [blog](https://montreal.ubisoft.com/en/ubisoft-sponsors-user-interface-library-for-c-dear-imgui/)
 | Game | Assassin's Creed Valhalla | **Ubisoft** | Sponsor | [blog](https://montreal.ubisoft.com/en/ubisoft-sponsors-user-interface-library-for-c-dear-imgui/)
 | Game | Astro Bot Rescue Mission | Sony/SIE | | [homepage](https://www.playstation.com/en-us/games/astro-bot-rescue-mission-ps4/) / [shot](https://user-images.githubusercontent.com/8225057/56029150-0f601a00-5d1a-11e9-9615-f4fd04a1d734.JPG)
-| Game | Avoyd | **Enki Software** | Sponsor | [homepage](https://www.enkisoftware.com) / [shot](https://github.com/ocornut/imgui/issues/707#issuecomment-226993714)
+| Game | Avoyd | **Enkisoftware** | Sponsor | [homepage](https://www.enkisoftware.com) / [shot](https://github.com/ocornut/imgui/issues/707#issuecomment-226993714)
 | Game | AV-Racer | | | [steam](https://store.steampowered.com/app/1978850/AVRacer/)
 | Game | Azure Striker Gunvolt | | INTI Creates | [homepage](http://gunvolt.com/en/) / 
 [shot](https://user-images.githubusercontent.com/8225057/225102441-f0b1a97b-4acd-484b-bdf4-8749685bd389.png), [shot](https://user-images.githubusercontent.com/8225057/225102569-9399ef4d-00ec-4a5f-b6d5-b3b0fb55cb8d.png)
