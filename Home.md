@@ -159,6 +159,7 @@ C/C++
 - GGWeb: Template for making a GUI app with C++ / Dear ImGui / SDL / OpenGL / Emscripten that can run both natively and in the browser. [github/ggerganov/ggweb](https://github.com/ggerganov/ggweb)
 - Walnut: simple application framework for Vulkan and Dear ImGui apps. [github/TheCherno/Walnut](https://github.com/TheCherno/Walnut)
 - imgui-app: amalgamation of Dear ImGui and Sokol into two files [github/pplux/imgui-app](https://github.com/pplux/imgui-app)
+- imgui_application: Tiny library for making c++ imgui-based apps (web & native) [github/inobelar/imgui_application](https://github.com/inobelar/imgui_application)
 - imgui_dojo: an easy setup example for imgui [github/LiuZHolmes/imgui_dojo](https://github.com/LiuZHolmes/imgui_dojo)
 - mahi-gui: Dirt Simple C++ GUI Toolkit using GLFW, glad, and ImGui [github/mahilab/mahi-gui](https://github.com/mahilab/mahi-gui)
 - sdl-bgfx-imgui-starter: A starter project for graphics applications [github/pr0g/sdl-bgfx-imgui-starter](https://github.com/pr0g/sdl-bgfx-imgui-starter)
