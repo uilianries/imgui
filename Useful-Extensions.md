@@ -101,9 +101,8 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 <BR> [gist/galloscript](https://gist.github.com/galloscript/8a5d179e432e062550972afcd1ecf112)
 
 **im-neo-sequencer** (2022)
-<BR> [gitlab/GroGy/im-neo-sequencer](https://gitlab.com/GroGy/im-neo-sequencer)
-<BR> [Discussion](https://github.com/ocornut/imgui/issues/4967)
-<BR> ![](https://user-images.githubusercontent.com/33522201/151681341-641498b6-cecd-4a54-be97-f2de26d6004e.png)
+<BR> [gitlab/GroGy/im-neo-sequencer](https://gitlab.com/GroGy/im-neo-sequencer) / [discussion](https://github.com/ocornut/imgui/issues/4967)
+<BR> ![image](https://user-images.githubusercontent.com/8225057/230399492-3e20d754-50a1-4210-82b2-76d001c5c377.png)
 
 # File Browsers / File Dialog
 
