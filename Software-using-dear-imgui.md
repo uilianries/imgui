@@ -10,7 +10,7 @@ Help us complete this list!
 
 - The library is also used by many smaller personal, research or throwaway projects that are difficult to track and not listed here. 
 
-- Noted in bold teams/companies who financially contributed to Dear ImGui in past ([Sponsors](https://github.com/ocornut/imgui/wiki/Sponsors)). A small amount of sponsors chose to not disclose their sponsorship.
+- Noted in bold teams/companies who financially contributed to Dear ImGui in the past ([Sponsors](https://github.com/ocornut/imgui/wiki/Sponsors)). A small amount of sponsors chose to not disclose their sponsorship.
 
 ----
 
