@@ -14,6 +14,7 @@ _(wiki editors: the images on this page are 500x250 pixels. please try to keep n
 - [Spinners](#spinners)
 - [Toggles](#toggles)
 - [Layout](#layout)
+- [GUI/Layout Editor/Generator](#gui--layout-editor-generator)
 - [Styling](#styling)
 - [Software Renderer/Rasterizer](#software-rendererrasterizer)
 - [Remoting](#remoting)
@@ -185,6 +186,19 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 
 **Stack Layout implementation**
 <BR> https://github.com/ocornut/imgui/pull/846
+
+# GUI/Layout Editor/Generator
+**ImRAD** (2023)
+<BR> [github/tpecholt/imrad](https://github.com/tpecholt/imrad)
+<BR> ![](https://user-images.githubusercontent.com/8225057/230587989-6416cb83-743f-4267-91c8-4ef9b1032adc.png)
+
+**ImStudio** (2021-2022)
+<BR> [github/Raais/ImStudio](https://github.com/Raais/ImStudio), [web app](https://raais.github.io/ImStudio/)
+<BR>![](https://user-images.githubusercontent.com/8225057/230587695-ed9d5e0c-8085-4a00-96f5-acc0f4e49742.png)
+
+**ImGuiBuilder**: gui editor of the Imgui framework (2021)
+<BR> [github/Code-Building/ImGuiBuilder](https://github.com/Code-Building/ImGuiBuilder)
+<BR> ![](https://user-images.githubusercontent.com/8225057/230587226-126135d2-54b0-48bd-8b14-719af5786010.png)
 
 # Styling
 
@@ -360,9 +374,6 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 **nnview**: a neural network viewer
 <BR> [github/lighttransport/nnview](https://github.com/lighttransport/nnview)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96875679-ca24b880-1477-11eb-8d4c-022166c8a427.png)
-
-**ImGuiBuilder**: gui editor of the Imgui framework
-<BR> [github/Code-Building/ImGuiBuilder](https://github.com/Code-Building/ImGuiBuilder)
 
 **ImGui Command Palette** (2022)
 <BR> [github/hnOsmium0001/imgui-command-palette](https://github.com/hnOsmium0001/imgui-command-palette)
