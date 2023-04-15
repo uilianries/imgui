@@ -389,7 +389,7 @@ Help us complete this list!
 | App | Unknown sprite editor | @johanwendin | | [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-294857022)
 | App | Unknown software | Airbus | | [video](https://youtu.be/Te3qptOwTK4?t=20s) (at 00:20)
 | App | Unknown software | Boston Dynamics | | [shot](https://user-images.githubusercontent.com/8225057/81697446-52347a00-9465-11ea-81be-6fa35ae73821.JPG)
-| App | Unknown software | Future Facilities | | [licence](https://www.futurefacilities.com/license-agreement/third-party-next-release)
+| App | Unknown software | Future Facilities | | [licence](https://www.futurefacilities.com/LicenseAgreement/ThirdParty/)
 | App | Unknown software | Rovio | | [licence](https://www.rovio.com/oss/license/imgui)
 | App | vdb | | | [homepage](https://lightbits.github.io/vdb/) / [gallery](https://github.com/lightbits/vdb/blob/master/gallery.md)
 | App | vengi-voxedit Voxel Editor | @mgerhardy | | [homepage](https://mgerhardy.github.io/vengi) / [github](https://github.com/mgerhardy/vengi) |
