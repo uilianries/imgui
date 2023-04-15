@@ -182,6 +182,7 @@ Help us complete this list!
 | Game | WRC 10 FIA World Rally Championship | **Kylotonn** | Sponsor | |
 | Game | Yo-Kai Watch 4 | Level-5 | | [shot](https://user-images.githubusercontent.com/8225057/97118313-a24c8380-1709-11eb-812d-c0bff0a3bc17.png)
 | Game | Zombie Tsunami | **Mobigame** | Sponsor | [appstore](https://itunes.apple.com/us/app/zombie-tsunami/id529652920?mt=8)
+| Game | Ma'am Popcorn | | | [homepage](https://www.jsr-productions.com/maam-popcorn.html) / [play](https://www.jsr-productions.com/maamPopcorn/index.html) / [video](https://www.youtube.com/watch?v=eoGgYbHBJa0) |
 
 ## Applications, Engines and others
 
@@ -411,3 +412,4 @@ Help us complete this list!
 | Plugin | XSquawkBox 2.0 | | | [homepage](http://xsb.xsquawkbox.net/) / [shot](http://xsb.xsquawkbox.net/wp-content/uploads/sites/6/2018/03/XSB-NewUI-WIP.png) / [github](https://github.com/kuroneko/xsb_public/) |
 | Engine | XT | | | [github](https://github.com/invghost/XT) |
 | Misc | Zep | | | [github](https://github.com/cmaughan/zep) |
+| App | git-whale | | | [homepage](https://www.jsr-productions.com/git-whale.html) / [shot](https://user-images.githubusercontent.com/55633089/232242767-c1b5535a-fb61-47b6-8e8e-dd7b89ce1232.jpg)
