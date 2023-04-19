@@ -80,6 +80,7 @@ Help us complete this list!
 | Game | Fugl | Team Fugl | | [steam](https://store.steampowered.com/app/643810/Fugl/) / [homepage](http://fuglgame.com) |
 | Game | Future Unfolding | Spaces of Play | | [credits](https://www.mobygames.com/game/playstation-4/future-unfolding/credits)
 | Game | GOATi Traffic Simulation | GOATi | | [video](https://www.youtube.com/watch?v=A0ZdyzekVBo)
+| Game | God of War Ragnarök | Santa Monica Studio | | [shots](https://github.com/ocornut/imgui/issues/5886#issuecomment-1514971994)
 | Game | Good Company | Chasing Carrots | | [homepage](https://www.chasing-carrots.com/)
 | Game | Graceful Explosion Machine | Vertex Pop | | [steam](https://store.steampowered.com/app/575450/Graceful_Explosion_Machine) / [eshop](https://www.nintendo.com/games/detail/graceful-explosion-machine-switch) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-297435445)
 | Game | Grand Theft Auto VI | Rockstar Games | | [video](https://twitter.com/B4DC0FFEE/status/1571468908078714880)
