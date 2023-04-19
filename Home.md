@@ -263,6 +263,9 @@ See https://github.com/ocornut/imgui/issues/5031 for industry job offers relatin
 **French**
 - 2020-11: Dear ImGui : une bibliothèque d'interface utilisateur graphique "bloat-free" pour C++ [cpp.developpez.com](https://cpp.developpez.com/actu/310179)
 
+**German**
+- 2023-04: Interaktive GUI mit C++ und ImGui: Praktische Beispiele [udemy.com/course](https://www.udemy.com/course/interaktive-gui-mit-c-und-imgui-praktische-beispiele/)
+
 **Portuguese**
 - 2022-05: Como Criar Interfaces Gráficas com Dear ImGui e SFML [video](https://www.youtube.com/watch?v=XmiEkoqodcg)
 
