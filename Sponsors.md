@@ -27,11 +27,11 @@ Individuals: support continued development and maintenance [here](https://www.pa
 - [Adobe](https://www.adobe.com/products/medium.html)
 - [Aras Pranckevičius](https://aras-p.info)
 - [Asobo Studio](https://www.asobostudio.com/)
-- [Epic](https://www.unrealengine.com/en-US/megagrants)
 - [G3Dvu]()
 - [Google](https://github.com/google/filament)
 - Activision
 - Arkane Studios
+- Epic
 - RAD Game Tools
 
 **Salty-caramel sponsors**
