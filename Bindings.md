@@ -126,5 +126,6 @@ Other backends:
 
 | Language | Project |
 |------------|---|
-| Kotlin     | **dear jvm imgui**: full JVM port/rewrite <br>https://github.com/kotlin-graphics/imgui |
 | Javascript | **imgui-njs**: imgui-njs is a manual-port / partial-rewrite of dear imgui <br>https://github.com/cannerycoders/imgui-njs |
+| Kotlin     | **dear jvm imgui**: full JVM port/rewrite <br>https://github.com/kotlin-graphics/imgui |
+| Roblox     | **Iris**: Iris is an Immediate mode GUI Library for Roblox, Based on Dear ImGui <br>https://github.com/Michael-48/Iris
