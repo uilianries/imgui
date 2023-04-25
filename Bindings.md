@@ -108,6 +108,7 @@ Other backends:
 | vtk | **imgui-vtk**:<br>https://github.com/trlsmax/imgui-vtk
 | VulkanHpp | **ImGui-VulkanHpp**:<br>https://github.com/takiyu/ImGui-VulkanHpp
 | VulkanSceneGraph | **vsgImGui**:<br>https://github.com/vsg-dev/vsgImGui
+| vvvv | **VL.ImGui**:<br>https://github.com/vvvv/VL.StandardLibs/tree/main/VL.ImGui<br>(Shipping with vvvv out-of-the-box)
 | Win32 (native) example | **example_win32_opengl3**:<br>Unmerged PR: [#2772](https://github.com/ocornut/imgui/pull/2772), [#281](https://github.com/ocornut/imgui/pull/281) (old example design) |
 | Win32 GDI renderer | **imgui_impl_gdi**:<br>Unmerged PR: [#2724](https://github.com/ocornut/imgui/pull/2724)
 | WxWidgets | **wxImGuiCanvas.h**:<br>https://github.com/ocornut/imgui/issues/1029
