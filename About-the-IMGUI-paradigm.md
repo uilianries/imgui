@@ -38,7 +38,7 @@ Typical RMGUI:
 
 // editor.h
 // [...] somewhere in a class declaration
-MenuItem* m_Item;
+MenuItem* m_SaveItem;
 
 // editor.cpp
 // [...] somewhere in an init/constructor function
