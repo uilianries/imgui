@@ -111,6 +111,9 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 <BR> [github/dfranx/ImFileDialog](https://github.com/dfranx/ImFileDialog)
 <BR> ![ImFileDialog](https://user-images.githubusercontent.com/8225057/107156759-88654280-6980-11eb-88ea-774b3119d4d3.png)
 
+**imfile**: Rust-only file dialog for ImGui (2023)
+<BR> [github/tseli0s/imfile](https://github.com/tseli0s/imfile)
+
 **L2DFileDialog** (2020)
 <BR> [github/Limeoats/L2DFileDialog](https://github.com/Limeoats/L2DFileDialog)
 <BR> ![](https://user-images.githubusercontent.com/1193295/103759110-79067880-5013-11eb-9fc5-522f3bb9e5df.png)
