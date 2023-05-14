@@ -14,7 +14,7 @@ _(wiki editors: the images on this page are 500x250 pixels. please try to keep n
 - [Spinners](#spinners)
 - [Toggles](#toggles)
 - [Layout](#layout)
-- [GUI/Layout Editor/Generator](#gui--layout-editor-generator)
+- [GUI/Layout Editor/Generator](#guilayout-editorgenerator)
 - [Styling](#styling)
 - [Software Renderer/Rasterizer](#software-rendererrasterizer)
 - [Remoting](#remoting)
@@ -191,6 +191,7 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 <BR> https://github.com/ocornut/imgui/pull/846
 
 # GUI/Layout Editor/Generator
+
 **ImRAD** (2023)
 <BR> [github/tpecholt/imrad](https://github.com/tpecholt/imrad)
 <BR> ![](https://user-images.githubusercontent.com/8225057/230587989-6416cb83-743f-4267-91c8-4ef9b1032adc.png)
@@ -202,6 +203,10 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 **ImGuiBuilder**: gui editor of the Imgui framework (2021)
 <BR> [github/Code-Building/ImGuiBuilder](https://github.com/Code-Building/ImGuiBuilder)
 <BR> ![](https://user-images.githubusercontent.com/8225057/230587226-126135d2-54b0-48bd-8b14-719af5786010.png)
+
+**ImGuiDesigner**: interactive gui editor (2023)
+<BR> [github/iamclint/ImGuiDesigner](https://github.com/iamclint/ImGuiDesigner)
+<BR>![designer](https://github.com/ocornut/imgui/assets/16273696/49cdee7d-d5df-4fe6-89b2-ed7531e5c74a)
 
 # Styling
 
