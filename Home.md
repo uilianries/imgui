@@ -6,10 +6,10 @@ Welcome to the Dear ImGui wiki! Feel free to edit and contribute!
   - [General documentation](#general-documentation)
   - [Community](#community)
   - [Demo, Examples](#demo-examples)
-  - [Language Bindings](#language-bindings)
-  - [Platform and Rendering Backends](#platform-and-rendering-backends)
-  - [Testing / Automation](#testing--automation)
-  - [Third-Party Extensions](#third-party-extensions)
+  - **[Language Bindings](#language-bindings)**
+  - **[Platform and Rendering Backends](#platform-and-rendering-backends)**
+  - **[Third-Party Extensions](#third-party-extensions)**
+  - **[Testing / Automation](#testing--automation)**
   - [Gallery](#gallery)
   - [Notable branches](#notable-branches)
 - [Features](#features)
@@ -45,8 +45,8 @@ Welcome to the Dear ImGui wiki! Feel free to edit and contribute!
 - [[Upcoming changes|Upcoming-changes]] (~roadmap)
 - [[Tips|Tips]] (for people working _with_ dear imgui)
 - [[Developer tips|Developer-Tips]] (for people working _on_ dear imgui)
-- [Releases / Changelogs](https://github.com/ocornut/imgui/releases) with annotation and pictures.
-- Interactive [imgui_manual](https://pthom.github.io/imgui_manual_online/manual/imgui_manual.html) by @pthom
+- [Releases / Changelogs](https://github.com/ocornut/imgui/releases) with annotations and pictures.
+- Interactive/web [imgui_manual](https://pthom.github.io/imgui_manual_online/manual/imgui_manual.html) by @pthom
 
 ### Community
 
@@ -57,7 +57,7 @@ Welcome to the Dear ImGui wiki! Feel free to edit and contribute!
 ### Demo, Examples
 
 - [About Examples apps](https://github.com/ocornut/imgui/blob/master/docs/EXAMPLES.md) (docs/EXAMPLES.md)
-- The [examples/](https://github.com/ocornut/imgui/tree/master/examples) folder contains 21 standalone example application for varieties of platforms and frameworks.
+- The [examples/](https://github.com/ocornut/imgui/tree/master/examples) folder contains 23 standalone example applications for varieties of platforms and frameworks.
 - The [imgui_demo.cpp](https://github.com/ocornut/imgui/tree/master/imgui_demo.cpp) file has a `ImGui::ShowDemoWindow()` function which you can call from any imgui-enabled application to showcase variety of features. The demo function is called from all examples/ apps.
 - Third-party: @pthom's [imgui_manual](https://pthom.github.io/imgui_manual_online/manual/imgui_manual.html): web version of imgui_demo with interactive browsing of sources.
 
@@ -70,15 +70,15 @@ Welcome to the Dear ImGui wiki! Feel free to edit and contribute!
 
 - [List of engine/framework backends](https://github.com/ocornut/imgui/wiki/Bindings#frameworkengine-backends) (Unity, Unreal and many others...)
 - [About Backends](https://github.com/ocornut/imgui/blob/master/docs/BACKENDS.md) (docs/BACKENDS.md)
-- The [backends/](https://github.com/ocornut/imgui/tree/master/backends) folder contains 16 reusable backends for varieties of platforms and frameworks.
-
-### Testing / Automation
-
-- See [imgui_test_engine](https://github.com/ocornut/imgui_test_engine): Dear ImGui Test Engine + Test Suite
+- The [backends/](https://github.com/ocornut/imgui/tree/master/backends) folder contains 18 reusable backends for varieties of platforms and frameworks.
 
 ### Third-party extensions
 
 - [[List of useful third-party extensions/widgets|Useful-Extensions]] (text editors, node editors, plotting/graphing, curves/animations/gradients editors, knobs, spinners, remoting, 3d gizmos and many more!)
+
+### Testing / Automation
+
+- See [imgui_test_engine](https://github.com/ocornut/imgui_test_engine): Dear ImGui Test Engine + Dear ImGui Test Suite
 
 ### Gallery
 
