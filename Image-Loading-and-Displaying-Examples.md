@@ -534,7 +534,61 @@ ImGui::End();
 
 ## Example for SDL_Renderer users
 
-(This section needs writing)
+ImTextureID has the type SDL_Texture* when we use the SDL_Renderer backend.
+
+We will here use [stb_image.h](https://github.com/nothings/stb/blob/master/stb_image.h) to load images from disk.
+
+Add at the top of one of your source files:
+
+```cpp
+bool LoadTextureFromFile(const char* filename, SDL_Texture** texture_ptr, int& width, int& height, SDL_Renderer* renderer) {
+    int channels;
+    unsigned char* data = stbi_load(filename, &width, &height, &channels, 0);
+
+    if (data == nullptr) {
+        fprintf(stderr, "Failed to load image: %s\n", stbi_failure_reason());
+        return false;
+    }
+
+    SDL_Surface* surface = SDL_CreateRGBSurfaceFrom((void*)data, width, height, channels * 8, channels * width,
+                                                    0x000000ff, 0x0000ff00, 0x00ff0000, 0xff000000);
+
+    if (surface == nullptr) {
+        fprintf(stderr, "Failed to create SDL surface: %s\n", SDL_GetError());
+        return false;
+    }
+
+    *texture_ptr = SDL_CreateTextureFromSurface(renderer, surface);
+
+    if ((*texture_ptr) == nullptr) {
+        fprintf(stderr, "Failed to create SDL texture: %s\n", SDL_GetError());
+    }
+
+    SDL_FreeSurface(surface);
+    stbi_image_free(data);
+
+    return true;
+}
+```
+
+We can then load our texture after initialising SDL:
+```cpp
+SDL_Texture* my_texture;
+    int my_image_width, my_image_height;
+
+    bool ret = LoadTextureFromFile("MyImage01.jpg", &my_texture, my_image_width, my_image_height, renderer);
+```
+
+And finally, use the image with Dear ImGui:
+```cpp
+ImGui::Begin("SDL2/SDL_Renderer Texture Test");
+ImGui::Text("pointer = %p", my_texture);
+ImGui::Text("size = %d x %d", my_image_width, my_image_height);
+ImGui::Image((void*) my_texture, ImVec2(my_image_width, my_image_height));
+ImGui::End();
+```
+
+![Sample screenshot](https://github.com/ocornut/imgui/assets/30848697/1ba8ab9c-bf48-47e1-a12c-8f4864d96e82)
 
 ##### [Return to Index](#index)
 
