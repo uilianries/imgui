@@ -574,9 +574,8 @@ bool LoadTextureFromFile(const char* filename, SDL_Texture** texture_ptr, int& w
 We can then load our texture after initialising SDL:
 ```cpp
 SDL_Texture* my_texture;
-    int my_image_width, my_image_height;
-
-    bool ret = LoadTextureFromFile("MyImage01.jpg", &my_texture, my_image_width, my_image_height, renderer);
+int my_image_width, my_image_height;
+bool ret = LoadTextureFromFile("MyImage01.jpg", &my_texture, my_image_width, my_image_height, renderer);
 ```
 
 And finally, use the image with Dear ImGui:
