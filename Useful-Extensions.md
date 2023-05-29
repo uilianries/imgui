@@ -12,7 +12,6 @@ _(wiki editors: the images on this page are 500x250 pixels. please try to keep n
 - [Input Method Editors](#input-method-editors)
 - [Knobs](#knobs)
 - [Spinners](#spinners)
-- [Lottie Animation](#lottie)
 - [Toggles](#toggles)
 - [Layout](#layout)
 - [GUI/Layout Editor/Generator](#guilayout-editorgenerator)
@@ -173,12 +172,6 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 **imspinner**: Set of nice spinners for imgui (2022)
 <BR> [github/dalerank/imspinner](https://github.com/dalerank/imspinner) / [issue #5421](https://github.com/ocornut/imgui/issues/5421)
 <BR> ![](https://user-images.githubusercontent.com/8225057/176230882-2261909d-63a6-446d-9c2d-78023e932aa2.png)
-
-# Lottie
-
-**imlottie**: Renderer Lottie animation for imgui (2023)
-<BR> [https://github.com/dalerank/imlottie](https://github.com/dalerank/imlottie)
-<BR> ![](https://github.com/ocornut/imgui/assets/918081/4cbe4055-0ae2-4ebb-957d-4e0907cdc9c7)
 
 **Spinner/Loading progress indicators**
 <BR> [issue #1901](https://github.com/ocornut/imgui/issues/1901)
@@ -393,6 +386,10 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 **ImGui Command Palette** (2022)
 <BR> [github/hnOsmium0001/imgui-command-palette](https://github.com/hnOsmium0001/imgui-command-palette)
 <BR> ![](https://user-images.githubusercontent.com/36975818/147279807-5123e130-80f5-4f82-bab4-099a29b7ca95.png)
+
+**imlottie**: Renderer Lottie animation for imgui (2023)
+<BR> [https://github.com/dalerank/imlottie](https://github.com/dalerank/imlottie)
+<BR> ![](https://github.com/ocornut/imgui/assets/918081/4cbe4055-0ae2-4ebb-957d-4e0907cdc9c7)
 
 Also [Useful Widgets](https://github.com/ocornut/imgui/labels/useful%20widgets) Tag in Issues.
 
