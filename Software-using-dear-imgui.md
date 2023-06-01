@@ -41,6 +41,7 @@ Help us complete this list!
 | Game | Blood & Truth | SCEE Studio London | | [homepage](https://www.playstation.com/en-us/games/blood-and-truth-ps4/) / [credits](https://www.mobygames.com/game/playstation-4/blood-truth/credits)
 | Game | Boundless | Wonderstruck Games | | [homepage](http://playboundless.com) / [shots 1](https://github.com/ocornut/imgui/issues/539#issuecomment-234486231) [2](https://github.com/ocornut/imgui/issues/973#issuecomment-276030982)
 | Game | Brigador | **Stellar Jockeys** | Sponsor | [steam](http://store.steampowered.com/app/274500/Brigador_UpArmored_Edition)
+| Game | Brigador Killers | **Stellar Jockeys** | Sponsor | [steam](https://store.steampowered.com/app/903930/Brigador_Killers/) / [shots](https://store.steampowered.com/news/app/903930/view/3712700495650530761)
 | Game | Burning Knight | Rexcellent Games | | [steam](https://store.steampowered.com/app/851150/Burning_Knight/)
 | Game | Call of Duty Black Ops Cold War | Treyarch | | [tech talk](https://research.activision.com/publications/2021/10/shadows-of-cold-war--a-scalable-approach-to-shadowing) / [shots](https://github.com/ocornut/imgui/issues/4451#issuecomment-1025179064)
 | Game | Chrono-Drive | | | [video](https://www.youtube.com/watch?v=gFbh4wxZ6DE&feature=youtu.be&t=2m3s) |
