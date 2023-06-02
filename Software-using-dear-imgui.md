@@ -138,6 +138,8 @@ Help us complete this list!
 | Game | Returnal | Housemarque | | | [steam](https://store.steampowered.com/app/1649240/Returnal/)
 | Game | Rise of the Tomb Raider | Feral Interactive | | [video](https://www.youtube.com/watch?v=ptakmFGcIRU&feature=youtu.be&t=638)
 | Game | Rise of the Triad: Ludicrious Edition | | | [steam](https://store.steampowered.com/app/1421490/Rise_of_the_Triad_Ludicrous_Edition/)
+| Game | Halo Infinite | 343 Industries | | [shots](https://github.com/ocornut/imgui/issues/5886#issuecomment-1486685055)
+| Game | S.T.A.L.K.E.R. 2: Heart of Chornobyl | GSC Game World | | [steam](https://store.steampowered.com/app/1643320/STALKER_2_Heart_of_Chornobyl/) / [shot](https://github.com/ocornut/imgui/issues/6478#issuecomment-1572970617)
 | Game | Seaquence | | | [homepage](http://okaynokay.xyz/seaquence) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-308277401)
 | Game | Shakedown Rally | | | [itchio](https://nothke.itch.io/shakedown)
 | Game | Shenmue I & II (2018) | Sega, d3t | | [homepage](https://shenmue.sega.com)
