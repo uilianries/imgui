@@ -255,6 +255,7 @@ See https://github.com/ocornut/imgui/issues/5031 for industry job offers relatin
 - 2022-11:【Unity】Dear ImGuiの導入方法 [limegame.hatenablog](https://limegame.hatenablog.com/entry/2022/11/11/131111) +【Unity】Dear ImGuiのメニューバー実装方法 [limegame.hatenablog](https://limegame.hatenablog.com/entry/2022/11/21/153547)
 - 2023-01: Java 3D LWJGL 改造 〜Chapter10：Imgui を使用した GUI 描画を改造〜 [zenryokuservice.com](https://zenryokuservice.com/wp/2023/01/03/java-3d-lwjgl-%e6%94%b9%e9%80%a0-%e3%80%9cchapter10%ef%bc%9aimgui-%e3%82%92%e4%bd%bf%e7%94%a8%e3%81%97%e3%81%9f-gui-%e6%8f%8f%e7%94%bb%e3%82%92%e6%94%b9%e9%80%a0%e3%80%9c/)
 - 2023-03: DirectX12でImGuiを使用する [zenn.dev/norainu](https://zenn.dev/norainu/articles/10856bfe120aa2)
+- 2023-06:【Unity】Dear ImGuiの日本語フォント導入方法 [limegame.hatenablog.com](https://limegame.hatenablog.com/entry/2023/06/12/141924)
 
 **Chinese (Trad)**
 - 2020-10: Day 17 ImGui 元件 [ithelp.ithome.com.tw](https://ithelp.ithome.com.tw/articles/10246595)
