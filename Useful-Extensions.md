@@ -194,7 +194,7 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 
 **HImGuiEditor (2020-2023 The purpose is to make editing ImGui clearer and easier for users. thus speeding up development)**
 <BR> [issue #6157](https://github.com/ocornut/imgui/issues/6157)
-<BR>![Image](https://user-images.githubusercontent.com/56476339/218251960-8055e05d-9af6-4c8c-a9d3-3a5e26a758c9.gif)
+<BR>![](https://github.com/ocornut/imgui/assets/56476339/df725289-165e-47f8-b5ec-2bd500446ee4)
 
 **ImRAD** (2023)
 <BR> [github/tpecholt/imrad](https://github.com/tpecholt/imrad)
