@@ -192,6 +192,10 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 
 # GUI/Layout Editor/Generator
 
+**HImGuiEditor (2020-2023 The purpose is to make editing ImGui clearer and easier for users. thus speeding up development)**
+<BR> [issue #6157](https://github.com/ocornut/imgui/issues/6157)
+<BR>![Image](https://user-images.githubusercontent.com/56476339/218251960-8055e05d-9af6-4c8c-a9d3-3a5e26a758c9.gif)
+
 **ImRAD** (2023)
 <BR> [github/tpecholt/imrad](https://github.com/tpecholt/imrad)
 <BR> ![](https://user-images.githubusercontent.com/8225057/230587989-6416cb83-743f-4267-91c8-4ef9b1032adc.png)
@@ -401,10 +405,6 @@ Also [Useful Widgets](https://github.com/ocornut/imgui/labels/useful%20widgets) 
 
 **@leiradel's snippets**
 <BR> [github/leiradel/ImGuiAl](https://github.com/leiradel/ImGuiAl/)
-
-**HImGuiEditor (The purpose is to make editing ImGui clearer and easier for users. thus speeding up development)**
-<BR> [issue #6157](https://github.com/ocornut/imgui/issues/6157)
-<BR>![Image](https://user-images.githubusercontent.com/56476339/218251960-8055e05d-9af6-4c8c-a9d3-3a5e26a758c9.gif)
 
 **@nem0's snippets** (in imgui_user.* files)
 <BR> [github/nem0/LumixEngine](https://github.com/nem0/LumixEngine/tree/master/external/imgui)
