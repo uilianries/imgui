@@ -245,7 +245,7 @@ Help us complete this list!
 | App | Flipper Zero Animation Manager | @Ooggle | | [github](https://github.com/Ooggle/FlipperAnimationManager) |
 | App | Fluid FX | CodeManua | | [homepage](https://codemanu.itch.io/fluid-fx)
 | App | ftpd | @mtheall | | [github](https://github.com/mtheall/ftpd/)
-| App | Furnace | @tildearrow | | [github](https://github.com/tildearrow/furnace)
+| App | Furnace | @tildearrow | | [github](https://github.com/tildearrow/furnace) / [shot](https://github.com/ocornut/imgui/assets/8225057/bee9c9e8-04ae-4ba7-8264-3103ddd99a15)
 | Engine | GeeXLab | | | [homepage](http://www.geeks3d.com/geexlab/)
 | App | Geocod/Geogram | Loria | | [homepage](http://homepages.loria.fr/BLevy/GEOGRAM) / [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-249678740) / [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-270942101) |
 | App | Geo::Math | brbl | | [homepage](https://brbl.itch.io/geomath)
