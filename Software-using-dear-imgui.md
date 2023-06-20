@@ -55,6 +55,7 @@ Help us complete this list!
 | Game | DCS World | Eagle Dynamics | | [homepage](https://www.digitalcombatsimulator.com/)
 | Game | Deformers | Ready at Dawn | | [homepage](https://www.deformers.com/)
 | Game | Devil Daggers | Sorath | | [homepage](http://devildaggers.com/) / [steam](https://store.steampowered.com/app/422970/Devil_Daggers/)
+| Game | Diablo IV | **Blizzard** | Sponsor | [homepage](https://diablo4.blizzard.com) / [shot](https://github.com/ocornut/imgui/assets/8225057/bb89c8bb-9244-438c-928f-659a92a18176)
 | Game | Doom Eternal | id Software | | [shot](https://user-images.githubusercontent.com/8225057/77301209-93bf6900-6cef-11ea-9e89-9b4334ef6f53.jpg) / [credits](https://www.mobygames.com/game/windows/doom-eternal/credits)
 | Game | Don't Starve Together | Klei || [steam](https://store.steampowered.com/app/322330/Dont_Starve_Together/)
 | Game | Door Kickers 2 | KillHouse | | [video](https://twitter.com/inthekillhouse/status/1243610799979089921)
