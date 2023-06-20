@@ -71,7 +71,7 @@ Help us complete this list!
 | Game | F1® 22 | Codemasters | | [steam](https://store.steampowered.com/app/1692250/F1_22)l
 | Game | F1 Manager 2022 | Frontier | | [homepage](https://www.f1manager.com)
 | Game | Fallout 76 | Bethesda | | [homepage](https://fallout.bethesda.net) / [shot](https://user-images.githubusercontent.com/4228359/41322748-b9756e6e-6e78-11e8-8dfc-9a3437c1fd1a.png) 
-| Game | FIA European Truck Racing Championship | N-Racing | Sponsor | |
+| Game | FIA European Truck Racing Championship | N-Racing | | |
 | Game | FightNJokes | Mental Drink | | [steam](https://store.steampowered.com/app/1328400/FightNJokes/) / [shots](https://github.com/ocornut/imgui/issues/4451#issuecomment-1049744030)
 | Game | Final Fantasy VII Remake | SquareEnix | | [video](https://www.youtube.com/watch?time_continue=675&v=DliMpiemUy8) / [talk](https://news.yahoo.co.jp/articles/50a6994718d63d323f9efb6b90f55a39b21c6f9a)
 | Game | Final Fantasy X/X-2 HD Remaster | SquareEnix | | [ref](https://finalfantasyxhd.square-enix-games.com/de-de/license/)
