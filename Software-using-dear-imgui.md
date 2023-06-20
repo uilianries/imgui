@@ -171,7 +171,6 @@ Help us complete this list!
 | Game | VRMONLINE-NX | | | [homepage](https://vrmcloud.net/nx/beta) 
 | Game | Watch Dogs: Legion | **Ubisoft** | Sponsor | [homepage](https://www.ubisoft.com/en-gb/game/watch-dogs/legion) / [credits](https://www.mobygames.com/game/windows/watch-dogs-legion/credits)
 | Game | Warcraft III: Reforged | **Blizzard** | Sponsor | [homepage](https://playwarcraft3.com)
-| Game | World of Warcraft | **Blizzard** | Sponsor | [blog](https://worldofwarcraft.com/en-us/news/23507730/engineers-workshop-developing-for-mobile-and-pc)
 | Game | Warfork | | | [steam](https://store.steampowered.com/app/671610/Warfork/)
 | Game | Warhammer: Chaosbane | Eko Software | | [steam](https://store.steampowered.com/app/774241/Warhammer_Chaosbane/) / [shots](https://github.com/ocornut/imgui/issues/2847#issuecomment-560856396)
 | Game | Windjammers 2 | **Dotemu** | Sponsor | [homepage](http://www.dotemu.com/game/windjammers-2/)
@@ -179,6 +178,8 @@ Help us complete this list!
 | Game | Wonder Boy: The Dragon's Trap | **Lizardcube** | Sponsor | [homepage](http://www.TheDragonsTrap.com) / [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-262975159) |
 | Game | World Racing 2 - Champion Edition | | | [steam](https://store.steampowered.com/app/1301010/World_Racing_2__Champion_Edition/)
 | Game | World of Tanks Blitz | Wargaming | | [homepage](https://wotblitz.com/)
+| Game | World of Warcraft | **Blizzard** | Sponsor | [blog](https://worldofwarcraft.com/en-us/news/23507730/engineers-workshop-developing-for-mobile-and-pc)
+| Game | World of Warships | Wargaming | | [homepage](https://worldofwarships.eu/)
 | Game | WRC 7 | **Kylotonn** | Sponsor | |
 | Game | WRC 8 | **Kylotonn** | Sponsor | |
 | Game | WRC 9 | **Kylotonn** | Sponsor | |
