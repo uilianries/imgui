@@ -29,6 +29,7 @@ Individuals: support continued development and maintenance [here](https://www.pa
 - [Asobo Studio](https://www.asobostudio.com/)
 - [G3Dvu]()
 - [Google](https://github.com/google/filament)
+- [Pocketwatch Games](https://pocketwatchgames.com)
 - Activision
 - Arkane Studios
 - Epic
