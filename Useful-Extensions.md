@@ -395,6 +395,10 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 <BR> [https://github.com/dalerank/imlottie](https://github.com/dalerank/imlottie)
 <BR> ![](https://github.com/ocornut/imgui/assets/918081/4cbe4055-0ae2-4ebb-957d-4e0907cdc9c7)
 
+**ImCoolBar** : a MacOs Dockbar Like for Dear ImGui
+<BR> [[ImCoolBar](https://github.com/aiekick/ImCoolBar)](https://github.com/aiekick/ImCoolBar)
+<BR> <img src="https://github.com/aiekick/ImCoolBar/blob/DemoApp/doc/DemoApp.gif" width="500">
+
 Also [Useful Widgets](https://github.com/ocornut/imgui/labels/useful%20widgets) Tag in Issues.
 
 # Third party repos
