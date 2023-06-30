@@ -18,13 +18,12 @@ If you already have an app running by definition you shouldn't have this problem
 
 - (1) Include header files for main lib (`#include "imgui.h") + backends (e.g. `#include "imgui_impl_win32.h"`, `#include "imgui_impl_dx11.h"`).
 - (2) Create Dear ImGui context with `ImGui::CreateContext()`.
-- (3) Optionally set configuration flags.
-- (4) Optionally load fonts, setup style.
-- (5) Initialize Platform and Rendering backends (e.g. `ImGui_ImplWin32_Init()` + `ImGui_ImplDX11_Init()`).
-- (6) Start of main loop: call backends' NewFrame functions + call `ImGui::NewFrame()`.
-- (7) End of main loop: call `ImGui::Render()` + call Render function of Rendering backend.
-- (8) Most backends requires extra steps to hook or forward events.
-- (9) Shutdown backends, destroy Dear ImGui context with `ImGui::DestroyContext()`.
+- (3) Optionally set configuration flags, load fonts, setup style.
+- (4) Initialize Platform and Rendering backends (e.g. `ImGui_ImplWin32_Init()` + `ImGui_ImplDX11_Init()`).
+- (5) Start of main loop: call backends' NewFrame functions + call `ImGui::NewFrame()`.
+- (6) End of main loop: call `ImGui::Render()` + call Render function of Rendering backend.
+- (7) Most backends requires extra steps to hook or forward events.
+- (8) Shutdown backends, destroy Dear ImGui context with `ImGui::DestroyContext()`.
 
 ## Example: Using Win32 + DirectX11
 
