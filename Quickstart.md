@@ -31,7 +31,6 @@ Full standalone example: [example_win32_directx11/main.cpp](https://github.com/o
 
 Add to Includes:
 ```cpp
-// Includes
 #include "imgui.h"
 #include "imgui_impl_win32.h"
 #include "imgui_impl_dx11.h"
@@ -52,6 +51,8 @@ ImGui_ImplDX11_Init(YOUR_D3D_DEVICE, YOUR_D3D_DEVICE_CONTEXT);
 ```
 Add to start of main loop:
 ```cpp
+// (Your code process and dispatch Win32 messages)
+...
 // Start the Dear ImGui frame
 ImGui_ImplDX11_NewFrame();
 ImGui_ImplWin32_NewFrame();
@@ -61,8 +62,10 @@ ImGui::ShowDemoWindow(); // Show demo window :)
 Add to end of main loop:
 ```cpp
 // Rendering
+// (Your code clears your framebuffer, renders your stuff etc.)
 ImGui::Render();
 ImGui_ImplDX11_RenderDrawData(ImGui::GetDrawData());
+// (Your code calls swapchain's Present() function)
 ```
 Add to your WndProc handler:
 ```cpp
@@ -76,3 +79,54 @@ ImGui_ImplDX11_Shutdown();
 ImGui_ImplWin32_Shutdown();
 ImGui::DestroyContext();
 ```
+That should be all!
+
+## Example: If you are using GLFW + OpenGL/WebGL
+
+Full standalone example: [example_glfw_opengl3/main.cpp](https://github.com/ocornut/imgui/blob/master/examples/example_glfw_opengl3/main.cpp)
+
+Add to Includes:
+```cpp
+#include "imgui.h"
+#include "imgui_impl_glfw.h"
+#include "imgui_impl_opengl3.h"
+```
+Add to Initialization:
+```cpp
+// Setup Dear ImGui context
+IMGUI_CHECKVERSION();
+ImGui::CreateContext();
+ImGuiIO& io = ImGui::GetIO();
+io.ConfigFlags |= ImGuiConfigFlags_NavEnableKeyboard;     // Enable Keyboard Controls
+io.ConfigFlags |= ImGuiConfigFlags_NavEnableGamepad;      // Enable Gamepad Controls
+io.ConfigFlags |= ImGuiConfigFlags_DockingEnable;         // IF using Docking Branch
+
+// Setup Platform/Renderer backends
+ImGui_ImplGlfw_InitForOpenGL(YOUR_WINDOW, true);          // Second param install_callback=true will install GLFW callbacks and chain to existing ones.
+ImGui_ImplOpenGL3_Init();
+```
+Add to start of main loop:
+```cpp
+// (Your code calls glfwPollEvents())
+// ...
+// Start the Dear ImGui frame
+ImGui_ImplOpenGL3_NewFrame();
+ImGui_ImplGlfw_NewFrame();
+ImGui::NewFrame();
+ImGui::ShowDemoWindow(); // Show demo window :)
+```
+Add to end of main loop:
+```cpp
+// Rendering
+// (Your code clears your framebuffer, renders your stuff etc.)
+ImGui::Render();
+ImGui_ImplOpenGL3_RenderDrawData(ImGui::GetDrawData());
+// (Your call calls glfwSwapBuffers() etc.)
+```
+Add to Shutdown:
+```cpp
+ImGui_ImplOpenGL3_Shutdown();
+ImGui_ImplGlfw_Shutdown();
+ImGui::DestroyContext();
+```
+That should be all!
