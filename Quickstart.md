@@ -15,3 +15,65 @@ Most users having linking problems are in fact having problems because of the un
 If you already have an app running by definition you shouldn't have this problem. If you are creating a new application: while it is generally outside of scope of Dear ImGui to document how to use a million windowing/graphics stacks, you can refer to our [examples/](https://github.com/ocornut/imgui/tree/master/examples) folder to see which libs/settings we are using. For the convenience of providing easy-to-compile examples, for years our repository has included an (old) precompiled version of GLFW 3.2 for Windows.
 
 ## Setting up Dear ImGui & Backends
+
+- (1) Include header files for main lib (`#include "imgui.h") + backends (e.g. `#include "imgui_impl_win32.h"`, `#include "imgui_impl_dx11.h"`).
+- (2) Create Dear ImGui context with `ImGui::CreateContext()`.
+- (3) Optionally set configuration flags.
+- (4) Optionally load fonts, setup style.
+- (5) Initialize Platform and Rendering backends (e.g. `ImGui_ImplWin32_Init()` + `ImGui_ImplDX11_Init()`).
+- (6) Start of main loop: call backends' NewFrame functions + call `ImGui::NewFrame()`.
+- (7) End of main loop: call `ImGui::Render()` + call Render function of Rendering backend.
+- (8) Most backends requires extra steps to hook or forward events.
+- (9) Shutdown backends, destroy Dear ImGui context with `ImGui::DestroyContext()`.
+
+## Example: Using Win32 + DirectX11
+
+Full standalone example: [example_win32_directx11/main.cpp](https://github.com/ocornut/imgui/blob/master/examples/example_win32_directx11/main.cpp)
+
+Add to Includes:
+```cpp
+// Includes
+#include "imgui.h"
+#include "imgui_impl_win32.h"
+#include "imgui_impl_dx11.h"
+```
+Add to Initialization:
+```cpp
+// Setup Dear ImGui context
+IMGUI_CHECKVERSION();
+ImGui::CreateContext();
+ImGuiIO& io = ImGui::GetIO();
+io.ConfigFlags |= ImGuiConfigFlags_NavEnableKeyboard;     // Enable Keyboard Controls
+io.ConfigFlags |= ImGuiConfigFlags_NavEnableGamepad;      // Enable Gamepad Controls
+io.ConfigFlags |= ImGuiConfigFlags_DockingEnable;         // IF using Docking Branch
+
+// Setup Platform/Renderer backends
+ImGui_ImplWin32_Init(YOUR_HWND);
+ImGui_ImplDX11_Init(YOUR_D3D_DEVICE, YOUR_D3D_DEVICE_CONTEXT);
+```
+Add to start of main loop:
+```cpp
+// Start the Dear ImGui frame
+ImGui_ImplDX11_NewFrame();
+ImGui_ImplWin32_NewFrame();
+ImGui::NewFrame();
+ImGui::ShowDemoWindow(); // Show demo window :)
+```
+Add to end of main loop:
+```cpp
+// Rendering
+ImGui::Render();
+ImGui_ImplDX11_RenderDrawData(ImGui::GetDrawData());
+```
+Add to your WndProc handler:
+```cpp
+extern IMGUI_IMPL_API LRESULT ImGui_ImplWin32_WndProcHandler(HWND hWnd, UINT msg, WPARAM wParam, LPARAM lParam);
+if (ImGui_ImplWin32_WndProcHandler(hWnd, msg, wParam, lParam))
+    return true;
+```
+Add to Shutdown:
+```cpp
+ImGui_ImplDX11_Shutdown();
+ImGui_ImplWin32_Shutdown();
+ImGui::DestroyContext();
+```
