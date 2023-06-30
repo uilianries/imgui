@@ -23,7 +23,9 @@ If you have issues integrating Dear ImGui in your app, most of the time to easie
 **If your application already uses the API you pulled the backends for, things should compile and link already.**
 
 Most users having linking problems are in fact having problems because of the underlying windowing or graphics tech they use. e.g. If you use DirectX11 you need to link with d3d11.lib, if you use SDL2 you need to obtain the library (from their website or vcpkg) and link with SDL2.lib+SDL2main.lib etc. 
-If you already have an app running by definition you shouldn't have this problem. If you are creating a new application: while it is generally outside of scope of Dear ImGui to document how to use a million windowing/graphics stacks, you can refer to our [examples/](https://github.com/ocornut/imgui/tree/master/examples) folder to see which libs/settings we are using. For the convenience of providing easy-to-compile examples, for years our repository has included an (old) precompiled version of GLFW 3.2 for Windows.
+If you already have an app running by definition you shouldn't have a problem including corresponding header files and linking libraries.
+
+If you are creating a new application from scratch: while it is generally outside of scope of Dear ImGui to document how to use every windowing/graphics stacks, you can refer to our [examples/](https://github.com/ocornut/imgui/tree/master/examples) folder to see which libs/settings we are using. Some people just copy our example to start a new testbed app. For the convenience of providing easy-to-compile examples, for years our repository has included an (old) precompiled version of GLFW 3.2 for Windows.
 
 ## Setting up Dear ImGui & Backends
 
