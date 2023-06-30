@@ -24,7 +24,7 @@ If you already have an app running by definition you shouldn't have this problem
 - (6) End of main loop: call `ImGui::Render()` + call Render function of Rendering backend.
 - (7) Most backends requires extra steps to hook or forward events.
 - (8) Shutdown backends, destroy Dear ImGui context with `ImGui::DestroyContext()`.
-- (9) In your application input logic: you can poll `ImGui::GetIO().WantCaptureMouse`/`WantCaptureKeyboard` to tell if Dear ImGui wants to obstruct mouse/keyboard inputs from underlying apps. e.g. when hovering a window WantCaptureMouse will be set to true.
+- (9) In your application input logic: you can poll `ImGui::GetIO().WantCaptureMouse`/`WantCaptureKeyboard` to tell if Dear ImGui wants to obstruct mouse/keyboard inputs from underlying apps. e.g. when hovering a window WantCaptureMouse will be set to true. One possible strategy there is to stop passing mouse events to your main application.
 
 ## Example: If you are using Raw Win32 API + DirectX11
 
@@ -72,7 +72,7 @@ Add to your WndProc handler:
 extern IMGUI_IMPL_API LRESULT ImGui_ImplWin32_WndProcHandler(HWND hWnd, UINT msg, WPARAM wParam, LPARAM lParam);
 if (ImGui_ImplWin32_WndProcHandler(hWnd, msg, wParam, lParam))
     return true;
-(Your code process Windows messages. Read from `ImGui::GetIO().WantCaptureMouse`/`WantCaptureKeyboard` to tell if Dear ImGui should obstruct mouse/keyboard from your underlying application)
+(Your code process Windows messages.)
 ```
 Add to Shutdown:
 ```cpp
