@@ -132,7 +132,7 @@ ImGui::DestroyContext();
 ```
 That should be all!
 
-## Example: If you are using GLFW + Metal (Apple)
+## Example: If you are using GLFW + Metal (on Apple devices)
 
 Full standalone example: [example_glfw_apple/main.mm](https://github.com/ocornut/imgui/blob/master/examples/example_glfw_apple/main.mm)
 
