@@ -11,6 +11,7 @@ If you have issues integrating Dear ImGui in your app, most of the time to easie
 - [Example: If you are using GLFW + OpenGL/WebGL](#example-if-you-are-using-glfw--openglwebgl)
 - [Example: If you are using GLFW + Metal (on Apple devices)](#example-if-you-are-using-glfw--metal-on-apple-devices)
 - [Example: If you are using SDL2 + OpenGL/WebGL](#example-if-you-are-using-sdl2--openglwebgl)
+- [Example: If you are using SDL2 + Vulkan](#example-if-you-are-using-sdl2--vulkan)
 - [Using another combination of backends?](#using-another-combination-of-backends)
 
 ## Compiling/Linking
@@ -301,6 +302,87 @@ ImGui_ImplOpenGL3_RenderDrawData(ImGui::GetDrawData());
 Add to Shutdown:
 ```cpp
 ImGui_ImplOpenGL3_Shutdown();
+ImGui_ImplSDL2_Shutdown();
+ImGui::DestroyContext();
+```
+That should be all!
+
+## Example: If you are using SDL2 + Vulkan
+
+Full standalone example: [example_sdl2_vulkan/main.cpp](https://github.com/ocornut/imgui/blob/master/examples/example_sdl2_vulkan/main.cpp)
+
+Unfortunately this is the most complex one and may not work with all app setups. We are always working on making imgui_impl_vulkan.cpp more compatible with existing engines, so please don't hesitate to post feedback.
+
+Add to Includes:
+```cpp
+#include "imgui.h"
+#include "imgui_impl_sdl2.h"
+#include "imgui_impl_vulkan.h"
+
+static void check_vk_result(VkResult err)
+{
+    if (err == 0)
+        return;
+    fprintf(stderr, "[vulkan] Error: VkResult = %d\n", err);
+    if (err < 0)
+        abort();
+}
+```
+Add to Initialization:
+```cpp
+// Setup Dear ImGui context
+IMGUI_CHECKVERSION();
+ImGui::CreateContext();
+ImGuiIO& io = ImGui::GetIO();
+io.ConfigFlags |= ImGuiConfigFlags_NavEnableKeyboard;     // Enable Keyboard Controls
+io.ConfigFlags |= ImGuiConfigFlags_NavEnableGamepad;      // Enable Gamepad Controls
+io.ConfigFlags |= ImGuiConfigFlags_DockingEnable;         // IF using Docking Branch
+
+// Setup Platform/Renderer backends
+ImGui_ImplSDL2_InitForVulkan(YOUR_SDL_WINDOW);
+ImGui_ImplVulkan_InitInfo init_info = {};
+init_info.Instance = YOUR_INSTANCE;
+init_info.PhysicalDevice = YOUR_PHYSICAL_DEVICE;
+init_info.Device = YOUR_DEVICE;
+init_info.QueueFamily = YOUR_QUEUE_FAMILY;
+init_info.Queue = YOUR_QUEUE;
+init_info.PipelineCache = YOUR_PIPELINE_CACHE;
+init_info.DescriptorPool = YOUR_DESCRIPTOR_POOL;
+init_info.Subpass = 0;
+init_info.MinImageCount = 2;
+init_info.ImageCount = 2;
+init_info.MSAASamples = VK_SAMPLE_COUNT_1_BIT;
+init_info.Allocator = YOUR_ALLOCATOR;
+init_info.CheckVkResultFn = check_vk_result;
+ImGui_ImplVulkan_Init(&init_info, wd->RenderPass);
+// (this gets a bit more complicated, see example app for full reference)
+ImGui_ImplVulkan_CreateFontsTexture(YOUR_COMMAND_BUFFER);
+// (your code submit a queue)
+ImGui_ImplVulkan_DestroyFontUploadObjects();
+```
+Add to start of main loop:
+```cpp
+// (Where your code calls SDL_PollEvent())
+ImGui_ImplSDL2_ProcessEvent(&event); // Forward your event to backend
+
+// (After event loop)
+// Start the Dear ImGui frame
+ImGui_ImplVulkan_NewFrame();
+ImGui_ImplSDL2_NewFrame();
+ImGui::NewFrame();
+ImGui::ShowDemoWindow(); // Show demo window! :)
+```
+Add to end of main loop:
+```cpp
+// Rendering
+// (Your code clears your framebuffer, renders your other stuff etc.)
+ImGui::Render();
+ImGui_ImplVulkan_RenderDrawData(ImGui::GetDrawData(), YOUR_COMMAND_BUFFER);
+// (Your code calls vkCmdEndRenderPass, vkQueueSubmit, vkQueuePresentKHR etc.)
+```
+Add to Shutdown:
+```cpp
+ImGui_ImplVulkan_Shutdown();
 ImGui_ImplSDL2_Shutdown();
 ImGui::DestroyContext();
 ```
