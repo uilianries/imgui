@@ -57,12 +57,12 @@ Add to start of main loop:
 ImGui_ImplDX11_NewFrame();
 ImGui_ImplWin32_NewFrame();
 ImGui::NewFrame();
-ImGui::ShowDemoWindow(); // Show demo window :)
+ImGui::ShowDemoWindow(); // Show demo window! :)
 ```
 Add to end of main loop:
 ```cpp
 // Rendering
-// (Your code clears your framebuffer, renders your stuff etc.)
+// (Your code clears your framebuffer, renders your other stuff etc.)
 ImGui::Render();
 ImGui_ImplDX11_RenderDrawData(ImGui::GetDrawData());
 // (Your code calls swapchain's Present() function)
@@ -114,12 +114,12 @@ Add to start of main loop:
 ImGui_ImplOpenGL3_NewFrame();
 ImGui_ImplGlfw_NewFrame();
 ImGui::NewFrame();
-ImGui::ShowDemoWindow(); // Show demo window :)
+ImGui::ShowDemoWindow(); // Show demo window! :)
 ```
 Add to end of main loop:
 ```cpp
 // Rendering
-// (Your code clears your framebuffer, renders your stuff etc.)
+// (Your code clears your framebuffer, renders your other stuff etc.)
 ImGui::Render();
 ImGui_ImplOpenGL3_RenderDrawData(ImGui::GetDrawData());
 // (Your code calls glfwSwapBuffers() etc.)
@@ -127,6 +127,56 @@ ImGui_ImplOpenGL3_RenderDrawData(ImGui::GetDrawData());
 Add to Shutdown:
 ```cpp
 ImGui_ImplOpenGL3_Shutdown();
+ImGui_ImplGlfw_Shutdown();
+ImGui::DestroyContext();
+```
+That should be all!
+
+## Example: If you are using GLFW + Metal (Apple)
+
+Full standalone example: [example_glfw_apple/main.mm](https://github.com/ocornut/imgui/blob/master/examples/example_glfw_apple/main.mm)
+
+Add to Includes:
+```cpp
+#include "imgui.h"
+#include "imgui_impl_glfw.h"
+#include "imgui_impl_metal.h"
+```
+Add to Initialization:
+```cpp
+// Setup Dear ImGui context
+IMGUI_CHECKVERSION();
+ImGui::CreateContext();
+ImGuiIO& io = ImGui::GetIO();
+io.ConfigFlags |= ImGuiConfigFlags_NavEnableKeyboard;     // Enable Keyboard Controls
+io.ConfigFlags |= ImGuiConfigFlags_NavEnableGamepad;      // Enable Gamepad Controls
+io.ConfigFlags |= ImGuiConfigFlags_DockingEnable;         // IF using Docking Branch
+
+// Setup Platform/Renderer backends
+ImGui_ImplGlfw_InitForOpenGL(YOUR_WINDOW, true);          // Second param install_callback=true will install GLFW callbacks and chain to existing ones.
+ImGui_ImplMetal_Init(YOUR_METAL_DEVICE);
+```
+Add to start of main loop:
+```cpp
+// (Your code calls glfwPollEvents())
+// ...
+// Start the Dear ImGui frame
+ImGui_ImplMetal_NewFrame(YOUR_RENDER_PASS_DESCRIPTOR);
+ImGui_ImplGlfw_NewFrame();
+ImGui::NewFrame();
+ImGui::ShowDemoWindow(); // Show demo window! :)
+```
+Add to end of main loop:
+```cpp
+// Rendering
+// (Your code clears your framebuffer, renders your other stuff etc.)
+ImGui::Render();
+ImGui_ImplMetal_RenderDrawData(ImGui::GetDrawData(), YOUR_METAL_COMMAND_BUFFER, YOUR_METAL_RENDER_ENCODER);
+// (Your code calls endEncoding, presentDrawable, commit etc.)
+```
+Add to Shutdown:
+```cpp
+ImGui_ImplMetal_Shutdown();
 ImGui_ImplGlfw_Shutdown();
 ImGui::DestroyContext();
 ```
@@ -166,12 +216,12 @@ ImGui_ImplSDL2_ProcessEvent(&event); // Forward your event to backend
 ImGui_ImplOpenGL3_NewFrame();
 ImGui_ImplSDL2_NewFrame();
 ImGui::NewFrame();
-ImGui::ShowDemoWindow(); // Show demo window :)
+ImGui::ShowDemoWindow(); // Show demo window! :)
 ```
 Add to end of main loop:
 ```cpp
 // Rendering
-// (Your code clears your framebuffer, renders your stuff etc.)
+// (Your code clears your framebuffer, renders your other stuff etc.)
 ImGui::Render();
 ImGui_ImplOpenGL3_RenderDrawData(ImGui::GetDrawData());
 // (Your code calls SDL_GL_SwapWindow() etc.)
