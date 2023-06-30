@@ -16,7 +16,7 @@ If you already have an app running by definition you shouldn't have this problem
 
 ## Setting up Dear ImGui & Backends
 
-- (1) Include header files for main lib (`#include "imgui.h") + backends (e.g. `#include "imgui_impl_win32.h"`, `#include "imgui_impl_dx11.h"`).
+- (1) Include header files for main lib (`#include "imgui.h"`) + backends (e.g. `#include "imgui_impl_win32.h"`, `#include "imgui_impl_dx11.h"`).
 - (2) Create Dear ImGui context with `ImGui::CreateContext()`.
 - (3) Optionally set configuration flags, load fonts, setup style.
 - (4) Initialize Platform and Rendering backends (e.g. `ImGui_ImplWin32_Init()` + `ImGui_ImplDX11_Init()`).
