@@ -39,6 +39,7 @@ Welcome to the Dear ImGui wiki! Feel free to edit and contribute!
 
 - [[FAQ (Frequently Asked Questions)|https://github.com/ocornut/imgui/blob/master/docs/FAQ.md]] (docs/FAQ.md)
 - [Homepage Readme](https://github.com/ocornut/imgui/blob/master/docs/README.md) (docs/README.md)
+- [[Quickstart|Quickstart]]
 - [[Glossary|Glossary]]
 - [[Software using Dear ImGui|Software-using-dear-imgui]]
 - [[User quotes|Quotes]]
