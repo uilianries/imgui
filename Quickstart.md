@@ -17,7 +17,7 @@ If you have issues integrating Dear ImGui in your app, most of the time to easie
 
 - (1) Pull the repository into a submodule of your project, or simply download/copy the repository in yours and commit it.
 - (2) Add `imgui/{*.cpp,*.h}` to your project or build system of your choice, so they get compiled and linked in your app.
-- (3) Add `imgui/backends/imgui_impl_xxxx{.cpp,.h}` files corresponding to the technology you use from the `imgui/backends/` folder (e.g. if your app uses SDL2 + DirectX11, add `imgui_impl_sdl2.cpp`, `imgui_impl_dx11.cpp` etc.).
+- (3) Add `imgui/backends/imgui_impl_xxxx{.cpp,.h}` files corresponding to the technology you use from the `imgui/backends/` folder (e.g. if your app uses SDL2 + DirectX11, add `imgui_impl_sdl2.cpp`, `imgui_impl_dx11.cpp` etc.). If your engine uses multiple technology you may include multiple backends.
 - (4) Optionally add to your project: `misc/debugger/imgui.natvis` (Visual Studio users), `misc/cpp/imgui_stdlib.*` (std::string users).
 
 **If your application already uses the API you pulled the backends for, things should compile and link already.**
