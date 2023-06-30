@@ -25,7 +25,7 @@ If you already have an app running by definition you shouldn't have this problem
 - (7) Most backends requires extra steps to hook or forward events.
 - (8) Shutdown backends, destroy Dear ImGui context with `ImGui::DestroyContext()`.
 
-## Example: Using Win32 + DirectX11
+## Example: If you are using Raw Win32 API + DirectX11
 
 Full standalone example: [example_win32_directx11/main.cpp](https://github.com/ocornut/imgui/blob/master/examples/example_win32_directx11/main.cpp)
 
