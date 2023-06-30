@@ -93,6 +93,65 @@ ImGui::DestroyContext();
 ```
 That should be all!
 
+## Example: If you are using Raw Win32 API + DirectX12
+
+Full standalone example: [example_win32_directx12/main.cpp](https://github.com/ocornut/imgui/blob/master/examples/example_win32_directx12/main.cpp)
+
+Add to Includes:
+```cpp
+#include "imgui.h"
+#include "imgui_impl_win32.h"
+#include "imgui_impl_dx12.h"
+```
+Add to Initialization:
+```cpp
+// Setup Dear ImGui context
+IMGUI_CHECKVERSION();
+ImGui::CreateContext();
+ImGuiIO& io = ImGui::GetIO();
+io.ConfigFlags |= ImGuiConfigFlags_NavEnableKeyboard;     // Enable Keyboard Controls
+io.ConfigFlags |= ImGuiConfigFlags_NavEnableGamepad;      // Enable Gamepad Controls
+io.ConfigFlags |= ImGuiConfigFlags_DockingEnable;         // IF using Docking Branch
+
+// Setup Platform/Renderer backends
+ImGui_ImplWin32_Init(YOUR_HWND);
+ImGui_ImplDX12_Init(YOUR_D3D_DEVICE, NUM_FRAME_IN_FLIGHT, YOUR_DXGI_FORMAT, 
+ YOUR_SRV_DESC_HEAP, 
+ YOUR_CPU_DESCRIPTOR_HANDLE_FOR_HEAP_START,
+ YOUR_GPU_DESCRIPTOR_HANDLE_FOR_HEAP_START);
+```
+Add to start of main loop:
+```cpp
+// (Your code process and dispatch Win32 messages)
+// Start the Dear ImGui frame
+ImGui_ImplDX12_NewFrame();
+ImGui_ImplWin32_NewFrame();
+ImGui::NewFrame();
+ImGui::ShowDemoWindow(); // Show demo window! :)
+```
+Add to end of main loop:
+```cpp
+// Rendering
+// (Your code clears your framebuffer, renders your other stuff etc.)
+ImGui::Render();
+ImGui_ImplDX12_RenderDrawData(ImGui::GetDrawData(), YOUR_DX12_COMMAND_LIST);
+// (Your code calls ExecuteCommandLists, swapchain's Present(), etc.)
+```
+Add to your WndProc handler:
+```cpp
+extern IMGUI_IMPL_API LRESULT ImGui_ImplWin32_WndProcHandler(HWND hWnd, UINT msg, WPARAM wParam, LPARAM lParam);
+if (ImGui_ImplWin32_WndProcHandler(hWnd, msg, wParam, lParam))
+    return true;
+(Your code process Windows messages.)
+```
+Add to Shutdown:
+```cpp
+ImGui_ImplDX12_Shutdown();
+ImGui_ImplWin32_Shutdown();
+ImGui::DestroyContext();
+```
+That should be all!
+
 ## Example: If you are using GLFW + OpenGL/WebGL
 
 Full standalone example: [example_glfw_opengl3/main.cpp](https://github.com/ocornut/imgui/blob/master/examples/example_glfw_opengl3/main.cpp)
