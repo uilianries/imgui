@@ -2,6 +2,17 @@ The [examples/](https://github.com/ocornut/imgui/tree/master/examples) folder is
 
 If you have issues integrating Dear ImGui in your app, most of the time to easiest thing to do it refer to those [examples](https://github.com/ocornut/imgui/tree/master/examples).
 
+## Index
+
+- [Compiling/Linking](#compilinglinking)
+- [Setting up Dear ImGui & Backends](#setting-up-dear-imgui--backends)
+- [Example: If you are using Raw Win32 API + DirectX11](#example-if-you-are-using-raw-win32-api--directx11)
+- [Example: If you are using Raw Win32 API + DirectX12](#example-if-you-are-using-raw-win32-api--directx12)
+- [Example: If you are using GLFW + OpenGL/WebGL](#example-if-you-are-using-glfw--openglwebgl)
+- [Example: If you are using GLFW + Metal (on Apple devices)](#example-if-you-are-using-glfw--metal-on-apple-devices)
+- [Example: If you are using SDL2 + OpenGL/WebGL](#example-if-you-are-using-sdl2--openglwebgl)
+- [Using another combination of backends?](#using-another-combination-of-backends)
+
 ## Compiling/Linking
 
 - (1) Pull the repository into a submodule of your project, or simply download/copy the repository in yours and commit it.
@@ -234,7 +245,7 @@ ImGui::DestroyContext();
 ```
 That should be all!
 
-## Example: If you are using another combination of backends?
+## Using another combination of backends?
 
 The various examples above should reflect integration with a majority of backends, so you can follow the same logic.
 Some backends require more information from you (e.g. in particular Vulkan and DirectX12 rendering backends). In doubt, refers to the corresponding [examples](https://github.com/ocornut/imgui/tree/master/examples) application.
