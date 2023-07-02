@@ -24,25 +24,26 @@ Individuals: support continued development and maintenance [here](https://www.pa
 - Ubisoft
 
 **Chocolate sponsors**
-- [Adobe](https://www.adobe.com/products/medium.html)
 - [Aras Pranckevičius](https://aras-p.info)
 - [Asobo Studio](https://www.asobostudio.com/)
 - [G3Dvu]()
-- [Google](https://github.com/google/filament)
+- [Planestate Software](http://www.plane9.com)
 - [Pocketwatch Games](https://pocketwatchgames.com)
 - Activision
+- Adobe
 - Arkane Studios
 - Epic
+- Google
 - RAD Game Tools
 
 **Salty-caramel sponsors**
-- [Kylotonn](https://www.kylotonn.com)
 - [Wonderland Engine](https://wonderlandengine.com/)
 - [Tuxedo Labs](https://www.tuxedolabs.com/)
 - Dotemu
 - Framefield
 - Grinding Gear Games
 - Hexagon
+- Kylotonn
 - Media Molecule
 - Mesh Consultants
 - Mobigame
