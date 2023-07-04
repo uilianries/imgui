@@ -1,9 +1,6 @@
-The [examples/](https://github.com/ocornut/imgui/tree/master/examples) folder is populated with applications demonstrating Dear ImGui with variety of common windowing and graphics API. There were designed to be as straightforward possible. However in most cases, a majority of the example code is related to setting up the windowing and graphics API (aka setting up a basic application) rather than setting up Dear ImGui itself. 
-
-If you have issues integrating Dear ImGui in your app, most of the time to easiest thing to do it refer to those [examples](https://github.com/ocornut/imgui/tree/master/examples).
-
 ## Index
 
+- [Preamble](#preamble)
 - [Compiling/Linking](#compilinglinking)
 - [Setting up Dear ImGui & Backends](#setting-up-dear-imgui--backends)
 - [Example: If you are using Raw Win32 API + DirectX11](#example-if-you-are-using-raw-win32-api--directx11)
@@ -14,12 +11,27 @@ If you have issues integrating Dear ImGui in your app, most of the time to easie
 - [Example: If you are using SDL2 + Vulkan](#example-if-you-are-using-sdl2--vulkan)
 - [Using another combination of backends?](#using-another-combination-of-backends)
 
+## Preamble 
+
+**Build and run one of the examples application, play around with it.** 
+<BR>With Visual Studio, open `examples/imgui_examples.sln`. XCode projects and Makefiles are also often provided.
+<BR>You may not have all corresponding SDK installed as we support many systems, but you should get some working out of the box.
+
+The [examples/](https://github.com/ocornut/imgui/tree/master/examples) folder is populated with applications demonstrating Dear ImGui with variety of common windowing and graphics API. There were designed to be as straightforward possible. However in most cases, a majority of the example code is related to setting up the windowing and graphics API (aka setting up a basic application) rather than setting up Dear ImGui itself. 
+
+If you have issues integrating Dear ImGui in your app, most of the time to easiest thing to do it refer to those [examples](https://github.com/ocornut/imgui/tree/master/examples).
+
+For various reasons, our examples are very raw: we don't load fancy fonts and generally the Demo window cannot read anything from the filesystem, so our examples cannot showcase the use of e.g. texture.
+
 ## Compiling/Linking
 
-- (1) Pull the repository into a submodule of your project, or simply download/copy the repository in yours and commit it.
-- (2) Add `imgui/{*.cpp,*.h}` to your project or build system of your choice, so they get compiled and linked in your app.
-- (3) Add `imgui/backends/imgui_impl_xxxx{.cpp,.h}` files corresponding to the technology you use from the `imgui/backends/` folder (e.g. if your app uses SDL2 + DirectX11, add `imgui_impl_sdl2.cpp`, `imgui_impl_dx11.cpp` etc.). If your engine uses multiple technology you may include multiple backends.
-- (4) Optionally add to your project: `misc/debugger/imgui.natvis` (Visual Studio users), `misc/cpp/imgui_stdlib.*` (std::string users).
+- (1) Decide if you want to use `master` or `docking` branch, both are maintained. You can easily switch later.
+- (2) Pull the repository into a submodule of your project, or simply download/copy the repository in yours and commit it.
+- (3) Add files to your project or build system of your choice, so they get compiled and linked into your app.
+   - Add all source files in the root folder: `imgui/{*.cpp,*.h}`.
+   - Add selected `imgui/backends/imgui_impl_xxxx{.cpp,.h}` files corresponding to the technology you use from the `imgui/backends/` folder (e.g. if your app uses SDL2 + DirectX11, add `imgui_impl_sdl2.cpp`, `imgui_impl_dx11.cpp` etc.). If your engine uses multiple technology you may include multiple backends.
+   - Visual Studio users: Add `misc/debugger/imgui.natvis` and `misc/debugger/imgui.natstepfilter` to improve debugging experience.
+   - std::string users: Add `misc/cpp/imgui_stdlib.*` to easily use InputText with std::string.
 
 **If your application already uses the API you pulled the backends for, things should compile and link already.**
 
@@ -30,12 +42,14 @@ If you are creating a new application from scratch: while it is generally outsid
 
 ## Setting up Dear ImGui & Backends
 
+After this list we will show exact corresponding code.
+
 - (1) Add `imgui/` to include paths. Include header files for main lib (`#include "imgui.h"`) + backends (e.g. `#include "imgui_impl_win32.h"`, `#include "imgui_impl_dx11.h"`).
 - (2) Create Dear ImGui context with `ImGui::CreateContext()`.
 - (3) Optionally set configuration flags, load fonts, setup style.
 - (4) Initialize Platform and Rendering backends (e.g. `ImGui_ImplWin32_Init()` + `ImGui_ImplDX11_Init()`).
-- (5) Start of main loop: call backends' NewFrame functions + call `ImGui::NewFrame()`.
-- (6) End of main loop: call `ImGui::Render()` + call Render function of Rendering backend.
+- (5) Start of main loop: call backends' ImGui_ImplXXX_NewFrame functions + call `ImGui::NewFrame()`.
+- (6) End of main loop: call `ImGui::Render()` + call Render function of Rendering backend (e.g. `ImGui_ImplDX11_Render()`).
 - (7) Most backends requires extra steps to hook or forward events.
 - (8) Shutdown backends, destroy Dear ImGui context with `ImGui::DestroyContext()`.
 - (9) In your application input logic: you can poll `ImGui::GetIO().WantCaptureMouse`/`WantCaptureKeyboard` to tell if Dear ImGui wants to obstruct mouse/keyboard inputs from underlying apps. e.g. when hovering a window WantCaptureMouse will be set to true. One possible strategy there is to stop passing mouse events to your main application.
