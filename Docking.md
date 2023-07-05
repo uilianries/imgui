@@ -1,4 +1,4 @@
-- Initial Thread: https://github.com/ocornut/imgui/issues/2109
+- Development Thread: https://github.com/ocornut/imgui/issues/2109
 - Search Issues: https://github.com/ocornut/imgui/labels/docking
 - See: [Glossary -> Docking terms](Glossary#docking-terms).
 
