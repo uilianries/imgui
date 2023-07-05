@@ -1,5 +1,7 @@
 Welcome to the Dear ImGui wiki! Feel free to edit and contribute!
 
+New to Dear ImGui? Check out the [[getting started guide|Getting-Started]].
+
 # Index
 
 - [General](#general)
