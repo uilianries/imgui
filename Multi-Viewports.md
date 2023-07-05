@@ -1,5 +1,3 @@
-_this is a draft/skeleton article_
-
 - Development Thread: https://github.com/ocornut/imgui/issues/1542
 - Open Issues: https://github.com/ocornut/imgui/labels/multi-viewports
 - Also see: [Glossary: Multi-Viewports terms](Glossary#multi-viewports-terms).
