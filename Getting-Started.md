@@ -25,7 +25,9 @@ For various reasons, our examples are very raw: we don't load fancy fonts and ge
 
 ## Compiling/Linking
 
-- (1) Decide if you want to use `master` or [`docking`](https://github.com/ocornut/imgui/wiki/Docking) branch. Both are maintained, you can easily switch later.
+- (1) Decide which branch to pull:
+   - `master` or `docking`, the later adds support for [Docking](https://github.com/ocornut/imgui/wiki/Docking) and [Multi-viewports](https://github.com/ocornut/imgui/wiki/Multi-Viewports). 
+   - Both branches are maintained, you can easily switch anytime.
 - (2) Pull the repository into a submodule of your project, or simply download/copy the repository in yours and commit it.
 - (3) Add files to your project or build system of your choice, so they get compiled and linked into your app.
    - Add all source files in the root folder: `imgui/{*.cpp,*.h}`.
