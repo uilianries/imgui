@@ -10,6 +10,7 @@
 - [Example: If you are using SDL2 + OpenGL/WebGL](#example-if-you-are-using-sdl2--openglwebgl)
 - [Example: If you are using SDL2 + Vulkan](#example-if-you-are-using-sdl2--vulkan)
 - [Using another combination of backends?](#using-another-combination-of-backends)
+- [Additional code to enable Multi-viewports mode](#additional-code-to-enable-multi-viewports-mode)
 
 ## Preamble 
 
@@ -409,3 +410,16 @@ That should be all!
 
 The various examples above should reflect integration with a majority of backends, so you can follow the same logic.
 Some backends require more information from you (e.g. in particular Vulkan and DirectX12 rendering backends). When in doubt, refer to the corresponding [examples](https://github.com/ocornut/imgui/tree/master/examples) application.
+
+## Additional code to enable Multi-viewports mode
+
+To use the [Multi-viewports](https://github.com/ocornut/imgui/wiki/Multi-Viewports) feature, pull the `docking` branch and enable the configuration flag:
+```cpp
+io.ConfigFlags |= ImGuiConfigFlags_ViewportsEnable; 
+```
+At the end of your render loop, generally after rendering your main viewport but before presenting/swapping it:
+```cpp
+// Update and Render additional Platform Windows
+ImGui::UpdatePlatformWindows();
+ImGui::RenderPlatformWindowsDefault();
+```
