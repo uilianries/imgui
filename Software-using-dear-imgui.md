@@ -277,6 +277,7 @@ Help us complete this list!
 | App | Imogen | @CedricGuillemet | | [github](https://github.com/CedricGuillemet/Imogen)
 | App | InkyBlackness HackEd | | | [homepage](https://inkyblackness.github.io/) / [github](https://github.com/inkyblackness/hacked) / [shot](https://user-images.githubusercontent.com/1508944/43354138-a4676cc4-9246-11e8-883f-46ddde4aba25.png)
 | Misc | Inori-Prayer | | | [homepage](http://www.k2.t.u-tokyo.ac.jp/vision/WOW_TOKYO_AYABAMBI/index-e.html) 
+| Lib | Intermediate Graphics Library | | Meta | [github](https://github.com/facebook/igl)
 | Lib | IYFThreading | | | [github](https://github.com/manvis/IYFThreading) / [shot](https://raw.githubusercontent.com/wiki/manvis/IYFThreading/images/profiler.png)
 | App | JangaFX | JangaFX | | [homepage](https://jangafx.com/) / [video](https://twitter.com/JangaFX/status/1031357366711803910)
 | App | karmaMapper | Karma Kusala | | [github](https://github.com/Karma-Kusala/karmaMapper) / [shot](https://raw.githubusercontent.com/Karma-Kusala/karmaMapper/master/karmaMapper-cover-GIF.gif)
