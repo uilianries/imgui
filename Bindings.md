@@ -17,6 +17,7 @@ https://github.com/cimgui/cimgui
 
 https://github.com/dearimgui/dear_bindings
 <BR>Dear Bindings is tool to generate a C API for Dear ImGui, and metadata so other languages can easily generate their own bindings on top.
+<BR>Less battle-tested than cimgui, but can generate a C API + metadata with full comments.
 
 ----
 
