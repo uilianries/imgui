@@ -12,6 +12,7 @@
 - [Using another combination of backends?](#using-another-combination-of-backends)
 - [Additional code to enable Docking](#additional-code-to-enable-docking)
 - [Additional code to enable Multi-viewports](#additional-code-to-enable-multi-viewports)
+- [Once you are setup...](#once-you-are-setup)
 
 ## Preamble 
 
@@ -430,3 +431,10 @@ At the end of your render loop, generally after rendering your main viewport but
 ImGui::UpdatePlatformWindows();
 ImGui::RenderPlatformWindowsDefault();
 ```
+
+## Once you are setup...
+
+- Run `ImGui::ShowDemoWindow()`. Browse imgui_demo.cpp to find how things are done. 
+- You may also refer to @pthom's [interactive imgui_manual](https://pthom.github.io/imgui_manual_online/manual/imgui_manual.html) which matches the output of the demo window with corresponding source code.
+- Use [Item Picker](https://github.com/ocornut/imgui/wiki/Debug-Tools) to easily debug break into the code of a given item.
+- Read [Wiki](https://github.com/ocornut/imgui/wiki) for more.
