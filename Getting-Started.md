@@ -16,7 +16,9 @@
 
 ## Preamble 
 
-**Build and run one of the examples application, play around with it.** 
+This is a Tutorial for getting Dear ImGui integrated in your application.
+
+Before anything, **Build and run one of the examples application, play around with it.** 
 <BR>With Visual Studio, open `examples/imgui_examples.sln`. XCode projects and Makefiles are also often provided.
 <BR>You may not have all of the corresponding SDKs installed as we support many systems, but you should get some working out of the box.
 
