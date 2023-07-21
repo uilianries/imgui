@@ -4,13 +4,13 @@
 - [Rendering your game scene into a texture](#rendering-your-game-scene-into-a-texture)
 - [About filenames](#about-filenames)
 - [About ImTextureId](#about-imtextureid)
-- [Example for OpenGL users](#Example-for-OpenGL-users)
-- [Example for DirectX9 users](#Example-for-DirectX9-users)
-- [Example for DirectX11 users](#Example-for-DirectX11-users)
-- [Example for DirectX12 users](#Example-for-DirectX12-users)
-- [Example for SDL_Renderer users](#Example-for-SDL_Renderer-users)
-- [Example for Vulkan users](#Example-for-Vulkan-users)
-- [About Texture Coordinates](#About-texture-coordinates)
+- [Example for OpenGL users](#example-for-opengl-users)
+- [Example for DirectX9 users](#example-for-directx9-users)
+- [Example for DirectX11 users](#example-for-directx11-users)
+- [Example for DirectX12 users](#example-for-directx12-users)
+- [Example for SDL_Renderer users](#example-for-sdl_renderer-users)
+- [Example for Vulkan users](#example-for-vulkan-users)
+- [About Texture Coordinates](#about-texture-coordinates)
 
 ## TL;DR;
 
