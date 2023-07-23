@@ -225,6 +225,7 @@ See https://github.com/ocornut/imgui/issues/5031 for industry job offers relatin
 - 2020-02: Runtime Compiled C++ Dear ImGui and DX11 Tutorial: [blog](https://www.enkisoftware.com/devlogpost-20200202-1-Runtime-Compiled-C++-Dear-ImGui-and-DirectX11-Tutorial).
 - 2020-03: C++ Weekly - Ep 210: Getting Started With SFML & Dear ImGui [youtube](https://www.youtube.com/watch?v=av0SYeUxVMU)
 - 2020-03: C++ desktop application with Dear Imgui: [blog](https://ruurdsdevlog.wordpress.com/2020/03/07/c-desktop-application-with-dear-imgui)
+- 2020-06: A Preface to the Dear ImGUI C++ Library: [blog](https://medium.com/@jfrog.community/an-introduction-to-the-dear-imgui-c-library-918cdca75930)
 - 2020-09: A Vulkan + Dear ImGui Sandbox: [blog](https://tstullich.github.io/posts/vulkan-sandbox/)
 - 2021-01: Gamefromscratch: Dear ImGui C++ GUI Framework For AAA Games and Game Engines [youtube](https://www.youtube.com/watch?v=Du--cH01ZWI)
 - 2021-02: Introduction to the Dear ImGui C++ Library with Conan: [video](https://www.youtube.com/watch?v=O2E-W9P-jKc), [blog](https://blog.conan.io/2019/06/26/An-introduction-to-the-Dear-ImGui-library.html)
