@@ -598,6 +598,8 @@ ImGui::End();
 
 We will here use [stb_image.h](https://github.com/nothings/stb/blob/master/stb_image.h) to load images from disk.
 
+Note that since 2023/07/29, our examples Vulkan application are creating minimum-sized descriptor pools. You'll need to increase pool sizes in examples's main.cpp to fit extra descriptors.
+
 **THIS IS ONE WAY TO DO THIS AMONG MANY, and provided for informational purpose. Unfortunately due to the nature of Vulkan, it is not really possible to provide a function that will work in all setups and codebases.**
 
 Add at the top of the Vulkan example main.cpp file after the `check_vk_result()` function:
