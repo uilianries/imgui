@@ -199,6 +199,7 @@ Help us complete this list!
 | App | 8th Wall's SLAM systems | | | [blog](https://www.8thwall.com/blog/post/45697581391/building-the-next-generation-of-slam-for-the-browser) / [shot](https://user-images.githubusercontent.com/8225057/116219141-950d6180-a74b-11eb-8af3-0bf78a84a344.jpg)
 | App | alphaTerm | | | [homepage](http://www.alphaticks.io) / [shot](https://user-images.githubusercontent.com/8225057/105607011-af2a5300-5d9c-11eb-9bc8-39d3310e2192.jpg)
 | App | Apple2Emu | @allender | | [github](https://github.com/allender/apple2emu) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-280105757)
+| Engine | ANARI SDK | Khronos Group | | [github](https://github.com/KhronosGroup/ANARI-SDK/tree/main/libs/anari_viewer)
 | App | AVETO.vis | B-plus | | [homepage](https://www.b-plus.com/en/products/automotive/measurement-logging/avetorec/avetovis.html)
 | App | AXIOM Remote | | | [github](https://github.com/apertus-open-source-cinema/AXIOM-Remote)
 | App | Azure Kinect Viewer | Microsoft | | [homepage](https://docs.microsoft.com/en-us/azure/kinect-dk/azure-kinect-viewer)
