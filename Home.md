@@ -163,6 +163,7 @@ C/C++
 - Walnut: simple application framework for Vulkan and Dear ImGui apps. [github/TheCherno/Walnut](https://github.com/TheCherno/Walnut)
 - imgui-app: amalgamation of Dear ImGui and Sokol into two files [github/pplux/imgui-app](https://github.com/pplux/imgui-app)
 - imgui_application: Tiny library for making c++ imgui-based apps (web & native) [github/inobelar/imgui_application](https://github.com/inobelar/imgui_application)
+- Hello ImGui: enables quickly writing multiplatform apps with the simplicity of a "Hello World" app [github/pthom/hello_imgui](https://github.com/pthom/hello_imgui)
 - imgui_dojo: an easy setup example for imgui [github/LiuZHolmes/imgui_dojo](https://github.com/LiuZHolmes/imgui_dojo)
 - mahi-gui: Dirt Simple C++ GUI Toolkit using GLFW, glad, and ImGui [github/mahilab/mahi-gui](https://github.com/mahilab/mahi-gui)
 - sdl-bgfx-imgui-starter: A starter project for graphics applications [github/pr0g/sdl-bgfx-imgui-starter](https://github.com/pr0g/sdl-bgfx-imgui-starter)
