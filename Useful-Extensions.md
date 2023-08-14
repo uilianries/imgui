@@ -9,7 +9,7 @@ _(wiki editors: the images on this page are 500x250 pixels. please try to keep n
 - [Plotting, Graph](#plotting-graph)
 - [Curves, Animations, Gradients Editors](#curves-animations-gradients-editors)
 - [File Browsers / File Dialog](#file-browsers--file-dialog)
-- [Input Method Editors](#input-method-editors)
+- [Input Method Editors (IME)](#input-method-editors)
 - [Knobs](#knobs)
 - [Spinners](#spinners)
 - [Toggles](#toggles)
@@ -147,11 +147,14 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 **url/links**
 <BR> [gist/dougbinks](https://gist.github.com/dougbinks/ef0962ef6ebe2cadae76c4e9f0586c69#file-imguiutils-h-L228-L262)
 
-# Input Method Editors
+# Input Method Editors (IME)
 
 **DearImGui-with-IMM32**: Microsoft IME Overlay using Dear ImGui (2020)
 <BR> [github/maildrop/DearImGui-with-IMM32](https://github.com/maildrop/DearImGui-with-IMM32)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96867731-64333380-146d-11eb-9aae-14abee458f93.png)
+
+**UntitledIBusHandwriting**: A multilingual handwriting IM for IBus (2023)
+<BR> [github/MadLadSquad/UntitledIBusHandwriting](https://github.com/MadLadSquad/UntitledIBusHandwriting)
 
 # Knobs
 
