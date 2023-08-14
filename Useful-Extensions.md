@@ -9,7 +9,7 @@ _(wiki editors: the images on this page are 500x250 pixels. please try to keep n
 - [Plotting, Graph](#plotting-graph)
 - [Curves, Animations, Gradients Editors](#curves-animations-gradients-editors)
 - [File Browsers / File Dialog](#file-browsers--file-dialog)
-- [Input Method Editors (IME)](#input-method-editors)
+- [Input Method Editors (IME)](#input-method-editors-ime)
 - [Knobs](#knobs)
 - [Spinners](#spinners)
 - [Toggles](#toggles)
