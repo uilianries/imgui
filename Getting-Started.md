@@ -1,6 +1,7 @@
 ## Index
 
 - [Preamble](#preamble)
+- [Game Loop?](#game-loop)
 - [Compiling/Linking](#compilinglinking)
 - [Setting up Dear ImGui & Backends](#setting-up-dear-imgui--backends)
 - [Example: If you are using Raw Win32 API + DirectX11](#example-if-you-are-using-raw-win32-api--directx11)
@@ -27,6 +28,23 @@ The [examples/](https://github.com/ocornut/imgui/tree/master/examples) folder is
 If you have issues integrating Dear ImGui in your app, most of the time to easiest thing to do it refer to those [examples](https://github.com/ocornut/imgui/tree/master/examples).
 
 For various reasons, our examples are very raw: we don't load fancy fonts and generally the Demo window cannot read anything from the filesystem, so our examples cannot showcase the use of e.g. texture.
+
+## Game Loop?
+
+Dear ImGui comes from a game development background, where applications are expected to updating continuously at interactive framerates (e.g. 60 FPS) and where it is expected that an underlying graphics-heavy application in running and showing behind Dear ImGui. This is how our examples are generally structured. While it is technically possible to lift some of those assumptions when using Dear ImGui (e.g. going idle, using variable frame rates, having no "main viewport"), those uses cases are currently not well supported by default, requires a more intimate understanding of both the system and dear imgui, and are outside the scope of this article.
+
+A typical game-like application taking advantage of GPU rendering would run in a loop:
+```cpp
+while (application_not_closed)
+{
+   // Poll events
+   // Update application/game state
+   // Render contents into a framebuffer
+   // Swap/Present framebuffer to the screen
+   // Wait some time (e.g. 1/60 of a second)
+}
+```
+In the case of your example application, we explicitly attempt to synchronize to screen refresh when swap/present, making the application refresh at the natural screen refresh rate. A full-fledged application may use different timing mechanism to throttle framerate, but this is outside of our scope.
 
 ## Compiling/Linking
 
