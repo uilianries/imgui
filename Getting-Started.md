@@ -73,7 +73,7 @@ After this list we will show the corresponding code.
 - (2) Create Dear ImGui context with `ImGui::CreateContext()`.
 - (3) Optionally set configuration flags, load fonts, setup style.
 - (4) Initialize Platform and Rendering backends (e.g. `ImGui_ImplWin32_Init()` + `ImGui_ImplDX11_Init()`).
-- (5) Start of main loop: call backends' ImGui_ImplXXX_NewFrame functions + call `ImGui::NewFrame()`.
+- (5) Start of main loop: call backends' `ImGui_ImplXXX_NewFrame()` functions + call `ImGui::NewFrame()`.
 - (6) End of main loop: call `ImGui::Render()` + call Render function of Rendering backend (e.g. `ImGui_ImplDX11_Render()`).
 - (7) Most backends require some extra steps to hook or forward events. (e.g. calling `ImGui_ImplWin32_WndProcHandler`)
 - (8) Call backend shutdown functions and destroy Dear ImGui context with `ImGui::DestroyContext()`.
@@ -125,7 +125,7 @@ Add to your WndProc handler:
 extern IMGUI_IMPL_API LRESULT ImGui_ImplWin32_WndProcHandler(HWND hWnd, UINT msg, WPARAM wParam, LPARAM lParam);
 if (ImGui_ImplWin32_WndProcHandler(hWnd, msg, wParam, lParam))
     return true;
-(Your code process Windows messages.)
+// (Your code process Win32 messages)
 ```
 Add to Shutdown:
 ```cpp
