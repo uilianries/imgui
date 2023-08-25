@@ -201,6 +201,7 @@ Help us complete this list!
 | App | Apple2Emu | @allender | | [github](https://github.com/allender/apple2emu) / [shot](https://github.com/ocornut/imgui/issues/973#issuecomment-280105757)
 | Engine | ANARI SDK | Khronos Group | | [github](https://github.com/KhronosGroup/ANARI-SDK/tree/main/libs/anari_viewer)
 | App | AVETO.vis | B-plus | | [homepage](https://www.b-plus.com/en/products/automotive/measurement-logging/avetorec/avetovis.html)
+| App | AV Latency.com Toolkit | | | [homepage](https://avlatency.com/tools/av-latency-com-toolkit/)
 | App | AXIOM Remote | | | [github](https://github.com/apertus-open-source-cinema/AXIOM-Remote)
 | App | Azure Kinect Viewer | Microsoft | | [homepage](https://docs.microsoft.com/en-us/azure/kinect-dk/azure-kinect-viewer)
 | App | b2 | | | [homepage](https://github.com/tom-seddon/b2) / [shot](https://github.com/ocornut/imgui/issues/1269#issuecomment-340313270)
