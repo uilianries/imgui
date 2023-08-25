@@ -53,34 +53,37 @@ m_SaveItem = NULL;
 // [...] React to item being pressed
 void OnSave()
 {
-   m_Document->Save();
+    m_Document->Save();
 }
 
 // [...] Sync enable state so item can be greyed
 // IMPORTANT: Don't forget to call otherwise update menu color won't be correct!
 void UpdateSaveEnabledState()
 {
-   m_SaveItem->SetEnabled(m_Document != NULL && m_Document->m_IsDirty);
+    m_SaveItem->SetEnabled(m_Document != NULL && m_Document->m_IsDirty);
 }
 void SetDocumentDirty(bool dirty) 
 {
-   if (m_Document)
-       m_Document->m_IsDirty = dirty;
-   UpdateSaveEnabledState();
+    if (m_Document)
+         m_Document->m_IsDirty = dirty;
+    UpdateSaveEnabledState();
 }
-set SetDocument(Document* document)
+void SetDocument(Document* document)
 {
-   m_Document = document;
-   UpdateSaveEnabledState();
+    m_Document = document;
+    UpdateSaveEnabledState();
 }
 ```
 
 Typical IMGUI:
 ```cpp
 // editor.cpp
-bool is_save_allowed = (m_Document != NULL && m_Document->m_IsDirty);
-if (Lib_MenuItem("SAVE", is_save_allowed))
-    m_Document->Save();
+void UpdateUI()
+{
+    bool is_save_allowed = (m_Document != NULL && m_Document->m_IsDirty);
+    if (Lib_MenuItem("SAVE", is_save_allowed))
+        m_Document->Save();
+}
 ```
 
 This is a simple and perhaps exaggerated example provided to get a better intuition about the difference of IMGUI vs RMGUI. There are lots of things to say and criticize about this example. It tends to illustrates the shortcoming of RMGUIs more than it illustrates the shortcomings of IMGUIs. But it should illustrate the core benefit that IMGUIs **tends to facilitate data binding, action binding, and creation/destruction of UI components**. It does facilitate those things because it generally doesn't need them.
