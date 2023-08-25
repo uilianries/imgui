@@ -254,6 +254,7 @@ Help us complete this list!
 | Engine | GeeXLab | | | [homepage](http://www.geeks3d.com/geexlab/)
 | App | Geocod/Geogram | Loria | | [homepage](http://homepages.loria.fr/BLevy/GEOGRAM) / [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-249678740) / [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-270942101) |
 | App | Geo::Math | brbl | | [homepage](https://brbl.itch.io/geomath)
+| App | git-whale | | | [homepage](https://www.jsr-productions.com/git-whale.html) / [shot](https://user-images.githubusercontent.com/55633089/232242767-c1b5535a-fb61-47b6-8e8e-dd7b89ce1232.jpg)
 | App | glChAoS.P | @BrutPitt | | [homepage](https://www.michelemorrone.eu/glchaosp/) / [shots](https://www.michelemorrone.eu/glchaosp/screenshots.html)  
 | App | Glimpse | | | [github](https://github.com/glimpse-project/glimpse) / [shot](https://raw.githubusercontent.com/wiki/glimpse-project/glimpse/images/screenshot-2017-12-07.png)
 | App | GlslOptimizerV2 | @Aiekick | | [github](https://github.com/aiekick/GlslOptimizerV2)
@@ -422,4 +423,3 @@ Help us complete this list!
 | Plugin | XSquawkBox 2.0 | | | [homepage](http://xsb.xsquawkbox.net/) / [shot](http://xsb.xsquawkbox.net/wp-content/uploads/sites/6/2018/03/XSB-NewUI-WIP.png) / [github](https://github.com/kuroneko/xsb_public/) |
 | Engine | XT | | | [github](https://github.com/invghost/XT) |
 | Misc | Zep | | | [github](https://github.com/cmaughan/zep) |
-| App | git-whale | | | [homepage](https://www.jsr-productions.com/git-whale.html) / [shot](https://user-images.githubusercontent.com/55633089/232242767-c1b5535a-fb61-47b6-8e8e-dd7b89ce1232.jpg)
