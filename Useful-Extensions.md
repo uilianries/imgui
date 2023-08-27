@@ -25,6 +25,7 @@ _(wiki editors: the images on this page are 500x250 pixels. please try to keep n
 - [3D manipulation Gizmos](#3d-manipulation-gizmos)
 - [Inspectors, Serialization](#inspectors-serialization)
 - [C++ness](#cness)
+- [Unreal Engine specific](#unreal-engine-specific)
 - [Miscellaneous](#miscellaneous)
 - [Third Party Repos](#third-party-repos)
 
@@ -344,6 +345,14 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 **imguiwrap**: CMake wrapper for imgui and C++17+ based RAII bindings, and helpers for bootstrapping simple projects.
 <BR> [github/kfsone/imguiwrap](https://github.com/kfsone/imguiwrap)
 
+# Unreal Engine specific
+
+**PropertyWatcher**: A runtime variable watch window for Unreal Engine using ImGui (2023)
+<BR> [github/guitarfreak/PropertyWatcher](https://github.com/guitarfreak/PropertyWatcher)
+<BR> ![image](https://github.com/ocornut/imgui/assets/8225057/c6615d7d-c76f-4a9d-b169-c4e8cfce3cf7)
+
+**UnrealNetImgui**: Unreal Engine 4's support of NetImgui. (2020-2022)
+<BR> [github/sammyfreg/UnrealNetImgui](https://github.com/sammyfreg/UnrealNetImgui)
 
 # Miscellaneous
 
