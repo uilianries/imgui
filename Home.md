@@ -44,7 +44,7 @@ New to Dear ImGui? Check out the [[Getting Started guide|Getting-Started]].
 - **[[Getting Started|Getting-Started]]**
 - [[Glossary|Glossary]]
 - [[Software using Dear ImGui|Software-using-dear-imgui]]
-- [[Sponsors|Sponsors\\
+- [[Sponsors|Sponsors]]
 - [[User quotes|Quotes]]
 - [[Upcoming changes|Upcoming-changes]] (~roadmap)
 - [[Tips|Tips]] (for people working _with_ dear imgui)
