@@ -12,7 +12,6 @@ New to Dear ImGui? Check out the [[Getting Started guide|Getting-Started]].
   - **[Platform and Rendering Backends](#platform-and-rendering-backends)**
   - **[Third-Party Extensions](#third-party-extensions)**
   - **[Testing / Automation](#testing--automation)**
-  - [Gallery](#gallery)
   - [Notable branches](#notable-branches)
 - [Features](#features)
   - [Debug Tools](#debug-tools)
@@ -50,13 +49,13 @@ New to Dear ImGui? Check out the [[Getting Started guide|Getting-Started]].
 - [[Tips|Tips]] (for people working _with_ dear imgui)
 - [[Developer tips|Developer-Tips]] (for people working _on_ dear imgui)
 - [Releases / Changelogs](https://github.com/ocornut/imgui/releases) with annotations and pictures.
-- Interactive/web [imgui_manual](https://pthom.github.io/imgui_manual_online/manual/imgui_manual.html) by @pthom
 
 ### Community
 
 - [Github Issues](https://github.com/ocornut/imgui/issues): for feature requests, bug reports, feedback, code snippets, etc. Searching there is recommended as many topics have been discussed and referenced already! Also see [Labels](https://github.com/ocornut/imgui/labels) for categorized issues.
 - [How to open an Issue or Pull Request #2261](https://github.com/ocornut/imgui/issues/2261)
 - [[Help wanted|Help-wanted]]
+- [Gallery threads](https://github.com/ocornut/imgui/issues/6478) / [Gallery Label](https://github.com/ocornut/imgui/labels/gallery): Post your screenshots / code here
 
 ### Demo, Examples
 
@@ -76,18 +75,17 @@ New to Dear ImGui? Check out the [[Getting Started guide|Getting-Started]].
 - [About Backends](https://github.com/ocornut/imgui/blob/master/docs/BACKENDS.md) (docs/BACKENDS.md)
 - The [backends/](https://github.com/ocornut/imgui/tree/master/backends) folder contains 18 reusable backends for varieties of platforms and frameworks.
 
-### Third-party extensions
+### Extensions
 
-- [[List of useful third-party extensions/widgets|Useful-Extensions]] (text editors, node editors, plotting/graphing, curves/animations/gradients editors, knobs, spinners, remoting, 3d gizmos and many more!)
+- [[List of useful third-party extensions/widgets|Useful-Extensions]]: Text editors, node editors, plotting/graphing, curves/animations/gradients editors, file dialogs, knobs, spinners, toggles, layout, remoting, 3d gizmos, inspectors, and many more!
+
+![96738879-79ea1f80-13bf-11eb-8e96-97f4acc8b79d](https://github.com/ocornut/imgui/assets/8225057/1d748e24-9eb2-47d6-bdae-179da0452923)
 
 ### Testing / Automation
 
-- See [imgui_test_engine](https://github.com/ocornut/imgui_test_engine): Dear ImGui Test Engine + Dear ImGui Test Suite
+- [Dear ImGui Test Engine + Dear ImGui Test Suite](https://github.com/ocornut/imgui_test_engine)
 
-### Gallery
-
-- [Gallery #6478](https://github.com/ocornut/imgui/issues/6478) Post your screenshots / code here
-- [[Useful extensions/widgets gallery|Useful-extensions]]
+![203781606-6a544fed-1696-49ab-ba2f-12786d6871b0](https://github.com/ocornut/imgui/assets/8225057/51f02d3c-8654-4fae-9c25-534df6d24190)
 
 ### Notable branches
 
