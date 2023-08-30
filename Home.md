@@ -75,7 +75,7 @@ New to Dear ImGui? Check out the [[Getting Started guide|Getting-Started]].
 - [About Backends](https://github.com/ocornut/imgui/blob/master/docs/BACKENDS.md) (docs/BACKENDS.md)
 - The [backends/](https://github.com/ocornut/imgui/tree/master/backends) folder contains 18 reusable backends for varieties of platforms and frameworks.
 
-### Extensions
+### Third-Party Extensions
 
 - [[List of useful third-party extensions/widgets|Useful-Extensions]]: Text editors, node editors, plotting/graphing, curves/animations/gradients editors, file dialogs, knobs, spinners, toggles, layout, remoting, 3d gizmos, inspectors, and many more!
 
