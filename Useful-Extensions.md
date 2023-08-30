@@ -67,7 +67,7 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 
 # Plotting, Graph
 
-**ImPlot**: Advanced 2D Plotting for Dear ImGui (2020-2022)
+**ImPlot**: Advanced 2D Plotting for Dear ImGui (2020-2023)
 <BR> [github/epezent/implot](https://github.com/epezent/implot)
 <BR> ![](https://user-images.githubusercontent.com/1193295/96738879-79ea1f80-13bf-11eb-8e96-97f4acc8b79d.png)
 
@@ -163,7 +163,7 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 <BR> [github/DGriffin91/imgui-rs-knobs](https://github.com/DGriffin91/imgui-rs-knobs)
 <BR> ![](https://user-images.githubusercontent.com/8225057/165107365-b1ee845e-a858-405d-85e9-f892a7f4545e.png)
 
-**imgui-knobs**: This is a port/adaptation of imgui-rs-knobs (2022)
+**imgui-knobs**: This is a port/adaptation of imgui-rs-knobs (2022-2023)
 <BR> ![image](https://user-images.githubusercontent.com/8225057/165107682-88d91eec-387b-493c-859b-17fcfa5b14ba.png)
 <BR> [github/altschuler/imgui-knobs](https://github.com/altschuler/imgui-knobs)
 
@@ -173,7 +173,7 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 
 # Spinners
 
-**imspinner**: Set of nice spinners for imgui (2022)
+**imspinner**: Set of nice spinners for imgui (2022-2023)
 <BR> [github/dalerank/imspinner](https://github.com/dalerank/imspinner) / [issue #5421](https://github.com/ocornut/imgui/issues/5421)
 <BR> ![](https://user-images.githubusercontent.com/8225057/176230882-2261909d-63a6-446d-9c2d-78023e932aa2.png)
 
