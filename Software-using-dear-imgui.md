@@ -68,6 +68,7 @@ Help us complete this list!
 | Game | Dual Universe | Novaquark | | [homepage](https://www.dualthegame.com) / [video](https://www.youtube.com/watch?v=WTvT4BAg7RI) |
 | Game | Dungeons of Everchange | Dark Gnosis | | [homepage](http://www.darkgnosis.com/game/dungeons-of-everchange/) / [shots](https://github.com/ocornut/imgui/issues/1607#issuecomment-387039874) |
 | Game | Earthblade | Extremely OK Games | | [shot](https://user-images.githubusercontent.com/8225057/179963524-c42cbee7-7b95-4882-9fe3-def07de0b8e4.jpg)
+| Game | Egglien | Penguin Pop Games | | [homepage](https://www.penguinpop.com/egglien/)
 | Game | Elite Dangerous | Frontier | | [homepage](https://www.elitedangerous.com)
 | Game | Endless Fables 3: Dark Moor | Sunward Games | | [steam](https://store.steampowered.com/app/867050/Endless_Fables_3_Dark_Moor/)
 | Game | Erica | Flavourworks | | [ps store](https://store.playstation.com/fr-fr/product/EP9000-CUSA11882_00-ERICA00000000000) / [credits](https://www.mobygames.com/game/playstation-4/erica/credits)
