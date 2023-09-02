@@ -131,6 +131,7 @@ Help us complete this list!
 | Game | Pioneer Space Sim | | | [homepage](https://pioneerspacesim.net/) / [github](https://github.com/pioneerspacesim/pioneer)
 | Game | Pirate Power | **Godzilab** | Sponsor | [app store](https://itunes.apple.com/us/app/pirate-power/id605057245) / [android](https://play.google.com/store/apps/details?id=com.godzilab.happypirate&hl=en)
 | Game | Planet Coaster: Console Edition | Frontier | | [homepage](https://console.planetcoaster.com)
+| Game | Planet Zoo | Frontier | | [homepage](https://www.planetzoogame.com/)
 | Game | Pokémon Legends: Arceus | Game Freak | | [homepage](https://legends.pokemon.com/en-us/)
 | Game | Pokémon: Let's Go, Pikachu! / Eevee! | Game Freak | | [homepage](https://pokemonletsgo.pokemon.com/) / [shot 1](https://user-images.githubusercontent.com/8225057/51388476-d274f480-1b29-11e9-9573-f5986f3833dc.jpg) [2](https://user-images.githubusercontent.com/8225057/51388479-d4d74e80-1b29-11e9-8368-8ccbc09b6f25.jpg)
 | Game | Pokémon Sword and Shield | Game Freak | | [shots](https://github.com/ocornut/imgui/issues/3488#issuecomment-714048146)
