@@ -26,6 +26,7 @@ Help us complete this list!
 | Game | A Plague Tale: Requiem | **Asobo** | Sponsor | [homepage](https://www.focus-entmt.com/en/games/a-plague-tale-requiem)
 | Game | American Truck Simulator | | | [steam](https://store.steampowered.com/app/270880/American_Truck_Simulator/)
 | Game | Arcane Worlds | Ranmantaru Games | | [steam](http://steamcommunity.com/app/269610) / [patch note](http://steamcommunity.com/app/269610/discussions/0/357288572127498771)
+[ Game | Art of the Rail | RocketWerkz | | [steam](https://store.steampowered.com/app/1286190/Art_of_the_Rail)
 | Game | Assassin's Creed Odyssey | **Ubisoft** | Sponsor | [blog](https://montreal.ubisoft.com/en/ubisoft-sponsors-user-interface-library-for-c-dear-imgui/)
 | Game | Assassin's Creed Origins | **Ubisoft** | Sponsor | [blog](https://montreal.ubisoft.com/en/ubisoft-sponsors-user-interface-library-for-c-dear-imgui/)
 | Game | Assassin's Creed Valhalla | **Ubisoft** | Sponsor | [blog](https://montreal.ubisoft.com/en/ubisoft-sponsors-user-interface-library-for-c-dear-imgui/)
