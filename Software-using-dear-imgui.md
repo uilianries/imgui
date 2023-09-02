@@ -224,6 +224,7 @@ Help us complete this list!
 | App | Cafe-Shader-Studio | | | [github](https://github.com/KillzXGaming/Cafe-Shader-Studio) / [shot](https://user-images.githubusercontent.com/8225057/118979693-04f0bf80-b979-11eb-9244-bb3268210571.png)
 | App | Cheevos Hunter | @leiradel | | [github](https://github.com/leiradel/CheevosHunter) / [shot](https://raw.githubusercontent.com/leiradel/CheevosHunter/master/ch.png)
 | Misc | Cinder-Experiments | @simongeilfus | | [github](https://github.com/simongeilfus/Cinder-Experiments)
+| App | Cisco Modelling Labs | Cisco | |
 | App | Clavicula | | | [homepage](https://clavicula.link/)
 | App | clownmdemu-frontend | @clownacy | | [github](https://github.com/clownacy/clownmdemu-frontend) / [shot](https://raw.githubusercontent.com/Clownacy/clownmdemu-frontend/712b4744f78ec0ebd903feed49cdca509531e1bb/screenshot-debug.png)
 | App | CortexRecognition | **Recognition Robotics** | Sponsor | [homepage](http://www.recognitionrobotics.com) / [shots](https://github.com/ocornut/imgui/issues/123#issuecomment-114941904) / [photos](https://github.com/ocornut/imgui/issues/973#issuecomment-303784406)
