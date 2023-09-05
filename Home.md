@@ -237,6 +237,7 @@ See https://github.com/ocornut/imgui/issues/5031 for industry job offers relatin
 - 2022-04: Make your own GUI apps in C++ (with Dear ImGui and Vulkan) [video](https://www.youtube.com/watch?v=5zS-DZhCA2g)
 - 2022-05: Dear ImGui in Unreal Engine 5 with C++ [video](https://www.youtube.com/watch?v=qyO38jX5RU8) + [followup](https://www.youtube.com/watch?v=oS1vLHA3_jw)
 - 2023-02: Dear ImGui for Unity - easiest GUI menus and bars [video](https://www.youtube.com/watch?v=i9yjuJC11zU)
+- 2023-09: Leveraging Dear ImGui in Unreal: [blog](https://sharundaar.github.io/leveraging-dearimgui-in-unreal.html)
 
 **Korean**
 - 2018-01: GLFW 사용 방법 정리 (Windows 10, VS2017) [3dshovel.blogspot.com](https://3dshovel.blogspot.com/2018/01/glfw-windows-10-visual-studio-2017.html)
