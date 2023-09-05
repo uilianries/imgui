@@ -1,4 +1,4 @@
-Last updated 2022/12.
+Last updated 2023/08.
 This is a higher-level list of intent. Refer to [Issues](https://github.com/ocornut/imgui/issues) and TODO.txt for a more detailed list.
 
 ## Viewport
@@ -9,11 +9,15 @@ This is a higher-level list of intent. Refer to [Issues](https://github.com/ocor
 
 - Better DPI support (current solution is for user to load font + scale style according to DPI). ([#1676](https://github.com/ocornut/imgui/issues/1676))
 
+## Multi-Select
+
+- Finish/public multi-selection API (1.90?), to support Shift+Click, Shift+Arrow, etc. with large clipped sets + advanced demos.
+
 ## Navigation, Controls
 
 - Improve gamepad and keyboard controls. ([#787](https://github.com/ocornut/imgui/issues/787))
-- Inputs: Input ownership and routing system (pushed to imgui_internal on 2022/12).
-- Shortcuts: menus/global-style shortcuts (internal proof-of-concept ready 2022/12)
+- Inputs: Promote ownership and routing system to public API.
+- Shortcuts: Promote shortcut system to public API (+ finish proof-of-concept for shortcuts in hidden menus).
 - Shortcuts: alt-style local shortcuts.
 - Menus: once menus are able to handle their shortcuts (aka recursing in non-visible menus) we could envision Mac-style menu searching.
 
@@ -39,8 +43,4 @@ This is a higher-level list of intent. Refer to [Issues](https://github.com/ocor
 
 ## Automation, Tests
 
-- Improve the [Dear ImGui Test Engine](https://github.com/ocornut/imgui_test_engine).
-
-## Misc
-
-- Selection: Finish/merge range-selection/multi-selection API (1.90?), to support Shift+Click, Shift+Arrow, etc. with clipping.
+- Continued work on [Dear ImGui Test Engine](https://github.com/ocornut/imgui_test_engine) and Dear ImGui Test Suite.
