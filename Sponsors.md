@@ -37,6 +37,7 @@ Individuals: support continued development and maintenance [here](https://www.pa
 
 **Salty-caramel sponsors**
 - [Wonderland Engine](https://wonderlandengine.com/)
+- [Terrible Toybox](https://terribletoybox.com/)
 - [Tuxedo Labs](https://www.tuxedolabs.com/)
 - Dotemu
 - Framefield
