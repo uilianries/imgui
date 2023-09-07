@@ -238,7 +238,7 @@ Help us complete this list!
 | App | DefleMask | Leonardo Demartino | | [homepage](http://www.deflemask.com/) / [appstore](https://itunes.apple.com/app/deflemask/id1390797126) / [playstore](https://play.google.com/store/apps/details?id=com.deflemask.mobile)
 | App | Desktop+ OpenVR Overlay | @elvissteinjr | | [github](https://github.com/elvissteinjr/DesktopPlus) / [shot](https://raw.githubusercontent.com/elvissteinjr/DesktopPlus/master/docs/screenshot.jpg)
 | Engine | DiligentEngine | | | [github](https://github.com/DiligentGraphics/DiligentEngine)
-| Engine | Directus3D | @PanosK92 | | [github](https://github.com/PanosK92/Directus3D) / [shot](https://raw.githubusercontent.com/PanosK92/Directus3D/master/Assets/screenshot-v0.3_preview2.jpg)
+| Engine | Spartan Engine | @PanosK92 | | [github](https://github.com/PanosK92/SpartanEngine) / [shot](https://raw.githubusercontent.com/anosK92/SpartanEngine/blob/master/.github/images/screenshot-v0.3_preview4.jpg)
 | Plugins | KXStudio / DISTRHO Ildaeil | | | [github](https://github.com/DISTRHO/Ildaeil/tree/v1.0#screenshots)
 | App | Duckstation | | | [github](https://github.com/stenzek/duckstation)
 | App | Dolphin Emulator | | | [homepage](https://dolphin-emu.org) / [patch note](https://dolphin-emu.org/blog/2019/02/01/dolphin-progress-report-dec-2018-and-jan-2019/)
