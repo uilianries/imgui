@@ -1,5 +1,15 @@
 (work in progress) Also see [[Tips]].
 
+## Index
+- [Debug Configuration Flags](#debug-configuration-flags)
+- [Metrics/Debugger window](#metricsdebugger-window)
+- [Debug Log](#debug-log)
+- [Stack Tool](#stack-tool)
+- [Item Picker](#item-picker)
+- [UTF-8 Encoding Viewer](utf-8-encoding-viewer)
+
+----
+
 ### Debug Configuration Flags
 
 ![Debug configuration flags](https://github.com/ocornut/imgui/assets/8225057/031b9f5a-372d-46da-b5cf-17549e95f994)
@@ -68,3 +78,16 @@ The Item Picker will allow you to pick an item with the mouse and have Dear ImGu
 You can find it in _Metrics>Tools>Item Picker_. Also see [#2673](https://github.com/ocornut/imgui/issues/2673).
 
 ![Item Picker](https://user-images.githubusercontent.com/8225057/61412736-7d2e5b80-a89e-11e9-9bb3-54c097025abe.png)
+
+### UTF-8 Encoding Viewer
+
+See https://github.com/ocornut/imgui/blob/master/docs/FONTS.md#about-utf-8-encoding
+
+```cpp
+ImGui::SeparatorText("CORRECT");
+ImGui::DebugTextEncoding(u8"こんにちは");
+
+ImGui::SeparatorText("INCORRECT");
+ImGui::DebugTextEncoding("こんにちは");
+```
+![UTF-8 Encoding viewer](https://github.com/ocornut/imgui/assets/8225057/61c1696a-9a94-46c5-9627-cf91211111f0)
