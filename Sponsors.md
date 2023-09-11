@@ -23,13 +23,14 @@ Individuals: support continued development and maintenance [here](https://www.pa
 - Ubisoft
 
 **Chocolate sponsors**
-- [Aras Pranckevičius](https://aras-p.info)
 - [Asobo Studio](https://www.asobostudio.com/)
+- [BeamNG](https://www.beamng.com/game/)
 - [G3Dvu]()
 - [Planestate Software](http://www.plane9.com)
 - [Pocketwatch Games](https://pocketwatchgames.com)
 - Activision
 - Adobe
+- Aras Pranckevičius
 - Arkane Studios
 - Epic
 - Google
