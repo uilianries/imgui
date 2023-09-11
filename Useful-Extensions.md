@@ -124,7 +124,7 @@ Many more Node Editors at [#306](https://github.com/ocornut/imgui/issues/306).
 <BR> ![](https://user-images.githubusercontent.com/1434736/139579841-975a72de-c70c-4132-a3e3-20dd564d858f.png)
 
 **OverShifted's Directory tree view**: (2020)
-<BR> [thread](https://github.com/ocornut/imgui/issues/3384) / [gist](https://github.com/ocornut/imgui/issues/3384)
+<BR> [thread](https://github.com/ocornut/imgui/issues/3384) / [gist](https://gist.github.com/OverShifted/13aec504dfe376dcc2171e8b7451c5b5)
 
 **AirGuanZ's imgui-filebrowser**
 <BR> [github/AirGuanZ-imgui-filebrowser](https://github.com/AirGuanZ/imgui-filebrowser)
