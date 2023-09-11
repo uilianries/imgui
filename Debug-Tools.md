@@ -2,6 +2,8 @@
 
 ### Debug Configuration Flags
 
+![Debug configuration flags](https://github.com/ocornut/imgui/assets/8225057/031b9f5a-372d-46da-b5cf-17549e95f994)
+
 Runtime flags available in `ImGuiIO` (and exposed in Demo->Configuration):
 ```cpp
 // Tools to test correct Begin/End and BeginChild/EndChild behaviors.
@@ -20,13 +22,11 @@ bool ConfigDebugIgnoreFocusLoss;      // Ignore io.AddFocusEvent(false), consequ
 bool ConfigDebugIniSettings;          // Save .ini data with extra comments (particularly helpful for Docking, but makes saving slower)
 ```
 
-
 ### Metrics/Debugger window
 
-Many internal state and tools are exposed in the Metrics window. To access the Metrics window:
-- Call `ShowMetricsWindow()`.
-- Or from the Demo window you can find it in the Tools menu.
-They will help you understand how Dear ImGui works, and can help you diagnose problems.
+Access the Metrics/Debugger window via `Demo->Tools->Metrics/Debugger` or by calling `ShowMetricsWindow()` from your code.
+
+Many internal state and tools are exposed in the Metrics window. They will help you understand how Dear ImGui works, and can help you diagnose many problems.
 
 ![Metrics](https://user-images.githubusercontent.com/8225057/191290900-87c7f347-d459-4192-8894-689c11b44e65.png)
 
@@ -37,9 +37,22 @@ _Some of the debug tools_
 
 ### Debug Log
 
-https://github.com/ocornut/imgui/issues/5855
+Access the Debug Log window via `Demo->Tools->Debug Log` or `Metrics->Tools->Debug Log` or by calling `ShowDebugLogWindow()`. Also see [#5855](https://github.com/ocornut/imgui/issues/5855).
+
+It has options to enable logging of variety of events.
+Useful e.g.:
+- You have issue with focus or active id being taken away.
+- You have issue with popup closing.
+- You have issue with windows being undocked.
+- You want to visualize submitted input events.
+- You want to visualize clipper steps etc.
+- etc.
 
 ![Debug Log](https://user-images.githubusercontent.com/8225057/191291345-9bf5fae2-ff0f-462a-af4c-d85aaaf36318.png)
+
+Inside the log, if you hover an ImGuiID identifier (formatted as `0xXXXXXXXX`) it will automatically attempt to visually locate the item if the item still exists:
+
+![image](https://user-images.githubusercontent.com/8225057/200007998-4d3066c5-50d5-4168-aeaa-2c9d514dc122.png)
 
 ### Stack Tool
 
