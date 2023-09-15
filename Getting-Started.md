@@ -18,6 +18,7 @@
 ## Preamble 
 
 This is a Tutorial for getting Dear ImGui integrated in your application.
+<BR>Also refer to our [FAQ](https://github.com/ocornut/imgui/blob/master/docs/FAQ.md) and others [Wiki](https://github.com/ocornut/imgui/wiki) pages.
 
 Before anything, **Build and run one of the examples application, play around with it.** 
 <BR>With Visual Studio, open `examples/imgui_examples.sln`. XCode projects and Makefiles are also often provided.
