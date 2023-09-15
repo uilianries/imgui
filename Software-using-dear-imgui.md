@@ -97,6 +97,7 @@ Help us complete this list!
 | Game | Hearts of Iron IV | Paradox Interactive | | [homepage](https://www.heartsofiron4.com) / [blog](https://devtrackers.gg/heartsofiron/p/67fbd64f-dev-diary-a-tech-lead-s-life)
 | Game | Hellbreaker | Enhex | | [homepage](https://enhex.itch.io/hellbreaker) / [shot](https://img.itch.zone/aW1hZ2UvMTY5MjQ4Lzg2MTI5NC5qcGc=/original/1InRJS.jpg)
 | Game | Hexterminate | | | [homepage](https://www.pedro-nunes.net/hexterminate/)
+| Game | Hogs of War Lardcore | | | [homepage](https://www.hogsofwar.org/lardcore) / [video](https://www.youtube.com/watch?v=WPbHhDVaT74&t=126s)
 | Game | Homescapes | Playrix | | [video](https://www.youtube.com/watch?v=siGNaiytfRo&t=77s)
 | Game | Hyper Scape | **Ubisoft** | Sponsor | [blog](https://montreal.ubisoft.com/en/ubisoft-sponsors-user-interface-library-for-c-dear-imgui/) / [video](https://www.youtube.com/watch?v=Q9gBfhZWQ6E)
 | Game | Indivisible | Lab Zero Games | | [homepage](http://www.indivisiblegame.com/)
