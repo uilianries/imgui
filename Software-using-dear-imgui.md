@@ -368,6 +368,7 @@ Help us complete this list!
 | App | RemedyBG | | | [homepage](https://remedybg.itch.io/remedybg)
 | App | ReShade | | | [homepage](http://reshade.me) / [github](https://github.com/crosire/reshade)
 | Demo | Rise and Shine | Aberration Creations | | [homepage](http://www.pouet.net/prod.php?which=68178) / [shot](https://user-images.githubusercontent.com/8225057/37464207-f1ec0a8a-2857-11e8-9f84-bbc4eede53ba.jpg)
+| App | RoboForm Revolutions | Machina Labs | | [video](https://www.youtube.com/watch?v=dCXu8Ju_fdY&t=400s)
 | App | R&S WinIQSIM2 | Rohde & Schwarz | | [web](https://www.rohde-schwarz.com/fr/produits/test-et-mesure/logiciel-de-generation-de-signaux/rs-winiqsim2_63493-7614.html)
 | App | SatDump | Aang23 | | [github](https://github.com/altillimity/satdump)
 | App | ScalaPixel | | | [github](https://github.com/lapinozz/ScalaPixel) / [shot](https://github.com/ocornut/imgui/issues/772#issuecomment-248404445) / [shot](https://user-images.githubusercontent.com/8225057/37464208-f201c8ac-2857-11e8-97be-66010be9e7be.jpg)
