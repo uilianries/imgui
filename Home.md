@@ -145,7 +145,7 @@ New to Dear ImGui? Check out the [[Getting Started guide|Getting-Started]].
 - [#3027](https://github.com/ocornut/imgui/pull/3027) Add CMake configuration (PR) by @Qix- (need feedback)
 - [rokups' cmake](https://gist.github.com/rokups/f771217b2d530d170db5cb1e08e9a8f4) Self-contained single-file cmake build script
 - Premake5 https://github.com/ocornut/imgui/tree/features/premake5 (unmerged branch)
-- Conan [github/bincrafters/conan-imgui](https://github.com/bincrafters/conan-imgui), [bintray/bincrafters/public-conan](https://bintray.com/bincrafters/public-conan/imgui%3Abincrafters)
+- Conan [github/conan-center-index/conan-imgui](https://github.com/conan-io/conan-center-index/tree/master/recipes/imgui), [conan-center](https://conan.io/center/recipes/imgui)
 - Fips (fips-imgui): fipsified imgui for fips build system [github/fungos/fips-imgui](https://github.com/fungos/fips-imgui)
 - GN (Chromium, ninja) BUILD.gn file: [github/ndsol/VolcanoSamples](https://github.com/ndsol/VolcanoSamples/blob/master/src/BUILD.gn)
 
@@ -278,7 +278,7 @@ See https://github.com/ocornut/imgui/issues/5031 for industry job offers relatin
 - 2022-05: Como Criar Interfaces Gráficas com Dear ImGui e SFML [video](https://www.youtube.com/watch?v=XmiEkoqodcg)
 
 **Polish**
-- 2018-01: Szkolenie z biblioteki dear imgui [Video Part 1](https://www.youtube.com/watch?v=TOop9EGngKY) [2](https://www.youtube.com/watch?v=fh6uOdherYw) [3](https://www.youtube.com/watch?v=bF2eOvsX7kY) [4](https://www.youtube.com/watch?v=rcCReEX6h-M) [5](https://www.youtube.com/watch?v=N2Jan6IizbA) [6](https://www.youtube.com/watch?v=70A0YH9h3Ek) [7](https://www.youtube.com/watch?v=0JRaThBx9Ww) [8](https://www.youtube.com/watch?v=O7PVZ6OKDtI) [9](https://www.youtube.com/watch?v=uIp7tLqFzKo), [Slide](https://docs.google.com/presentation/d/1F3jkWkRGCNrCAKi34KXvrkZ9luhS_7RUwHwdYDTFEiY/preview#slide=id.p) 
+- 2018-01: Szkolenie z biblioteki dear imgui [Video Part 1](https://www.youtube.com/watch?v=TOop9EGngKY) [2](https://www.youtube.com/watch?v=fh6uOdherYw) [3](https://www.youtube.com/watch?v=bF2eOvsX7kY) [4](https://www.youtube.com/watch?v=rcCReEX6h-M) [5](https://www.youtube.com/watch?v=N2Jan6IizbA) [6](https://www.youtube.com/watch?v=70A0YH9h3Ek) [7](https://www.youtube.com/watch?v=0JRaThBx9Ww) [8](https://www.youtube.com/watch?v=O7PVZ6OKDtI) [9](https://www.youtube.com/watch?v=uIp7tLqFzKo), [Slide](https://docs.google.com/presentation/d/1F3jkWkRGCNrCAKi34KXvrkZ9luhS_7RUwHwdYDTFEiY/preview#slide=id.p)
 - 2021-02: Dear ImGui: pragmatyczne podejście do programowania interfejsów użytkownika [programista mag](https://programistamag-pl.translate.goog/programista-1-2021-95/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=pl&_x_tr_pto=wapp)
 
 ### About the IMGUI paradigm
@@ -289,7 +289,7 @@ Dear ImGui is one possible implementation of an idea generally described as the 
 - [A presentation by Rickard Gustafsson and Johannes Algelind](http://www.cse.chalmers.se/edu/year/2011/course/TDA361/Advanced%20Computer%20Graphics/IMGUI.pdf), 2011.
 - [Jari Komppa's tutorial on building an IMGUI library](http://iki.fi/sol/imgui/), @jarikomppa, 2006.
 - [Casey Muratori's original video that popularized the concept](https://mollyrocket.com/861), 2005.
-  - [First notable post by Casey on 2005-07-05](https://web.archive.org/web/20070824213736/http://www.mollyrocket.com/forums/viewtopic.php?t=134&start=0&sid=cb913629aa8310947c0476848a8824dd). 
+  - [First notable post by Casey on 2005-07-05](https://web.archive.org/web/20070824213736/http://www.mollyrocket.com/forums/viewtopic.php?t=134&start=0&sid=cb913629aa8310947c0476848a8824dd).
   - [2007 Mirror of Molly Rocket's IMGUI forums](https://web.archive.org/web/20070824203105/http://www.mollyrocket.com/forums/viewforum.php?f=10&sid=9680eeedbe87034741d936cbfe319f57) (with posts).
   - [2013 Mirror of Molly Rocket's IMGUI forums](https://web.archive.org/web/20131221233224/http://mollyrocket.com/forums/viewforum.php?f=10&sid=b7ce0b0de4493f63edd88d13c99501a9) (index only, missing posts).
 - [Sean Barrett's article in Game Developer Magazine](https://archive.org/details/GDM_September_2005) (Page 34), September 2005.
